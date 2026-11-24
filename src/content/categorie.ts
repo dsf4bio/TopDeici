@@ -1,0 +1,141 @@
+import type { Category, SpecField } from "@/lib/types";
+
+// Elenco delle categorie. Per aggiungerne una basta una riga in più:
+// slug (diventa l'URL), nome, descrizione breve e caratteristiche da confrontare
+// nel formato "chiave:Etichetta:unità", separate da "|".
+
+function specs(definition: string): SpecField[] {
+  return definition.split("|").map((part) => {
+    const [key = "", label = "", unit] = part.split(":");
+    return unit ? { key, label, unit } : { key, label };
+  });
+}
+
+type Row = [slug: string, name: string, summary: string, specs: string];
+
+const TABLE: Record<string, Row[]> = {
+  tecnologia: [
+    ["smartphone", "Smartphone", "I telefoni più apprezzati per fotocamera, autonomia e aggiornamenti software, dalla fascia media ai top di gamma.", "display:Display:pollici|memoria:Memoria:GB|batteria:Batteria:mAh|aggiornamenti:Aggiornamenti garantiti:anni"],
+    ["cuffie-wireless", "Cuffie wireless", "Cuffie over-ear e on-ear senza fili, con o senza cancellazione attiva del rumore, per viaggio, ufficio e casa.", "anc:Cancellazione rumore|autonomia:Autonomia:h|codec:Codec|peso:Peso:g"],
+    ["auricolari-bluetooth", "Auricolari Bluetooth", "Auricolari true wireless per musica, chiamate e sport, confrontati su isolamento, microfoni e durata della batteria.", "anc:Cancellazione rumore|autonomia:Autonomia con custodia:h|resistenza:Resistenza|ricarica:Ricarica wireless"],
+    ["smartwatch", "Smartwatch", "Orologi connessi per notifiche, salute e allenamento, scelti in base a compatibilità, sensori e autonomia reale.", "compatibilita:Compatibilità|autonomia:Autonomia:giorni|gps:GPS|display:Display"],
+    ["smart-tv", "Smart TV", "Televisori smart dai 43 pollici in su, valutati per pannello, gestione dell'HDR, sistema operativo e connessioni.", "diagonale:Diagonale:pollici|pannello:Pannello|hdr:HDR|frequenza:Frequenza:Hz"],
+    ["soundbar", "Soundbar", "Barre audio per migliorare l'audio del televisore, dai modelli compatti ai sistemi con subwoofer e audio surround.", "canali:Canali|subwoofer:Subwoofer|connessioni:Connessioni|formati:Formati audio"],
+    ["altoparlanti-bluetooth", "Altoparlanti Bluetooth", "Casse portatili per casa e all'aperto, confrontate su resa sonora, resistenza all'acqua e durata della batteria.", "potenza:Potenza:W|autonomia:Autonomia:h|resistenza:Resistenza|peso:Peso:g"],
+    ["fotocamere-mirrorless", "Fotocamere mirrorless", "Corpi macchina mirrorless e kit con obiettivo, per chi vuole fare il salto oltre lo smartphone in foto e video.", "sensore:Sensore|risoluzione:Risoluzione:MP|video:Video|stabilizzazione:Stabilizzazione"],
+    ["action-cam", "Action cam", "Videocamere compatte e robuste per sport, viaggi e riprese in movimento, anche sott'acqua.", "video:Risoluzione video|stabilizzazione:Stabilizzazione|impermeabile:Impermeabile:m|autonomia:Autonomia:min"],
+    ["power-bank", "Power bank", "Batterie portatili per ricaricare telefono, tablet e portatile fuori casa, con attenzione a potenza e sicurezza.", "capacita:Capacità:mAh|potenza:Potenza massima:W|porte:Porte|peso:Peso:g"],
+  ],
+  informatica: [
+    ["notebook", "Notebook", "Portatili per studio, lavoro e creatività, confrontati su processore, schermo, autonomia e qualità costruttiva.", "processore:Processore|ram:RAM:GB|archiviazione:Archiviazione:GB|display:Display:pollici"],
+    ["monitor", "Monitor", "Monitor per ufficio, foto e uso misto, scelti per qualità del pannello, ergonomia e connessioni.", "diagonale:Diagonale:pollici|risoluzione:Risoluzione|pannello:Pannello|usbc:USB-C"],
+    ["tastiere-meccaniche", "Tastiere meccaniche", "Tastiere con switch meccanici per scrivere meglio e più a lungo, cablate o wireless, in diversi formati.", "formato:Formato|switch:Switch|connessione:Connessione|layout:Layout"],
+    ["mouse-wireless", "Mouse wireless", "Mouse senza fili per produttività e uso quotidiano, valutati per ergonomia, precisione e autonomia.", "sensore:Sensore|connessione:Connessione|autonomia:Autonomia|tasti:Tasti"],
+    ["ssd-esterni", "SSD esterni", "Unità a stato solido portatili per backup, archivio foto e lavoro in mobilità, veloci e resistenti.", "capacita:Capacità:TB|lettura:Lettura:MB/s|interfaccia:Interfaccia|resistenza:Resistenza"],
+    ["router-wifi", "Router Wi-Fi e sistemi mesh", "Router e kit mesh per portare un Wi-Fi stabile in tutta la casa, dagli appartamenti alle abitazioni su più piani.", "standard:Standard Wi-Fi|bande:Bande|porte:Porte|copertura:Copertura:m²"],
+    ["webcam", "Webcam", "Webcam per videochiamate, lezioni e streaming, confrontate su nitidezza, gestione della luce e microfoni.", "risoluzione:Risoluzione|fps:Fotogrammi:fps|messa-a-fuoco:Messa a fuoco|microfono:Microfono"],
+    ["stampanti-multifunzione", "Stampanti multifunzione", "Stampanti con scanner e copia per casa e piccolo ufficio, valutate anche sul costo reale per pagina.", "tecnologia:Tecnologia|colore:Colore|fronte-retro:Fronte-retro|wifi:Wi-Fi"],
+    ["tablet", "Tablet", "Tablet per intrattenimento, studio e lavoro leggero, con attenzione a schermo, accessori e durata degli aggiornamenti.", "display:Display:pollici|memoria:Memoria:GB|penna:Supporto penna|autonomia:Autonomia:h"],
+    ["hub-usb-c", "Hub e docking station USB-C", "Adattatori e docking station per collegare monitor, rete e periferiche a portatili con poche porte.", "porte:Porte|monitor:Monitor supportati|ricarica:Ricarica passante:W|alimentazione:Alimentazione"],
+  ],
+  casa: [
+    ["robot-aspirapolvere", "Robot aspirapolvere", "Robot per aspirare e lavare i pavimenti in autonomia, confrontati su navigazione, base di svuotamento e manutenzione.", "navigazione:Navigazione|lavaggio:Lavaggio|base:Base autosvuotante|autonomia:Autonomia:min"],
+    ["aspirapolvere-senza-filo", "Aspirapolvere senza filo", "Scope elettriche a batteria per la pulizia quotidiana, valutate per autonomia, filtrazione e accessori.", "autonomia:Autonomia:min|serbatoio:Serbatoio:L|peso:Peso:kg|filtro:Filtrazione"],
+    ["purificatori-aria", "Purificatori d'aria", "Purificatori con filtro HEPA per pollini, polveri e odori, scelti in base alla stanza e al rumore.", "cadr:CADR:m³/h|stanza:Stanza consigliata:m²|filtro:Filtro|rumore:Rumore minimo:dB"],
+    ["deumidificatori", "Deumidificatori", "Deumidificatori per case umide, cantine e bucato in casa, confrontati su capacità, consumi e silenziosità.", "capacita:Capacità:L/24h|serbatoio:Serbatoio:L|rumore:Rumore:dB|tecnologia:Tecnologia"],
+    ["ventilatori", "Ventilatori", "Ventilatori a piantana, da tavolo e a torre per l'estate, valutati per flusso d'aria, rumore e funzioni.", "tipo:Tipo|potenza:Potenza:W|velocita:Velocità|telecomando:Telecomando"],
+    ["termostati-smart", "Termostati smart", "Termostati e valvole connesse per gestire il riscaldamento da app e ridurre i consumi.", "compatibilita:Compatibilità impianto|assistenti:Assistenti vocali|geolocalizzazione:Geolocalizzazione|installazione:Installazione"],
+    ["materassi", "Materassi", "Materassi in memory, molle e lattice per ogni esigenza di sostegno, con attenzione a garanzia e periodo di prova.", "materiale:Materiale|altezza:Altezza:cm|rigidita:Rigidità|prova:Periodo di prova:notti"],
+    ["cuscini", "Cuscini", "Cuscini in memory foam, lattice e piuma scelti per posizione nel sonno, sostegno cervicale e traspirabilità.", "materiale:Materiale|altezza:Altezza:cm|sfoderabile:Sfoderabile|posizione:Posizione consigliata"],
+    ["lampadine-smart", "Illuminazione smart", "Kit di lampadine, strisce LED e luci connesse da controllare con app e assistenti vocali.", "attacco:Attacco|colori:Colori|protocollo:Protocollo|hub:Hub richiesto"],
+    ["videocamere-sicurezza", "Videocamere di sicurezza", "Telecamere per interni ed esterni, confrontate su qualità d'immagine, visione notturna e archiviazione.", "risoluzione:Risoluzione|uso:Uso|visione-notturna:Visione notturna|archiviazione:Archiviazione"],
+  ],
+  cucina: [
+    ["friggitrici-ad-aria", "Friggitrici ad aria", "Friggitrici ad aria a cestello singolo, doppio o a forno, confrontate su capienza, uniformità di cottura e pulizia.", "capacita:Capacità:L|potenza:Potenza:W|cestelli:Cestelli|programmi:Programmi"],
+    ["macchine-caffe-superautomatiche", "Macchine da caffè superautomatiche", "Macchine automatiche con macinacaffè integrato per espresso e bevande al latte, dal chicco alla tazza.", "macinatura:Macina|latte:Sistema latte|bevande:Bevande|pressione:Pressione:bar"],
+    ["macchine-caffe-espresso", "Macchine espresso manuali", "Macchine a leva e a pompa con portafiltro per chi vuole preparare l'espresso a mano e imparare a regolarlo.", "caldaia:Caldaia|pressione:Pressione:bar|lancia:Lancia vapore|portafiltro:Portafiltro:mm"],
+    ["frullatori", "Frullatori", "Frullatori da tavolo e a immersione per frullati, zuppe e trite, valutati per potenza e qualità delle lame.", "tipo:Tipo|potenza:Potenza:W|capacita:Capacità:L|velocita:Velocità"],
+    ["robot-da-cucina", "Robot da cucina", "Robot multifunzione che tritano, impastano e cuociono, per chi vuole risparmiare tempo ai fornelli.", "potenza:Potenza:W|capacita:Capacità:L|cottura:Cottura|ricette:Ricette guidate"],
+    ["impastatrici-planetarie", "Impastatrici planetarie", "Planetarie per impasti, dolci e lievitati, confrontate su motore, ciotola e accessori inclusi.", "potenza:Potenza:W|ciotola:Ciotola:L|velocita:Velocità|accessori:Accessori"],
+    ["bollitori-elettrici", "Bollitori elettrici", "Bollitori per tè e tisane, anche con controllo della temperatura, valutati per sicurezza e materiali.", "capacita:Capacità:L|temperatura:Temperatura regolabile|materiale:Materiale|potenza:Potenza:W"],
+    ["tostapane", "Tostapane", "Tostapane a due e quattro fette per colazioni veloci, con attenzione a uniformità della doratura e pulizia.", "fette:Fette|potenza:Potenza:W|livelli:Livelli doratura|funzioni:Funzioni"],
+    ["set-pentole", "Set di pentole", "Batterie di pentole antiaderenti, inox e in ghisa, valutate per materiali, compatibilità con induzione e durata.", "materiale:Materiale|pezzi:Pezzi|induzione:Induzione|lavastoviglie:Lavastoviglie"],
+    ["coltelli-da-cucina", "Coltelli da cucina", "Set e coltelli singoli per cucinare ogni giorno, confrontati su acciaio, impugnatura e mantenimento del filo.", "acciaio:Acciaio|pezzi:Pezzi|ceppo:Ceppo|lama:Lunghezza lama:cm"],
+  ],
+  sport: [
+    ["orologi-gps-running", "Orologi GPS da running", "Orologi sportivi con GPS per corsa, trail e triathlon, valutati per precisione, metriche e autonomia.", "gps:GPS|autonomia:Autonomia GPS:h|cardio:Cardio|mappe:Mappe"],
+    ["tapis-roulant", "Tapis roulant", "Tapis roulant per camminare e correre in casa, confrontati su motore, superficie di corsa e ingombro.", "motore:Motore:CV|velocita:Velocità massima:km/h|superficie:Superficie:cm|pieghevole:Pieghevole"],
+    ["cyclette", "Cyclette e spin bike", "Bici da allenamento per il cardio in casa, valutate per resistenza, regolazioni e silenziosità.", "tipo:Tipo|resistenza:Resistenza|volano:Volano:kg|peso-max:Peso massimo utente:kg"],
+    ["manubri-regolabili", "Manubri regolabili", "Manubri a peso variabile per allenarsi in poco spazio, confrontati su range di carico e rapidità di cambio.", "peso:Peso:kg|incrementi:Incrementi:kg|meccanismo:Meccanismo|supporto:Supporto"],
+    ["tappetini-yoga", "Tappetini yoga", "Tappetini per yoga, pilates e allenamento a corpo libero, scelti per presa, spessore e materiali.", "materiale:Materiale|spessore:Spessore:mm|dimensioni:Dimensioni:cm|peso:Peso:kg"],
+    ["zaini-trekking", "Zaini da trekking", "Zaini per escursioni giornaliere e trekking di più giorni, valutati per schienale, capienza e organizzazione.", "capacita:Capacità:L|peso:Peso:g|schienale:Schienale|coprizaino:Coprizaino"],
+    ["borracce-termiche", "Borracce termiche", "Borracce e bottiglie in acciaio a doppia parete per bevande calde e fredde, in ufficio e all'aperto.", "capacita:Capacità:ml|freddo:Mantiene freddo:h|caldo:Mantiene caldo:h|lavastoviglie:Lavastoviglie"],
+    ["monopattini-elettrici", "Monopattini elettrici", "Monopattini a norma per la città, confrontati su autonomia reale, freni, ruote e peso da portare.", "autonomia:Autonomia:km|ruote:Ruote:pollici|freni:Freni|peso:Peso:kg"],
+    ["biciclette-elettriche", "Biciclette elettriche", "E-bike da città, pieghevoli e da trekking, valutate per motore, batteria e qualità dei componenti.", "motore:Motore|batteria:Batteria:Wh|autonomia:Autonomia:km|cambio:Cambio"],
+    ["pistole-massaggio", "Pistole massaggianti", "Massaggiatori a percussione per recupero muscolare dopo l'allenamento, confrontati su potenza, rumore e testine.", "velocita:Velocità|ampiezza:Ampiezza:mm|autonomia:Autonomia:h|testine:Testine"],
+  ],
+  "auto-moto": [
+    ["dashcam", "Dashcam", "Telecamere da cruscotto per registrare i viaggi, valutate per qualità notturna, sensore d'urto e modalità parcheggio.", "risoluzione:Risoluzione|posteriore:Camera posteriore|gps:GPS|parcheggio:Modalità parcheggio"],
+    ["compressori-portatili", "Compressori portatili", "Gonfiatori portatili per pneumatici di auto, moto e bici, con manometro digitale e arresto automatico.", "pressione:Pressione massima:bar|alimentazione:Alimentazione|display:Display|arresto:Arresto automatico"],
+    ["avviatori-emergenza", "Avviatori di emergenza", "Booster per avviare il motore con la batteria scarica, scelti in base alla cilindrata e alle protezioni.", "corrente:Corrente di picco:A|motori:Motori supportati|capacita:Capacità:mAh|protezioni:Protezioni"],
+    ["aspirapolvere-auto", "Aspirapolvere per auto", "Aspirapolvere compatti a batteria o a 12 V per tenere pulito l'abitacolo, valutati per aspirazione e accessori.", "alimentazione:Alimentazione|potenza:Aspirazione:Pa|autonomia:Autonomia:min|accessori:Accessori"],
+    ["caschi-moto", "Caschi moto", "Caschi integrali, modulari e jet omologati ECE 22.06, confrontati su sicurezza, comfort e rumorosità.", "tipo:Tipo|omologazione:Omologazione|calotta:Calotta|visiera:Visiera parasole"],
+    ["interfoni-moto", "Interfoni moto", "Interfoni Bluetooth per comunicare con il passeggero e il gruppo, valutati per portata, audio e autonomia.", "portata:Portata:m|utenti:Utenti|autonomia:Autonomia:h|mesh:Mesh"],
+    ["supporti-smartphone-auto", "Supporti smartphone per auto", "Supporti magnetici e a pinza, anche con ricarica wireless, per usare il navigatore in sicurezza.", "fissaggio:Fissaggio|ricarica:Ricarica wireless|compatibilita:Compatibilità|rotazione:Rotazione"],
+    ["mantenitori-carica", "Caricabatterie e mantenitori", "Caricabatterie intelligenti per auto e moto ferme a lungo, con programmi per diversi tipi di batteria.", "corrente:Corrente:A|batterie:Batterie supportate|tensione:Tensione:V|desolfatazione:Desolfatazione"],
+    ["seggiolini-auto", "Seggiolini auto", "Seggiolini omologati i-Size per bambini dalla nascita all'età scolare, valutati su sicurezza e facilità d'installazione.", "omologazione:Omologazione|altezza:Altezza bambino:cm|isofix:Isofix|rotazione:Rotazione"],
+    ["adattatori-carplay", "Adattatori CarPlay e Android Auto wireless", "Adattatori che rendono senza fili CarPlay e Android Auto sulle auto che li supportano via cavo.", "compatibilita:Compatibilità|latenza:Collegamento|aggiornamenti:Aggiornamenti|alimentazione:Alimentazione"],
+  ],
+  "giardino-fai-da-te": [
+    ["trapani-avvitatori", "Trapani avvitatori", "Trapani avvitatori a batteria per lavori in casa e cantiere, confrontati su coppia, batterie e percussione.", "tensione:Tensione:V|coppia:Coppia:Nm|percussione:Percussione|batterie:Batterie incluse"],
+    ["smerigliatrici", "Smerigliatrici angolari", "Smerigliatrici per taglio e levigatura di metallo e pietra, a filo e a batteria, con attenzione alla sicurezza.", "disco:Disco:mm|potenza:Potenza|alimentazione:Alimentazione|antiritorno:Protezione contraccolpo"],
+    ["idropulitrici", "Idropulitrici", "Idropulitrici per terrazzi, auto e arredi da esterno, valutate per pressione, portata e accessori.", "pressione:Pressione:bar|portata:Portata:l/h|potenza:Potenza:W|tubo:Tubo:m"],
+    ["robot-tagliaerba", "Robot tagliaerba", "Robot rasaerba per prati piccoli e grandi, con o senza filo perimetrale, confrontati su superficie e pendenze.", "superficie:Superficie:m²|pendenza:Pendenza massima:%|perimetro:Filo perimetrale|app:App"],
+    ["tosaerba-elettrici", "Tosaerba elettrici", "Rasaerba a filo e a batteria per prati domestici, valutati per larghezza di taglio, cesto e maneggevolezza.", "taglio:Larghezza taglio:cm|alimentazione:Alimentazione|cesto:Cesto:L|altezze:Altezze di taglio"],
+    ["tagliasiepi", "Tagliasiepi", "Tagliasiepi elettrici e a batteria per siepi e arbusti, confrontati su lama, peso e capacità di taglio.", "lama:Lama:cm|taglio:Diametro taglio:mm|alimentazione:Alimentazione|peso:Peso:kg"],
+    ["soffiatori", "Soffiatori e aspiratori di foglie", "Soffiatori per foglie e detriti, anche con funzione di aspirazione e trituratura.", "velocita:Velocità aria:km/h|alimentazione:Alimentazione|aspirazione:Aspirazione|peso:Peso:kg"],
+    ["valigette-utensili", "Valigette porta utensili", "Set di utensili manuali in valigetta per casa e officina, valutati per qualità dell'acciaio e completezza.", "pezzi:Pezzi|acciaio:Acciaio|bussole:Bussole|custodia:Custodia"],
+    ["livelle-laser", "Livelle laser", "Livelle laser a linee incrociate e rotative per posa, mensole e cartongesso, confrontate su precisione e portata.", "linee:Linee|colore:Colore laser|portata:Portata:m|precisione:Precisione:mm/m"],
+    ["barbecue", "Barbecue", "Barbecue a gas, carbone ed elettrici per balcone e giardino, valutati per superficie di cottura e controllo del calore.", "alimentazione:Alimentazione|superficie:Superficie:cm|bruciatori:Bruciatori|coperchio:Coperchio"],
+  ],
+  bellezza: [
+    ["spazzolini-elettrici", "Spazzolini elettrici", "Spazzolini oscillanti e sonici per una pulizia più accurata, con attenzione a sensore di pressione e costo delle testine.", "tecnologia:Tecnologia|modalita:Modalità|pressione:Sensore pressione|autonomia:Autonomia:giorni"],
+    ["idropulsori", "Idropulsori dentali", "Idropulsori da banco e portatili per pulire tra i denti e lungo le gengive, valutati per pressione e serbatoio.", "tipo:Tipo|serbatoio:Serbatoio:ml|livelli:Livelli pressione|beccucci:Beccucci"],
+    ["rasoi-elettrici", "Rasoi elettrici", "Rasoi a lamina e rotativi per una rasatura quotidiana rapida, confrontati su precisione, comfort e pulizia.", "sistema:Sistema|uso:Uso bagnato e asciutto|autonomia:Autonomia:min|stazione:Stazione pulizia"],
+    ["regolabarba", "Regolabarba", "Rifinitori per barba e capelli con pettini regolabili, scelti per precisione delle lame e numero di lunghezze.", "lunghezze:Lunghezze|lame:Lame|autonomia:Autonomia:min|impermeabile:Lavabile"],
+    ["asciugacapelli", "Asciugacapelli", "Phon per uso domestico e professionale, valutati per flusso d'aria, controllo del calore, peso e rumore.", "potenza:Potenza:W|motore:Motore|ioni:Ioni|peso:Peso:g"],
+    ["piastre-capelli", "Piastre per capelli", "Piastre lisciacapelli e multifunzione, confrontate su piastre, regolazione della temperatura e tempi di riscaldamento.", "piastre:Rivestimento|temperatura:Temperatura massima:°C|larghezza:Larghezza:mm|spegnimento:Spegnimento automatico"],
+    ["epilatori-luce-pulsata", "Epilatori a luce pulsata", "Dispositivi IPL per la riduzione dei peli in casa, valutati per sicurezza, sensore di pelle e numero di impulsi.", "impulsi:Impulsi|sensore:Sensore pelle|alimentazione:Alimentazione|accessori:Accessori"],
+    ["spazzole-viso", "Spazzole per la pulizia del viso", "Spazzole soniche e in silicone per detergere il viso, scelte per delicatezza, igiene e autonomia.", "materiale:Materiale|intensita:Intensità|impermeabile:Impermeabile|autonomia:Autonomia"],
+    ["bilance-smart", "Bilance smart", "Bilance pesapersone connesse che misurano anche composizione corporea, confrontate su precisione e app.", "misure:Misure|utenti:Utenti|connessione:Connessione|app:App"],
+    ["massaggiatori", "Massaggiatori cervicali e per schiena", "Cuscini e fasce massaggianti per collo, spalle e schiena, valutati per programmi, calore e comfort.", "zona:Zona|calore:Calore|programmi:Programmi|alimentazione:Alimentazione"],
+  ],
+  ufficio: [
+    ["sedie-ergonomiche", "Sedie ergonomiche", "Sedie da ufficio per lavorare a lungo con meno fatica, confrontate su supporto lombare, regolazioni e materiali.", "lombare:Supporto lombare|braccioli:Braccioli|seduta:Seduta|peso-max:Portata:kg"],
+    ["scrivanie-regolabili", "Scrivanie regolabili in altezza", "Scrivanie elettriche per alternare posizione seduta e in piedi, valutate per stabilità, motori e piano.", "motori:Motori|altezza:Altezza:cm|piano:Piano:cm|portata:Portata:kg"],
+    ["lampade-scrivania", "Lampade da scrivania", "Lampade LED per studio e lavoro, scelte per qualità della luce, regolazione e assenza di sfarfallio.", "temperatura:Temperatura colore|regolazione:Regolazione|cri:CRI|alimentazione:Alimentazione"],
+    ["distruggidocumenti", "Distruggidocumenti", "Distruggidocumenti per casa e ufficio, confrontati su livello di sicurezza, capacità e rumore.", "taglio:Taglio|sicurezza:Livello sicurezza|fogli:Fogli per passata|cestino:Cestino:L"],
+    ["etichettatrici", "Etichettatrici", "Etichettatrici per ufficio, archivio e casa, valutate per qualità di stampa, nastri e connettività.", "stampa:Stampa|nastri:Larghezza nastri:mm|connessione:Connessione|alimentazione:Alimentazione"],
+    ["bracci-monitor", "Bracci porta monitor", "Supporti da scrivania a molla o pistone per uno o due monitor, per liberare spazio e migliorare la postura.", "monitor:Monitor|peso:Peso per braccio:kg|vesa:VESA|fissaggio:Fissaggio"],
+    ["cuffie-ufficio", "Cuffie con microfono per ufficio", "Cuffie per chiamate e riunioni online, confrontate su microfono, comfort e compatibilità con le piattaforme.", "connessione:Connessione|microfono:Microfono|certificazioni:Certificazioni|autonomia:Autonomia:h"],
+    ["zaini-porta-pc", "Zaini porta PC", "Zaini per pendolari e viaggi di lavoro con scomparto imbottito, valutati per protezione e organizzazione.", "notebook:Notebook fino a:pollici|capacita:Capacità:L|impermeabile:Impermeabile|apertura:Apertura"],
+    ["scanner-documenti", "Scanner per documenti", "Scanner con alimentatore automatico per digitalizzare documenti e ricevute, confrontati su velocità e software.", "velocita:Velocità:ppm|alimentatore:Alimentatore|fronte-retro:Fronte-retro|connessione:Connessione"],
+    ["videoproiettori", "Videoproiettori", "Proiettori per presentazioni e home cinema, valutati per luminosità reale, risoluzione e rumore.", "risoluzione:Risoluzione|luminosita:Luminosità:lumen|sorgente:Sorgente luce|smart:Funzioni smart"],
+  ],
+  gaming: [
+    ["console-portatili", "Console portatili", "Console da gioco portatili e PC handheld, confrontati su catalogo, schermo, autonomia e prestazioni.", "schermo:Schermo:pollici|memoria:Memoria:GB|autonomia:Autonomia:h|uscita-tv:Uscita TV"],
+    ["controller", "Controller", "Controller per console e PC, valutati per ergonomia, latenza, autonomia e tasti aggiuntivi.", "piattaforme:Piattaforme|connessione:Connessione|stick:Stick|tasti-extra:Tasti posteriori"],
+    ["cuffie-gaming", "Cuffie gaming", "Cuffie da gioco cablate e wireless, confrontate su audio posizionale, microfono e comfort nelle sessioni lunghe.", "connessione:Connessione|microfono:Microfono|piattaforme:Piattaforme|peso:Peso:g"],
+    ["mouse-gaming", "Mouse gaming", "Mouse da gioco leggeri e precisi, valutati per sensore, forma, peso e qualità dei pulsanti.", "sensore:Sensore|peso:Peso:g|connessione:Connessione|polling:Polling:Hz"],
+    ["tastiere-gaming", "Tastiere gaming", "Tastiere da gioco meccaniche e magnetiche, confrontate su switch, tempi di risposta e formato.", "switch:Switch|formato:Formato|connessione:Connessione|polling:Polling:Hz"],
+    ["sedie-gaming", "Sedie gaming", "Sedie da gioco per sessioni lunghe, valutate su ergonomia reale, imbottitura e regolazioni.", "materiale:Rivestimento|lombare:Supporto lombare|reclinazione:Reclinazione:°|portata:Portata:kg"],
+    ["monitor-gaming", "Monitor gaming", "Monitor ad alta frequenza per giocare, scelti per tempi di risposta, pannello e sincronizzazione adattiva.", "diagonale:Diagonale:pollici|frequenza:Frequenza:Hz|pannello:Pannello|risoluzione:Risoluzione"],
+    ["volanti-simulatori", "Volanti per simulatori", "Volanti e pedaliere per giochi di guida su console e PC, confrontati su force feedback e compatibilità.", "feedback:Force feedback|rotazione:Rotazione:°|pedaliera:Pedaliera|piattaforme:Piattaforme"],
+    ["ebook-reader", "E-book reader", "Lettori di e-book con schermo e-ink per leggere a lungo, valutati per schermo, luce, formati e autonomia.", "schermo:Schermo:pollici|luce:Luce calda|impermeabile:Impermeabile|formati:Formati"],
+    ["giradischi", "Giradischi", "Giradischi per iniziare o tornare al vinile, confrontati su trazione, testina, preamplificatore e connessioni.", "trazione:Trazione|preamplificatore:Preamplificatore|bluetooth:Bluetooth|velocita:Velocità:giri"],
+  ],
+};
+
+export const CATEGORIES: Category[] = Object.entries(TABLE).flatMap(([macro, rows]) =>
+  rows.map(([slug, name, summary, spec]) => ({ slug, macro, name, summary, specs: specs(spec) })),
+);

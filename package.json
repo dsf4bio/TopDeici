@@ -1,0 +1,31 @@
+{
+  "name": "topdieci",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TopDieci.click: classifiche dei 10 migliori prodotti Amazon per categoria",
+  "engines": {
+    "node": ">=20.9"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test src/lib/*.test.ts",
+    "dati:importa": "tsx scripts/importa-csv.ts",
+    "dati:aggiorna": "tsx scripts/aggiorna-amazon.ts",
+    "dati:verifica": "tsx scripts/verifica-dati.ts"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

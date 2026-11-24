@@ -1,0 +1,3 @@
+categoria;asin;titolo;brand;modello;immagine;prezzo;valutazione;recensioni;verificato_il;punti_di_forza;limiti;perche;problemi;per_chi;differenze;prima_di_acquistare;punteggio_editoriale;attivo;spec_capacita;spec_potenza;spec_cestelli;spec_programmi
+# Le righe che iniziano con # vengono ignorate. Compila una riga per prodotto con dati letti su Amazon.it nella data indicata in verificato_il.;;;;;;;;;;;;;;;;;;;;;;
+# Esempio di formato (sostituisci con un prodotto reale): friggitrici-ad-aria;B0XXXXXXXX;Nome prodotto;Marca;Modello;https://m.media-amazon.com/images/I/....jpg;89,99;4,7;12.345;24/11/2026;Primo pregio | Secondo pregio;Un limite;Perché l'abbiamo scelto…;Che problema risolve…;Per chi è indicato…;In cosa si distingue…;Cosa controllare…;0,8;sì;5,5;1700;1;8;;;;

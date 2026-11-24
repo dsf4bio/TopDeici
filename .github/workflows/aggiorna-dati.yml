@@ -1,0 +1,38 @@
+# Aggiorna ogni giorno prezzi e disponibilità dalle API Amazon e fa il commit dei dati.
+# Il commit fa ripartire il deploy su Vercel.
+# Imposta i secret del repository: AMAZON_CREATORS_CLIENT_ID,
+# AMAZON_CREATORS_CLIENT_SECRET, AMAZON_CREATORS_TOKEN_URL.
+
+name: Aggiorna dati Amazon
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # ogni giorno alle 04:17 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run dati:aggiorna
+        env:
+          AMAZON_CREATORS_CLIENT_ID: ${{ secrets.AMAZON_CREATORS_CLIENT_ID }}
+          AMAZON_CREATORS_CLIENT_SECRET: ${{ secrets.AMAZON_CREATORS_CLIENT_SECRET }}
+          AMAZON_CREATORS_TOKEN_URL: ${{ secrets.AMAZON_CREATORS_TOKEN_URL }}
+      - run: npm run dati:verifica
+      - name: Commit dei dati aggiornati
+        run: |
+          git config user.name "topdieci-bot"
+          git config user.email "bot@topdieci.click"
+          git add data/prodotti
+          git diff --cached --quiet || git commit -m "Dati Amazon aggiornati $(date -u +%F)"
+          git push
