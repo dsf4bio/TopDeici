@@ -37,5 +37,5 @@ export const PRICE = {
   maxAgeHours: 24,
 };
 
-/** Ogni quanto Next.js rigenera le pagine (secondi), così i prezzi scaduti spariscono da soli. */
+/** Ogni quanto Next.js rigenera le pagine (secondi). Se lo cambi, aggiorna anche "export const revalidate" nelle pagine in src/app. */
 export const REVALIDATE_SECONDS = 3600;

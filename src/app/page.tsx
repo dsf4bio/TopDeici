@@ -13,12 +13,13 @@ import {
   getRanking,
   getUpdatedCategories,
 } from "@/lib/catalog";
-import { RANKING, REVALIDATE_SECONDS } from "@/lib/config";
+import { RANKING } from "@/lib/config";
 import { formatDate } from "@/lib/format";
 import { pageMetadata } from "@/lib/seo";
 import { toCardModel } from "@/lib/view";
 
-export const revalidate = REVALIDATE_SECONDS;
+// Deve essere un numero scritto qui: Next.js legge questo valore durante la build senza eseguire il codice.
+export const revalidate = 3600; // 1 ora: i prezzi più vecchi di 24 ore spariscono da soli
 
 export const metadata = pageMetadata({
   title: "TopDieci — I 10 migliori prodotti Amazon in oltre 100 categorie",

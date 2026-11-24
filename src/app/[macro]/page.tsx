@@ -3,10 +3,10 @@ import { notFound } from "next/navigation";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { CategoryTile } from "@/components/CategoryTile";
 import { getCategoriesOf, getMacro, getMacros, getRanking } from "@/lib/catalog";
-import { REVALIDATE_SECONDS } from "@/lib/config";
 import { pageMetadata } from "@/lib/seo";
 
-export const revalidate = REVALIDATE_SECONDS;
+// Deve essere un numero scritto qui: Next.js legge questo valore durante la build senza eseguire il codice.
+export const revalidate = 3600; // 1 ora: i prezzi più vecchi di 24 ore spariscono da soli
 export const dynamicParams = false;
 
 type Props = { params: Promise<{ macro: string }> };
