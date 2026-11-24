@@ -15,8 +15,8 @@ export default function MethodologyPage() {
       <h2>Da dove arrivano i prodotti</h2>
       <p>
         Ogni giorno cerchiamo su Amazon.it i prodotti di ogni categoria tramite le API ufficiali di Amazon. Prendiamo solo
-        prodotti nuovi e disponibili, con un prezzo di almeno {RANKING.minPrice} € e una valutazione media degli acquirenti di
-        almeno 4 stelle su 5.
+        prodotti nuovi e disponibili, con un prezzo di almeno {RANKING.minPrice} €, una valutazione media degli acquirenti di
+        almeno 4,4 stelle su 5 e più di 100 recensioni.
       </p>
       <h2>Come li ordiniamo</h2>
       <ul>
@@ -25,8 +25,8 @@ export default function MethodologyPage() {
         <li><strong>Giudizio della redazione</strong>, con un peso ridotto, su qualità e rapporto qualità-prezzo.</li>
       </ul>
       <p>
-        Quando la redazione verifica direttamente stelle e numero di recensioni di un prodotto, usiamo quei dati: in quel caso
-        il prodotto deve superare 4,5 stelle e avere molte recensioni rispetto agli altri della categoria.
+        Stelle e numero di recensioni vengono verificati dalla redazione su Amazon.it: ogni prodotto deve avere una media di
+        almeno 4,4 stelle e più di 100 recensioni.
       </p>
       <p>Al massimo 10 prodotti per categoria. Se i prodotti validi sono meno, la classifica è più corta.</p>
       <h2>Aggiornamenti e prezzi</h2>

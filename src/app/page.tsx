@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SearchForm } from "@/components/SearchForm";
-import { categoryPath, getCategoriesOf, getFeaturedCategories, getMacros, getRanking } from "@/lib/catalog";
+import { categoryPath, coverOf, getCategoriesOf, getFeaturedCategories, getMacros, getRanking } from "@/lib/catalog";
 import { pageMetadata } from "@/lib/seo";
 
 // Deve essere un numero scritto qui: Next.js legge questo valore durante la build senza eseguire il codice.
@@ -38,15 +38,20 @@ export default function HomePage() {
           <div className="grid grid-4">
             {featured.map((c) => {
               const top = getRanking(c.slug).ranked.slice(0, 3);
+              const cover = coverOf(c.slug);
               return (
                 <Link key={c.slug} href={categoryPath(c)} className="feature-tile">
-                  <span className="feature-thumbs" aria-hidden="true">
-                    {top.length
-                      ? top.map((p) =>
-                          p.image ? <img key={p.asin} src={p.image} alt="" loading="lazy" referrerPolicy="no-referrer" /> : null,
-                        )
-                      : <span className="feature-empty">10</span>}
-                  </span>
+                  {cover ? (
+                    <img className="feature-cover" src={cover} alt="" width={320} height={200} loading="lazy" />
+                  ) : (
+                    <span className="feature-thumbs" aria-hidden="true">
+                      {top.length
+                        ? top.map((p) =>
+                            p.image ? <img key={p.asin} src={p.image} alt="" loading="lazy" referrerPolicy="no-referrer" /> : null,
+                          )
+                        : <span className="feature-empty">10</span>}
+                    </span>
+                  )}
                   <span className="feature-name">Top 10 {c.name.toLowerCase()}</span>
                   {top[0] && <span className="feature-first">N° 1 · {top[0].brand}</span>}
                 </Link>

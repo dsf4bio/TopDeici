@@ -16,12 +16,12 @@ export const SITE = {
 export const RANKING = {
   /** Prezzo minimo per entrare in classifica, in euro. */
   minPrice: 25,
-  /** Valutazione media: deve essere strettamente superiore a questo valore. */
-  minRating: 4.5,
-  /** Soglia minima assoluta di recensioni. */
-  minReviewsFloor: 50,
+  /** Valutazione media minima (inclusa). */
+  minRating: 4.4,
+  /** Recensioni minime: più di 100. */
+  minReviewsFloor: 101,
   /** Soglia relativa: almeno questa frazione della mediana delle recensioni dei candidati. */
-  minReviewsShareOfMedian: 0.2,
+  minReviewsShareOfMedian: 0,
   /** Dati di valutazione più vecchi di così escludono il prodotto finché non vengono riverificati. */
   maxDataAgeDays: 90,
   /** Pesi del punteggio finale (somma 1). */

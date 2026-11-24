@@ -10,7 +10,7 @@ import type { Category, ExclusionReason, Product, RankedProduct, RankingResult }
 // Se ci sono i dati A si usano quelli, altrimenti B.
 //
 // 1. Requisiti minimi: prodotto attivo, prezzo >= 25 €, dati recenti e
-//    A) valutazione > 4,5 con recensioni sufficienti per la categoria, oppure
+//    A) valutazione di almeno 4,4 stelle e più di 100 recensioni, oppure
 //    B) almeno 4 stelle garantite dal filtro Amazon, oppure
 //    C) prodotto scelto dalla redazione con una posizione (editorialRank), quando non ci sono API né stelle.
 // 2. Punteggio: opinioni degli acquirenti + popolarità + giudizio della redazione.
@@ -52,7 +52,7 @@ export function rankCategory(products: Product[], category: Pick<Category, "minR
     else if (p.price && !editorialOnly && isStale(p.price.checkedAt, now, maxAge)) exclude(p, "dati-scaduti");
     else if (editorialOnly) curated.push(p);
     else if (p.rating) {
-      if (!(p.rating.average > RANKING.minRating)) exclude(p, "valutazione-bassa");
+      if (!(p.rating.average >= RANKING.minRating)) exclude(p, "valutazione-bassa");
       else if (isStale(p.rating.checkedAt, now, maxAge)) exclude(p, "dati-scaduti");
       else withRating.push(p);
     } else if (p.amazon) {
@@ -95,7 +95,7 @@ export function rankCategory(products: Product[], category: Pick<Category, "minR
     } else if (p.rating) {
       const { average: r, count: n } = p.rating;
       adjustedRating = (n * r + m * prior) / (n + m);
-      // 4,5 stelle = 0, 5 stelle = 1.
+      // 4,4 stelle = 0, 5 stelle = 1.
       ratingPart = clamp01((adjustedRating - RANKING.minRating) / (5 - RANKING.minRating));
       volumePart = maxCount > 1 ? clamp01(Math.log10(n) / Math.log10(maxCount)) : 1;
     } else {
@@ -133,7 +133,7 @@ export const EXCLUSION_LABELS: Record<ExclusionReason, string> = {
   "prezzo-mancante": "Prezzo non disponibile",
   "prezzo-basso": `Prezzo inferiore a ${RANKING.minPrice} €`,
   "valutazione-mancante": "Nessun dato sulle valutazioni",
-  "valutazione-bassa": "Valutazione troppo bassa",
+  "valutazione-bassa": "Valutazione sotto 4,4 stelle",
   "poche-recensioni": "Recensioni insufficienti per la categoria",
   "dati-scaduti": "Dati da riverificare",
   "fuori-classifica": "Idoneo ma oltre la decima posizione",

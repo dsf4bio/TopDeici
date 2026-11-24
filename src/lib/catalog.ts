@@ -67,6 +67,11 @@ export function getUpdatedCategories(limit = 6): { category: Category; updated: 
     .slice(0, limit);
 }
 
+/** Immagine di copertina di una categoria (public/copertine/<slug>.svg), se esiste. */
+export function coverOf(slug: string): string | undefined {
+  return existsSync(path.join(process.cwd(), "public", "copertine", `${slug}.svg`)) ? `/copertine/${slug}.svg` : undefined;
+}
+
 /** Categorie in evidenza, scelte dalla redazione in src/content/evidenza.ts. */
 export const getFeaturedCategories = () => FEATURED.map((s) => bySlug.get(s)).filter((c): c is Category => Boolean(c));
 

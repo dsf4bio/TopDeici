@@ -30,7 +30,7 @@ test("esclude chi non rispetta i requisiti minimi", () => {
   const products = [
     ok,
     fake({ price: 24.99 }),
-    fake({ rating: 4.5 }), // deve essere strettamente superiore a 4,5
+    fake({ rating: 4.3 }), // sotto 4,4 stelle
     fake({ checkedAt: "2026-08-01T00:00:00Z" }),
     fake({ active: false }),
     { ...fake(), price: undefined },
@@ -44,7 +44,7 @@ test("esclude chi non rispetta i requisiti minimi", () => {
 });
 
 test("non riempie la classifica con prodotti non idonei", () => {
-  const products = [fake(), fake(), fake({ rating: 4.2 }), fake({ price: 10 })];
+  const products = [fake(), fake(), fake({ rating: 4.3 }), fake({ price: 10 })];
   assert.equal(rankCategory(products, {}, NOW).ranked.length, 2);
 });
 
@@ -57,17 +57,17 @@ test("al massimo 10 posizioni, con posizione 1..10", () => {
 });
 
 test("poche recensioni rispetto alla categoria escludono il prodotto", () => {
-  const few = fake({ rating: 4.9, count: 60 });
+  const few = fake({ rating: 4.9, count: 100 }); // servono più di 100 recensioni
   const products = [few, fake({ count: 5000 }), fake({ count: 6000 }), fake({ count: 7000 })];
   const r = rankCategory(products, {}, NOW);
-  assert.ok(r.thresholds.minReviews > 60);
+  assert.equal(r.thresholds.minReviews, 101);
   assert.equal(r.excluded.find((e) => e.product.asin === few.asin)?.reason, "poche-recensioni");
 });
 
 test("la media bayesiana premia valutazioni solide su molti voti", () => {
   const manyVotes = fake({ rating: 4.7, count: 20000 });
   const fewVotes = fake({ rating: 4.9, count: 400 });
-  const r = rankCategory([fewVotes, manyVotes, fake({ rating: 4.6, count: 2000 })], { minReviews: 100 }, NOW);
+  const r = rankCategory([fewVotes, manyVotes, fake({ rating: 4.6, count: 2000 })], {}, NOW);
   assert.equal(r.ranked[0]!.asin, manyVotes.asin);
 });
 
