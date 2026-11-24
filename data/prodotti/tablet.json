@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0DZ75RKZH",
-    "category": "tablet",
-    "title": "Apple iPad con chip A16: display Liquid Retina da 11'', 128 GB, Wi Fi 6",
-    "brand": "Apple",
-    "price": {
-      "value": 449.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 11681,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0DZ75RKZH",
+  "category": "tablet",
+  "title": "Apple iPad con chip A16: display Liquid Retina da 11'', 128 GB",
+  "brand": "Apple",
+  "price": {
+   "value": 449.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0GQVLW917",
-    "category": "tablet",
-    "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB",
-    "brand": "Apple",
-    "price": {
-      "value": 699.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 756,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B09NP1FCKB",
-    "category": "tablet",
-    "title": "Samsung Galaxy Tab A8 Tablet Android 10.5 Pollici Wi-Fi RAM 4 GB 64 GB Tablet…",
-    "brand": "Samsung",
-    "price": {
-      "value": 224.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 4851,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0G4827DCM",
-    "category": "tablet",
-    "title": "Samsung Galaxy Tab A11+ - Tablet - Android 16 - 128 Gb - 27.82 Cm (11\")",
-    "brand": "Samsung",
-    "price": {
-      "value": 209.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 670,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B09FKZV2C6",
-    "category": "tablet",
-    "title": "TECLAST T70 Tablet 14 Pollici 2.2K Tablets Gaming, Helio G100 2.2GHz Octa-Core",
-    "brand": "TECLAST",
-    "price": {
-      "value": 289.95,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 147,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FWD7LX46",
-    "category": "tablet",
-    "title": "Apple iPad Pro 13'' (M5): Ultra Retina XDR, Vetro standard, 256 GB, Wi-Fi",
-    "brand": "Apple",
-    "price": {
-      "value": 1549.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 469,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FBX2LBTR",
-    "category": "tablet",
-    "title": "Lenovo Idea Tab - Tablet Touch con IA integrata 11'' 2.5K",
-    "brand": "Lenovo",
-    "price": {
-      "value": 215.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 304,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FV7HTBLZ",
-    "category": "tablet",
-    "title": "Blackview Mega2 Tablet 12 Pollici Android 15, 24GB RAM + 128GB ROM",
-    "brand": "Blackview",
-    "price": {
-      "value": 189.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 182,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H3KKS6TS",
-    "category": "tablet",
-    "title": "HONOR Pad X8a Tablet 11\" 4+128GB Espandibile 1TB 4 Altoparlanti 8300mAh",
-    "brand": "HONOR",
-    "price": {
-      "value": 159.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 143,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GJ4LYR77",
-    "category": "tablet",
-    "title": "TABWEE Android 16 Tablet con Tastiera in Offerta, 24 GB RAM+ 256 GB ROM",
-    "brand": "TABWEE",
-    "price": {
-      "value": 144.39,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 94,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.8,
+   "count": 11681,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B08DKP2H73",
+  "category": "tablet",
+  "title": "Samsung Galaxy Tab S7, tablet Android con penna, WiFi, 3 fotocamere",
+  "brand": "Samsung",
+  "price": {
+   "value": 479.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1820,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F1FR57K5",
+  "category": "tablet",
+  "title": "XIAOMI Pad 7 Tablet, 11,2-Zoll, 8+256GB, 3,2K 144Hz Display",
+  "brand": "XIAOMI",
+  "price": {
+   "value": 384.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.9,
+   "count": 257,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CSJ3HCP4",
+  "category": "tablet",
+  "title": "Samsung Galaxy Tab A9+ X210 11.0 WiFi 8 GB RAM 128 GB Tablet - Argento",
+  "brand": "Samsung",
+  "price": {
+   "value": 299.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 9219,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GQVLW917",
+  "category": "tablet",
+  "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB",
+  "brand": "Apple",
+  "price": {
+   "value": 699.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 756,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09NP1FCKB",
+  "category": "tablet",
+  "title": "Samsung Galaxy Tab A8 Tablet Android 10.5 Pollici Wi-Fi RAM 4 GB 64 GB",
+  "brand": "Samsung",
+  "price": {
+   "value": 224.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 4851,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CKVJF3Q6",
+  "category": "tablet",
+  "title": "Xiaomi Redmi Pad Se 8 GB/256 GB 11´´ Tablet One Size",
+  "brand": "Xiaomi",
+  "price": {
+   "value": 348.59,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2275,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FF9NVPQ7",
+  "category": "tablet",
+  "title": "XIAOMI Redmi Pad 2 Tablet 8GB+256GB, Display 11\" 2.5K 90Hz",
+  "brand": "XIAOMI",
+  "price": {
+   "value": 259.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 430,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09QLCB5H3",
+  "category": "tablet",
+  "title": "Samsung Galaxy Tab S8 11 Pollici Wi-Fi RAM 8/128 GB Tablet Android 12",
+  "brand": "Samsung",
+  "price": {
+   "value": 598.95,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 326,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07919MP9M",
+  "category": "tablet",
+  "title": "Samsung Galaxy Tab A SM-T580 tablet 32 GB Nero",
+  "brand": "Samsung",
+  "price": {
+   "value": 395.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1340,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

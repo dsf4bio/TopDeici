@@ -1,92 +1,182 @@
 [
-  {
-    "asin": "B0FTZN1YYZ",
-    "category": "barbecue",
-    "title": "Weber Barbecue a carbone Compact Kettle 47 cm",
-    "brand": "Weber",
-    "price": {
-      "value": 79.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 440,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B00N634TV4",
+  "category": "barbecue",
+  "title": "Weber - Barbecue a carbonella, 56 cm, colore: nero, 15301001",
+  "brand": "Weber",
+  "price": {
+   "value": 600.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B08M875TPR",
-    "category": "barbecue",
-    "title": "Campingaz Attitude 2go CV, Barbecue a Gas Portatile da Tavolo, Grill a Gas",
-    "brand": "Campingaz",
-    "price": {
-      "value": 188.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 415,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B01N2HRTWM",
-    "category": "barbecue",
-    "title": "Char-Broil Barbecue Ibrido Gas2Coal 330 per Gas e Carbone, 3 Bruciatori",
-    "brand": "Char-Broil",
-    "price": {
-      "value": 379.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1200,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B00LTO7XTC",
-    "category": "barbecue",
-    "title": "Weber 14501004 - Barbecue a Carbone Master Touch 57 Nero GBS",
-    "brand": "Weber",
-    "price": {
-      "value": 329.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1171,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DZXC626L",
-    "category": "barbecue",
-    "title": "Charmline 47 x 34 cm Griglia a Carbone Portatile Pieghevole",
-    "brand": "Charmline",
-    "price": {
-      "value": 59.36,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1136,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.8,
+   "count": 1481,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00GYUN5ZM",
+  "category": "barbecue",
+  "title": "Weber Barbecue a carbone Go-Anywhere",
+  "brand": "Weber",
+  "price": {
+   "value": 103.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1640,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01MDQYA48",
+  "category": "barbecue",
+  "title": "CAMPINGAZ Party 400 Barbecue and Cooker in 1, Blue/Black, Taglia unica",
+  "brand": "CAMPINGAZ",
+  "price": {
+   "value": 117.95,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 4181,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07QC3SSQ2",
+  "category": "barbecue",
+  "title": "Tramontina Barbecue a Carbone TCP 400 in Acciaio Inox",
+  "brand": "Tramontina",
+  "price": {
+   "value": 68.31,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 286,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FTZN1YYZ",
+  "category": "barbecue",
+  "title": "Weber Barbecue a carbone Compact Kettle 47 cm",
+  "brand": "Weber",
+  "price": {
+   "value": 79.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 440,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00U3SXCYA",
+  "category": "barbecue",
+  "title": "Sochef Saporillo Barbecue, Nero/Grigio, 46x125x103 cm",
+  "brand": "Sochef",
+  "price": {
+   "value": 163.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1574,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08M875TPR",
+  "category": "barbecue",
+  "title": "Campingaz Attitude 2go CV, Barbecue a Gas Portatile da Tavolo",
+  "brand": "Campingaz",
+  "price": {
+   "value": 188.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 415,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01N2HRTWM",
+  "category": "barbecue",
+  "title": "Char-Broil Barbecue Ibrido Gas2Coal 330 per Gas e Carbone, 3 Bruciatori",
+  "brand": "Char-Broil",
+  "price": {
+   "value": 379.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1200,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00LTO7XTC",
+  "category": "barbecue",
+  "title": "Weber 14501004 - Barbecue a Carbone Master Touch 57 Nero GBS",
+  "brand": "Weber",
+  "price": {
+   "value": 329.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1171,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DZXC626L",
+  "category": "barbecue",
+  "title": "Charmline 47 x 34 cm Griglia a Carbone Portatile Pieghevole",
+  "brand": "Charmline",
+  "price": {
+   "value": 59.36,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1136,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

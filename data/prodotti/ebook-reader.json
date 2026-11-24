@@ -1,92 +1,182 @@
 [
-  {
-    "asin": "B0CFPWLGF2",
-    "category": "ebook-reader",
-    "title": "Amazon Kindle Paperwhite 16GB (modello 2024)",
-    "brand": "Amazon",
-    "price": {
-      "value": 154.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 26257,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0CFPWLGF2",
+  "category": "ebook-reader",
+  "title": "Amazon Kindle Paperwhite 16GB (modello 2024)",
+  "brand": "Amazon",
+  "price": {
+   "value": 154.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0CZXYV8GT",
-    "category": "ebook-reader",
-    "title": "Kobo Clara BW / eReader / Display antiriflesso HD in bianco e nero E Ink Carta…",
-    "brand": "Kobo",
-    "price": {
-      "value": 154.8,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3230,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CX8MQF7R",
-    "category": "ebook-reader",
-    "title": "Amazon Kindle Colorsoft 16 GB (modello 2024)",
-    "brand": "Amazon",
-    "price": {
-      "value": 164.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3074,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CZXX465Z",
-    "category": "ebook-reader",
-    "title": "Kobo Libra Colour / eReader / Display antiriflesso a colori E Ink Kaleido™ 3 da…",
-    "brand": "Kobo",
-    "price": {
-      "value": 199.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2612,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0G4SHH6YH",
-    "category": "ebook-reader",
-    "title": "Amazon Kindle da 16 GB (ultimo modello)",
-    "brand": "Amazon",
-    "price": {
-      "value": 139.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 787,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 26257,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0CZXYV8GT",
+  "category": "ebook-reader",
+  "title": "Kobo Clara BW / eReader / Display antiriflesso HD in bianco e nero E",
+  "brand": "Kobo",
+  "price": {
+   "value": 154.8,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 3230,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CX8MQF7R",
+  "category": "ebook-reader",
+  "title": "Amazon Kindle Colorsoft 16 GB (modello 2024)",
+  "brand": "Amazon",
+  "price": {
+   "value": 164.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 3074,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CZXX465Z",
+  "category": "ebook-reader",
+  "title": "Kobo Libra Colour / eReader / Display antiriflesso a colori E Ink",
+  "brand": "Kobo",
+  "price": {
+   "value": 199.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2612,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0G4SHH6YH",
+  "category": "ebook-reader",
+  "title": "Amazon Kindle da 16 GB (ultimo modello)",
+  "brand": "Amazon",
+  "price": {
+   "value": 139.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 787,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FKCM425G",
+  "category": "ebook-reader",
+  "title": "Kobo Clara Colour / eReader / Display antiriflesso a colori E Ink",
+  "brand": "Kobo",
+  "price": {
+   "value": 169.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2927,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D1KV86N4",
+  "category": "ebook-reader",
+  "title": "Kobo Libra Colour eReader, 7\" Color E Ink, impermeabile, bianco",
+  "brand": "Kobo",
+  "price": {
+   "value": 616.53,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 929,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D1KV8J76",
+  "category": "ebook-reader",
+  "title": "Kobo Clara BW / eReader / Touchscreen antiriflesso da 6 pollici",
+  "brand": "Kobo",
+  "price": {
+   "value": 391.64,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 685,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FC254WQH",
+  "category": "ebook-reader",
+  "title": "Amazon Kindle Scribe 64 GB (ultimo modello), schermo da 11''",
+  "brand": "Amazon",
+  "price": {
+   "value": 399.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 199,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GV642G9D",
+  "category": "ebook-reader",
+  "title": "Amazon Kindle Colorsoft da 16 GB (ultimo modello)",
+  "brand": "Amazon",
+  "price": {
+   "value": 299.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 188,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

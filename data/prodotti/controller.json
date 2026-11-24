@@ -1,146 +1,182 @@
 [
-  {
-    "asin": "B0F3JR79YY",
-    "category": "controller",
-    "title": "Nintendo Switch 2 Pro Controller ​",
-    "brand": "Nintendo",
-    "price": {
-      "value": 74.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 3592,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B01N4ND1T2",
+  "category": "controller",
+  "title": "Nintendo Switch: Pro Controller, Nero",
+  "brand": "Nintendo",
+  "price": {
+   "value": 55.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B01N4ND1T2",
-    "category": "controller",
-    "title": "Nintendo Switch: Pro Controller, Nero",
-    "brand": "Nintendo",
-    "price": {
-      "value": 55.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 53850,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B01MRUUSPR",
-    "category": "controller",
-    "title": "PlayStation 4 - Dualshock 4 Controller Wireless V2",
-    "brand": "PlayStation",
-    "price": {
-      "value": 129.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 100996,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B08HKCM222",
-    "category": "controller",
-    "title": "Sony Official PlayStation 5 - DualSense Wireless Controller - White",
-    "brand": "Sony",
-    "price": {
-      "value": 90.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 69784,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HDQ2LRS9",
-    "category": "controller",
-    "title": "Xbox Wireless Controller – Gears of War: E-Day Edizione Limitata Series X/S",
-    "brand": "Xbox",
-    "price": {
-      "value": 89.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 372,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F2NCQYTX",
-    "category": "controller",
-    "title": "Xbox Controller Wireless – Robot White Series X/S, One, PC, TV",
-    "brand": "Xbox",
-    "price": {
-      "value": 47.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2398,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HDTDVF33",
-    "category": "controller",
-    "title": "GameSir G7 Pro 8K Controller Esports Wireless per PC – Bianco",
-    "brand": "GameSir",
-    "price": {
-      "value": 91.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 104,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HBBSJQ6L",
-    "category": "controller",
-    "title": "NexiGo Controller wireless retroilluminato RGB effetto Hall (senza deriva",
-    "brand": "NexiGo",
-    "price": {
-      "value": 42.74,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 209,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 53850,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0F3JR79YY",
+  "category": "controller",
+  "title": "Nintendo Switch 2 Pro Controller ​",
+  "brand": "Nintendo",
+  "price": {
+   "value": 74.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 3592,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01MRUUSPR",
+  "category": "controller",
+  "title": "PlayStation 4 - Dualshock 4 Controller Wireless V2",
+  "brand": "PlayStation",
+  "price": {
+   "value": 129.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 100996,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08HKCM222",
+  "category": "controller",
+  "title": "Sony Official PlayStation 5 - DualSense Wireless Controller - White",
+  "brand": "Sony",
+  "price": {
+   "value": 90.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 69785,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08ZNQN1FP",
+  "category": "controller",
+  "title": "Microsoft Wireless Controller for Xbox Series X, Xbox Series S",
+  "brand": "Microsoft",
+  "price": {
+   "value": 90.89,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 19229,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B093X64R9H",
+  "category": "controller",
+  "title": "Xbox Wireless Controller - Astral Purple per Xbox Series X/S",
+  "brand": "Xbox",
+  "price": {
+   "value": 64.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 2427,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B094WRT8PD",
+  "category": "controller",
+  "title": "Sony PlayStation®5 - DualSense™ Wireless Controller Cosmic Red",
+  "brand": "Sony",
+  "price": {
+   "value": 59.98,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 13659,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DT52LVMS",
+  "category": "controller",
+  "title": "Xbox Controller di gioco wireless (2025) - Rosa intenso",
+  "brand": "Xbox",
+  "price": {
+   "value": 89.1,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1535,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F2N5WHT7",
+  "category": "controller",
+  "title": "Xbox Controller Wireless – Pulse Red Series X/S, One, PC, TV",
+  "brand": "Xbox",
+  "price": {
+   "value": 54.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1356,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F2NCQYTX",
+  "category": "controller",
+  "title": "Xbox Controller Wireless – Robot White Series X/S, One, PC, TV",
+  "brand": "Xbox",
+  "price": {
+   "value": 47.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2398,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

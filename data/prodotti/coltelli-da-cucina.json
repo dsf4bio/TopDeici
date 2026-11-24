@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B00BMTWS9E",
-    "category": "coltelli-da-cucina",
-    "title": "Victorinox Swiss Classic, Coltello da colazione, Coltello da pane",
-    "brand": "Victorinox",
-    "price": {
-      "value": 26.54,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 20540,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B00BMTWS9E",
+  "category": "coltelli-da-cucina",
+  "title": "Victorinox Swiss Classic, Coltello da colazione, Coltello da pane",
+  "brand": "Victorinox",
+  "price": {
+   "value": 26.54,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B071VPQZNN",
-    "category": "coltelli-da-cucina",
-    "title": "Victorinox Set di Coltelli Bistecca e Pizza Professionali Swiss Classic",
-    "brand": "Victorinox",
-    "price": {
-      "value": 27.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 4921,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B00R3Z46JQ",
-    "category": "coltelli-da-cucina",
-    "title": "Amazon Basics Set Premium di coltelli con Ceppo, 9 unità, Nero",
-    "brand": "Amazon Basics",
-    "price": {
-      "value": 28.84,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 33613,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B00Q6NV734",
-    "category": "coltelli-da-cucina",
-    "title": "Sanelli 909604 Confezione Coltelli Chef 4 Pezzi",
-    "brand": "Sanelli",
-    "price": {
-      "value": 65.12,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 467,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CL9VZHK7",
-    "category": "coltelli-da-cucina",
-    "title": "MasterChef Set Coltelli da Cucina Professionali con Borsa",
-    "brand": "MasterChef",
-    "price": {
-      "value": 44.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 796,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DQXNCHDX",
-    "category": "coltelli-da-cucina",
-    "title": "HOSHANHO Set di Coltelli da 5 Pezzi, Giapponesi Set Coltelli da Cucina",
-    "brand": "HOSHANHO",
-    "price": {
-      "value": 95.28,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 566,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07KMT5LQN",
-    "category": "coltelli-da-cucina",
-    "title": "Sanelli Set 5 coltelli Premana Professional Rotolo Cuoco, Cordura, Nero/Verde",
-    "brand": "Sanelli",
-    "price": {
-      "value": 90.38,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 510,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0000ACOV0",
-    "category": "coltelli-da-cucina",
-    "title": "ZWILLING Professional S Set di Coltelli 3 Pezzi, Made in Germany",
-    "brand": "ZWILLING",
-    "price": {
-      "value": 109.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3258,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CL9T2P5R",
-    "category": "coltelli-da-cucina",
-    "title": "MasterChef Set Coltelli da Cucina con Ceppo Universale, Portacoltelli",
-    "brand": "MasterChef",
-    "price": {
-      "value": 26.59,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2741,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B09V4TPTKF",
-    "category": "coltelli-da-cucina",
-    "title": "D.Perlla Set Coltelli da Cucina Professionale",
-    "brand": "D.Perlla",
-    "price": {
-      "value": 65.15,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2724,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.8,
+   "count": 20540,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00N9HWFLS",
+  "category": "coltelli-da-cucina",
+  "title": "Cuisinart 12-piece rivestito in ceramica color set di coltelli",
+  "brand": "Cuisinart",
+  "price": {
+   "value": 88.46,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 6468,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B001KTTKQU",
+  "category": "coltelli-da-cucina",
+  "title": "Victorinox Swiss Classic Set 3 coltelli da cucina",
+  "brand": "Victorinox",
+  "price": {
+   "value": 28.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 6246,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00BMTRU0Q",
+  "category": "coltelli-da-cucina",
+  "title": "Victorinox - Set da 6 coltelli da Cucina Colorati",
+  "brand": "Victorinox",
+  "price": {
+   "value": 43.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 4992,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B071VPQZNN",
+  "category": "coltelli-da-cucina",
+  "title": "Victorinox Set di Coltelli Bistecca e Pizza Professionali Swiss",
+  "brand": "Victorinox",
+  "price": {
+   "value": 27.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 4921,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B076X5DNF1",
+  "category": "coltelli-da-cucina",
+  "title": "Tramontina Set Coltelli e Forbici Plenus 8 Pezzi",
+  "brand": "Tramontina",
+  "price": {
+   "value": 32.5,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 4842,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B071VQJDC3",
+  "category": "coltelli-da-cucina",
+  "title": "Chef’s Vision Cosmos Messerset",
+  "brand": "Chef's Vision",
+  "price": {
+   "value": 180.06,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 4388,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B076JGVRS2",
+  "category": "coltelli-da-cucina",
+  "title": "Tramontina Set Coltelli in Acciaio Inox e Manici in Legno Castagno",
+  "brand": "Tramontina",
+  "price": {
+   "value": 40.77,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.9,
+   "count": 1209,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HGBT8HH7",
+  "category": "coltelli-da-cucina",
+  "title": "Amazon Basics Set di coltelli Colorati, 12 Pezzi",
+  "brand": "Amazon Basics",
+  "price": {
+   "value": 27.18,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 25841,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00GIBKC3K",
+  "category": "coltelli-da-cucina",
+  "title": "Cuisinart C77SS-15PK Set di coltelli da 15 pezzi, in acciaio inox con ceppo",
+  "brand": "Cuisinart",
+  "price": {
+   "value": 202.11,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 19942,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

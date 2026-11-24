@@ -1,128 +1,182 @@
 [
-  {
-    "asin": "B08WQ7STJF",
-    "category": "smart-tv",
-    "title": "LG OLED48A16LA Smart TV 4K 48\", TV OLED Serie A1 2021, Processore α7 Gen4",
-    "brand": "LG",
-    "price": {
-      "value": 1125.22,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 701,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B09T74KPR6",
+  "category": "smart-tv",
+  "title": "LG 32LQ63006LA Smart TV 32\" Full HD",
+  "brand": "LG",
+  "price": {
+   "value": 184.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B09T74KPR6",
-    "category": "smart-tv",
-    "title": "LG 32LQ63006LA Smart TV 32\" Full HD",
-    "brand": "LG",
-    "price": {
-      "value": 184.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 4008,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F9WRKNS3",
-    "category": "smart-tv",
-    "title": "TCL 65Q8C – Smart TV QD‑Mini LED 4K HDR10+ da 65\", 4.500nit, ZeroBorder",
-    "brand": "TCL",
-    "price": {
-      "value": 999.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 282,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B094KXD65K",
-    "category": "smart-tv",
-    "title": "LG Smart TV 55UP75006LF 55' 4K Ultra HD LED WiFi",
-    "brand": "LG",
-    "price": {
-      "value": 599.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 255,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F6VCDV58",
-    "category": "smart-tv",
-    "title": "LG OLED evo AI 48 Pollici, Serie C5 2025 Smart TV 4K - OLED48C56LB",
-    "brand": "LG",
-    "price": {
-      "value": 733.5,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 225,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GXKSZKLT",
-    "category": "smart-tv",
-    "title": "TCL 65Q7D Pro – Smart TV SQD‑Mini LED 4K HDR10+ da 65\", 2.000nit",
-    "brand": "TCL",
-    "price": {
-      "value": 899.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 174,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BWFPKKCX",
-    "category": "smart-tv",
-    "title": "Samsung TV UE50CU8070UXZT Crystal UHD 4K, Smart TV 50\" Processore Crystal 4K",
-    "brand": "Samsung",
-    "price": {
-      "value": 589.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 136,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 4008,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B08WQ7STJF",
+  "category": "smart-tv",
+  "title": "LG OLED48A16LA Smart TV 4K 48\", TV OLED Serie A1 2021",
+  "brand": "LG",
+  "price": {
+   "value": 1146.76,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 701,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B087KB7WQL",
+  "category": "smart-tv",
+  "title": "Samsung TV UE55TU7190UXZT Smart TV 55\" Serie TU7190, Crystal UHD 4K",
+  "brand": "Samsung",
+  "price": {
+   "value": 620.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 3461,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07QKDJVNG",
+  "category": "smart-tv",
+  "title": "Samsung UE43RU7170U Smart TV 4k Ultra HD 43\" Wi-Fi DVB-T2CS2",
+  "brand": "Samsung",
+  "price": {
+   "value": 520.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1293,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FXZ21F3X",
+  "category": "smart-tv",
+  "title": "Roku Smart TV serie selezionata da 55 pollici 2026-4K (2160p) QLED TV TV",
+  "brand": "Roku",
+  "price": {
+   "value": 917.78,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 944,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B092W64XKW",
+  "category": "smart-tv",
+  "title": "Samsung TV UE65AU7170UXZT, Smart TV 65\" Serie AU7100, Modello AU7170",
+  "brand": "Samsung",
+  "price": {
+   "value": 842.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 755,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F9WRKNS3",
+  "category": "smart-tv",
+  "title": "TCL 65Q8C – Smart TV QD‑Mini LED 4K HDR10+ da 65\", 4.500nit, ZeroBorder",
+  "brand": "TCL",
+  "price": {
+   "value": 999.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 282,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07R9XDTJJ",
+  "category": "smart-tv",
+  "title": "LG 55UM7100PLB 139.7 cm (55\") 4K Ultra HD Smart TV Wi-Fi Nero",
+  "brand": "LG",
+  "price": {
+   "value": 599.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 721,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B094KXD65K",
+  "category": "smart-tv",
+  "title": "LG Smart TV 55UP75006LF 55' 4K Ultra HD LED WiFi",
+  "brand": "LG",
+  "price": {
+   "value": 599.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 255,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F1MHBWZ8",
+  "category": "smart-tv",
+  "title": "Hisense 43E63QT Smart TV 43\" Direct LED Ultra HD 4K HDR 10 - Bordeless",
+  "brand": "Hisense",
+  "price": {
+   "value": 272.91,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 632,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

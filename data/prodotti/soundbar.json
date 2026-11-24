@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0F9WS1HQJ",
-    "category": "soundbar",
-    "title": "Samsung Soundbar HW-B66CF/ZF Serie B, 4 Speaker, Wireless, Dolby 5.1ch",
-    "brand": "Samsung",
-    "price": {
-      "value": 139.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 126,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0G6BT1C8Q",
+  "category": "soundbar",
+  "title": "ULTIMEA Soundbar 2.1 canali per TV, subwoofer integrato",
+  "brand": "ULTIMEA",
+  "price": {
+   "value": 56.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0999NHJQ6",
-    "category": "soundbar",
-    "title": "Redragon Soundbar GS560 Adiemus, RGB, dimensioni compatte",
-    "brand": "Redragon",
-    "price": {
-      "value": 39.54,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 898,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0G6BT1C8Q",
-    "category": "soundbar",
-    "title": "ULTIMEA Soundbar 2.1 canali per TV, subwoofer integrato",
-    "brand": "ULTIMEA",
-    "price": {
-      "value": 56.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 753,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DDZ6P92X",
-    "category": "soundbar",
-    "title": "Sonos Soundbar Arc Ultra con Dolby Atmos e controllo vocale",
-    "brand": "Sonos",
-    "price": {
-      "value": 849.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 428,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FD467CS5",
-    "category": "soundbar",
-    "title": "CINEBAR 11 for Dolby Atmos 2.1 Set, Soundbar Dolby Atmos",
-    "brand": "CINEBAR",
-    "price": {
-      "value": 303.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 119,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B00BD1I8P4",
-    "category": "soundbar",
-    "title": "Sonos PLAYBAR - Soundbar e altoparlante wireless",
-    "brand": "Sonos",
-    "price": {
-      "value": 1390.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 361,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DDZC1KP7",
-    "category": "soundbar",
-    "title": "Sonos Arc Ultra Soundbar con Dolby Atmos e controllo vocale",
-    "brand": "Sonos",
-    "price": {
-      "value": 979.48,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 107,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B093BV9CK1",
-    "category": "soundbar",
-    "title": "LG SP8YA Soundbar TV 440W 3.1.2 Canali Meridian con Subwoofer Wireless",
-    "brand": "LG",
-    "price": {
-      "value": 580.46,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 336,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B081TDZYD6",
-    "category": "soundbar",
-    "title": "Teufel CINEBAR Ultima - Potente soundbar da 380 watt, subwoofer XXL integrato",
-    "brand": "Teufel",
-    "price": {
-      "value": 414.98,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 279,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D4MM811S",
-    "category": "soundbar",
-    "title": "LG S70TR Soundbar TV 500W su 5.1.1 Canali con Subwoofer Wireless",
-    "brand": "LG",
-    "price": {
-      "value": 264.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 249,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 753,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B083VFWY49",
+  "category": "soundbar",
+  "title": "Samsung Soundbar HW-T420/ZF da 150W, 2.1 Canali, Nero",
+  "brand": "Samsung",
+  "price": {
+   "value": 99.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2118,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DDZ6P92X",
+  "category": "soundbar",
+  "title": "Sonos Soundbar Arc Ultra con Dolby Atmos e controllo vocale",
+  "brand": "Sonos",
+  "price": {
+   "value": 849.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 428,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07HN2HMYB",
+  "category": "soundbar",
+  "title": "DENON DHT-S316 Soundbar 2.1 con Subwoofer Wireless, Nero",
+  "brand": "DENON",
+  "price": {
+   "value": 260.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1544,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09B13XFGY",
+  "category": "soundbar",
+  "title": "Sonos Soundbar compatta Beam (Gen 2)",
+  "brand": "Sonos",
+  "price": {
+   "value": 349.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1375,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00BD1I8P4",
+  "category": "soundbar",
+  "title": "Sonos PLAYBAR - Soundbar e altoparlante wireless",
+  "brand": "Sonos",
+  "price": {
+   "value": 1390.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 361,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CD2PJSRH",
+  "category": "soundbar",
+  "title": "Bose Smart Ultra Soundbar con Dolby Atmos e controllo vocale Alexa",
+  "brand": "Bose",
+  "price": {
+   "value": 529.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1122,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D22SVP73",
+  "category": "soundbar",
+  "title": "Hisense HS3100 Soundbar 3.1, Potenza 480W, Subwoofer Esterno wireless",
+  "brand": "Hisense",
+  "price": {
+   "value": 116.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1093,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B093BV9CK1",
+  "category": "soundbar",
+  "title": "LG SP8YA Soundbar TV 440W 3.1.2 Canali Meridian con Subwoofer Wireless",
+  "brand": "LG",
+  "price": {
+   "value": 580.46,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 336,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F6NK5773",
+  "category": "soundbar",
+  "title": "ULTIMEA 5.1ch Soundbar TV con Dolby Atmos, 340W, Impianto Audio Surround",
+  "brand": "ULTIMEA",
+  "price": {
+   "value": 135.36,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 943,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

@@ -1,164 +1,182 @@
 [
-  {
-    "asin": "B0HLF3GXRD",
-    "category": "robot-aspirapolvere",
-    "title": "VONKO Robot Aspirapolvere Lavapavimenti con Stazione, 8000Pa, LiDAR 2.0",
-    "brand": "VONKO",
-    "price": {
-      "value": 139.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 434,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0GHN3V6BP",
+  "category": "robot-aspirapolvere",
+  "title": "roborock Qrevo S Pro Robot Aspirapolvere Lavapavimenti",
+  "brand": "roborock",
+  "price": {
+   "value": 299.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0GY89Y1G5",
-    "category": "robot-aspirapolvere",
-    "title": "Vexilar Upgrade 10,000Pa Robot Aspirapolvere Lavapavimenti con Mappatura",
-    "brand": "Vexilar",
-    "price": {
-      "value": 129.19,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 349,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GNZNSV4P",
-    "category": "robot-aspirapolvere",
-    "title": "JONR T5 PRO GEN2 - Robot aspirapolvere con funzione di pulizia, potenza di",
-    "brand": "JONR",
-    "price": {
-      "value": 299.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 216,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H1539JTF",
-    "category": "robot-aspirapolvere",
-    "title": "Proscenic Q20 Plus Robot Aspirapolvere Lavapavimenti con Mappatura 10000Pa",
-    "brand": "Proscenic",
-    "price": {
-      "value": 197.19,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 208,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H6DZJX44",
-    "category": "robot-aspirapolvere",
-    "title": "FAMIVAC R10 Robot Aspirapolvere Lavapavimenti 3 in 1, 6000 Pa, 200 Min",
-    "brand": "FAMIVAC",
-    "price": {
-      "value": 99.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 184,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GWJY9SLX",
-    "category": "robot-aspirapolvere",
-    "title": "Mova V50 Ultra Complete Robot Aspirapolvere, Bianco, Powered by dreame",
-    "brand": "Mova",
-    "price": {
-      "value": 877.91,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 144,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HCC4H13X",
-    "category": "robot-aspirapolvere",
-    "title": "ECOVACS X12S OMNICYCLONE Robot Aspirapolvere Lavapavimenti 27.000 Pa",
-    "brand": "ECOVACS",
-    "price": {
-      "value": 799.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 125,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HBWNNV1D",
-    "category": "robot-aspirapolvere",
-    "title": "iRobot Roomba® Max 875 Combo robot aspirapolvere lavapavimenti, nero",
-    "brand": "iRobot",
-    "price": {
-      "value": 799.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 62,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GL372BTX",
-    "category": "robot-aspirapolvere",
-    "title": "Shark ThermaCharged PowerDetect Wet&Dry, Robot Aspirapolvere Lavapavimenti",
-    "brand": "Shark",
-    "price": {
-      "value": 1049.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 50,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.5,
+   "count": 5626,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0GZZ96X7N",
+  "category": "robot-aspirapolvere",
+  "title": "roborock Qrevo 2 Pro Set Robot Aspirapolvere Lavapavimenti 25.000Pa",
+  "brand": "roborock",
+  "price": {
+   "value": 379.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 3010,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HLF3GXRD",
+  "category": "robot-aspirapolvere",
+  "title": "VONKO Robot Aspirapolvere Lavapavimenti con Stazione, 8000Pa, LiDAR 2.0",
+  "brand": "VONKO",
+  "price": {
+   "value": 139.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 434,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GY89Y1G5",
+  "category": "robot-aspirapolvere",
+  "title": "Vexilar Upgrade 10,000Pa Robot Aspirapolvere Lavapavimenti",
+  "brand": "Vexilar",
+  "price": {
+   "value": 129.19,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 349,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B008LX6JWG",
+  "category": "robot-aspirapolvere",
+  "title": "iRobot Roomba 631 – Robot aspirapolvere",
+  "brand": "iRobot",
+  "price": {
+   "value": 1099.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 768,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GSZ6BPW9",
+  "category": "robot-aspirapolvere",
+  "title": "roborock Qrevo EdgeT Robot Aspirapolvere Lavapavimenti",
+  "brand": "roborock",
+  "price": {
+   "value": 399.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 705,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FVXWPDD2",
+  "category": "robot-aspirapolvere",
+  "title": "Lefant M330 Pro Robot Aspirapolvere Lavapavimenti con Mappatura 5000Pa",
+  "brand": "Lefant",
+  "price": {
+   "value": 139.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 4228,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F53MJY8T",
+  "category": "robot-aspirapolvere",
+  "title": "DREAME L40 Ultra AE Robot Aspirapolvere, Lavaggio Panno 75°C",
+  "brand": "DREAME",
+  "price": {
+   "value": 699.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 3471,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GNZNSV4P",
+  "category": "robot-aspirapolvere",
+  "title": "JONR T5 PRO GEN2 - Robot aspirapolvere con funzione di pulizia",
+  "brand": "JONR",
+  "price": {
+   "value": 299.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 216,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GYSB14X6",
+  "category": "robot-aspirapolvere",
+  "title": "Lefant M5 Robot Aspirapolvere Lavapavimenti con Rullo 20000Pa",
+  "brand": "Lefant",
+  "price": {
+   "value": 284.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2795,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

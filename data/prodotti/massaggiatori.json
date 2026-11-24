@@ -1,20 +1,182 @@
 [
-  {
-    "asin": "B00R2Q15F4",
-    "category": "massaggiatori",
-    "title": "DONNERBERG® L'Originale Massaggiatore Cervicale E Spalle Shiatsu Con Calore",
-    "brand": "DONNERBERG",
-    "price": {
-      "value": 199.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 6462,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B00R2Q15F4",
+  "category": "massaggiatori",
+  "title": "DONNERBERG® L'Originale Massaggiatore Cervicale E Spalle Shiatsu Con",
+  "brand": "DONNERBERG",
+  "price": {
+   "value": 199.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 6462,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00BOYA2M2",
+  "category": "massaggiatori",
+  "title": "Zyllion Shiatsu massaggiatore per schiena e collo",
+  "brand": "Zyllion",
+  "price": {
+   "value": 87.86,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 48146,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07R9Z94CL",
+  "category": "massaggiatori",
+  "title": "RENPHO Massaggiatore Gambe a Compressione d’Aria per il Massaggio e Il",
+  "brand": "RENPHO",
+  "price": {
+   "value": 81.26,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 19819,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08CY2T1YC",
+  "category": "massaggiatori",
+  "title": "VOYOR-HEALTH Cuscino Massaggiante per Schiena e Collo, Casa",
+  "brand": "VOYOR-HEALTH",
+  "price": {
+   "value": 46.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1703,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08CY3JB9L",
+  "category": "massaggiatori",
+  "title": "VOYOR-HEALTH Massaggiatore Cervicale Massaggiatore Collo e Spalle PJ100",
+  "brand": "VOYOR-HEALTH",
+  "price": {
+   "value": 53.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1307,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DW7ZVQM3",
+  "category": "massaggiatori",
+  "title": "FIT KING Pressoterapia per Casa, Massaggiatore Gambe",
+  "brand": "FIT KING",
+  "price": {
+   "value": 83.35,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 794,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08Z8GZGZY",
+  "category": "massaggiatori",
+  "title": "Medcursor Massaggiatore per piedi con calore, impastatore profondo",
+  "brand": "Medcursor",
+  "price": {
+   "value": 75.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 3155,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07HKVPLMR",
+  "category": "massaggiatori",
+  "title": "Snailax Sedile Massaggiante con Calore",
+  "brand": "Snailax",
+  "price": {
+   "value": 122.5,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 3017,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0G42RZVYY",
+  "category": "massaggiatori",
+  "title": "Nekteck Massaggiatore Shiatsu per piedi con calore",
+  "brand": "Nekteck",
+  "price": {
+   "value": 89.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2526,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B083BTRKV9",
+  "category": "massaggiatori",
+  "title": "Snailax Massaggiatore per piedi con calore",
+  "brand": "Snailax",
+  "price": {
+   "value": 49.98,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2102,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

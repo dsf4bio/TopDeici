@@ -1,74 +1,182 @@
 [
-  {
-    "asin": "B0C6MC8JGK",
-    "category": "idropulsori",
-    "title": "Oral-B Idropulsore, 2 Beccucci Oxyjet, Spazzolino Elettrico iO6, 2 Testine",
-    "brand": "Oral-B",
-    "price": {
-      "value": 187.3,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 423,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B073WGYSF9",
+  "category": "idropulsori",
+  "title": "Waterpik Ultra Professional Idropulsore Dentale Con Base d'Appoggio",
+  "brand": "Waterpik",
+  "price": {
+   "value": 66.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0DR2ZWZND",
-    "category": "idropulsori",
-    "title": "XIAOMI Idropulsore 2",
-    "brand": "XIAOMI",
-    "price": {
-      "value": 43.97,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 275,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0C6FBS5BN",
-    "category": "idropulsori",
-    "title": "Panasonic EW1614AW503 PACK Irrigatore Orale per la Famiglia",
-    "brand": "Panasonic",
-    "price": {
-      "value": 112.26,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 257,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F8BD8454",
-    "category": "idropulsori",
-    "title": "JTF Idropulsore per bambini, design compatto portatile, 4 modalità delicate",
-    "brand": "JTF",
-    "price": {
-      "value": 44.55,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 149,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.5,
+   "count": 26310,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0DXQJ4CWD",
+  "category": "idropulsori",
+  "title": "GuruNanda Idropulsore dentale compatto, irrigatore orale da viaggio",
+  "brand": "GuruNanda",
+  "price": {
+   "value": 38.64,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1324,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CJCCH919",
+  "category": "idropulsori",
+  "title": "Irrigatore orale portatile Vimmk Irrigatore dentale senza fili",
+  "brand": "Vimmk",
+  "price": {
+   "value": 33.53,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 10093,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CJF3JN2P",
+  "category": "idropulsori",
+  "title": "VIMMK Jet Dentale Idropulsore e Irrigatori Orali",
+  "brand": "VIMMK",
+  "price": {
+   "value": 46.05,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 10093,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01MR85W6K",
+  "category": "idropulsori",
+  "title": "Aquapik 100 Idropulsore Dentale Professionale, 600 ml, 10 Livelli",
+  "brand": "Aquapik",
+  "price": {
+   "value": 43.6,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 4806,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D8SSDLDP",
+  "category": "idropulsori",
+  "title": "COSLUS Idropulsore Dentale Portatile Con Modalità DIY​ Migliorata,Verde",
+  "brand": "COSLUS",
+  "price": {
+   "value": 25.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 3593,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F7XH6RW3",
+  "category": "idropulsori",
+  "title": "usmile C10 Idropulsore Dentale Portatile",
+  "brand": "usmile",
+  "price": {
+   "value": 62.69,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 518,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DR2ZWZND",
+  "category": "idropulsori",
+  "title": "XIAOMI Idropulsore 2",
+  "brand": "XIAOMI",
+  "price": {
+   "value": 43.97,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 275,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C6FBS5BN",
+  "category": "idropulsori",
+  "title": "Panasonic EW1614AW503 PACK Irrigatore Orale per la Famiglia",
+  "brand": "Panasonic",
+  "price": {
+   "value": 112.26,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 257,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F5X1VVW7",
+  "category": "idropulsori",
+  "title": "COSLUS C50 Idropulsore Portatile, 4 Modalità",
+  "brand": "COSLUS",
+  "price": {
+   "value": 25.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1410,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

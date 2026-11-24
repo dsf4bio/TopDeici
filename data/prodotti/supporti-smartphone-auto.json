@@ -1,56 +1,182 @@
 [
-  {
-    "asin": "B0H7HH57YS",
-    "category": "supporti-smartphone-auto",
-    "title": "MSXTTLY Caricatore Auto Wireless per MagSafe 25W Qi2.2",
-    "brand": "MSXTTLY",
-    "price": {
-      "value": 37.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 254,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0BRQ5MXGT",
+  "category": "supporti-smartphone-auto",
+  "title": "VANMASS Supporto per cellulare di classe militare",
+  "brand": "VANMASS",
+  "price": {
+   "value": 35.36,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0H1G54D1B",
-    "category": "supporti-smartphone-auto",
-    "title": "Coolpow Supporto Telefono Magnetico Auto Ricarica Wireless per Magsafe",
-    "brand": "Coolpow",
-    "price": {
-      "value": 27.61,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 68,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0G4V5XNJ3",
-    "category": "supporti-smartphone-auto",
-    "title": "MOKPR Supporto magnetico per auto, 15 W, per iPhone",
-    "brand": "MOKPR",
-    "price": {
-      "value": 31.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 51,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 4931,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B07Z3K8YWR",
+  "category": "supporti-smartphone-auto",
+  "title": "VANMASS Porta Cellulare Auto【Protezione di Qualità Militare】,【Brevetti",
+  "brand": "VANMASS",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 68489,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0066BWMNU",
+  "category": "supporti-smartphone-auto",
+  "title": "RAM Mount RAM-B-166-UN7 Supporto a Ventosa per iPhone 5",
+  "brand": "RAM",
+  "price": {
+   "value": 105.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 3283,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GGBB1BVY",
+  "category": "supporti-smartphone-auto",
+  "title": "VANMASS Supporto per cellulare militare 2026 per auto",
+  "brand": "VANMASS",
+  "price": {
+   "value": 49.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 32851,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08HNBHSQV",
+  "category": "supporti-smartphone-auto",
+  "title": "ESR 15W Caricatore Wireless Auto MagSafe",
+  "brand": "ESR",
+  "price": {
+   "value": 25.63,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 24839,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07T6SX1JT",
+  "category": "supporti-smartphone-auto",
+  "title": "TORRAS, Supporto per telefono cellulare auto, cruscotto",
+  "brand": "TORRAS",
+  "price": {
+   "value": 53.46,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 23444,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0756NFMCC",
+  "category": "supporti-smartphone-auto",
+  "title": "WixGear Supporto magnetico da auto rettangolare piatto da attaccare sul",
+  "brand": "WixGear",
+  "price": {
+   "value": 28.68,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2324,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09G6GZR84",
+  "category": "supporti-smartphone-auto",
+  "title": "VANMASS Porta Cellulare Auto,【2024 Versione Finale】 Ventosa Universale",
+  "brand": "VANMASS",
+  "price": {
+   "value": 32.2,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 17939,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07Q7XZ36X",
+  "category": "supporti-smartphone-auto",
+  "title": "andobil - Supporto per il cellulare universale, per auto",
+  "brand": "andobil",
+  "price": {
+   "value": 32.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 15626,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00LVTEJTW",
+  "category": "supporti-smartphone-auto",
+  "title": "RAM Mount RAP-B-166-UN7U supporto per personal communication Universale",
+  "brand": "RAM",
+  "price": {
+   "value": 84.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1859,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

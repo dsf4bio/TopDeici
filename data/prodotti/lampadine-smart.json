@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0FJ8X8D1R",
-    "category": "lampadine-smart",
-    "title": "Philips Hue Essential A60, Lampadina smart E27, Confezione da 4",
-    "brand": "Philips Hue",
-    "price": {
-      "value": 44.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 1244,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0798LF5PF",
+  "category": "lampadine-smart",
+  "title": "iLC LED Lampadine Faretto GU10 colorate Cambiare colore Lampadina RGB",
+  "brand": "iLC",
+  "price": {
+   "value": 27.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0798LF5PF",
-    "category": "lampadine-smart",
-    "title": "iLC LED Lampadine Faretto GU10 colorate Cambiare colore Lampadina RGB Bianco…",
-    "brand": "iLC",
-    "price": {
-      "value": 27.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 11697,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0C3VPLLMY",
-    "category": "lampadine-smart",
-    "title": "Govee Lampadine LED E27 Intelligenti WiFi e Bluetooth, Set di 4",
-    "brand": "Govee",
-    "price": {
-      "value": 34.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 5694,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D7QQ9JBT",
-    "category": "lampadine-smart",
-    "title": "Philips Hue GU10, Lampadina per Faretto, 3 Pz",
-    "brand": "Philips Hue",
-    "price": {
-      "value": 97.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 504,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07XC1RTXQ",
-    "category": "lampadine-smart",
-    "title": "Philips Hue White and Color Ambiance Starter Kit 2 Lampadine Smart",
-    "brand": "Philips Hue",
-    "price": {
-      "value": 86.24,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2546,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FJ8WL5WK",
-    "category": "lampadine-smart",
-    "title": "Philips Hue LED A60, Lampadine smart E27, Confezione da 1",
-    "brand": "Philips Hue",
-    "price": {
-      "value": 29.56,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 349,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FJ8X73SN",
-    "category": "lampadine-smart",
-    "title": "Philips Hue Essential, Smart LED GU10, Confezione da 4",
-    "brand": "Philips Hue",
-    "price": {
-      "value": 44.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 946,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FH54DB33",
-    "category": "lampadine-smart",
-    "title": "Govee E14 Lampadina Intelligente RGBWW, 450LM, 4.8W, Set di 4",
-    "brand": "Govee",
-    "price": {
-      "value": 33.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 851,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0C61QL79Z",
-    "category": "lampadine-smart",
-    "title": "Philips Hue Luster, Lampadina smart LED, Confezione da 2, Bianco",
-    "brand": "Philips Hue",
-    "price": {
-      "value": 59.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 212,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DM8RVBLW",
-    "category": "lampadine-smart",
-    "title": "Philips Hue White, Lampadina Smart LED E27, Confezione da 2",
-    "brand": "Philips Hue",
-    "price": {
-      "value": 29.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 497,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 11697,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0FJ8X8D1R",
+  "category": "lampadine-smart",
+  "title": "Philips Hue Essential A60, Lampadina smart E27, Confezione da 4",
+  "brand": "Philips Hue",
+  "price": {
+   "value": 44.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1244,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C3VPLLMY",
+  "category": "lampadine-smart",
+  "title": "Govee Lampadine LED E27 Intelligenti WiFi e Bluetooth, Set di 4",
+  "brand": "Govee",
+  "price": {
+   "value": 34.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 5694,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07XC1RTXQ",
+  "category": "lampadine-smart",
+  "title": "Philips Hue White and Color Ambiance Starter Kit 2 Lampadine Smart",
+  "brand": "Philips Hue",
+  "price": {
+   "value": 64.56,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2546,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D7QQ9JBT",
+  "category": "lampadine-smart",
+  "title": "Philips Hue GU10, Lampadina per Faretto, 3 Pz",
+  "brand": "Philips Hue",
+  "price": {
+   "value": 97.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 504,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FJ8X73SN",
+  "category": "lampadine-smart",
+  "title": "Philips Hue Essential, Smart LED GU10, Confezione da 4",
+  "brand": "Philips Hue",
+  "price": {
+   "value": 44.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 946,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FH54DB33",
+  "category": "lampadine-smart",
+  "title": "Govee E14 Lampadina Intelligente RGBWW, 450LM, 4.8W, Set di 4",
+  "brand": "Govee",
+  "price": {
+   "value": 33.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 851,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FJ8WL5WK",
+  "category": "lampadine-smart",
+  "title": "Philips Hue LED A60, Lampadine smart E27, Confezione da 1",
+  "brand": "Philips Hue",
+  "price": {
+   "value": 29.56,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 349,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DM8RVBLW",
+  "category": "lampadine-smart",
+  "title": "Philips Hue White, Lampadina Smart LED E27, Confezione da 2",
+  "brand": "Philips Hue",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 497,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C61QL79Z",
+  "category": "lampadine-smart",
+  "title": "Philips Hue Luster, Lampadina smart LED, Confezione da 2, Bianco",
+  "brand": "Philips Hue",
+  "price": {
+   "value": 59.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 212,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

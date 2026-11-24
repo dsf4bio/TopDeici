@@ -1,164 +1,182 @@
 [
-  {
-    "asin": "B0DB5YQV6Y",
-    "category": "sedie-gaming",
-    "title": "DIABLO Sedia Gaming Tessuto X-Horn 2.0 / Braccioli 3D Regolabili",
-    "brand": "DIABLO",
-    "price": {
-      "value": 199.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2016,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0DB5YQV6Y",
+  "category": "sedie-gaming",
+  "title": "DIABLO Sedia Gaming Tessuto X-Horn 2.0 / Braccioli 3D Regolabili",
+  "brand": "DIABLO",
+  "price": {
+   "value": 199.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0DB5YCDDV",
-    "category": "sedie-gaming",
-    "title": "DIABLO Sedia Gaming Tessuto X-One 2.0 / Braccioli Regolabili",
-    "brand": "DIABLO",
-    "price": {
-      "value": 185.24,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 1345,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FSZQTSTJ",
-    "category": "sedie-gaming",
-    "title": "AutoFull M6 Ultra 2.0 Sedia Gaming con supporto lombare dinamico",
-    "brand": "AutoFull",
-    "price": {
-      "value": 479.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 4150,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B08BLHM283",
-    "category": "sedie-gaming",
-    "title": "DIABLO X-Gamer 2.0 Sedia Gaming Gamer da Ufficio Design Ergonomico Cuscino…",
-    "brand": "DIABLO",
-    "price": {
-      "value": 144.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 748,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GHR5M6JF",
-    "category": "sedie-gaming",
-    "title": "Dowinx sedia da gaming ergonomica con poggiapiedi",
-    "brand": "Dowinx",
-    "price": {
-      "value": 115.89,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 431,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FC24FZZX",
-    "category": "sedie-gaming",
-    "title": "Dowinx Sedia da gaming, ergonomica, con cuscino lombare",
-    "brand": "Dowinx",
-    "price": {
-      "value": 161.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 395,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FC55MXVX",
-    "category": "sedie-gaming",
-    "title": "Yaheetech Sedia Gaming Ergonomica Massaggiante Schienale Reclinabile Nero",
-    "brand": "Yaheetech",
-    "price": {
-      "value": 106.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 295,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0G1SMLR6W",
-    "category": "sedie-gaming",
-    "title": "Racingreat Sedia da Gaming, Sedia Gaming Ergonomica per Gamer",
-    "brand": "Racingreat",
-    "price": {
-      "value": 71.29,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 258,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FVDZ8VS4",
-    "category": "sedie-gaming",
-    "title": "WOLTU Sedia da gaming,Sedia Gaming Ergonomica con Ruote Silenziose,Crema",
-    "brand": "WOLTU",
-    "price": {
-      "value": 106.39,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 102,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 2016,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0FSZQTSTJ",
+  "category": "sedie-gaming",
+  "title": "AutoFull M6 Ultra 2.0 Sedia Gaming con supporto lombare dinamico",
+  "brand": "AutoFull",
+  "price": {
+   "value": 479.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 4150,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DB5YCDDV",
+  "category": "sedie-gaming",
+  "title": "DIABLO Sedia Gaming Tessuto X-One 2.0 / Braccioli Regolabili",
+  "brand": "DIABLO",
+  "price": {
+   "value": 185.24,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1345,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B083SXT7Q6",
+  "category": "sedie-gaming",
+  "title": "Oversteel - ULTIMET Sedia da gaming professionale in similpelle",
+  "brand": "Oversteel",
+  "price": {
+   "value": 193.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 13714,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C48Z3GG9",
+  "category": "sedie-gaming",
+  "title": "Ferghana Sedia da Gaming Ergonomica",
+  "brand": "Ferghana",
+  "price": {
+   "value": 100.31,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1019,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GHR5M6JF",
+  "category": "sedie-gaming",
+  "title": "Dowinx sedia da gaming ergonomica con poggiapiedi",
+  "brand": "Dowinx",
+  "price": {
+   "value": 115.89,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 431,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B086MC977H",
+  "category": "sedie-gaming",
+  "title": "SONGMICS Poltrona Gamer, Sedia Gaming Regolabile, carico 150 kg",
+  "brand": "SONGMICS",
+  "price": {
+   "value": 101.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 8145,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09SWNNC88",
+  "category": "sedie-gaming",
+  "title": "Soontrans Sedia Gaming con Massaggio Lombare Poggiatesta Poggiapiedi",
+  "brand": "Soontrans",
+  "price": {
+   "value": 85.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 6519,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B085NW2HJ9",
+  "category": "sedie-gaming",
+  "title": "tectake® Sedia da Ufficio Ergonomica, Girevole, Altezza Regolabile",
+  "brand": "tectake",
+  "price": {
+   "value": 66.98,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 5771,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0G4D12S14",
+  "category": "sedie-gaming",
+  "title": "Dowinx Sedia da gaming ergonomica con poggiapiedi",
+  "brand": "Dowinx",
+  "price": {
+   "value": 161.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 597,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

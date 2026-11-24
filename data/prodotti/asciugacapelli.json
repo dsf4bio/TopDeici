@@ -1,146 +1,182 @@
 [
-  {
-    "asin": "B07BPB687B",
-    "category": "asciugacapelli",
-    "title": "Parlux Alyon Asciugacapelli Professionale, Nero Opaco",
-    "brand": "Parlux",
-    "price": {
-      "value": 133.25,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 5564,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B07BPB687B",
+  "category": "asciugacapelli",
+  "title": "Parlux Alyon Asciugacapelli Professionale, Nero Opaco",
+  "brand": "Parlux",
+  "price": {
+   "value": 133.25,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B01KLXFBVI",
-    "category": "asciugacapelli",
-    "title": "Remington Asciugacapelli Professionale 2400W",
-    "brand": "Remington",
-    "price": {
-      "value": 29.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 17530,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D5CFV4C6",
-    "category": "asciugacapelli",
-    "title": "Faszin Asciugacapelli Professionale 110.000 RPM Ionico Leggero",
-    "brand": "Faszin",
-    "price": {
-      "value": 69.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 955,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D7J5NJ2R",
-    "category": "asciugacapelli",
-    "title": "ghd air, Asciugacapelli Professionale a Ioni, Potenza 2100 W, Nero",
-    "brand": "ghd",
-    "price": {
-      "value": 100.59,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 6178,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B084QXY478",
-    "category": "asciugacapelli",
-    "title": "ghd helios, Asciugacapelli Professionale Leggero, Potenza 2200 W",
-    "brand": "ghd",
-    "price": {
-      "value": 171.75,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1603,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B09T3V2N34",
-    "category": "asciugacapelli",
-    "title": "Rowenta Cv8830 Pro Expert, Asciugacapelli, 2200 W, Generatore Di Ioni",
-    "brand": "Rowenta",
-    "price": {
-      "value": 28.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 745,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DT4XSTRW",
-    "category": "asciugacapelli",
-    "title": "Dyson Supersonic™ Asciugacapelli, Asciugatura Rapida Professionale",
-    "brand": "Dyson",
-    "price": {
-      "value": 249.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 497,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DFHCG9Z3",
-    "category": "asciugacapelli",
-    "title": "Philips Asciugacapelli Serie 8000",
-    "brand": "Philips",
-    "price": {
-      "value": 147.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 383,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 5564,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00IBDVTSU",
+  "category": "asciugacapelli",
+  "title": "Remington Asciugacapelli Professionale 2300W",
+  "brand": "Remington",
+  "price": {
+   "value": 26.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 23193,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01KLXFBVI",
+  "category": "asciugacapelli",
+  "title": "Remington Asciugacapelli Professionale 2400W",
+  "brand": "Remington",
+  "price": {
+   "value": 29.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 17530,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07Q29TCG7",
+  "category": "asciugacapelli",
+  "title": "Parlux Alyon Asciugacapelli Professionale, Giada",
+  "brand": "Parlux",
+  "price": {
+   "value": 126.43,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1854,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D7J5NJ2R",
+  "category": "asciugacapelli",
+  "title": "ghd air, Asciugacapelli Professionale a Ioni, Potenza 2100 W, Nero",
+  "brand": "ghd",
+  "price": {
+   "value": 100.59,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 6178,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D5CFV4C6",
+  "category": "asciugacapelli",
+  "title": "Faszin Asciugacapelli Professionale 110.000 RPM Ionico Leggero",
+  "brand": "Faszin",
+  "price": {
+   "value": 69.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 955,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01D8Y5XGA",
+  "category": "asciugacapelli",
+  "title": "Parlux Advance® Asciugacapelli Professionale, Colore Light Gold",
+  "brand": "Parlux",
+  "price": {
+   "value": 117.89,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2492,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B086GHJFJY",
+  "category": "asciugacapelli",
+  "title": "Remington Asciugacapelli Professionale 2400 W",
+  "brand": "Remington",
+  "price": {
+   "value": 34.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2282,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01D8XV9QO",
+  "category": "asciugacapelli",
+  "title": "Parlux Advance® Asciugacapelli Professionale, Colore Bianco",
+  "brand": "Parlux",
+  "price": {
+   "value": 117.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2217,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08HSM1R9K",
+  "category": "asciugacapelli",
+  "title": "Chicco Mini Asciugacapelli Per Bambini, Phon Per Bambini",
+  "brand": "Chicco",
+  "price": {
+   "value": 27.3,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 511,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

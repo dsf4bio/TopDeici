@@ -1,164 +1,182 @@
 [
-  {
-    "asin": "B08CRTKLX4",
-    "category": "frullatori",
-    "title": "Ninja Frullatore 2 in 1, Caraffa 2,1L e Bicchiere 700ml, 1200 W, Grigio",
-    "brand": "Ninja",
-    "price": {
-      "value": 109.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2125,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B07Q6GT98V",
+  "category": "frullatori",
+  "title": "Ninja Frullatore sottile da 700 W e frullatore",
+  "brand": "Ninja",
+  "price": {
+   "value": 110.28,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B007KIVDLK",
-    "category": "frullatori",
-    "title": "Bosch MSM66120 Frullatore a immersione, 600 Watt 12 Velocità+Turbo, Bianco",
-    "brand": "Bosch",
-    "price": {
-      "value": 29.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 12162,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DNR78C5J",
-    "category": "frullatori",
-    "title": "Ninja Blast Frullatore Portatile x2 530 ml, Coperchio Antiperdite e Beccuccio",
-    "brand": "Ninja",
-    "price": {
-      "value": 69.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 413,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07PJVCWC2",
-    "category": "frullatori",
-    "title": "Moulinex DD4521 Easychef - Frullatore ad immersione 2 in 1",
-    "brand": "Moulinex",
-    "price": {
-      "value": 27.8,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2660,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B007KIVCIO",
-    "category": "frullatori",
-    "title": "Bosch MSM64110 Frullatore a Immersione, 450 Watt, 2 Velocità, Rosso",
-    "brand": "Bosch",
-    "price": {
-      "value": 25.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2234,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B09C8K3T6S",
-    "category": "frullatori",
-    "title": "Kenwood Frullatore/sbattitore HBM60.307GY grigio",
-    "brand": "Kenwood",
-    "price": {
-      "value": 60.33,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 266,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DBR9C6VM",
-    "category": "frullatori",
-    "title": "Ninja Frullatore Detect Power Pro 2 in 1 e Monoporzione 1200W, Caraffa da 2L",
-    "brand": "Ninja",
-    "price": {
-      "value": 216.62,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 820,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FG36JY5T",
-    "category": "frullatori",
-    "title": "Sangcon - Frullatore da cucina da 1000 W, 3 tazze, 2 beccucci",
-    "brand": "Sangcon",
-    "price": {
-      "value": 46.02,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 143,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D3J3MDZR",
-    "category": "frullatori",
-    "title": "Braun Multiquick5 Pro MQ55236M, MINIPIMER CON 5 ANNI DI ASSISTENZA",
-    "brand": "Braun",
-    "price": {
-      "value": 71.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 418,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 5461,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00NGV4506",
+  "category": "frullatori",
+  "title": "Ninja BL610 frullatore",
+  "brand": "Ninja",
+  "price": {
+   "value": 136.16,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 55029,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08F2TGH2M",
+  "category": "frullatori",
+  "title": "KitchenAid KHBV53OB - Frullatore a mano a velocità variabile",
+  "brand": "KitchenAid",
+  "price": {
+   "value": 137.68,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 3614,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B007KIVDLK",
+  "category": "frullatori",
+  "title": "Bosch MSM66120 Frullatore a immersione, 600 Watt 12 Velocità+Turbo",
+  "brand": "Bosch",
+  "price": {
+   "value": 29.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 12162,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08CRTKLX4",
+  "category": "frullatori",
+  "title": "Ninja Frullatore 2 in 1, Caraffa 2,1L e Bicchiere 700ml, 1200 W, Grigio",
+  "brand": "Ninja",
+  "price": {
+   "value": 109.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 2125,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CP9RWLJR",
+  "category": "frullatori",
+  "title": "Philips Frullatore elettrico 5000, ProBlend Plus, 800W, 0,7L,Nero",
+  "brand": "Philips",
+  "price": {
+   "value": 56.74,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 881,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B007KIVCIO",
+  "category": "frullatori",
+  "title": "Bosch MSM64110 Frullatore a Immersione, 450 Watt, 2 Velocità, Rosso",
+  "brand": "Bosch",
+  "price": {
+   "value": 25.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2234,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CPT7RDZV",
+  "category": "frullatori",
+  "title": "NUTRI-BLENDER MAX+ Frullatore ad Alte Prestazioni 2000 W",
+  "brand": "NUTRI-BLENDER",
+  "price": {
+   "value": 128.39,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 523,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08HSFT6LB",
+  "category": "frullatori",
+  "title": "Ninja Mini Frullatore + 2 Bicchieri da 470ml, 700W, Nero",
+  "brand": "Ninja",
+  "price": {
+   "value": 74.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2061,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07SB18XRL",
+  "category": "frullatori",
+  "title": "H.Koenig Mini frullatore SMOO9 Smoothie Maker, 570mL, 300W",
+  "brand": "H.Koenig",
+  "price": {
+   "value": 29.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 14601,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

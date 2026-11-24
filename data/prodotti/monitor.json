@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0F1YWFNBT",
-    "category": "monitor",
-    "title": "AOC 24B31H - Monitor Full HD da 24 pollici, 120 Hz",
-    "brand": "AOC",
-    "price": {
-      "value": 69.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 305,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B072XFFQ4K",
+  "category": "monitor",
+  "title": "BenQ GW2780 monitor piatto per PC 68,6 cm (27\") Full HD LED Nero",
+  "brand": "BenQ",
+  "price": {
+   "value": 619.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0DN6NHW6F",
-    "category": "monitor",
-    "title": "ASUS VY249HGR, Eye Care Monitor da 23,8\" FHD IPS (1920 x 1080), Nero",
-    "brand": "ASUS",
-    "price": {
-      "value": 79.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1814,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B082LHJH3P",
-    "category": "monitor",
-    "title": "Philips Monitor 221v8 22 pollici 1920x1080, FHD, 75Hz, VA Panel, 4ms GtG",
-    "brand": "Philips",
-    "price": {
-      "value": 69.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1120,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CP7QLM3G",
-    "category": "monitor",
-    "title": "Amazon Basics Monitor da 24\", FHD 1080p, massimo 100 Hz, compatibile con VESA",
-    "brand": "Amazon Basics",
-    "price": {
-      "value": 75.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 828,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F1Z699G3",
-    "category": "monitor",
-    "title": "PHILIPS Monitor 24E2N1110 24 pollici 1920x1080, FHD, 120Hz, IPS Panel, 4ms GtG",
-    "brand": "PHILIPS",
-    "price": {
-      "value": 74.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 241,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GVFXDBZ3",
-    "category": "monitor",
-    "title": "Dell 27 Monitor - SE2726HS, Full HD (1920x1080), 144Hz, IPS, 1ms MPRT",
-    "brand": "Dell",
-    "price": {
-      "value": 108.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 72,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FWCTL8CW",
-    "category": "monitor",
-    "title": "MSI PRO MP273WA E14A Monitor PC 27\" FHD, 1920x1080 IPS, 144 Hz, 1 ms, HDR",
-    "brand": "MSI",
-    "price": {
-      "value": 109.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 56,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GTR32WW2",
-    "category": "monitor",
-    "title": "XIAOMI A27i 2026 27 pollici FHD Monitor, 144Hz FreeSync, IPS, P27FDA-RAGL",
-    "brand": "XIAOMI",
-    "price": {
-      "value": 89.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 107,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GVG3GHS8",
-    "category": "monitor",
-    "title": "Dell 24 Monitor - SE2426HS, Full HD (1920x1080), 144Hz, IPS, 1ms MPRT",
-    "brand": "Dell",
-    "price": {
-      "value": 92.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 72,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FDL2Y9LB",
-    "category": "monitor",
-    "title": "Lenovo L24‑41 Monitor 24 Pollici Full HD IPS, 100Hz, Regolabile",
-    "brand": "Lenovo",
-    "price": {
-      "value": 69.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 67,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 4107,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B07CVL2D2S",
+  "category": "monitor",
+  "title": "Acer SB220Q bi 21,5\" Full HD (1920 x 1080) IPS ultra-sottile Zero Frame",
+  "brand": "Acer",
+  "price": {
+   "value": 309.5,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 41891,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08SWLW1J8",
+  "category": "monitor",
+  "title": "Samsung Monitor CF39 (C27F396), Curvo (1800R), 27\"",
+  "brand": "Samsung",
+  "price": {
+   "value": 233.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 13629,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01DMDKZTC",
+  "category": "monitor",
+  "title": "Samsung Monitor CF39 (‎C24F396), Curvo (1800R) , 24\"",
+  "brand": "Samsung",
+  "price": {
+   "value": 195.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 12043,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B073NTCT4R",
+  "category": "monitor",
+  "title": "BenQ Gw2780 Monitor Led Eye-Care Da 27 Pollici, Pannello Ips Full Hd",
+  "brand": "BenQ",
+  "price": {
+   "value": 189.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 11814,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0886LBL8R",
+  "category": "monitor",
+  "title": "ASUS Proart Display Pa278Qv Professional Monitor, 27\" Ips",
+  "brand": "ASUS",
+  "price": {
+   "value": 259.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1822,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07F8XZN69",
+  "category": "monitor",
+  "title": "DELL P2419H monitor piatto per PC 61 cm (24\") Full HD LCD Opaco Nero",
+  "brand": "DELL",
+  "price": {
+   "value": 329.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 7216,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07CPCHSV5",
+  "category": "monitor",
+  "title": "HP - PC 27f Monitor 27” FHD 1920 x 1080 a 60 Hz, IPS, Antiriflesso",
+  "brand": "HP",
+  "price": {
+   "value": 259.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 5967,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B086BLZZC8",
+  "category": "monitor",
+  "title": "LG 27ML600S Monitor 27\" Full HD LED IPS, 1920x1080, 1ms",
+  "brand": "LG",
+  "price": {
+   "value": 329.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 4921,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B06ZZV3QHL",
+  "category": "monitor",
+  "title": "PHILIPS 273V7Qdab Monitor 27 Pollici Led Ips Full Hd, 4 Ms",
+  "brand": "PHILIPS",
+  "price": {
+   "value": 127.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 3107,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

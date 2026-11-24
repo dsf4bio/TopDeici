@@ -1,0 +1,128 @@
+[
+ {
+  "asin": "B0DWNW19Y5",
+  "category": "monopattini-elettrici",
+  "title": "Segway-Ninebot F3 D, Monopattino elettrico per adulti",
+  "brand": "Segway-Ninebot",
+  "price": {
+   "value": 822.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 304,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0B3RZDXLT",
+  "category": "monopattini-elettrici",
+  "title": "Segway-Ninebot, Monopattino Elettrico",
+  "brand": "Segway-Ninebot",
+  "price": {
+   "value": 274.8,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 216,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DTPYSHBR",
+  "category": "monopattini-elettrici",
+  "title": "NAVEE GT3 Monopattino Elettrico Pieghevole per Adulti, Autonomia 50km",
+  "brand": "NAVEE",
+  "price": {
+   "value": 331.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 115,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CNW6449P",
+  "category": "monopattini-elettrici",
+  "title": "HITWAY Monopattino Elettrico per Adulti 10 Pollici, Batteria 15,6-27AH",
+  "brand": "HITWAY",
+  "price": {
+   "value": 399.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 462,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0B2RB65FS",
+  "category": "monopattini-elettrici",
+  "title": "Monopattino Elettrico 500W, autonomia 50-90 km, 48/60V",
+  "brand": "Generico",
+  "price": {
+   "value": 474.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 267,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DDDCVN2P",
+  "category": "monopattini-elettrici",
+  "title": "FanttikRide C9 Pro Monopattino Elettrico per Bambini, 8/13/16 km/h",
+  "brand": "FanttikRide",
+  "price": {
+   "value": 169.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 568,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DDDBJBPQ",
+  "category": "monopattini-elettrici",
+  "title": "FanttikRide C9 Monopattino Elettrico per Bambini, 10/16 km/h",
+  "brand": "FanttikRide",
+  "price": {
+   "value": 149.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 310,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
+]

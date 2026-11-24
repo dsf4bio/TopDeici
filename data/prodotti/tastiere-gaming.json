@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0GL5HC7VV",
-    "category": "tastiere-gaming",
-    "title": "YUNZII C98 Tastiera Meccanica Gaming Wireless (Beige, Candy Switch)",
-    "brand": "YUNZII",
-    "price": {
-      "value": 94.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.9,
-      "count": 473,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0GL5HC7VV",
+  "category": "tastiere-gaming",
+  "title": "YUNZII C98 Tastiera Meccanica Gaming Wireless (Beige, Candy Switch)",
+  "brand": "YUNZII",
+  "price": {
+   "value": 94.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0FLX873X1",
-    "category": "tastiere-gaming",
-    "title": "YUNZII C75 Tastiera Meccanica Wireless Gaming (Blu, Candy Switch)",
-    "brand": "YUNZII",
-    "price": {
-      "value": 73.14,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 712,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B084GYSFDT",
-    "category": "tastiere-gaming",
-    "title": "HyperX Alloy Origins Core, Tastiera Meccanica da Gaming Cablata",
-    "brand": "HyperX",
-    "price": {
-      "value": 97.84,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2628,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GTY7H2S3",
-    "category": "tastiere-gaming",
-    "title": "GravaStar Mercury K1 Tastiera Gaming Meccanica Wireless 75%-Bianco",
-    "brand": "GravaStar",
-    "price": {
-      "value": 127.45,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2061,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B08FQTGFT5",
-    "category": "tastiere-gaming",
-    "title": "Razer BlackWidow V3 - Tastiera meccanica da gaming: interruttori meccanici…",
-    "brand": "Razer",
-    "price": {
-      "value": 130.55,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 1750,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CJ8Z2FY5",
-    "category": "tastiere-gaming",
-    "title": "YUNZII C68 Cute Tastiera Meccanica Senza Fili (Rosa, Milk Switch)",
-    "brand": "YUNZII",
-    "price": {
-      "value": 67.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 1000,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H2DNGY7X",
-    "category": "tastiere-gaming",
-    "title": "YUNZII B98 PRO Tastiera Meccanica Gaming Senza Fili (Verde Matcha, Milk V2)",
-    "brand": "YUNZII",
-    "price": {
-      "value": 75.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 229,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F6WBD6PZ",
-    "category": "tastiere-gaming",
-    "title": "Redragon K719 PRO Tastiera Gaming Meccanica Gasket RGB Display TFT 95 Tasti",
-    "brand": "Redragon",
-    "price": {
-      "value": 85.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 709,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B01M4LIKLI",
-    "category": "tastiere-gaming",
-    "title": "Corsair K55 RGB Gaming Keyboard Tastiera",
-    "brand": "Corsair",
-    "price": {
-      "value": 250.71,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 10948,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H26DFLKR",
-    "category": "tastiere-gaming",
-    "title": "YUNZII C98 MAO Cat Tastiera Meccanica Gaming (Pink, Candy-linear)",
-    "brand": "YUNZII",
-    "price": {
-      "value": 93.74,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.9,
-      "count": 124,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.9,
+   "count": 473,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B084GYSFDT",
+  "category": "tastiere-gaming",
+  "title": "HyperX Alloy Origins Core, Tastiera Meccanica da Gaming Cablata",
+  "brand": "HyperX",
+  "price": {
+   "value": 97.84,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 2628,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FLX873X1",
+  "category": "tastiere-gaming",
+  "title": "YUNZII C75 Tastiera Meccanica Wireless Gaming (Blu, Candy Switch)",
+  "brand": "YUNZII",
+  "price": {
+   "value": 73.14,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 712,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GTY7H2S3",
+  "category": "tastiere-gaming",
+  "title": "GravaStar Mercury K1 Tastiera Gaming Meccanica Wireless 75%-Bianco",
+  "brand": "GravaStar",
+  "price": {
+   "value": 127.45,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 2061,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DPWX3WTL",
+  "category": "tastiere-gaming",
+  "title": "EPOMAKER X Aula F75 MAX Tastiera Meccanica Senza Fili",
+  "brand": "EPOMAKER",
+  "price": {
+   "value": 84.39,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 2047,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08FQTGFT5",
+  "category": "tastiere-gaming",
+  "title": "Razer BlackWidow V3 - Tastiera meccanica da gaming: interruttori",
+  "brand": "Razer",
+  "price": {
+   "value": 130.55,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1750,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01M4LIKLI",
+  "category": "tastiere-gaming",
+  "title": "Corsair K55 RGB Gaming Keyboard Tastiera",
+  "brand": "Corsair",
+  "price": {
+   "value": 250.71,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 10948,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CJ8Z2FY5",
+  "category": "tastiere-gaming",
+  "title": "YUNZII C68 Cute Tastiera Meccanica Senza Fili (Rosa, Milk Switch)",
+  "brand": "YUNZII",
+  "price": {
+   "value": 67.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1000,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07HRNKTCM",
+  "category": "tastiere-gaming",
+  "title": "HyperX Alloy Core RGB, Tastiera da Gaming Cablata",
+  "brand": "HyperX",
+  "price": {
+   "value": 69.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 5126,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07ZGDD6B1",
+  "category": "tastiere-gaming",
+  "title": "SteelSeries Apex 5 Hybrid Tastiera Gaming Meccanica",
+  "brand": "SteelSeries",
+  "price": {
+   "value": 105.07,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 4112,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

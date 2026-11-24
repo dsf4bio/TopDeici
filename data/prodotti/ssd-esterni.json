@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B087DFLF9S",
-    "category": "ssd-esterni",
-    "title": "Samsung MU-PC1T0T/WW T7 - SSD Esterno Portatile da 1 TB, USB 3.2 Gen 2",
-    "brand": "Samsung",
-    "price": {
-      "value": 179.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 24369,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B087DFLF9S",
+  "category": "ssd-esterni",
+  "title": "Samsung MU-PC1T0T/WW T7 - SSD Esterno Portatile da 1 TB, USB 3.2 Gen 2",
+  "brand": "Samsung",
+  "price": {
+   "value": 179.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B09SBDYJVC",
-    "category": "ssd-esterni",
-    "title": "Samsung MU-PE2T0K/EU T7 Shield SSD Portatile da 2TB, USB 3.2 Gen.2, beige",
-    "brand": "Samsung",
-    "price": {
-      "value": 478.46,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 10705,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B08HN37XC1",
-    "category": "ssd-esterni",
-    "title": "SanDisk 2TB Extreme SSD portatile, Unità a stato solido NVMe esterna",
-    "brand": "SanDisk",
-    "price": {
-      "value": 299.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 25448,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CCQB7BN7",
-    "category": "ssd-esterni",
-    "title": "Kingston XS1000 1TB Drive a stato solido (SDD) esterno USB 3.2 Gen 2 SSD…",
-    "brand": "Kingston",
-    "price": {
-      "value": 180.03,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 4746,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0C5JNWF58",
-    "category": "ssd-esterni",
-    "title": "SanDisk Portatile SSD 2TB, SSD esterna, stato solido esterna",
-    "brand": "SanDisk",
-    "price": {
-      "value": 239.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 3874,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CGQ466W8",
-    "category": "ssd-esterni",
-    "title": "Samsung Memorie T9 MU-PG1T0B SSD Esterno Portatile da 1TB, USB 3.2 Gen 2x2",
-    "brand": "Samsung",
-    "price": {
-      "value": 189.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2317,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B087DFFJRD",
-    "category": "ssd-esterni",
-    "title": "Samsung T7 Portable SSD - 2 TB - USB 3.2 Gen.2 External SSD Titanium Grey…",
-    "brand": "Samsung",
-    "price": {
-      "value": 284.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 9311,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DX65SQXF",
-    "category": "ssd-esterni",
-    "title": "Amazon Basics SSD Esterno Portatile Unità a Stato Solido Esterna da 1TB…",
-    "brand": "Amazon Basics",
-    "price": {
-      "value": 239.5,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 872,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0742KVRJR",
-    "category": "ssd-esterni",
-    "title": "Intenso 3823440 Premium Edition 1,8\" SSD externo 256 GB, SSD portatile",
-    "brand": "Intenso",
-    "price": {
-      "value": 67.3,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3064,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DGQ1J68R",
-    "category": "ssd-esterni",
-    "title": "Transcend SSD portatile doppio ESD310 da 128GB, 1050MB/s, USB-A+C, USB.",
-    "brand": "Transcend",
-    "price": {
-      "value": 70.8,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2434,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.8,
+   "count": 24369,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B09SBDYJVC",
+  "category": "ssd-esterni",
+  "title": "Samsung MU-PE2T0K/EU T7 Shield SSD Portatile da 2TB, USB 3.2 Gen.2",
+  "brand": "Samsung",
+  "price": {
+   "value": 478.46,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 10705,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08HN37XC1",
+  "category": "ssd-esterni",
+  "title": "SanDisk 2TB Extreme SSD portatile, Unità a stato solido NVMe esterna",
+  "brand": "SanDisk",
+  "price": {
+   "value": 299.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 25448,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CCQB7BN7",
+  "category": "ssd-esterni",
+  "title": "Kingston XS1000 1TB Drive a stato solido (SDD) esterno USB 3.2 Gen 2",
+  "brand": "Kingston",
+  "price": {
+   "value": 180.03,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 4746,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C5JNWF58",
+  "category": "ssd-esterni",
+  "title": "SanDisk Portatile SSD 2TB, SSD esterna, stato solido esterna",
+  "brand": "SanDisk",
+  "price": {
+   "value": 239.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 3874,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CGQ466W8",
+  "category": "ssd-esterni",
+  "title": "Samsung Memorie T9 MU-PG1T0B SSD Esterno Portatile da 1TB",
+  "brand": "Samsung",
+  "price": {
+   "value": 189.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 2317,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08F2L6TLR",
+  "category": "ssd-esterni",
+  "title": "WD My Passport SSD, 500GB SSD Esterno",
+  "brand": "WD",
+  "price": {
+   "value": 174.98,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 9891,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B087DFFJRD",
+  "category": "ssd-esterni",
+  "title": "Samsung T7 Portable SSD - 2 TB",
+  "brand": "Samsung",
+  "price": {
+   "value": 284.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 9311,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DX65SQXF",
+  "category": "ssd-esterni",
+  "title": "Amazon Basics SSD Esterno Portatile Unità a Stato Solido Esterna da 1TB",
+  "brand": "Amazon Basics",
+  "price": {
+   "value": 239.5,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 872,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09ZRD38D8",
+  "category": "ssd-esterni",
+  "title": "WD_BLACK P40 1TB SSD Game Drive USB-C USB 3.2 Gen 2x2",
+  "brand": "WD_BLACK",
+  "price": {
+   "value": 399.62,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 806,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

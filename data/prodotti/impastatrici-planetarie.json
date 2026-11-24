@@ -1,74 +1,182 @@
 [
-  {
-    "asin": "B07D5NVYDN",
-    "category": "impastatrici-planetarie",
-    "title": "KitchenAid Artisan Planetaria 4,7L con Ciotola 3L Nero onice",
-    "brand": "KitchenAid",
-    "price": {
-      "value": 479.2,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2059,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B07D5NVYDN",
+  "category": "impastatrici-planetarie",
+  "title": "KitchenAid Artisan Planetaria 4,7L con Ciotola 3L Nero onice",
+  "brand": "KitchenAid",
+  "price": {
+   "value": 479.2,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B07NY886CD",
-    "category": "impastatrici-planetarie",
-    "title": "Planetaria Robot da Cucina Mixer, DELECHEF Mixer Impastatrice 1000W 6 Velocità…",
-    "brand": "DELECHEF",
-    "price": {
-      "value": 180.54,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2663,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D9YBP5PX",
-    "category": "impastatrici-planetarie",
-    "title": "Kitchen in the box Impastatrice Planetaria，2 Ciotole 4,5 L+5 L Impastatrice…",
-    "brand": "Kitchen in the box",
-    "price": {
-      "value": 79.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 616,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07PC3G5FM",
-    "category": "impastatrici-planetarie",
-    "title": "Smeg, Impastatrice Planetaria SMF02RDEU, 10 Velocità, Smooth Start",
-    "brand": "Smeg",
-    "price": {
-      "value": 329.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 323,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 2059,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00NEK6OJO",
+  "category": "impastatrici-planetarie",
+  "title": "Bosch MUM5 Impastatrice Planetaria Robot Da Cucina Multifunzione",
+  "brand": "Bosch",
+  "price": {
+   "value": 299.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 4186,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B089KTWM77",
+  "category": "impastatrici-planetarie",
+  "title": "Girmi IM46 Impastatrice Planetaria 8 Litri, 1800 W Max, Grigio Antracite",
+  "brand": "Girmi",
+  "price": {
+   "value": 109.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 3304,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07HCHWK88",
+  "category": "impastatrici-planetarie",
+  "title": "VIVOHOME Impastatrice Planetaria Professionale 1500W 5,7L",
+  "brand": "VIVOHOME",
+  "price": {
+   "value": 184.43,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 3114,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01B7HVRC4",
+  "category": "impastatrici-planetarie",
+  "title": "Bosch MUM58720 Impastatrice, 1000 Watt, Ciotola 3.9 L, Rosso Argento",
+  "brand": "Bosch",
+  "price": {
+   "value": 339.88,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2885,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09JC8HMTQ",
+  "category": "impastatrici-planetarie",
+  "title": "Arebos Impastatrice planetaria 1500 W / 2 ciotole 4,5+5,5 L / rossa",
+  "brand": "Arebos",
+  "price": {
+   "value": 93.96,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1400,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07GSC793L",
+  "category": "impastatrici-planetarie",
+  "title": "Masterchef Gourmet d Moulinex, Capacità 4,6 L, Kit pasticceria",
+  "brand": "Masterchef",
+  "price": {
+   "value": 199.26,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 781,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07RK35S26",
+  "category": "impastatrici-planetarie",
+  "title": "Cheflee Impastatrice Planetaria 8 L,2000 W Max,6 Velocità",
+  "brand": "Cheflee",
+  "price": {
+   "value": 149.98,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2904,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B094J6BFPB",
+  "category": "impastatrici-planetarie",
+  "title": "Kenwood Titanium Chef Baker XL KVL85.424SI Planetaria",
+  "brand": "Kenwood",
+  "price": {
+   "value": 539.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 465,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01HKZZ4XU",
+  "category": "impastatrici-planetarie",
+  "title": "KitchenAid Artisan Planetaria Impastatrice 4,7L Rosso imperiale",
+  "brand": "KitchenAid",
+  "price": {
+   "value": 348.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2072,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

@@ -1,128 +1,182 @@
 [
-  {
-    "asin": "B0HNW8KLS3",
-    "category": "auricolari-bluetooth",
-    "title": "Paekole 2026 Auricolari Cuffie in Ear Bluetooth Wireless Sport Senza Filo",
-    "brand": "Paekole",
-    "price": {
-      "value": 29.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 5.0,
-      "count": 58,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0CL9TRS5P",
+  "category": "auricolari-bluetooth",
+  "title": "BESNOOW Cuffie Bluetooth, Auricolari Bluetooth 5.3 Stereo HiFi",
+  "brand": "BESNOOW",
+  "price": {
+   "value": 28.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0HR12HRXB",
-    "category": "auricolari-bluetooth",
-    "title": "Ordtop Cuffie Bluetooth 5.4 Sport, Auricolari Bluetooth 70 Ore HiFi Stereo",
-    "brand": "Ordtop",
-    "price": {
-      "value": 25.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.9,
-      "count": 56,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CL9TRS5P",
-    "category": "auricolari-bluetooth",
-    "title": "BESNOOW Cuffie Bluetooth, Auricolari Bluetooth 5.3 Stereo HiFi con 4HD Mic",
-    "brand": "BESNOOW",
-    "price": {
-      "value": 28.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1534,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GLFSF56P",
-    "category": "auricolari-bluetooth",
-    "title": "yobola Cuffie Bluetooth 5.4, In-Ear Auricolari Wireless Comodo Cuffiette",
-    "brand": "yobola",
-    "price": {
-      "value": 25.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1024,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DQ8KS968",
-    "category": "auricolari-bluetooth",
-    "title": "HUAWEI FreeBuds Pro 4 Auricolari Wireless",
-    "brand": "HUAWEI",
-    "price": {
-      "value": 162.5,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 430,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GYCWNNDG",
-    "category": "auricolari-bluetooth",
-    "title": "JUOVI Cuffie Bluetooth Auricolari True Wireless ANC Autonomia 55H",
-    "brand": "JUOVI",
-    "price": {
-      "value": 36.5,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 111,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FHW15RKM",
-    "category": "auricolari-bluetooth",
-    "title": "Ordtop Auricolari Bluetooth con 4 HD ENC Cancellazione Rumore Mics, HiFi Stereo",
-    "brand": "Ordtop",
-    "price": {
-      "value": 89.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 95,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 1534,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0HNRNNWWW",
+  "category": "auricolari-bluetooth",
+  "title": "FAMOO Cuffie Bluetooth, Auricolari Bluetooth Stereo HiFi Con 4 ENC",
+  "brand": "FAMOO",
+  "price": {
+   "value": 79.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 5653,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09MLYQDMS",
+  "category": "auricolari-bluetooth",
+  "title": "taopod X08 Auricolari Bluetooth senza fili,Cuffie USB C,40 ore di",
+  "brand": "taopod",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 4560,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HBB9MQYD",
+  "category": "auricolari-bluetooth",
+  "title": "Drsaec 2026 Cuffie Bluetooth 5.4",
+  "brand": "Drsaec",
+  "price": {
+   "value": 89.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 3650,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GLFSF56P",
+  "category": "auricolari-bluetooth",
+  "title": "yobola Cuffie Bluetooth 5.4, In-Ear Auricolari Wireless Comodo Cuffiette",
+  "brand": "yobola",
+  "price": {
+   "value": 25.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1024,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CQTVLRF1",
+  "category": "auricolari-bluetooth",
+  "title": "OPPO Enco Buds2 Pro Auricolari True Wireless, Autonomia 38h",
+  "brand": "OPPO",
+  "price": {
+   "value": 45.1,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2548,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DZ8DLQGK",
+  "category": "auricolari-bluetooth",
+  "title": "CMF by Nothing Buds 2 Auricolari Wireless con ANC Ibrido da 48 dB",
+  "brand": "CMF",
+  "price": {
+   "value": 27.95,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2279,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CWTSTXZP",
+  "category": "auricolari-bluetooth",
+  "title": "Csasan Cuffie Bluetooth Sport, Auricolari Bluetooth 5.3",
+  "brand": "Csasan",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1863,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DPVL27GK",
+  "category": "auricolari-bluetooth",
+  "title": "HUAWEI FreeBuds SE 3, cuffie con autonomia fino a 42 ore e in",
+  "brand": "HUAWEI",
+  "price": {
+   "value": 39.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1756,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09641K41H",
+  "category": "auricolari-bluetooth",
+  "title": "OPPO Enco Free 2 W52 Auricolari True Wireless Bianchi, Bluetooth 5.2",
+  "brand": "OPPO",
+  "price": {
+   "value": 39.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1462,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

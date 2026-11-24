@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0GWH4ZZ7T",
-    "category": "hub-usb-c",
-    "title": "Anker Nano Hub USB C 8 in 1, Hub per Doppio Monitor 4K@60Hz",
-    "brand": "Anker",
-    "price": {
-      "value": 27.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 10568,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0GWH4ZZ7T",
+  "category": "hub-usb-c",
+  "title": "Anker Nano Hub USB C 8 in 1, Hub per Doppio Monitor 4K@60Hz",
+  "brand": "Anker",
+  "price": {
+   "value": 27.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B08GY3GKRC",
-    "category": "hub-usb-c",
-    "title": "VENTION Hub USB C PD 100W, 6 in 1 Docking Station, HDMI 4K@30HZ",
-    "brand": "VENTION",
-    "price": {
-      "value": 30.26,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 5673,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H85ZQPRV",
-    "category": "hub-usb-c",
-    "title": "BENFEI Hub USB-C per tablet, docking station 9-in-1 pieghevole e rotante per…",
-    "brand": "BENFEI",
-    "price": {
-      "value": 54.69,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 256,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DY1BD3T2",
-    "category": "hub-usb-c",
-    "title": "UGREEN Revodok Pro 108 Hub USB C 8 in 1 Docking Station Multiporta",
-    "brand": "UGREEN",
-    "price": {
-      "value": 25.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2542,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HCBNBJ5L",
-    "category": "hub-usb-c",
-    "title": "WAVLINK Docking Station 3 Monitor, 4K144Hz/8K30Hz, PD3.1 140W, 2*DP+HDMI",
-    "brand": "WAVLINK",
-    "price": {
-      "value": 103.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 110,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H19V7RF8",
-    "category": "hub-usb-c",
-    "title": "WAVLINK DisplayLink Docking Station 3 Monitor per macOS/Windows,PD 100W",
-    "brand": "WAVLINK",
-    "price": {
-      "value": 113.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 59,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FP2B1FPG",
-    "category": "hub-usb-c",
-    "title": "Belkin Hub USB C, Hub a 5 Porte con HDMI 4K 60Hz, Power Delivery 100W",
-    "brand": "Belkin",
-    "price": {
-      "value": 34.5,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 181,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HCBVLH88",
-    "category": "hub-usb-c",
-    "title": "WAVLINK Docking Station 3 Monitor, 4K144Hz/8K30Hz, PD3.1 140W, 2*HDMI+DP",
-    "brand": "WAVLINK",
-    "price": {
-      "value": 103.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 141,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F3J5WBHS",
-    "category": "hub-usb-c",
-    "title": "TobenONE Docking station per MacBook Dual 4K a 60Hz",
-    "brand": "TobenONE",
-    "price": {
-      "value": 301.82,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 131,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HGFTF6YM",
-    "category": "hub-usb-c",
-    "title": "UGREEN Docking Station 14 in 1 Hub USB C Triplo Display per Windows",
-    "brand": "UGREEN",
-    "price": {
-      "value": 127.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 121,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 10568,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B08GY3GKRC",
+  "category": "hub-usb-c",
+  "title": "VENTION Hub USB C PD 100W, 6 in 1 Docking Station, HDMI 4K@30HZ",
+  "brand": "VENTION",
+  "price": {
+   "value": 30.26,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 5673,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DY1BD3T2",
+  "category": "hub-usb-c",
+  "title": "UGREEN Revodok Pro 108 Hub USB C 8 in 1 Docking Station Multiporta",
+  "brand": "UGREEN",
+  "price": {
+   "value": 25.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2542,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B087QZVQJX",
+  "category": "hub-usb-c",
+  "title": "Anker Hub USB C 8 in 1 100W, Adattatore PowerExpand",
+  "brand": "Anker",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 9590,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B093FKT9BF",
+  "category": "hub-usb-c",
+  "title": "UGREEN Revodok Hub USB C Ethernet Gigabit 7 in 1 Docking Station",
+  "brand": "UGREEN",
+  "price": {
+   "value": 27.06,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 9128,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F6MWNJ6J",
+  "category": "hub-usb-c",
+  "title": "Baseus Nomos Air 12 in 1 Docking Station 2 Monitor per Windows",
+  "brand": "Baseus",
+  "price": {
+   "value": 65.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 6743,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08HZ1GGH9",
+  "category": "hub-usb-c",
+  "title": "UGREEN Hub USB C, HDMI 4K@60Hz, Ethernet 1000Mbps, PD 100W, 2 USB 3.0",
+  "brand": "UGREEN",
+  "price": {
+   "value": 51.51,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2231,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07BFJSYFM",
+  "category": "hub-usb-c",
+  "title": "Plugable USB 3.0 Docking Station Orizzontale Doppio Monitor per Windows",
+  "brand": "Plugable",
+  "price": {
+   "value": 104.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1849,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DSJ5ZH8F",
+  "category": "hub-usb-c",
+  "title": "UGREEN Docking Station Hub USB C con Supporto per Mac Mini M4 M5 Pro M6",
+  "brand": "UGREEN",
+  "price": {
+   "value": 59.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1786,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CLXV83J6",
+  "category": "hub-usb-c",
+  "title": "Baseus Hub USB C 10Gbps Adattatore USB 3.2 con Gigabit Ethernet",
+  "brand": "Baseus",
+  "price": {
+   "value": 27.74,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1021,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

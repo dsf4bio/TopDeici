@@ -1,74 +1,182 @@
 [
-  {
-    "asin": "B0HMHX5T9K",
-    "category": "videoproiettori",
-    "title": "Huidun Proiettore 4K 2026 [Smart TV Compatibile con Netflix/ 2000 ANSI ]",
-    "brand": "Huidun",
-    "price": {
-      "value": 199.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 137,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0FWKDS8S4",
+  "category": "videoproiettori",
+  "title": "Wowlink 2026 Upgraded Mini Proiettore con WiFi 6 Bluetooth 5.4",
+  "brand": "Wowlink",
+  "price": {
+   "value": 56.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0GXZFVQ46",
-    "category": "videoproiettori",
-    "title": "XGIMI Elfin Flip 4K Proiettore Portatile, RGB Laser Triple, 1600 ISO Lumen",
-    "brand": "XGIMI",
-    "price": {
-      "value": 699.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 115,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FT27BQYQ",
-    "category": "videoproiettori",
-    "title": "SOOMFON SK3 Proiettore Portatile 4K Supporta 1080P Nativo Smart TV",
-    "brand": "SOOMFON",
-    "price": {
-      "value": 129.19,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 171,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F5WW6LPQ",
-    "category": "videoproiettori",
-    "title": "Epson EB-W55 / Videoproiettore WXGA conveniente / 3LCD / 4.000 lumen",
-    "brand": "Epson",
-    "price": {
-      "value": 554.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 59,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.5,
+   "count": 5742,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00A2T6X0K",
+  "category": "videoproiettori",
+  "title": "Benq W1070 videoproiettore [Vecchio Modello]",
+  "brand": "Benq",
+  "price": {
+   "value": 804.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1123,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HMHX5T9K",
+  "category": "videoproiettori",
+  "title": "Huidun Proiettore 4K 2026 [Smart TV Compatibile con Netflix/ 2000 ANSI ]",
+  "brand": "Huidun",
+  "price": {
+   "value": 199.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 137,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FQ5LMMPK",
+  "category": "videoproiettori",
+  "title": "XGIMI Vibe One Proiettore Smart Mini Portatile1080P",
+  "brand": "XGIMI",
+  "price": {
+   "value": 198.55,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 188,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FGJC449H",
+  "category": "videoproiettori",
+  "title": "TCL C1 Mini Proiettore Portatile, Google TV/Netflix/APV Integrati",
+  "brand": "TCL",
+  "price": {
+   "value": 199.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 430,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GXZFVQ46",
+  "category": "videoproiettori",
+  "title": "XGIMI Elfin Flip 4K Proiettore Portatile, RGB Laser Triple",
+  "brand": "XGIMI",
+  "price": {
+   "value": 699.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 115,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CKHL1VMM",
+  "category": "videoproiettori",
+  "title": "Nebula Mars 3 Air, Proiettore Portatile Full HD 1080p Wi-Fi, 400 ANSI",
+  "brand": "Nebula",
+  "price": {
+   "value": 449.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 425,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FT27BQYQ",
+  "category": "videoproiettori",
+  "title": "SOOMFON SK3 Proiettore Portatile 4K Supporta 1080P Nativo Smart TV",
+  "brand": "SOOMFON",
+  "price": {
+   "value": 129.19,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 171,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B071WPR7XK",
+  "category": "videoproiettori",
+  "title": "ViewSonic PA503X Proiettore, 4000 ANSI Lumen, XGA 1024x768",
+  "brand": "ViewSonic",
+  "price": {
+   "value": 344.97,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 369,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00MK39P92",
+  "category": "videoproiettori",
+  "title": "Optoma HD141X DMD/DLP Videoproiettore",
+  "brand": "Optoma",
+  "price": {
+   "value": 421.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1258,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

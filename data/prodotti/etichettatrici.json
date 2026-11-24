@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0CL48W4MZ",
-    "category": "etichettatrici",
-    "title": "SUPVAN T50M Pro Etichettatrice Bluetooth con Nastro, Nero",
-    "brand": "SUPVAN",
-    "price": {
-      "value": 39.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 7216,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0030E5WYW",
+  "category": "etichettatrici",
+  "title": "Dymo LetraTag LT-100H S0883990 - Etichettatrice etichettatrice",
+  "brand": "Dymo",
+  "price": {
+   "value": 42.4,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0BRZ9RTMX",
-    "category": "etichettatrici",
-    "title": "DYMO LetraTag LT-100T Etichettatrice / Macchina etichettatrice palmare",
-    "brand": "DYMO",
-    "price": {
-      "value": 38.95,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 7017,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BLGZNCKW",
-    "category": "etichettatrici",
-    "title": "DYMO LabelManager 160 kit di etichettatrice portatile ? Stampante per etichette…",
-    "brand": "DYMO",
-    "price": {
-      "value": 81.13,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 787,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B073J1GX7Y",
-    "category": "etichettatrici",
-    "title": "Brother pte110vpzg1 P-Touch Etichettatrice",
-    "brand": "Brother",
-    "price": {
-      "value": 69.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 709,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B01N5ID8FR",
-    "category": "etichettatrici",
-    "title": "Brother PTH110, Etichettatrice Palmare Professionale, Tastiera QWERTY",
-    "brand": "Brother",
-    "price": {
-      "value": 39.2,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2696,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BLGSKKVR",
-    "category": "etichettatrici",
-    "title": "DYMO LabelManager 160 Etichettatrice portatile",
-    "brand": "DYMO",
-    "price": {
-      "value": 53.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 967,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0C2NYWNFG",
-    "category": "etichettatrici",
-    "title": "DYMO LetraTag LT-100T Etichettatrice / Macchina etichettatrice palmare",
-    "brand": "DYMO",
-    "price": {
-      "value": 39.79,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 864,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BRZB3FR7",
-    "category": "etichettatrici",
-    "title": "DYMO LetraTag LT-100H+ Etichettatrice Starter Kit",
-    "brand": "DYMO",
-    "price": {
-      "value": 39.29,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 692,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07QVNBCZ6",
-    "category": "etichettatrici",
-    "title": "DYMO LabelManager 280 kit etichettatrice portatile ricaricabile",
-    "brand": "DYMO",
-    "price": {
-      "value": 92.74,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 555,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BN4CTM8T",
-    "category": "etichettatrici",
-    "title": "DYMO LetraTag LT-100T etichettatrice portatile con tastiera QWERTZ / argento",
-    "brand": "DYMO",
-    "price": {
-      "value": 33.1,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 316,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 18004,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0032O7J0U",
+  "category": "etichettatrici",
+  "title": "Dymo LetraTag LT100H Etichettatrice",
+  "brand": "Dymo",
+  "price": {
+   "value": 50.2,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 8397,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BRZ9RTMX",
+  "category": "etichettatrici",
+  "title": "DYMO LetraTag LT-100T Etichettatrice",
+  "brand": "DYMO",
+  "price": {
+   "value": 38.95,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 7017,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01N5ID8FR",
+  "category": "etichettatrici",
+  "title": "Brother PTH110, Etichettatrice Palmare Professionale, Tastiera QWERTY",
+  "brand": "Brother",
+  "price": {
+   "value": 39.2,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2696,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0056140MM",
+  "category": "etichettatrici",
+  "title": "Dymo S0884000 Etichettatrice",
+  "brand": "Dymo",
+  "price": {
+   "value": 44.52,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2200,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GCJT1CVP",
+  "category": "etichettatrici",
+  "title": "Nelko P21 Etichettatrice Portatile, con 3 Rotoli Etichette Adesive, Nero",
+  "brand": "Nelko",
+  "price": {
+   "value": 25.26,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 24653,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B073J1GX7Y",
+  "category": "etichettatrici",
+  "title": "Brother pte110vpzg1 P-Touch Etichettatrice",
+  "brand": "Brother",
+  "price": {
+   "value": 69.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 709,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0B1KZJXPG",
+  "category": "etichettatrici",
+  "title": "Brother P-touch PT-D610BT Etichettatrice connessa professionale",
+  "brand": "Brother",
+  "price": {
+   "value": 370.45,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1165,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01N17AFPY",
+  "category": "etichettatrici",
+  "title": "Brother PTP300BT Cube, Etichettatrice Portatile, Bluetooth e compat. MFI",
+  "brand": "Brother",
+  "price": {
+   "value": 46.45,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1146,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BLGSKKVR",
+  "category": "etichettatrici",
+  "title": "DYMO LabelManager 160 Etichettatrice portatile",
+  "brand": "DYMO",
+  "price": {
+   "value": 53.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 967,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

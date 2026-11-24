@@ -1,74 +1,182 @@
 [
-  {
-    "asin": "B0DVM1T4NP",
-    "category": "macchine-caffe-superautomatiche",
-    "title": "De'Longhi La Specialista Touch EC9455.M",
-    "brand": "De'Longhi",
-    "price": {
-      "value": 664.6,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 261,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B00LPG2LLY",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "De'Longhi Autentica Perfetto ETAM29.510.B Macchina da Caffè Automatica",
+  "brand": "De'Longhi",
+  "price": {
+   "value": 379.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B07PLXPCX3",
-    "category": "macchine-caffe-superautomatiche",
-    "title": "De'Longhi Perfetto Magnifica S ECAM22.110.B Macchina da Caffè in Grani o in…",
-    "brand": "De'Longhi",
-    "price": {
-      "value": 326.4,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 756,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H2ND6MJ4",
-    "category": "macchine-caffe-superautomatiche",
-    "title": "De'Longhi Magnifica Duo - Macchina da Caffè Automatica 20 Bevande Argento",
-    "brand": "De'Longhi",
-    "price": {
-      "value": 549.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 93,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GXKBCZTR",
-    "category": "macchine-caffe-superautomatiche",
-    "title": "KKT KOLBE Macchina da caffè automatica Pro, nero argento",
-    "brand": "KKT",
-    "price": {
-      "value": 319.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 53,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.5,
+   "count": 1556,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0GNMS31J4",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "Krups EA508B Harmony - Macchina da caffè automatica",
+  "brand": "Krups",
+  "price": {
+   "value": 323.2,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 307,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00NSWPB42",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "De'Longhi ETAM 29.620.SB Autentica Macchina caffe automatica",
+  "brand": "De'Longhi",
+  "price": {
+   "value": 667.94,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 400,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09TKRNWJX",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "De'Longhi Eletta Explore ECAM452.57.G, Macchina da Caffè Automatica",
+  "brand": "De'Longhi",
+  "price": {
+   "value": 699.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1463,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07PLXPCX3",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "De'Longhi Perfetto Magnifica S ECAM22.110.B Macchina da Caffè in Grani",
+  "brand": "De'Longhi",
+  "price": {
+   "value": 326.4,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 756,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0H94ZSVN8",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "Philips 6000 Macchina Caffè Automatica, 22 bevande, Montalatte LatteGo",
+  "brand": "Philips",
+  "price": {
+   "value": 685.37,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 101,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00400OMUK",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "De'Longhi Magnifica S ECAM 22.110.SB",
+  "brand": "De'Longhi",
+  "price": {
+   "value": 347.96,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1418,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00JF8UIWS",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "De'Longhi Magnifica S ECAM21.117.W, Macchina Caffè Automatica, Montalatte",
+  "brand": "De'Longhi",
+  "price": {
+   "value": 269.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 388,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GNMW7QRD",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "Krups EA5088 Harmony - Macchina da caffè automatica con ugello di vapore",
+  "brand": "Krups",
+  "price": {
+   "value": 344.31,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 307,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00919Z2ZO",
+  "category": "macchine-caffe-superautomatiche",
+  "title": "De'Longhi Magnifica S ECAM 21.117.B - Macchina da caffè espresso",
+  "brand": "De'Longhi",
+  "price": {
+   "value": 300.31,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 288,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

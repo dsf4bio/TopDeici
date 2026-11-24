@@ -1,128 +1,182 @@
 [
-  {
-    "asin": "B07Y2G7VX5",
-    "category": "cuffie-gaming",
-    "title": "havit Cuffie da gaming stereo metallizzate",
-    "brand": "havit",
-    "price": {
-      "value": 39.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 26582,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B07Y2G7VX5",
+  "category": "cuffie-gaming",
+  "title": "havit Cuffie da gaming stereo metallizzate",
+  "brand": "havit",
+  "price": {
+   "value": 39.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0011UB9CQ",
-    "category": "cuffie-gaming",
-    "title": "beyerdynamic DT 990 Pro con 250 Ohm",
-    "brand": "beyerdynamic",
-    "price": {
-      "value": 139.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 16580,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GRWCXP1F",
-    "category": "cuffie-gaming",
-    "title": "GXTrust Forta Cuffie Gaming Wireless con Licenza Ufficiale PlayStation 5",
-    "brand": "GXTrust",
-    "price": {
-      "value": 79.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 264,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DQQT2ZS3",
-    "category": "cuffie-gaming",
-    "title": "HyperX Cloud III, Cuffie Gaming Con Cavo per Streaming, Microfono Cardioide",
-    "brand": "HyperX",
-    "price": {
-      "value": 59.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 801,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CJ3D6Q6C",
-    "category": "cuffie-gaming",
-    "title": "Sony INZONE H5 - Cuffie gaming wireless",
-    "brand": "Sony",
-    "price": {
-      "value": 89.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 619,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BXB66FWW",
-    "category": "cuffie-gaming",
-    "title": "JBL Quantum 910P, Cuffie Wireless Gaming Over Ear per Playstation, Bianco",
-    "brand": "JBL",
-    "price": {
-      "value": 199.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 194,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07G1TYXRQ",
-    "category": "cuffie-gaming",
-    "title": "Nacon RIG RIG300HX Cuffie Gaming, Compatibilità Multipiattaforma, Nero",
-    "brand": "Nacon",
-    "price": {
-      "value": 41.26,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 126,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 26582,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0011UB9CQ",
+  "category": "cuffie-gaming",
+  "title": "beyerdynamic DT 990 Pro con 250 Ohm",
+  "brand": "beyerdynamic",
+  "price": {
+   "value": 139.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 16580,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00SAYCVTQ",
+  "category": "cuffie-gaming",
+  "title": "HyperX Cloud II, Cuffie da Gaming, Connessione Cablata a 3,5 mm",
+  "brand": "HyperX",
+  "price": {
+   "value": 101.55,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 97768,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07MTXLFXV",
+  "category": "cuffie-gaming",
+  "title": "Logitech G G432 Cuffie Gaming Cablate",
+  "brand": "Logitech",
+  "price": {
+   "value": 34.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 29412,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B086PKMZ21",
+  "category": "cuffie-gaming",
+  "title": "Razer BlackShark V2 X - Cuffie da Gioco Esports Cablate",
+  "brand": "Razer",
+  "price": {
+   "value": 39.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 23488,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DGQWNTJT",
+  "category": "cuffie-gaming",
+  "title": "Xbox Cuffie Wireless – Xbox Series X/S, Xbox One e dispositivi Windows",
+  "brand": "Xbox",
+  "price": {
+   "value": 100.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1234,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D412FWZH",
+  "category": "cuffie-gaming",
+  "title": "Turtle Beach Recon 70 - Cuffie da gioco multipiattaforma per PC, PS5",
+  "brand": "Turtle Beach",
+  "price": {
+   "value": 34.36,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 77948,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CSFRYL7C",
+  "category": "cuffie-gaming",
+  "title": "Ozeino Cuffie Gaming Wireless per PC/Ps5/Ps4",
+  "brand": "Ozeino",
+  "price": {
+   "value": 32.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 3256,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DQQT2ZS3",
+  "category": "cuffie-gaming",
+  "title": "HyperX Cloud III, Cuffie Gaming Con Cavo, Microfono",
+  "brand": "HyperX",
+  "price": {
+   "value": 59.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 801,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CWS5Q6YJ",
+  "category": "cuffie-gaming",
+  "title": "Turtle Beach Recon 70 Cuffie multipiattaforma con cavo per XBOX, PC",
+  "brand": "Turtle Beach",
+  "price": {
+   "value": 34.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2157,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

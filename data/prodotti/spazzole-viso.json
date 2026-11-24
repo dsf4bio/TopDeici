@@ -1,38 +1,182 @@
 [
-  {
-    "asin": "B018T7DHVY",
-    "category": "spazzole-viso",
-    "title": "Foreo Luna Mini 2 Spazzola Pulizia Viso, Compatta, Massaggio Hi-Tech",
-    "brand": "Foreo",
-    "price": {
-      "value": 46.09,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 8124,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B018T7DHVY",
+  "category": "spazzole-viso",
+  "title": "Foreo Luna Mini 2 Spazzola Pulizia Viso, Compatta, Massaggio Hi-Tech",
+  "brand": "Foreo",
+  "price": {
+   "value": 46.09,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B07QC61JFR",
-    "category": "spazzole-viso",
-    "title": "Foreo Luna 3 Pelle Mista, Spazzola Pulizia Viso",
-    "brand": "Foreo",
-    "price": {
-      "value": 59.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2930,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 8124,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B07QC61JFR",
+  "category": "spazzole-viso",
+  "title": "Foreo Luna 3 Pelle Mista, Spazzola Pulizia Viso",
+  "brand": "Foreo",
+  "price": {
+   "value": 59.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2930,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08GZJ3XH8",
+  "category": "spazzole-viso",
+  "title": "VWMYQ Scrubber per il viso, in silicone, da uomo",
+  "brand": "VWMYQ",
+  "price": {
+   "value": 39.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 6223,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C746D5H1",
+  "category": "spazzole-viso",
+  "title": "MYCARBON Spazzola Pulizia Viso Ricaricabile 2500mAh, IPX7, 2 Testine",
+  "brand": "MYCARBON",
+  "price": {
+   "value": 32.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1075,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B099F46Q16",
+  "category": "spazzole-viso",
+  "title": "MYCARBON Spazzola Pulizia Viso Ricaricabile 2500mAh, IPX7",
+  "brand": "MYCARBON",
+  "price": {
+   "value": 32.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 975,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CZ8H7FGR",
+  "category": "spazzole-viso",
+  "title": "PRITECH Spazzola per la pulizia del viso in silicone, ricaricabile",
+  "brand": "PRITECH",
+  "price": {
+   "value": 31.4,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 4433,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07GH87SNS",
+  "category": "spazzole-viso",
+  "title": "PMD Clean - Dispositivo intelligente per la pulizia del viso",
+  "brand": "PMD",
+  "price": {
+   "value": 94.18,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2219,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08HH883BK",
+  "category": "spazzole-viso",
+  "title": "Michael Todd Beauty Soniclear Petite",
+  "brand": "Michael Todd Beauty",
+  "price": {
+   "value": 94.73,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 214,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B082965B6F",
+  "category": "spazzole-viso",
+  "title": "FOREO LUNA mini 3 Spazzola pulizia viso - Compatto",
+  "brand": "FOREO",
+  "price": {
+   "value": 130.98,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 930,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09JHHBV2X",
+  "category": "spazzole-viso",
+  "title": "EcoTools Mini spazzola per la pulizia del viso, infusa con agrumi",
+  "brand": "EcoTools",
+  "price": {
+   "value": 25.71,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 509,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

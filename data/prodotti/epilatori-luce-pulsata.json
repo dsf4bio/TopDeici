@@ -1,74 +1,182 @@
 [
-  {
-    "asin": "B01MY8A1HZ",
-    "category": "epilatori-luce-pulsata",
-    "title": "Philips BRI954/00 Lumea Prestige - Dispositivo di epilazione a luce pulsata…",
-    "brand": "Philips",
-    "price": {
-      "value": 442.56,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3294,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B098P52S8V",
+  "category": "epilatori-luce-pulsata",
+  "title": "Philips Lumea serie 8000, dispositivo di depilazione IPL",
+  "brand": "Philips",
+  "price": {
+   "value": 492.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B098P52S8V",
-    "category": "epilatori-luce-pulsata",
-    "title": "Philips Lumea serie 8000, dispositivo di depilazione IPL",
-    "brand": "Philips",
-    "price": {
-      "value": 492.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2029,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FQP3XHY5",
-    "category": "epilatori-luce-pulsata",
-    "title": "Deplite 21J Epilatore Luce Pulsata con Funzione di Raffreddamento",
-    "brand": "Deplite",
-    "price": {
-      "value": 76.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 559,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GH17SLRV",
-    "category": "epilatori-luce-pulsata",
-    "title": "Braun Silk·Expert pro 5 Epilatore Luce Pulsata, 4 Testine, PL5412 Oro",
-    "brand": "Braun",
-    "price": {
-      "value": 376.2,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 373,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 2029,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0G4CPCFT9",
+  "category": "epilatori-luce-pulsata",
+  "title": "Braun Silk·Expert Pro 5 Epilatore Luce Pulsata, Custodia, Pl5100 Oro",
+  "brand": "Braun",
+  "price": {
+   "value": 299.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 3377,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0G4CRSH2H",
+  "category": "epilatori-luce-pulsata",
+  "title": "Braun Skin I·Expert Epilatore Luce Pulsata Smart, 4 Testine",
+  "brand": "Braun",
+  "price": {
+   "value": 459.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1802,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FQP3XHY5",
+  "category": "epilatori-luce-pulsata",
+  "title": "Deplite 21J Epilatore Luce Pulsata con Funzione di Raffreddamento",
+  "brand": "Deplite",
+  "price": {
+   "value": 76.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 559,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0G4CNSZ35",
+  "category": "epilatori-luce-pulsata",
+  "title": "Braun Silk·Expert Pro 5 Epilatore Luce Pulsata, 3 Testine, PL5321 Oro",
+  "brand": "Braun",
+  "price": {
+   "value": 349.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1395,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GH17SLRV",
+  "category": "epilatori-luce-pulsata",
+  "title": "Braun Silk·Expert pro 5 Epilatore Luce Pulsata, 4 Testine, PL5412 Oro",
+  "brand": "Braun",
+  "price": {
+   "value": 376.2,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 373,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08RB6C5GP",
+  "category": "epilatori-luce-pulsata",
+  "title": "Philips Lumea 9000 Series, dispositivo di epilazione IPL",
+  "brand": "Philips",
+  "price": {
+   "value": 483.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1662,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08RB5H265",
+  "category": "epilatori-luce-pulsata",
+  "title": "Philips Lumea 9000 Series, dispositivo di epilazione IPL",
+  "brand": "Philips",
+  "price": {
+   "value": 329.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1560,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HC6546PW",
+  "category": "epilatori-luce-pulsata",
+  "title": "Braun Skin I·Expert Epilatore Luce Pulsata Smart, 2 Testine",
+  "brand": "Braun",
+  "price": {
+   "value": 399.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1361,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09RKCD7DS",
+  "category": "epilatori-luce-pulsata",
+  "title": "Philips Lumea 8000 Series, dispositivo di epilazione IPL",
+  "brand": "Philips",
+  "price": {
+   "value": 472.12,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 662,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

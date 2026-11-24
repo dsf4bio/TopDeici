@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0CDCL38KZ",
-    "category": "videocamere-sicurezza",
-    "title": "Tapo C200P2 FHD Telecamera WiFi Interno Videocamera Sorveglianza, 2pz",
-    "brand": "Tapo",
-    "price": {
-      "value": 42.38,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 7524,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0CDCL38KZ",
+  "category": "videocamere-sicurezza",
+  "title": "Tapo C200P2 FHD Telecamera WiFi Interno Videocamera Sorveglianza, 2pz",
+  "brand": "Tapo",
+  "price": {
+   "value": 42.38,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0CDCL6FLC",
-    "category": "videocamere-sicurezza",
-    "title": "Tapo C220 2K 4MP Telecamera WiFi Interno Videocamera Sorveglianza 360° PTZ",
-    "brand": "Tapo",
-    "price": {
-      "value": 27.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 7491,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CDHJNMZZ",
-    "category": "videocamere-sicurezza",
-    "title": "Tapo C310P2 3MP Telecamera WiFi Esterno 2 Pack Telecamera Sorveglianza IP66",
-    "brand": "Tapo",
-    "price": {
-      "value": 64.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 34157,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BQJVKVQR",
-    "category": "videocamere-sicurezza",
-    "title": "Tapo C500 FHD Telecamera WiFi Esterno Videocamera Sorveglianza 360° PTZ",
-    "brand": "Tapo",
-    "price": {
-      "value": 32.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 19631,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FQPPQWJB",
-    "category": "videocamere-sicurezza",
-    "title": "Tapo C510W 2K 3MP Telecamera WiFi Esterno Sorveglianza 360° PTZ, 2pz",
-    "brand": "Tapo",
-    "price": {
-      "value": 74.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 19631,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DY94MCLN",
-    "category": "videocamere-sicurezza",
-    "title": "Tapo C530WS 3K 5MP Telecamera WiFi Esterno 360° PTZ Starlight IP66",
-    "brand": "Tapo",
-    "price": {
-      "value": 59.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 11037,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BZMLKXL4",
-    "category": "videocamere-sicurezza",
-    "title": "Tapo C510W 2K 3MP Telecamera WiFi Esterno Videocamera Sorveglianza 360° PTZ",
-    "brand": "Tapo",
-    "price": {
-      "value": 35.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 10683,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BWCVYFLC",
-    "category": "videocamere-sicurezza",
-    "title": "Tapo C210P2 2K 3MP Telecamera WiFi Interno Videocamera Sorveglianza, 2pz",
-    "brand": "Tapo",
-    "price": {
-      "value": 44.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 8806,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CBMVQQSK",
-    "category": "videocamere-sicurezza",
-    "title": "EZVIZ C6N Telecamera Wi-Fi Interno 1080p Videocamera Sorveglianza Interno…",
-    "brand": "EZVIZ",
-    "price": {
-      "value": 44.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3269,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F1MT6QBY",
-    "category": "videocamere-sicurezza",
-    "title": "COOAU 2K Telecamera Wi-Fi Esterno Senza Fili, Telecamera Pannello Solare",
-    "brand": "COOAU",
-    "price": {
-      "value": 39.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2931,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 7524,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0CDCL6FLC",
+  "category": "videocamere-sicurezza",
+  "title": "Tapo C220 2K 4MP Telecamera WiFi Interno Videocamera Sorveglianza 360°",
+  "brand": "Tapo",
+  "price": {
+   "value": 27.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 7491,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CDHJNMZZ",
+  "category": "videocamere-sicurezza",
+  "title": "Tapo C310P2 3MP Telecamera WiFi Esterno 2 Pack Telecamera Sorveglianza",
+  "brand": "Tapo",
+  "price": {
+   "value": 64.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 34157,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0B5QXM2BY",
+  "category": "videocamere-sicurezza",
+  "title": "aosu 2K Telecamera WIFI Interno Rotazione a 360°, Chiamata One-Touch",
+  "brand": "aosu",
+  "price": {
+   "value": 28.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 3730,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BQJVKVQR",
+  "category": "videocamere-sicurezza",
+  "title": "Tapo C500 FHD Telecamera WiFi Esterno Videocamera Sorveglianza 360° PTZ",
+  "brand": "Tapo",
+  "price": {
+   "value": 32.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 19631,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DY94MCLN",
+  "category": "videocamere-sicurezza",
+  "title": "Tapo C530WS 3K 5MP Telecamera WiFi Esterno 360° PTZ Starlight IP66",
+  "brand": "Tapo",
+  "price": {
+   "value": 59.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 11037,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BZMLKXL4",
+  "category": "videocamere-sicurezza",
+  "title": "Tapo C510W 2K 3MP Telecamera WiFi Esterno Videocamera Sorveglianza 360°",
+  "brand": "Tapo",
+  "price": {
+   "value": 35.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 10683,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BN4BQ1DM",
+  "category": "videocamere-sicurezza",
+  "title": "Tapo C225 2K QHD Telecamera WiFi Interno Videocamera Sorveglianza 360°",
+  "brand": "Tapo",
+  "price": {
+   "value": 67.53,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 8888,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BWCVYFLC",
+  "category": "videocamere-sicurezza",
+  "title": "Tapo C210P2 2K 3MP Telecamera WiFi Interno Videocamera Sorveglianza, 2pz",
+  "brand": "Tapo",
+  "price": {
+   "value": 44.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 8806,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08F6M24HK",
+  "category": "videocamere-sicurezza",
+  "title": "Ring videocamera Plus con proiettori cablata (Floodlight Cam Wired",
+  "brand": "Ring",
+  "price": {
+   "value": 79.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 8236,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

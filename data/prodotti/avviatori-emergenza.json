@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B09H729GKH",
-    "category": "avviatori-emergenza",
-    "title": "TOPDON JS2000Pro Booster Avviamento Auto, 2500A 16000mAh Avviatore Batteria",
-    "brand": "TOPDON",
-    "price": {
-      "value": 85.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 3305,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0924V8SPC",
+  "category": "avviatori-emergenza",
+  "title": "NOCO Boost X GBX45 Avviatore Batteria 1250A - 6,5L Benzina e 4,0L Diesel",
+  "brand": "NOCO",
+  "price": {
+   "value": 142.14,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B09XB8FFX5",
-    "category": "avviatori-emergenza",
-    "title": "TOPDON JS3000 Booster Avviamento Auto 3000A per Motori 9L Benzina 7L Diesel",
-    "brand": "TOPDON",
-    "price": {
-      "value": 128.59,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 3305,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B015TKSSB8",
-    "category": "avviatori-emergenza",
-    "title": "NOCO Boost GB150 Avviatore Batteria 3000A fino a 9,0L Benzina e 7,0L Diesel",
-    "brand": "NOCO",
-    "price": {
-      "value": 299.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 12823,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D2HJZ2CM",
-    "category": "avviatori-emergenza",
-    "title": "UTRAI 10-IN-1 Avviatore Batteria Auto con Compressore 150PSI",
-    "brand": "UTRAI",
-    "price": {
-      "value": 53.19,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 622,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DQ54YKH9",
-    "category": "avviatori-emergenza",
-    "title": "TREKURE Avviatore Batteria Auto 7000A 16800mAh, Avviatore di Emergenza",
-    "brand": "TREKURE",
-    "price": {
-      "value": 37.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 4754,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B096ZWXT13",
-    "category": "avviatori-emergenza",
-    "title": "BRPOM Avviatore Batteria Auto, 9000A Avviatore di Emergenza per…",
-    "brand": "BRPOM",
-    "price": {
-      "value": 49.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1751,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B09CZ8KTMR",
-    "category": "avviatori-emergenza",
-    "title": "GOOLOO 1500A Avviatore di Emergenza per Auto, 12V Jump Starter",
-    "brand": "GOOLOO",
-    "price": {
-      "value": 37.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 985,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GQ3HSWS5",
-    "category": "avviatori-emergenza",
-    "title": "TREKURE Avviatore Batteria Auto, 8000A Avviatore di Emergenza per Auto/Moto…",
-    "brand": "TREKURE",
-    "price": {
-      "value": 49.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 779,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H7X8HSSS",
-    "category": "avviatori-emergenza",
-    "title": "YaberAuto Avviatore Batteria Auto 9000A con compressore d'aria 160PSI",
-    "brand": "YaberAuto",
-    "price": {
-      "value": 80.46,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 139,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CNT44QN4",
-    "category": "avviatori-emergenza",
-    "title": "BRPOM Avviatore Batteria Auto, 10000A mAh Avviatore di Emergenza per Auto/Moto",
-    "brand": "BRPOM",
-    "price": {
-      "value": 56.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 664,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 15425,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B09H729GKH",
+  "category": "avviatori-emergenza",
+  "title": "TOPDON JS2000Pro Booster Avviamento Auto",
+  "brand": "TOPDON",
+  "price": {
+   "value": 85.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 3305,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B015TKSSB8",
+  "category": "avviatori-emergenza",
+  "title": "NOCO Boost GB150 Avviatore Batteria 3000A fino a 9,0L Benzina e 7,0L",
+  "brand": "NOCO",
+  "price": {
+   "value": 299.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 12823,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CRRKRJ2S",
+  "category": "avviatori-emergenza",
+  "title": "WOLFBOX 4000A Booster Avviamento Auto, 10L Benzina o 10L Diesel, MV24",
+  "brand": "WOLFBOX",
+  "price": {
+   "value": 99.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 6248,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DQ54YKH9",
+  "category": "avviatori-emergenza",
+  "title": "TREKURE Avviatore Batteria Auto 7000A 16800mAh, Avviatore di Emergenza",
+  "brand": "TREKURE",
+  "price": {
+   "value": 37.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 4753,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D2HJZ2CM",
+  "category": "avviatori-emergenza",
+  "title": "UTRAI 10-IN-1 Avviatore Batteria Auto con Compressore 150PSI",
+  "brand": "UTRAI",
+  "price": {
+   "value": 53.19,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 622,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B096ZWXT13",
+  "category": "avviatori-emergenza",
+  "title": "BRPOM Avviatore Batteria Auto, 9000A Avviatore di Emergenza per",
+  "brand": "BRPOM",
+  "price": {
+   "value": 49.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1751,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F6N88NHD",
+  "category": "avviatori-emergenza",
+  "title": "AstroAI P10 Booster Avviamento 5000A",
+  "brand": "AstroAI",
+  "price": {
+   "value": 188.29,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1711,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B016UG6PWE",
+  "category": "avviatori-emergenza",
+  "title": "NOCO Boost GB70 Avviatore Batteria 2000A fino a 8,0L Benzina e 6,0L",
+  "brand": "NOCO",
+  "price": {
+   "value": 216.42,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 30410,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FG3599DZ",
+  "category": "avviatori-emergenza",
+  "title": "Acmount Avviatore Batteria Auto",
+  "brand": "Acmount",
+  "price": {
+   "value": 56.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1411,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

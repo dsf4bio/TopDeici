@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B01MR397OH",
-    "category": "bracci-monitor",
-    "title": "BONTEC Supporto Doppio Monitor per Schermo LED LCD da 13 a 27 Pollici",
-    "brand": "BONTEC",
-    "price": {
-      "value": 27.54,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 38670,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B01MR397OH",
+  "category": "bracci-monitor",
+  "title": "BONTEC Supporto Doppio Monitor per Schermo LED LCD da 13 a 27 Pollici",
+  "brand": "BONTEC",
+  "price": {
+   "value": 27.54,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B08B8X4KBV",
-    "category": "bracci-monitor",
-    "title": "Invision Supporto Braccio Monitor per Schermi 24-40 pollici Morsetto Tavolo…",
-    "brand": "Invision",
-    "price": {
-      "value": 56.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 7799,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B091D2CKC7",
-    "category": "bracci-monitor",
-    "title": "Ergosolid Supporto per Monitor PC, Monitor, Braccio articolato ergonomico",
-    "brand": "Ergosolid",
-    "price": {
-      "value": 42.77,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 4100,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CKPC6YM3",
-    "category": "bracci-monitor",
-    "title": "BONTEC Supporto Monitor Schermi da 13\" a 32\"",
-    "brand": "BONTEC",
-    "price": {
-      "value": 25.64,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 4091,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B091ZK3DPV",
-    "category": "bracci-monitor",
-    "title": "Invision Braccio Monitor Doppio per 24-35\" pollic schermi, Peso da 2-15kg",
-    "brand": "Invision",
-    "price": {
-      "value": 75.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2839,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B08P3GBV52",
-    "category": "bracci-monitor",
-    "title": "Redbat Supporto Monitor Braccio Display",
-    "brand": "Redbat",
-    "price": {
-      "value": 30.16,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2723,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B01N4L6MLM",
-    "category": "bracci-monitor",
-    "title": "BONTEC Supporto Doppio Monitor Autoportante 13-27”, 10 kg, VESA 75/100",
-    "brand": "BONTEC",
-    "price": {
-      "value": 37.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2625,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GMX3QTML",
-    "category": "bracci-monitor",
-    "title": "Ergosolid F160-G Supporto Doppio Monitor Scrivania 17-32 pollici",
-    "brand": "Ergosolid",
-    "price": {
-      "value": 44.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 2152,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07ZNGT8K4",
-    "category": "bracci-monitor",
-    "title": "HUANUO Supporto Monitor Scrivania Doppio",
-    "brand": "HUANUO",
-    "price": {
-      "value": 49.63,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 12167,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B08L1119NH",
-    "category": "bracci-monitor",
-    "title": "BONTEC Supporto per Doppio Monitor e Smartphone",
-    "brand": "BONTEC",
-    "price": {
-      "value": 25.64,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 8132,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 38670,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B07H4DMLVH",
+  "category": "bracci-monitor",
+  "title": "HUANUO - Supporto per monitor regolabile su 3 altezze per computer",
+  "brand": "HUANUO",
+  "price": {
+   "value": 38.17,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 23879,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07T2374MN",
+  "category": "bracci-monitor",
+  "title": "WALI Supporto per monitor del computer, 3 alzate regolabili in altezza",
+  "brand": "WALI",
+  "price": {
+   "value": 54.89,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 3147,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B094QTGHNZ",
+  "category": "bracci-monitor",
+  "title": "WALI Supporto per monitor del computer, 3 alzate regolabili in altezza",
+  "brand": "WALI",
+  "price": {
+   "value": 39.74,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 11679,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08B8X4KBV",
+  "category": "bracci-monitor",
+  "title": "Invision Supporto Braccio Monitor per Schermi 24-40 pollici Morsetto",
+  "brand": "Invision",
+  "price": {
+   "value": 56.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 7799,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B091D2CKC7",
+  "category": "bracci-monitor",
+  "title": "Ergosolid Supporto per Monitor PC, Monitor",
+  "brand": "Ergosolid",
+  "price": {
+   "value": 42.77,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 4100,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CKPC6YM3",
+  "category": "bracci-monitor",
+  "title": "BONTEC Supporto Monitor Schermi da 13\" a 32\"",
+  "brand": "BONTEC",
+  "price": {
+   "value": 25.64,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 4091,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B06ZZJ2LPY",
+  "category": "bracci-monitor",
+  "title": "FITUEYES Supporto Monitor Supporto per Monitor in Vetro Temperato",
+  "brand": "FITUEYES",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 2901,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B091ZK3DPV",
+  "category": "bracci-monitor",
+  "title": "Invision Braccio Monitor Doppio per 24-35\" pollic schermi",
+  "brand": "Invision",
+  "price": {
+   "value": 75.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 2839,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0H2LBZCKD",
+  "category": "bracci-monitor",
+  "title": "Amazon Basics Rettangolare supporto da scrivania regolabile per monitor",
+  "brand": "Amazon Basics",
+  "price": {
+   "value": 29.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 24973,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

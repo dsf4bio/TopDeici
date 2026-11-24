@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B08839L43J",
-    "category": "bilance-smart",
-    "title": "Posture Bilancia Pesapersone Digitale",
-    "brand": "Posture",
-    "price": {
-      "value": 25.49,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 31869,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B08839L43J",
+  "category": "bilance-smart",
+  "title": "Posture Bilancia Pesapersone Digitale",
+  "brand": "Posture",
+  "price": {
+   "value": 25.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B079DQ7JK6",
-    "category": "bilance-smart",
-    "title": "RENPHO Bilancia Pesapersone Digitale con Grasso Corporeo e Massa Muscolare",
-    "brand": "RENPHO",
-    "price": {
-      "value": 26.59,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 18538,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07GZBXCH6",
-    "category": "bilance-smart",
-    "title": "eufy C1 Bilancia Smart con Bluetooth, Grande Display LED, 12 Misurazioni",
-    "brand": "eufy",
-    "price": {
-      "value": 37.56,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 12730,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B01MYRRLVT",
-    "category": "bilance-smart",
-    "title": "Soehnle Style Sense Safe 300 Bilancia pesapersone",
-    "brand": "Soehnle",
-    "price": {
-      "value": 30.58,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 8778,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FQJQ2HSV",
-    "category": "bilance-smart",
-    "title": "arboleaf Bilancia Pesapersone Digitale, 14 Metriche, Capacità 180 kg, Nero",
-    "brand": "arboleaf",
-    "price": {
-      "value": 34.29,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 7745,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0C1Z137KK",
-    "category": "bilance-smart",
-    "title": "RunStar Bilancia pesapersone e percentuale grasso",
-    "brand": "RunStar",
-    "price": {
-      "value": 29.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 5235,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DHZ2RCWJ",
-    "category": "bilance-smart",
-    "title": "arboleaf Bilancia Pesapersone Digitale, Bluetooth e APP, Capacità 180 kg",
-    "brand": "arboleaf",
-    "price": {
-      "value": 30.39,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2772,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D2LBSWVL",
-    "category": "bilance-smart",
-    "title": "RENPHO Bilancia Intelligente, Grande Display LED, Bluetooth, 226 kg",
-    "brand": "RENPHO",
-    "price": {
-      "value": 30.68,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 2206,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FDQCD8FP",
-    "category": "bilance-smart",
-    "title": "Homebuds 250kg Bilancia Pesapersone Digitale",
-    "brand": "Homebuds",
-    "price": {
-      "value": 35.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1582,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DG511JDK",
-    "category": "bilance-smart",
-    "title": "RunStar Bilancia Pesapesone, Bilancia Smart Con Display VA 8in1",
-    "brand": "RunStar",
-    "price": {
-      "value": 39.88,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1393,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 31869,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B079DQ7JK6",
+  "category": "bilance-smart",
+  "title": "RENPHO Bilancia Pesapersone Digitale",
+  "brand": "RENPHO",
+  "price": {
+   "value": 26.59,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 18538,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07GZBXCH6",
+  "category": "bilance-smart",
+  "title": "eufy C1 Bilancia Smart con Bluetooth, Grande Display LED",
+  "brand": "eufy",
+  "price": {
+   "value": 37.56,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 12730,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01MYRRLVT",
+  "category": "bilance-smart",
+  "title": "Soehnle Style Sense Safe 300 Bilancia pesapersone",
+  "brand": "Soehnle",
+  "price": {
+   "value": 30.58,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 8778,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FQJQ2HSV",
+  "category": "bilance-smart",
+  "title": "arboleaf Bilancia Pesapersone Digitale, 14 Metriche, Capacità 180 kg",
+  "brand": "arboleaf",
+  "price": {
+   "value": 34.29,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 7745,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C1Z137KK",
+  "category": "bilance-smart",
+  "title": "RunStar Bilancia pesapersone e percentuale grasso",
+  "brand": "RunStar",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 5235,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07R29FDWX",
+  "category": "bilance-smart",
+  "title": "RENPHO Bilancia Pesapersone Bluetooth, Digitale con App, Bianco",
+  "brand": "RENPHO",
+  "price": {
+   "value": 30.64,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 22420,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07YFS6GXB",
+  "category": "bilance-smart",
+  "title": "RENPHO Bilancia Pesapersone Impedenziometrica, Bluetooth, App",
+  "brand": "RENPHO",
+  "price": {
+   "value": 25.97,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 22080,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DHZ2RCWJ",
+  "category": "bilance-smart",
+  "title": "arboleaf Bilancia Pesapersone Digitale, Bluetooth e APP, Capacità 180 kg",
+  "brand": "arboleaf",
+  "price": {
+   "value": 30.39,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 2772,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FXZVZWQD",
+  "category": "bilance-smart",
+  "title": "Vitafit Bilancia Pesapersone, Alta Precisione 0,05kg dalla Nostra",
+  "brand": "Vitafit",
+  "price": {
+   "value": 25.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 11348,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

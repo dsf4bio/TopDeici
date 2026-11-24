@@ -1,38 +1,182 @@
 [
-  {
-    "asin": "B084ZP1H7Z",
-    "category": "robot-da-cucina",
-    "title": "Moulinex HF80CBK Companion Robot da Cucina Multifunzione, 1500 W, 3L",
-    "brand": "Moulinex",
-    "price": {
-      "value": 745.25,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 577,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B001C3DRDG",
+  "category": "robot-da-cucina",
+  "title": "Kenwood FP120A Robot da Cucina Compatto Frullatore, emulsionante",
+  "brand": "Kenwood",
+  "price": {
+   "value": 72.73,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0GLQZJWQG",
-    "category": "robot-da-cucina",
-    "title": "Ninja PrecisionPro, Robot da Cucina Multifunzione, 2,1 L, Verde Salvia",
-    "brand": "Ninja",
-    "price": {
-      "value": 119.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 129,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.5,
+   "count": 8080,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B013DQF1DI",
+  "category": "robot-da-cucina",
+  "title": "Bosch MCM3100W Robot da Cucina Multifunzione, 800 Watt, 2 Velocità",
+  "brand": "Bosch",
+  "price": {
+   "value": 70.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2941,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B084ZP1H7Z",
+  "category": "robot-da-cucina",
+  "title": "Moulinex HF80CBK Companion Robot da Cucina Multifunzione, 1500 W, 3L",
+  "brand": "Moulinex",
+  "price": {
+   "value": 745.25,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 577,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0859ZJVDH",
+  "category": "robot-da-cucina",
+  "title": "Moulinex CE9028 Cookeo Touch WiFi Multicooker",
+  "brand": "Moulinex",
+  "price": {
+   "value": 329.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1983,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GLQZJWQG",
+  "category": "robot-da-cucina",
+  "title": "Ninja PrecisionPro, Robot da Cucina Multifunzione, 2,1 L, Verde Salvia",
+  "brand": "Ninja",
+  "price": {
+   "value": 119.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 129,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09X278W9V",
+  "category": "robot-da-cucina",
+  "title": "BLACK+DECKER FP4200BC - Robot da cucina 3 in 1, per 8 tazze",
+  "brand": "Black+Decker",
+  "price": {
+   "value": 173.76,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 4146,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07HPRQJL1",
+  "category": "robot-da-cucina",
+  "title": "Bosch MC812M844 Robot da Cucina, 1250 Watt, Motore Potente, Ciotola XXL",
+  "brand": "Bosch",
+  "price": {
+   "value": 253.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2489,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09GCHR5QV",
+  "category": "robot-da-cucina",
+  "title": "Cuisinart Robot da cucina multifunzione FP-110 Core Custom da 10 tazze",
+  "brand": "Cuisinart",
+  "price": {
+   "value": 334.01,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 210,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07P9ZN1BQ",
+  "category": "robot-da-cucina",
+  "title": "Philips Robot da Cucina Compatto - 700W, 16 Funzioni",
+  "brand": "Philips",
+  "price": {
+   "value": 86.89,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1141,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CW1JTHZ6",
+  "category": "robot-da-cucina",
+  "title": "nutribullet Triple Prep, Robot da cucina, Frullatore Multifunzione",
+  "brand": "nutribullet",
+  "price": {
+   "value": 179.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 176,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

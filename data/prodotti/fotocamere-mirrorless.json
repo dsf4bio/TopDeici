@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0C65KQ5CH",
-    "category": "fotocamere-mirrorless",
-    "title": "Canon EOS R100 Fotocamera Mirrorless 24 Megapixel APS-C + RF-S 18-45mm",
-    "brand": "Canon",
-    "price": {
-      "value": 459.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 570,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B08KSKV35C",
+  "category": "fotocamere-mirrorless",
+  "title": "Canon Fotocamera Mirrorless EOS M50 Mark II 15-45 IS STM (Nero)",
+  "brand": "Canon",
+  "price": {
+   "value": 1138.95,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B07B4L1PQ8",
-    "category": "fotocamere-mirrorless",
-    "title": "Sony Alpha 7 III – 24,2 MP Fotocamera mirrorless full frame , video 4K",
-    "brand": "Sony",
-    "price": {
-      "value": 999.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 1273,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FVFCD464",
-    "category": "fotocamere-mirrorless",
-    "title": "Fujifilm X-T30 III Fotocamera Digitale Mirrorless 26MP",
-    "brand": "Fujifilm",
-    "price": {
-      "value": 1028.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 115,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CB8T476W",
-    "category": "fotocamere-mirrorless",
-    "title": "Sony Alpha 6700 Fotocamera mirrorless APS-C (autofocus basato sull'intelligenza…",
-    "brand": "Sony",
-    "price": {
-      "value": 1302.98,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 426,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DPN4HNPR",
-    "category": "fotocamere-mirrorless",
-    "title": "Sony Alpha 6100 Kit Fotocamera Digitale Mirrorless",
-    "brand": "Sony",
-    "price": {
-      "value": 599.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 94,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B08J2K9VS7",
-    "category": "fotocamere-mirrorless",
-    "title": "Sony Alpha 7 C - Fotocamera Digitale Mirrorless Full-frame, compatta e leggera",
-    "brand": "Sony",
-    "price": {
-      "value": 1099.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 247,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DJC2HXF9",
-    "category": "fotocamere-mirrorless",
-    "title": "FUJIFILM X-M5 Fotocamera Digitale Mirrorless 26MP, Kit XC15-45mmF3.5-5.6",
-    "brand": "FUJIFILM",
-    "price": {
-      "value": 903.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 204,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B00D4ALTDU",
-    "category": "fotocamere-mirrorless",
-    "title": "Canon EOS RP mirrorless Full-Frame nera, body (26,2 Mp, 5 fps",
-    "brand": "Canon",
-    "price": {
-      "value": 689.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 202,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BV6SMD2K",
-    "category": "fotocamere-mirrorless",
-    "title": "Canon EOS R8 Fotocamera Mirrorless Full-Frame, Sensore 24.2MP, 4K",
-    "brand": "Canon",
-    "price": {
-      "value": 999.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 162,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BV6STF4Z",
-    "category": "fotocamere-mirrorless",
-    "title": "Canon EOS R8 Fotocamera Mirrorless Full-Frame 24.2MP 4K + RF 24-50mm",
-    "brand": "Canon",
-    "price": {
-      "value": 1099.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 132,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 1568,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0BL7ZVY78",
+  "category": "fotocamere-mirrorless",
+  "title": "Canon Fotocamera mirrorless EOS R6 Mark II (solo corpo)",
+  "brand": "Canon",
+  "price": {
+   "value": 1749.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 657,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C65KQ5CH",
+  "category": "fotocamere-mirrorless",
+  "title": "Canon EOS R100 Fotocamera Mirrorless 24 Megapixel APS-C + RF-S 18-45mm",
+  "brand": "Canon",
+  "price": {
+   "value": 459.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 570,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09JZRWRJN",
+  "category": "fotocamere-mirrorless",
+  "title": "Sony Alpha 7 IV - Fotocamera mirrorless full-frame",
+  "brand": "Sony",
+  "price": {
+   "value": 2127.4,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 430,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07MWDP1VD",
+  "category": "fotocamere-mirrorless",
+  "title": "Sony Alpha 6400L - Kit Fotocamera Digitale Mirrorless",
+  "brand": "Sony",
+  "price": {
+   "value": 1149.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1397,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07B4L1PQ8",
+  "category": "fotocamere-mirrorless",
+  "title": "Sony Alpha 7 III – 24,2 MP Fotocamera mirrorless full frame , video 4K",
+  "brand": "Sony",
+  "price": {
+   "value": 999.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1273,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07X69YCZQ",
+  "category": "fotocamere-mirrorless",
+  "title": "Sony Alpha 6100L - Kit Fotocamera Digitale Mirrorless",
+  "brand": "Sony",
+  "price": {
+   "value": 699.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 282,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BDKL1TVX",
+  "category": "fotocamere-mirrorless",
+  "title": "Canon EOS R10 Fotocamera Mirrorless APS-C 24,2MP + Obiettivo RF-S",
+  "brand": "Canon",
+  "price": {
+   "value": 1299.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 250,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09JZT6YK5",
+  "category": "fotocamere-mirrorless",
+  "title": "Sony Alpha 7 IV – 33 MP Fotocamera mirrorless full frame",
+  "brand": "Sony",
+  "price": {
+   "value": 1799.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 741,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CB8T476W",
+  "category": "fotocamere-mirrorless",
+  "title": "Sony Alpha 6700 Fotocamera mirrorless APS-C",
+  "brand": "Sony",
+  "price": {
+   "value": 1302.98,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 426,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

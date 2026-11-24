@@ -1,128 +1,182 @@
 [
-  {
-    "asin": "B0HG9NGGLN",
-    "category": "cuscini",
-    "title": "DONAMA Cuscino Cervicale Memory Foam Ergonomico 9/14 cm Per Collo e Spalle",
-    "brand": "DONAMA",
-    "price": {
-      "value": 39.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 5.0,
-      "count": 129,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0HG9NGGLN",
+  "category": "cuscini",
+  "title": "DONAMA Cuscino Cervicale Memory Foam Ergonomico 9/14 cm Per Collo e",
+  "brand": "DONAMA",
+  "price": {
+   "value": 39.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0HF7XL53L",
-    "category": "cuscini",
-    "title": "A-Pce Cuscino Cervicale Memory Foam, Cuscino Ergonomico Ortopedico, Blu",
-    "brand": "A-Pce",
-    "price": {
-      "value": 36.75,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 53,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GSGCJ4ZT",
-    "category": "cuscini",
-    "title": "PKBD Cuscino Cervicale Memory Foam Ergonomico 2 Altezze Bianco Viola",
-    "brand": "PKBD",
-    "price": {
-      "value": 26.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 244,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HCW2F11V",
-    "category": "cuscini",
-    "title": "Ferò Cuscino Cervicale per Dormire di lato e supini",
-    "brand": "Ferò",
-    "price": {
-      "value": 42.29,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 54,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GYP18ZWL",
-    "category": "cuscini",
-    "title": "Puokmy Cuscino Cervicale per Dormire in Memory Foam",
-    "brand": "Puokmy",
-    "price": {
-      "value": 29.98,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 158,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GZH1CDTG",
-    "category": "cuscini",
-    "title": "DOLCI SOGNI - Cuscino Cervicale a Onda Per Dormire in Memory Foam",
-    "brand": "Dolci Sogni",
-    "price": {
-      "value": 33.2,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 102,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HLKC81YY",
-    "category": "cuscini",
-    "title": "MULISOFT Cuscino Cervicale per Dormire, Cuscino Ergonomico in Memory Foam",
-    "brand": "MULISOFT",
-    "price": {
-      "value": 59.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 56,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 5.0,
+   "count": 129,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00DBVILJM",
+  "category": "cuscini",
+  "title": "Baldiflex Emporio, Coppia di Cuscini Saponetta Memory Foam, Aloe Vera",
+  "brand": "Baldiflex",
+  "price": {
+   "value": 31.23,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 6046,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GSGCJ4ZT",
+  "category": "cuscini",
+  "title": "PKBD Cuscino Cervicale Memory Foam Ergonomico 2 Altezze Bianco Viola",
+  "brand": "PKBD",
+  "price": {
+   "value": 26.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 244,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BG8Z9FXF",
+  "category": "cuscini",
+  "title": "HOMCA Cuscino CPAP Cuscini Cervicale Ergonomico in Memory Foam, Grigio",
+  "brand": "HOMCA",
+  "price": {
+   "value": 42.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2293,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GYP18ZWL",
+  "category": "cuscini",
+  "title": "Puokmy Cuscino Cervicale per Dormire in Memory Foam",
+  "brand": "Puokmy",
+  "price": {
+   "value": 29.98,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 158,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07NQLWQ51",
+  "category": "cuscini",
+  "title": "EVERGREENWEB Cuscino Letto 40x70 Alto 18 cm Modello Saponetta 100%",
+  "brand": "EVERGREENWEB",
+  "price": {
+   "value": 37.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1066,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DKTG6RHB",
+  "category": "cuscini",
+  "title": "YunNasi Cuscino Cervicale Ortopedico Memory Foam per Dormire",
+  "brand": "YunNasi",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 858,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GZH1CDTG",
+  "category": "cuscini",
+  "title": "DOLCI SOGNI - Cuscino Cervicale a Onda Per Dormire in Memory Foam",
+  "brand": "Dolci Sogni",
+  "price": {
+   "value": 33.2,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 102,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07NQPXLPZ",
+  "category": "cuscini",
+  "title": "Evergreenweb Cuscino Letto 40x70 BASSO 9 cm Modello Saponetta",
+  "brand": "Evergreenweb",
+  "price": {
+   "value": 33.24,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 521,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00DBVIWV4",
+  "category": "cuscini",
+  "title": "Baldiflex Saponetta - Coppia di Cuscini in Memory Foam",
+  "brand": "Baldiflex",
+  "price": {
+   "value": 37.8,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 520,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

@@ -1,164 +1,182 @@
 [
-  {
-    "asin": "B0C3HCD34R",
-    "category": "cuffie-wireless",
-    "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear con Cancellazione Rumore",
-    "brand": "Soundcore",
-    "price": {
-      "value": 29.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 80410,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0C3HCD34R",
+  "category": "cuffie-wireless",
+  "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear",
+  "brand": "Soundcore",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B08FCGLYFZ",
-    "category": "cuffie-wireless",
-    "title": "Skullcandy Crusher Evo Cuffie Wireless Over-Ear con Sensory Bass e Microfono",
-    "brand": "Skullcandy",
-    "price": {
-      "value": 114.89,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 4173,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0BYWMLVG1",
-    "category": "cuffie-wireless",
-    "title": "JBL Tune 520 BT, Cuffie On-Ear Bluetooth Wireless, Nero",
-    "brand": "JBL",
-    "price": {
-      "value": 29.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 33165,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CCZ26B5V",
-    "category": "cuffie-wireless",
-    "title": "Bose QuietComfort Headphones Cuffie",
-    "brand": "Bose",
-    "price": {
-      "value": 189.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 22607,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B096G2RN6D",
-    "category": "cuffie-wireless",
-    "title": "JBL Tune 710 BT, Cuffie Over-Ear Wireless Bluetooth, JBL Pure Bass",
-    "brand": "JBL",
-    "price": {
-      "value": 76.73,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 12373,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CFV9XR2Q",
-    "category": "cuffie-wireless",
-    "title": "Picun Cuffie Bluetooth B8, 120 ore di riproduzione",
-    "brand": "Picun",
-    "price": {
-      "value": 29.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 12204,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0D1VN2VB7",
-    "category": "cuffie-wireless",
-    "title": "Marshall Major V Cuffie Wireless Bluetooth, 100 ore di riproduzione - nero",
-    "brand": "Marshall",
-    "price": {
-      "value": 88.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 4815,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B07XRX18ZZ",
-    "category": "cuffie-wireless",
-    "title": "Sumvision Psyc Wave RX - Cuffie Wireless Bluetooth 4.1",
-    "brand": "Sumvision",
-    "price": {
-      "value": 33.62,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 1317,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0CGV5GD8F",
-    "category": "cuffie-wireless",
-    "title": "QCY H3 ANC Cuffie Bluetooth Cancellazione Rumore Attiva Ibrida,Cuffie Over Ear…",
-    "brand": "QCY",
-    "price": {
-      "value": 45.96,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3317,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 80410,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0BYWMLVG1",
+  "category": "cuffie-wireless",
+  "title": "JBL Tune 520 BT, Cuffie On-Ear Bluetooth Wireless, Nero",
+  "brand": "JBL",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 33165,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CCZ26B5V",
+  "category": "cuffie-wireless",
+  "title": "Bose QuietComfort Headphones Cuffie",
+  "brand": "Bose",
+  "price": {
+   "value": 189.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 22607,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08FCGLYFZ",
+  "category": "cuffie-wireless",
+  "title": "Skullcandy Crusher Evo Cuffie Wireless Over-Ear",
+  "brand": "Skullcandy",
+  "price": {
+   "value": 114.89,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 4173,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B096G2RN6D",
+  "category": "cuffie-wireless",
+  "title": "JBL Tune 710 BT, Cuffie Over-Ear Wireless Bluetooth, JBL Pure Bass",
+  "brand": "JBL",
+  "price": {
+   "value": 76.73,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 12373,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CFV9XR2Q",
+  "category": "cuffie-wireless",
+  "title": "Picun Cuffie Bluetooth B8, 120 ore di riproduzione",
+  "brand": "Picun",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 12204,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08HMWZBXC",
+  "category": "cuffie-wireless",
+  "title": "Soundcore di Anker Q30, Cuffie Bluetooth Over Ear",
+  "brand": "Soundcore",
+  "price": {
+   "value": 49.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 97397,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D1VN2VB7",
+  "category": "cuffie-wireless",
+  "title": "Marshall Major V Cuffie Wireless Bluetooth, 100 ore di riproduzione",
+  "brand": "Marshall",
+  "price": {
+   "value": 88.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 4815,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CDC4X65Q",
+  "category": "cuffie-wireless",
+  "title": "BERIBES Cuffie ibride con cancellazione attiva del rumore",
+  "brand": "BERIBES",
+  "price": {
+   "value": 108.25,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 51161,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BTJD6LCL",
+  "category": "cuffie-wireless",
+  "title": "Sony WH-CH520 / Cuffie Wireless, Connessione Multipoint, con Microfono",
+  "brand": "Sony",
+  "price": {
+   "value": 29.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 48933,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

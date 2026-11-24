@@ -1,56 +1,182 @@
 [
-  {
-    "asin": "B0D11FD5RF",
-    "category": "biciclette-elettriche",
-    "title": "ENGWE Bicicletta Elettrica Pieghevole/ 768Wh 16AH Durata 110KM/",
-    "brand": "ENGWE",
-    "price": {
-      "value": 1399.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 112,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0D11FD5RF",
+  "category": "biciclette-elettriche",
+  "title": "ENGWE Bicicletta Elettrica Pieghevole/ 768Wh 16AH Durata 110KM/",
+  "brand": "ENGWE",
+  "price": {
+   "value": 1399.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0DKTWG9V6",
-    "category": "biciclette-elettriche",
-    "title": "EMotorad EMX+ / Bicicletta Elettrica MTB per adulti / Pneumatici 27.5x2.1\"",
-    "brand": "EMotorad",
-    "price": {
-      "value": 629.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 71,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DCFZ5XL1",
-    "category": "biciclette-elettriche",
-    "title": "SAMEBIKE Bicicletta Elettrica Adulto",
-    "brand": "SAMEBIKE",
-    "price": {
-      "value": 739.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 60,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.6,
+   "count": 112,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0DWFJCJZ3",
+  "category": "biciclette-elettriche",
+  "title": "ENGWE Bicicletta Elettrica Adulto, 20'' ×4.0'' Fat Tire, L20 BOOST",
+  "brand": "ENGWE",
+  "price": {
+   "value": 1149.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 360,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CYGYVZXW",
+  "category": "biciclette-elettriche",
+  "title": "VARUN 28'' Bici Elettrica, 48V 499.2Wh, Autonomia di 100km",
+  "brand": "VARUN",
+  "price": {
+   "value": 819.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 211,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0D72YQ5G9",
+  "category": "biciclette-elettriche",
+  "title": "ENGWE ENGINE X Bici Elettrica Pieghevole 250W E-Bike Adulto /",
+  "brand": "ENGWE",
+  "price": {
+   "value": 1299.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 125,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DKXXHK16",
+  "category": "biciclette-elettriche",
+  "title": "HillMiles Bici Elettrica Per Adulti Da 26\", 7 Velocità",
+  "brand": "HillMiles",
+  "price": {
+   "value": 699.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 423,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09J4RTCKJ",
+  "category": "biciclette-elettriche",
+  "title": "VARUN Bici Elettrica da 27.5'', 48V 624Wh Batteria, Autonomia di 100km",
+  "brand": "VARUN",
+  "price": {
+   "value": 719.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 345,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HJTX6KW4",
+  "category": "biciclette-elettriche",
+  "title": "URLIFE E26 Bici Elettrica uomo donna 26 pollici, 250W Motore e 40Nm",
+  "brand": "URLIFE",
+  "price": {
+   "value": 550.05,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 195,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CZLBRLH7",
+  "category": "biciclette-elettriche",
+  "title": "VARUN 20'' Bici Elettrica Pieghevole, 48V 624Wh Batteria, Autonomia 120km",
+  "brand": "VARUN",
+  "price": {
+   "value": 849.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 135,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GZFDC195",
+  "category": "biciclette-elettriche",
+  "title": "URLIFE Bici Elettrica Per Adulti, 20\" Fat Tire, Batteria Rimovibile",
+  "brand": "URLIFE",
+  "price": {
+   "value": 629.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 133,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BVR81S6P",
+  "category": "biciclette-elettriche",
+  "title": "VARUN Bici Elettrica 27.5'' Uomo Donna con Batteria Rimovibile",
+  "brand": "VARUN",
+  "price": {
+   "value": 739.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 131,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

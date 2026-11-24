@@ -1,20 +1,92 @@
 [
-  {
-    "asin": "B0HH9GJ1Y2",
-    "category": "adattatori-carplay",
-    "title": "OTTOCAST MINI 3.0 Slim 2026 Adattatore Wireless CarPlay e Android Auto",
-    "brand": "OTTOCAST",
-    "price": {
-      "value": 54.14,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 64,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0DNZMCN1R",
+  "category": "adattatori-carplay",
+  "title": "Krunia Schermo Portatile Wireless da 9,26\" CarPlay per Apple CarPlay &",
+  "brand": "Krunia",
+  "price": {
+   "value": 109.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 3777,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0HK38W3N1",
+  "category": "adattatori-carplay",
+  "title": "Magic CarPlay AI Box Lite per lo streaming Netflix/YouTube/TikTok",
+  "brand": "Magic Box",
+  "price": {
+   "value": 59.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 269,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HJWDR4WC",
+  "category": "adattatori-carplay",
+  "title": "Mini CarPlay Wireless e Android Auto per Navigazione GPS Auto",
+  "brand": "Generico",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 157,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0H3JXVSWK",
+  "category": "adattatori-carplay",
+  "title": "3-in-1 Car TV Mate Pro Adattatore Wireless CarPlay e Android Auto",
+  "brand": "Car TV Mate",
+  "price": {
+   "value": 56.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 109,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0GKF6LWKY",
+  "category": "adattatori-carplay",
+  "title": "AI Box 8G+128G Adattatore Wireless Android Auto CarPlay",
+  "brand": "Generico",
+  "price": {
+   "value": 372.18,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 104,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

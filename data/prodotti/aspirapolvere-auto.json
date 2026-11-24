@@ -1,56 +1,182 @@
 [
-  {
-    "asin": "B0HGL74444",
-    "category": "aspirapolvere-auto",
-    "title": "TT&C Aspirabriciole Senza Fili, 27000PA Aspirapolvere Auto…",
-    "brand": "TT&C",
-    "price": {
-      "value": 29.9,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.8,
-      "count": 474,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0HGL74444",
+  "category": "aspirapolvere-auto",
+  "title": "TT&C Aspirabriciole Senza Fili",
+  "brand": "TT&C",
+  "price": {
+   "value": 29.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0CXTB254W",
-    "category": "aspirapolvere-auto",
-    "title": "Ingco Cvli201261 Aspirapolvere senza filo A Batteria 20 v 0.5 lt Aspirabriciole…",
-    "brand": "Ingco",
-    "price": {
-      "value": 37.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 82,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B08L6KC9MT",
-    "category": "aspirapolvere-auto",
-    "title": "MEDION Aspirapolvere portatile (motore BLDC, filtro HEPA 13",
-    "brand": "MEDION",
-    "price": {
-      "value": 49.95,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 61,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.8,
+   "count": 474,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B07R5ZZF3G",
+  "category": "aspirapolvere-auto",
+  "title": "BLACK+DECKER dustbuster 18V 2.0Ah Aspirapolvere Portatile Senza Fili",
+  "brand": "Black+Decker",
+  "price": {
+   "value": 88.72,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1986,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0957QNC6T",
+  "category": "aspirapolvere-auto",
+  "title": "Bissell Pet Hair Eraser Aspirapolvere Portatile Senza Fili 14,4V 2278N",
+  "brand": "Bissell",
+  "price": {
+   "value": 79.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1379,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07KFYF8GQ",
+  "category": "aspirapolvere-auto",
+  "title": "BLACK+DECKER DUSTBUSTER Hand Vacuum HNVC220BCZ01, aspirapolvere a Mano",
+  "brand": "Black+Decker",
+  "price": {
+   "value": 107.39,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 9044,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00JZLBNU6",
+  "category": "aspirapolvere-auto",
+  "title": "BLACK+DECKER Pivot Aspirapolvere portatile senza fili da 18 V",
+  "brand": "Black+Decker",
+  "price": {
+   "value": 55.79,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 3996,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07P7PLVK3",
+  "category": "aspirapolvere-auto",
+  "title": "BLACK+DECKER Aspirapolvere portatile Dustbuster Gen 11, 18 V",
+  "brand": "Black+Decker",
+  "price": {
+   "value": 89.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2509,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07NLR6DSH",
+  "category": "aspirapolvere-auto",
+  "title": "BLACK+DECKER Aspirapolvere portatile (solidi/liquidi da 7,2 V)",
+  "brand": "Black+Decker",
+  "price": {
+   "value": 41.91,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 2508,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00IRV1ZG2",
+  "category": "aspirapolvere-auto",
+  "title": "BLACK+DECKER dustbuster Flexi Aspirapolvere Portatile 18V, PD1820L-QW",
+  "brand": "Black+Decker",
+  "price": {
+   "value": 89.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1549,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HNNXH8ZB",
+  "category": "aspirapolvere-auto",
+  "title": "SEALIGHT Aspirapolvere Senza fili per Auto, 38000Pa Mini Aspirapolvere",
+  "brand": "SEALIGHT",
+  "price": {
+   "value": 31.29,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1406,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DXVJ5Y39",
+  "category": "aspirapolvere-auto",
+  "title": "Fanttik Slim V10 APEX Aspirapolvere per Auto Senza Fili, 19.000 Pa",
+  "brand": "Fanttik",
+  "price": {
+   "value": 89.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1391,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

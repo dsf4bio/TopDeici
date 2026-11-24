@@ -1,182 +1,182 @@
 [
-  {
-    "asin": "B0B1VC8HRJ",
-    "category": "smartwatch",
-    "title": "Garmin Forerunner 265S, Smartwatch per la corsa, 42mm, GPS multi-band",
-    "brand": "Garmin",
-    "price": {
-      "value": 269.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 3113,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B0B46N7QQL",
+  "category": "smartwatch",
+  "title": "Garmin Forerunner 255, 46mm. Smartwatch GPS per la Corsa, Slate Grey",
+  "brand": "Garmin",
+  "price": {
+   "value": 349.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   },
-  {
-    "asin": "B0HJB44KZS",
-    "category": "smartwatch",
-    "title": "Apple Watch SE 3 GPS 40 mm Smartwatch",
-    "brand": "Apple",
-    "price": {
-      "value": 208.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 988,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H5KDLK7M",
-    "category": "smartwatch",
-    "title": "XIAOMI Redmi Watch 6 Lite, Fitness Tracker, Autonomia 18 Giorni, Nero",
-    "brand": "XIAOMI",
-    "price": {
-      "value": 59.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 542,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DBLJTSSZ",
-    "category": "smartwatch",
-    "title": "HUAWEI WATCH GT 5 Smartwatch da 46 mm, design con bordi affilati",
-    "brand": "HUAWEI",
-    "price": {
-      "value": 146.06,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 470,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0GT9K3YBY",
-    "category": "smartwatch",
-    "title": "HUAWEI WATCH FIT 5 Smartwatch, Schermo AMOLED HD da 1,82\", Nero",
-    "brand": "HUAWEI",
-    "price": {
-      "value": 161.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 449,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0DSG9VCRH",
-    "category": "smartwatch",
-    "title": "Garmin Instinct 3 Solar, 45mm, Smartwatch GPS Ultra Resistente, Black",
-    "brand": "Garmin",
-    "price": {
-      "value": 259.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3600,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0F38FCHD2",
-    "category": "smartwatch",
-    "title": "Garmin vívoactive 6, 42mm, Smartwatch GPS, Bone & Lunar Gold",
-    "brand": "Garmin",
-    "price": {
-      "value": 229.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 3350,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0HJCHF7YT",
-    "category": "smartwatch",
-    "title": "taopodo Orologio Smartwatch Donna, Schermo Rotondo AMOLED 1,27\"",
-    "brand": "taopodo",
-    "price": {
-      "value": 35.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.9,
-      "count": 94,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0FK4J2X7D",
-    "category": "smartwatch",
-    "title": "HUAWEI WATCH GT 6 GPS 46mm Smartwatch, Display AMOLED, Nero",
-    "brand": "HUAWEI",
-    "price": {
-      "value": 199.0,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 761,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
-  },
-  {
-    "asin": "B0H6WVVCC1",
-    "category": "smartwatch",
-    "title": "XIAOMI Redmi Watch 6 Active, Fitness Tracker, Batteria 18 Giorno, Nero",
-    "brand": "XIAOMI",
-    "price": {
-      "value": 46.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.6,
-      "count": 630,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+  "rating": {
+   "average": 4.7,
+   "count": 3243,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B0B1VC8HRJ",
+  "category": "smartwatch",
+  "title": "Garmin Forerunner 265S, Smartwatch per la corsa, 42mm, GPS multi-band",
+  "brand": "Garmin",
+  "price": {
+   "value": 269.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 3113,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07QLVHBLF",
+  "category": "smartwatch",
+  "title": "Garmin 010-02120-20 Forerunner 245 Music",
+  "brand": "Garmin",
+  "price": {
+   "value": 393.47,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 16602,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DWFMS3W1",
+  "category": "smartwatch",
+  "title": "HUAWEI Smartwatch Band 10, monitoraggio sportivo",
+  "brand": "HUAWEI",
+  "price": {
+   "value": 79.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 5414,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BW2VKGXX",
+  "category": "smartwatch",
+  "title": "Garmin Instinct 2X Solar - Tactical Edition, robusto smartwatch GPS",
+  "brand": "Garmin",
+  "price": {
+   "value": 618.43,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 1330,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DSG9VCRH",
+  "category": "smartwatch",
+  "title": "Garmin Instinct 3 Solar, 45mm, Smartwatch GPS Ultra Resistente, Black",
+  "brand": "Garmin",
+  "price": {
+   "value": 259.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 3600,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F38FCHD2",
+  "category": "smartwatch",
+  "title": "Garmin vívoactive 6, 42mm, Smartwatch GPS, Bone & Lunar Gold",
+  "brand": "Garmin",
+  "price": {
+   "value": 229.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 3350,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HJB44KZS",
+  "category": "smartwatch",
+  "title": "Apple Watch SE 3 GPS 40 mm Smartwatch",
+  "brand": "Apple",
+  "price": {
+   "value": 208.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 988,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F32PTQD3",
+  "category": "smartwatch",
+  "title": "HUAWEI Watch Fit 4 Smart Watch, display da 1,8 pollici",
+  "brand": "HUAWEI",
+  "price": {
+   "value": 199.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 764,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0953X73TP",
+  "category": "smartwatch",
+  "title": "Garmin Forerunner 55, 42mm. Smartwatch GPS per la Corsa, Black",
+  "brand": "Garmin",
+  "price": {
+   "value": 109.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 11744,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]

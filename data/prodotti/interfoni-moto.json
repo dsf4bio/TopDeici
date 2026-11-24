@@ -1,20 +1,182 @@
 [
-  {
-    "asin": "B0GX1FQ46K",
-    "category": "interfoni-moto",
-    "title": "FreedConn KY V2 Casco Moto Bluetooth 6.0 Auricolare, Dual-Channel Mix",
-    "brand": "FreedConn",
-    "price": {
-      "value": 52.99,
-      "currency": "EUR",
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    },
-    "rating": {
-      "average": 4.7,
-      "count": 50,
-      "checkedAt": "2026-11-24T13:17:41+00:00",
-      "source": "manual"
-    }
+ {
+  "asin": "B09MQ6TG4Q",
+  "category": "interfoni-moto",
+  "title": "CARDO, interfono Mani libere bluetooth Freecom 2x solo, Nero",
+  "brand": "CARDO",
+  "price": {
+   "value": 156.22,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2533,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
   }
+ },
+ {
+  "asin": "B00RB6UM0Y",
+  "category": "interfoni-moto",
+  "title": "Sena SMH5-UNIV Auricolare e Interfono Bluetooth per Scooter e Motocicli",
+  "brand": "Sena",
+  "price": {
+   "value": 90.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2058,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09MQ7R1D8",
+  "category": "interfoni-moto",
+  "title": "Cardo SPIRIT, interfono Mani libere bluetooth da motociclo - Singolo",
+  "brand": "Cardo",
+  "price": {
+   "value": 76.25,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 3739,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09NF1N197",
+  "category": "interfoni-moto",
+  "title": "Cardo, interfono Mani libere bluetooth Spirit HD duo, Nero",
+  "brand": "Cardo",
+  "price": {
+   "value": 223.87,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 3275,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DP1QRFZ7",
+  "category": "interfoni-moto",
+  "title": "Sena 60S Sistema di Comunicazione per Moto, Mesh 3.0 & WAVE Intercom",
+  "brand": "Sena",
+  "price": {
+   "value": 315.33,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 585,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0087NB088",
+  "category": "interfoni-moto",
+  "title": "Sena SMH10-11 Auricolare e Interfono Bluetooth per Moto",
+  "brand": "Sena",
+  "price": {
+   "value": 168.16,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1885,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09NWJ3XQB",
+  "category": "interfoni-moto",
+  "title": "Sena 50S sistema di comunicazione Bluetooth",
+  "brand": "Sena",
+  "price": {
+   "value": 238.72,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1719,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0087NAZM0",
+  "category": "interfoni-moto",
+  "title": "Sena SMH10D-10 Auricolare e Interfono Bluetooth per Moto",
+  "brand": "Sena",
+  "price": {
+   "value": 263.14,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1683,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01ET8TM3Y",
+  "category": "interfoni-moto",
+  "title": "INTERPHONE TOUR - Doppio - Interfono Moto Bluetooth",
+  "brand": "INTERPHONE",
+  "price": {
+   "value": 192.63,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1672,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B096YPNVBP",
+  "category": "interfoni-moto",
+  "title": "Sena SMH5 Auricolare e Interfono Bluetooth per Scooter e Motocicli",
+  "brand": "Sena",
+  "price": {
+   "value": 57.94,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1649,
+   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "source": "manual"
+  }
+ }
 ]
