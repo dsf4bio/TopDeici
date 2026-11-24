@@ -34,16 +34,8 @@ const nextConfig: NextConfig = {
   async headers() {
     return [{ source: "/:path*", headers: securityHeaders }];
   },
-  async redirects() {
-    return [
-      {
-        source: "/:path*",
-        has: [{ type: "host", value: "topdieci.click" }],
-        destination: "https://www.topdieci.click/:path*",
-        permanent: true,
-      },
-    ];
-  },
+  // Il reindirizzamento tra topdieci.click e www.topdieci.click lo gestisce Vercel (Settings > Domains):
+  // farlo anche qui, in senso opposto a quello impostato su Vercel, crea un ciclo infinito di redirect.
 };
 
 export default nextConfig;
