@@ -1,0 +1,56 @@
+[
+  {
+    "asin": "B08D8L97LT",
+    "category": "deumidificatori",
+    "title": "Comedes Deumidificatore BTR 50 (max. 51 litri/24 h) adatto per ambienti e…",
+    "brand": "Comedes",
+    "price": {
+      "value": 599.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 84,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D6VTGLF4",
+    "category": "deumidificatori",
+    "title": "Amig - Deumidificatore MIST - 20 L/giorno",
+    "brand": "Amig",
+    "price": {
+      "value": 213.78,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 75,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B082WHYMJ3",
+    "category": "deumidificatori",
+    "title": "Bimar DEU322 Deumidificatore 20 Litri/24h con WiFi e App",
+    "brand": "Bimar",
+    "price": {
+      "value": 193.01,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 50,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

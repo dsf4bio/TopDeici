@@ -1,0 +1,146 @@
+[
+  {
+    "asin": "B07GS6ZB7T",
+    "category": "mouse-gaming",
+    "title": "Logitech G G502 HERO Mouse Gaming Prestazioni Elevate",
+    "brand": "Logitech",
+    "price": {
+      "value": 32.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 39869,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07CGPZ3ZQ",
+    "category": "mouse-gaming",
+    "title": "Logitech G G305 LIGHTSPEED Mouse Gaming Wireless - Nero",
+    "brand": "Logitech",
+    "price": {
+      "value": 32.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 24217,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B00LFBEOUA",
+    "category": "mouse-gaming",
+    "title": "Logitech G G402 Mouse Gaming Hyperion Fury",
+    "brand": "Logitech",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 18660,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07QKC4WWD",
+    "category": "mouse-gaming",
+    "title": "Logitech G G502 Mouse Gaming Wireless LIGHTSPEED",
+    "brand": "Logitech",
+    "price": {
+      "value": 155.55,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12671,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07W6GFKXS",
+    "category": "mouse-gaming",
+    "title": "Logitech G G203 LIGHTSYNC Mouse Gaming con Illuminazione RGB",
+    "brand": "Logitech",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 11914,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08SJ5Z8JL",
+    "category": "mouse-gaming",
+    "title": "Redragon M612 Mouse Gaming Cablato RGB 8000 DPI Pulsanti Programmabili",
+    "brand": "Redragon",
+    "price": {
+      "value": 25.64,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10914,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B082XQHPCL",
+    "category": "mouse-gaming",
+    "title": "SteelSeries Rival 3 - Mouse da gioco, sensore ottico TrueMove Core da 8500 CPI",
+    "brand": "SteelSeries",
+    "price": {
+      "value": 42.6,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10716,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B097F8H1MC",
+    "category": "mouse-gaming",
+    "title": "Razer Basilisk V3 - Mouse da Gioco Personalizzabile Cablato (10+1 Pulsanti…",
+    "brand": "Razer",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10298,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

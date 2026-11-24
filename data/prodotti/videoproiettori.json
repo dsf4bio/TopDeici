@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "B0HMHX5T9K",
+    "category": "videoproiettori",
+    "title": "Huidun Proiettore 4K 2026 [Smart TV Compatibile con Netflix/ 2000 ANSI ]",
+    "brand": "Huidun",
+    "price": {
+      "value": 199.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 137,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GXZFVQ46",
+    "category": "videoproiettori",
+    "title": "XGIMI Elfin Flip 4K Proiettore Portatile, RGB Laser Triple, 1600 ISO Lumen",
+    "brand": "XGIMI",
+    "price": {
+      "value": 699.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 115,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FT27BQYQ",
+    "category": "videoproiettori",
+    "title": "SOOMFON SK3 Proiettore Portatile 4K Supporta 1080P Nativo Smart TV",
+    "brand": "SOOMFON",
+    "price": {
+      "value": 129.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 171,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F5WW6LPQ",
+    "category": "videoproiettori",
+    "title": "Epson EB-W55 / Videoproiettore WXGA conveniente / 3LCD / 4.000 lumen",
+    "brand": "Epson",
+    "price": {
+      "value": 554.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 59,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

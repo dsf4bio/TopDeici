@@ -1,0 +1,164 @@
+[
+  {
+    "asin": "B08CRTKLX4",
+    "category": "frullatori",
+    "title": "Ninja Frullatore 2 in 1, Caraffa 2,1L e Bicchiere 700ml, 1200 W, Grigio",
+    "brand": "Ninja",
+    "price": {
+      "value": 109.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2125,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B007KIVDLK",
+    "category": "frullatori",
+    "title": "Bosch MSM66120 Frullatore a immersione, 600 Watt 12 Velocità+Turbo, Bianco",
+    "brand": "Bosch",
+    "price": {
+      "value": 29.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12162,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DNR78C5J",
+    "category": "frullatori",
+    "title": "Ninja Blast Frullatore Portatile x2 530 ml, Coperchio Antiperdite e Beccuccio",
+    "brand": "Ninja",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 413,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07PJVCWC2",
+    "category": "frullatori",
+    "title": "Moulinex DD4521 Easychef - Frullatore ad immersione 2 in 1",
+    "brand": "Moulinex",
+    "price": {
+      "value": 27.8,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2660,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B007KIVCIO",
+    "category": "frullatori",
+    "title": "Bosch MSM64110 Frullatore a Immersione, 450 Watt, 2 Velocità, Rosso",
+    "brand": "Bosch",
+    "price": {
+      "value": 25.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2234,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09C8K3T6S",
+    "category": "frullatori",
+    "title": "Kenwood Frullatore/sbattitore HBM60.307GY grigio",
+    "brand": "Kenwood",
+    "price": {
+      "value": 60.33,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 266,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DBR9C6VM",
+    "category": "frullatori",
+    "title": "Ninja Frullatore Detect Power Pro 2 in 1 e Monoporzione 1200W, Caraffa da 2L",
+    "brand": "Ninja",
+    "price": {
+      "value": 216.62,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 820,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FG36JY5T",
+    "category": "frullatori",
+    "title": "Sangcon - Frullatore da cucina da 1000 W, 3 tazze, 2 beccucci",
+    "brand": "Sangcon",
+    "price": {
+      "value": 46.02,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 143,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D3J3MDZR",
+    "category": "frullatori",
+    "title": "Braun Multiquick5 Pro MQ55236M, MINIPIMER CON 5 ANNI DI ASSISTENZA",
+    "brand": "Braun",
+    "price": {
+      "value": 71.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 418,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

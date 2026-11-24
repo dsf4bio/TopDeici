@@ -32,13 +32,14 @@ export function toCardModel(p: RankedProduct, category: Category, now = new Date
     model: p.model,
     image: p.image,
     href: productUrl(p, category.macro),
-    rating: p.rating && {
+    // Stelle e recensioni si mostrano solo se arrivano dalle API Amazon; quelle rilevate a mano servono solo alla classifica.
+    rating: p.rating?.source === "api" ? {
       average: p.rating.average,
       text: formatRating(p.rating.average),
       count: p.rating.count,
       countText: formatInt(p.rating.count),
       checked: formatDate(p.rating.checkedAt),
-    },
+    } : undefined,
     price: price && { value: p.price!.value, ...price },
     specs: category.specs.map((s) => ({ key: s.key, label: s.label, value: formatSpec(p.specs?.[s.key], s.unit) })),
     features: (p.features ?? []).map((f) => (f.length > 180 ? f.slice(0, 177).trimEnd() + "…" : f)).slice(0, 3),

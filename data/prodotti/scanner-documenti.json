@@ -1,0 +1,56 @@
+[
+  {
+    "asin": "B08QCTS33K",
+    "category": "scanner-documenti",
+    "title": "ScanSnap iX1600 Bianca - Scanner documenti per ufficio",
+    "brand": "ScanSnap",
+    "price": {
+      "value": 499.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1132,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08KKMYRBN",
+    "category": "scanner-documenti",
+    "title": "Doxie Pro - Scanner duplex per documenti e ricevute per casa e ufficio",
+    "brand": "Doxie",
+    "price": {
+      "value": 607.85,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 623,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08QCRFWL6",
+    "category": "scanner-documenti",
+    "title": "Ricoh ScanSnap iX1400 Dokumentenscanner Duplex ADF USB",
+    "brand": "Ricoh",
+    "price": {
+      "value": 364.11,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 373,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

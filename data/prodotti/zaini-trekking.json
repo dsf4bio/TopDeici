@@ -1,0 +1,56 @@
+[
+  {
+    "asin": "B071L86DCT",
+    "category": "zaini-trekking",
+    "title": "The North Face Borealis Classic, Zaino Unisex Adulto",
+    "brand": "The North Face",
+    "price": {
+      "value": 94.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 15894,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0BZPQ5WX9",
+    "category": "zaini-trekking",
+    "title": "SKYSPER Zaino da Hiking 20L",
+    "brand": "SKYSPER",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5658,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0C5M18121",
+    "category": "zaini-trekking",
+    "title": "Salomon Trailblazer 20 Zaino per Escursioni Unisex, Versatilità",
+    "brand": "Salomon",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3687,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "asin": "B0D11FD5RF",
+    "category": "biciclette-elettriche",
+    "title": "ENGWE Bicicletta Elettrica Pieghevole/ 768Wh 16AH Durata 110KM/",
+    "brand": "ENGWE",
+    "price": {
+      "value": 1399.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 112,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DKTWG9V6",
+    "category": "biciclette-elettriche",
+    "title": "EMotorad EMX+ / Bicicletta Elettrica MTB per adulti / Pneumatici 27.5x2.1\"",
+    "brand": "EMotorad",
+    "price": {
+      "value": 629.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 71,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DCFZ5XL1",
+    "category": "biciclette-elettriche",
+    "title": "SAMEBIKE Bicicletta Elettrica Adulto",
+    "brand": "SAMEBIKE",
+    "price": {
+      "value": 739.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 60,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

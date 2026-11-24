@@ -1,0 +1,128 @@
+[
+  {
+    "asin": "B07Y2G7VX5",
+    "category": "cuffie-gaming",
+    "title": "havit Cuffie da gaming stereo metallizzate",
+    "brand": "havit",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 26582,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0011UB9CQ",
+    "category": "cuffie-gaming",
+    "title": "beyerdynamic DT 990 Pro con 250 Ohm",
+    "brand": "beyerdynamic",
+    "price": {
+      "value": 139.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 16580,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GRWCXP1F",
+    "category": "cuffie-gaming",
+    "title": "GXTrust Forta Cuffie Gaming Wireless con Licenza Ufficiale PlayStation 5",
+    "brand": "GXTrust",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 264,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DQQT2ZS3",
+    "category": "cuffie-gaming",
+    "title": "HyperX Cloud III, Cuffie Gaming Con Cavo per Streaming, Microfono Cardioide",
+    "brand": "HyperX",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 801,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CJ3D6Q6C",
+    "category": "cuffie-gaming",
+    "title": "Sony INZONE H5 - Cuffie gaming wireless",
+    "brand": "Sony",
+    "price": {
+      "value": 89.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 619,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0BXB66FWW",
+    "category": "cuffie-gaming",
+    "title": "JBL Quantum 910P, Cuffie Wireless Gaming Over Ear per Playstation, Bianco",
+    "brand": "JBL",
+    "price": {
+      "value": 199.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 194,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07G1TYXRQ",
+    "category": "cuffie-gaming",
+    "title": "Nacon RIG RIG300HX Cuffie Gaming, Compatibilità Multipiattaforma, Nero",
+    "brand": "Nacon",
+    "price": {
+      "value": 41.26,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 126,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

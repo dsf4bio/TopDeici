@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "B01MY8A1HZ",
+    "category": "epilatori-luce-pulsata",
+    "title": "Philips BRI954/00 Lumea Prestige - Dispositivo di epilazione a luce pulsata…",
+    "brand": "Philips",
+    "price": {
+      "value": 442.56,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3294,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B098P52S8V",
+    "category": "epilatori-luce-pulsata",
+    "title": "Philips Lumea serie 8000, dispositivo di depilazione IPL",
+    "brand": "Philips",
+    "price": {
+      "value": 492.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2029,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FQP3XHY5",
+    "category": "epilatori-luce-pulsata",
+    "title": "Deplite 21J Epilatore Luce Pulsata con Funzione di Raffreddamento",
+    "brand": "Deplite",
+    "price": {
+      "value": 76.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 559,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GH17SLRV",
+    "category": "epilatori-luce-pulsata",
+    "title": "Braun Silk·Expert pro 5 Epilatore Luce Pulsata, 4 Testine, PL5412 Oro",
+    "brand": "Braun",
+    "price": {
+      "value": 376.2,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 373,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

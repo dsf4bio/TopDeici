@@ -1,0 +1,110 @@
+[
+  {
+    "asin": "B098K41CVJ",
+    "category": "rasoi-elettrici",
+    "title": "Braun Serie 9 Pro + Rasoio Elettrico Barba, Powercase, Smarcare 9477cc Nero",
+    "brand": "Braun",
+    "price": {
+      "value": 370.17,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1998,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07FKHDH1Y",
+    "category": "rasoi-elettrici",
+    "title": "Philips Shaver Serie 9000 Prestige, Rasoio Elettrico Wet&Dry",
+    "brand": "Philips",
+    "price": {
+      "value": 568.66,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1909,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0G38NB9RZ",
+    "category": "rasoi-elettrici",
+    "title": "kensen 7D Rasoio Testa Calva Uomo 100 Mini di Autonomia USB-C",
+    "brand": "kensen",
+    "price": {
+      "value": 33.92,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 859,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FPWRQLPJ",
+    "category": "rasoi-elettrici",
+    "title": "MAXGROOM Rasoio Testa Calva Serie 7D, Tecno-Octo Flex Rasatura Comfortevole",
+    "brand": "MAXGROOM",
+    "price": {
+      "value": 36.57,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 624,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0BT5264Q8",
+    "category": "rasoi-elettrici",
+    "title": "Braun Series 7 RASOIO ELETTRICO BARBA Con lama barba Problade",
+    "brand": "Braun",
+    "price": {
+      "value": 129.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 402,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0C5JNT4DY",
+    "category": "rasoi-elettrici",
+    "title": "Braun Serie 9 Pro + Rasoio Elettrico Barba con Powercase, 9560cc Nero",
+    "brand": "Braun",
+    "price": {
+      "value": 499.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 400,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "asin": "B01B1J95M2",
+    "category": "spazzolini-elettrici",
+    "title": "Philips Sonicare For Kids HX6322/04 Spazzolino Elettrico Sonico per Bambini",
+    "brand": "Philips",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 9791,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CKRSGHGN",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B Smart 4 4500 Spazzolino Elettrico, Nero, 2 Testine, Dentifricio",
+    "brand": "Oral-B",
+    "price": {
+      "value": 134.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2404,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F1G7MJBK",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B iO 5 Spazzolino Elettrico, 1 Testina di Ricambio, Custodia, Nero",
+    "brand": "Oral-B",
+    "price": {
+      "value": 116.55,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 950,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B088NJ8C2X",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B iO - 7n - Spazzolino Elettrico Ricaricabile Bianco Con Tecnologia…",
+    "brand": "Oral-B",
+    "price": {
+      "value": 249.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 613,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0BN8VNG4B",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B Pro - Spazzolino da denti a batteria, testina di precisione pulita",
+    "brand": "Oral-B",
+    "price": {
+      "value": 49.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5984,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0C6MC8JGK",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B Idropulsore, 2 Beccucci Oxyjet, Spazzolino Elettrico iO6, 2 Testine",
+    "brand": "Oral-B",
+    "price": {
+      "value": 187.3,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 423,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F2J8W6CB",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B iO 6 Spazzolino Elettrico, 2 Testine, Custodia, Dentifricio, Nero",
+    "brand": "Oral-B",
+    "price": {
+      "value": 202.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 408,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DP1HDP4W",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B iO 2, 2 Spazzolini Elettrici, 2 Testina di Ricambio",
+    "brand": "Oral-B",
+    "price": {
+      "value": 96.09,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 395,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

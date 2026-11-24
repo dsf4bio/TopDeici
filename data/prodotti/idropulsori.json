@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "B0C6MC8JGK",
+    "category": "idropulsori",
+    "title": "Oral-B Idropulsore, 2 Beccucci Oxyjet, Spazzolino Elettrico iO6, 2 Testine",
+    "brand": "Oral-B",
+    "price": {
+      "value": 187.3,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 423,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DR2ZWZND",
+    "category": "idropulsori",
+    "title": "XIAOMI Idropulsore 2",
+    "brand": "XIAOMI",
+    "price": {
+      "value": 43.97,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 275,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0C6FBS5BN",
+    "category": "idropulsori",
+    "title": "Panasonic EW1614AW503 PACK Irrigatore Orale per la Famiglia",
+    "brand": "Panasonic",
+    "price": {
+      "value": 112.26,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 257,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F8BD8454",
+    "category": "idropulsori",
+    "title": "JTF Idropulsore per bambini, design compatto portatile, 4 modalità delicate",
+    "brand": "JTF",
+    "price": {
+      "value": 44.55,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 149,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

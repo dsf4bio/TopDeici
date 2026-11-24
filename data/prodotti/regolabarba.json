@@ -1,0 +1,146 @@
+[
+  {
+    "asin": "B0DCFYXPR1",
+    "category": "regolabarba",
+    "title": "Philips OneBlade Pro 360 Autentico Regolabarba elettrico per viso e corpo",
+    "brand": "Philips",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3167,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CHFWGK5R",
+    "category": "regolabarba",
+    "title": "Panasonic Tagliacapelli ER-DGP65",
+    "brand": "Panasonic",
+    "price": {
+      "value": 134.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 942,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CCS5T75H",
+    "category": "regolabarba",
+    "title": "King C. Gillette Regolabarba Uomo Pro con Lame in Metallo di Lunga Durata",
+    "brand": "King C. Gillette",
+    "price": {
+      "value": 39.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 872,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CHFX1T9Y",
+    "category": "regolabarba",
+    "title": "Panasonic Tagliacapelli ER-DGP90",
+    "brand": "Panasonic",
+    "price": {
+      "value": 244.75,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 445,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GGNWNXM1",
+    "category": "regolabarba",
+    "title": "The Beard Club Pro - Regolabarba da uomo, professionale, per barbieri",
+    "brand": "The Beard Club",
+    "price": {
+      "value": 99.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 203,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0BT539YGS",
+    "category": "regolabarba",
+    "title": "Braun REGOLABARBA STYLING KIT, Tagliacapelli Uomo",
+    "brand": "Braun",
+    "price": {
+      "value": 59.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 195,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FBG1X47M",
+    "category": "regolabarba",
+    "title": "KEMEI KM-90-4 - Tagliacapelli professionale da uomo",
+    "brand": "KEMEI",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 109,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0G8ZFRQ79",
+    "category": "regolabarba",
+    "title": "Manscape - Regolabarba da uomo, senza fili, regolabile",
+    "brand": "Manscape",
+    "price": {
+      "value": 43.37,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 62,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "asin": "B0FLD3V92C",
+    "category": "tapis-roulant",
+    "title": "Kitopa 1-20 KM/H Tapis Roulant di 18% Inclinazione, Area di corsa 48×120CM",
+    "brand": "Kitopa",
+    "price": {
+      "value": 451.24,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 81,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H6GYX44J",
+    "category": "tapis-roulant",
+    "title": "Cardirun Tapis Roulant Elettrico Salvaspazio 10%, Walking Pad 3,0 CV",
+    "brand": "Cardirun",
+    "price": {
+      "value": 151.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 232,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FJ88DN1R",
+    "category": "tapis-roulant",
+    "title": "MERACH Tapis Roulant Pieghevole Inclinabile 0%-18%,1-14 km/h",
+    "brand": "MERACH",
+    "price": {
+      "value": 659.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 61,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DSB7FQ8G",
+    "category": "tapis-roulant",
+    "title": "MERACH Walking pad automatica 12% con tapis roulant per silenzioso e",
+    "brand": "MERACH",
+    "price": {
+      "value": 329.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 127,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FSKZ5W2Q",
+    "category": "tapis-roulant",
+    "title": "Toputure Tapis roulant pieghevole 6 in 1 con corrimano retrattile",
+    "brand": "Toputure",
+    "price": {
+      "value": 303.93,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 79,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CVWSL2CR",
+    "category": "tapis-roulant",
+    "title": "WalkingPad Tapis Roulant Pieghevole",
+    "brand": "WalkingPad",
+    "price": {
+      "value": 459.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 63,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

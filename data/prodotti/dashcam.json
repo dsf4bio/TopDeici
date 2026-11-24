@@ -1,0 +1,164 @@
+[
+  {
+    "asin": "B0HDT83DQ3",
+    "category": "dashcam",
+    "title": "REDTIGER 4K STARVIS 2 Dashcam anteriore posteriore, 5GHz WiFi 20MB/s",
+    "brand": "REDTIGER",
+    "price": {
+      "value": 122.29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 121,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0HDNQMY7W",
+    "category": "dashcam",
+    "title": "REDTIGER F7NA Dashcam anteriore e posteriore 4K, 8MP STARVIS 2 IMX678",
+    "brand": "REDTIGER",
+    "price": {
+      "value": 199.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 115,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GFDRCKZ7",
+    "category": "dashcam",
+    "title": "WOLFBOX M40 - Dash cam a specchio da 10‘’",
+    "brand": "WOLFBOX",
+    "price": {
+      "value": 139.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 130,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FX98Z6ZL",
+    "category": "dashcam",
+    "title": "WOLFBOX 4K + 2.5K Dashcam Auto, STARVIS 2, Scheda 64GB, WiFi 5,8 GHz",
+    "brand": "WOLFBOX",
+    "price": {
+      "value": 249.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 86,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0HGB4G52W",
+    "category": "dashcam",
+    "title": "BOTSLAB Dash Cam Auto 4K STARVIS 2, Fronte+Retro, Kit di Cablaggio, 64GB",
+    "brand": "BOTSLAB",
+    "price": {
+      "value": 112.8,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 85,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H9L3LKM5",
+    "category": "dashcam",
+    "title": "KAWA 4K+1080P Dual Dash Cam, Display Stealth, Controllo Voce, WiFi 6 & GPS",
+    "brand": "KAWA",
+    "price": {
+      "value": 99.27,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 83,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D1FVG5VF",
+    "category": "dashcam",
+    "title": "Avylet 2K Dash Cam Wi-Fi Con Scheda 32GB, Mini Telecamera per Auto 1440P",
+    "brand": "Avylet",
+    "price": {
+      "value": 45.58,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 542,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H4TTZ3PD",
+    "category": "dashcam",
+    "title": "GKU Dashcam Auto Anteriore Posteriore 4K con STARVIS 2, Dash Cam Auto",
+    "brand": "GKU",
+    "price": {
+      "value": 179.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 176,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D1TK5XN9",
+    "category": "dashcam",
+    "title": "VIOFO A229 Pro 1CH 4K Dashcam Ant., STARVIS 2 HDR, Wi-Fi 5GHz, GPS, CPL",
+    "brand": "VIOFO",
+    "price": {
+      "value": 217.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 110,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

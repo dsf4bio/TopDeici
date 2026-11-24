@@ -1,0 +1,110 @@
+[
+  {
+    "asin": "B01MQHN3CK",
+    "category": "tostapane",
+    "title": "Smeg, Tostapane 2x2 TSF01WHEU, 2 Scomparti da 36mm, 6 Livelli di Doratura",
+    "brand": "Smeg",
+    "price": {
+      "value": 179.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3639,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B015HDTLJ0",
+    "category": "tostapane",
+    "title": "Smeg, Tostapane 2x4 TSF02PGEU, 2 Scomparti da 36mm, 6 Livelli di Doratura",
+    "brand": "Smeg",
+    "price": {
+      "value": 189.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1102,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08XBNF8RS",
+    "category": "tostapane",
+    "title": "Tefal Includeo TT533811 Tostapane, 2 scomparti, pinza magnetica",
+    "brand": "Tefal",
+    "price": {
+      "value": 73.78,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1827,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07GCQ39KR",
+    "category": "tostapane",
+    "title": "Tefal Express TT410D 2fetta/e 850W Nero, Acciaio inossidabile tostapane",
+    "brand": "Tefal",
+    "price": {
+      "value": 60.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1052,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CF2RV4MS",
+    "category": "tostapane",
+    "title": "Bosch TAT2M123 Tostapane Compatto, 800 Watt, Spegnimento Automatico, Bianco",
+    "brand": "Bosch",
+    "price": {
+      "value": 45.6,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 713,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09PRNLKZ8",
+    "category": "tostapane",
+    "title": "Steinborg Tostapane a Fessura Lunga XXL 4 Fette",
+    "brand": "Steinborg",
+    "price": {
+      "value": 49.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 702,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "asin": "B0HGL74444",
+    "category": "aspirapolvere-auto",
+    "title": "TT&C Aspirabriciole Senza Fili, 27000PA Aspirapolvere Auto…",
+    "brand": "TT&C",
+    "price": {
+      "value": 29.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 474,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CXTB254W",
+    "category": "aspirapolvere-auto",
+    "title": "Ingco Cvli201261 Aspirapolvere senza filo A Batteria 20 v 0.5 lt Aspirabriciole…",
+    "brand": "Ingco",
+    "price": {
+      "value": 37.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 82,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08L6KC9MT",
+    "category": "aspirapolvere-auto",
+    "title": "MEDION Aspirapolvere portatile (motore BLDC, filtro HEPA 13",
+    "brand": "MEDION",
+    "price": {
+      "value": 49.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 61,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "asin": "B018T7DHVY",
+    "category": "spazzole-viso",
+    "title": "Foreo Luna Mini 2 Spazzola Pulizia Viso, Compatta, Massaggio Hi-Tech",
+    "brand": "Foreo",
+    "price": {
+      "value": 46.09,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 8124,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07QC61JFR",
+    "category": "spazzole-viso",
+    "title": "Foreo Luna 3 Pelle Mista, Spazzola Pulizia Viso",
+    "brand": "Foreo",
+    "price": {
+      "value": 59.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2930,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "asin": "B0H7HH57YS",
+    "category": "supporti-smartphone-auto",
+    "title": "MSXTTLY Caricatore Auto Wireless per MagSafe 25W Qi2.2",
+    "brand": "MSXTTLY",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 254,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H1G54D1B",
+    "category": "supporti-smartphone-auto",
+    "title": "Coolpow Supporto Telefono Magnetico Auto Ricarica Wireless per Magsafe",
+    "brand": "Coolpow",
+    "price": {
+      "value": 27.61,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 68,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0G4V5XNJ3",
+    "category": "supporti-smartphone-auto",
+    "title": "MOKPR Supporto magnetico per auto, 15 W, per iPhone",
+    "brand": "MOKPR",
+    "price": {
+      "value": 31.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 51,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

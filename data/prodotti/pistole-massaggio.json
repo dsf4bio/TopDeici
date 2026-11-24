@@ -1,0 +1,182 @@
+[
+  {
+    "asin": "B08M8YSFC7",
+    "category": "pistole-massaggio",
+    "title": "BOB AND BRAD Q2 Mini Pistola Massaggio Muscolare, Silenziosa",
+    "brand": "Bob and Brad",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 11776,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08CKWVYMF",
+    "category": "pistole-massaggio",
+    "title": "Bob and Brad C2 Pistola Massaggio Muscolare",
+    "brand": "Bob and Brad",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10859,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07TWFK7JW",
+    "category": "pistole-massaggio",
+    "title": "OPOVE Pistola per Massaggio Massaggiatore Muscoli a Percussione di Tessuto…",
+    "brand": "OPOVE",
+    "price": {
+      "value": 88.04,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7454,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09MTQQHLB",
+    "category": "pistole-massaggio",
+    "title": "arboleaf Pistola Massaggio Muscolare Mini, Metallo Anodizzato, Grigio",
+    "brand": "arboleaf",
+    "price": {
+      "value": 42.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5399,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09BB51M19",
+    "category": "pistole-massaggio",
+    "title": "Bob and Brad T2 Pistola Massaggio Muscolare",
+    "brand": "Bob and Brad",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3053,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DSG2R2K2",
+    "category": "pistole-massaggio",
+    "title": "Mebak 7 Pistola Massaggio Muscolare, Pistola massaggiatore",
+    "brand": "Mebak",
+    "price": {
+      "value": 52.52,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2474,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0HB3BWNCY",
+    "category": "pistole-massaggio",
+    "title": "IVJ Pistola Massaggio Muscolare Profonda con Manico Allungabile",
+    "brand": "IVJ",
+    "price": {
+      "value": 64.59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 137,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FQVH87JW",
+    "category": "pistole-massaggio",
+    "title": "Cotsoco Pistola Massaggio Muscolare con Calore, 20 Velocità e 10 Testine",
+    "brand": "Cotsoco",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1284,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DJNZ3Y1H",
+    "category": "pistole-massaggio",
+    "title": "arboleaf CM20F Pistola Massaggio Muscolare Mini, Professionale Massaggiante",
+    "brand": "arboleaf",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 851,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CXF9KWB5",
+    "category": "pistole-massaggio",
+    "title": "Theragun Relief Massaggiatore a Percussione Manuale",
+    "brand": "Theragun",
+    "price": {
+      "value": 119.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 308,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "asin": "B086BX35PN",
+    "category": "tappetini-yoga",
+    "title": "Gaiam, Tappetino da Yoga per Bambini",
+    "brand": "Gaiam",
+    "price": {
+      "value": 44.24,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 5629,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F6YQ44V7",
+    "category": "tappetini-yoga",
+    "title": "Gaiam - Tappetino da yoga, con stampa, extra spesso, antiscivolo, per esercizi",
+    "brand": "Gaiam",
+    "price": {
+      "value": 99.46,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 11821,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B093KCFPVH",
+    "category": "tappetini-yoga",
+    "title": "Gaiam Tappetino da yoga, 6 mm, con stampa extra spessa, antiscivolo",
+    "brand": "Gaiam",
+    "price": {
+      "value": 53.3,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 7048,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07H9KV2YN",
+    "category": "tappetini-yoga",
+    "title": "Gaiam Essentials, tappetino da yoga e pilates, spessore 2/5\"",
+    "brand": "Gaiam",
+    "price": {
+      "value": 62.16,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 45686,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B00NWJST6S",
+    "category": "tappetini-yoga",
+    "title": "Bodhi Tappetino da yoga Asana / tappetino antiscivolo",
+    "brand": "Bodhi",
+    "price": {
+      "value": 42.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1785,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07QG3L7H4",
+    "category": "tappetini-yoga",
+    "title": "eyepower Tappetino Ginnastica Pieghevole 180x60x5 cm",
+    "brand": "eyepower",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1166,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07PGNDK89",
+    "category": "tappetini-yoga",
+    "title": "TOPLUS Tappetino da ginnastica, tappetino da yoga, imbottito e antiscivolo",
+    "brand": "TOPLUS",
+    "price": {
+      "value": 35.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 18944,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07R8WJWD5",
+    "category": "tappetini-yoga",
+    "title": "BalanceFrom Tappetino da yoga multifunzionale 180 x 61 x 2,5 cm, extra spesso",
+    "brand": "BalanceFrom",
+    "price": {
+      "value": 159.27,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 17701,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07HB1JXF3",
+    "category": "tappetini-yoga",
+    "title": "Gaiam Essentials Premium - Tappetino da yoga",
+    "brand": "Gaiam",
+    "price": {
+      "value": 45.79,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10890,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "asin": "B07FW4CZZL",
+    "category": "action-cam",
+    "title": "DJI Osmo Action 5 Pro Combo Adventure, action cam 4K per viaggi/vlog",
+    "brand": "DJI",
+    "price": {
+      "value": 372.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2214,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DS2B3P2B",
+    "category": "action-cam",
+    "title": "DJI Osmo Action 4 Combo Essential, action cam 4K/120fps",
+    "brand": "DJI",
+    "price": {
+      "value": 179.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10781,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D1YH4B2R",
+    "category": "action-cam",
+    "title": "DJI Osmo Action 5 Pro Combo Standard, action cam 4K per uso quotidiano",
+    "brand": "DJI",
+    "price": {
+      "value": 299.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2096,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DS2DF5S5",
+    "category": "action-cam",
+    "title": "DJI Osmo Action 5 Pro Combo Essential, action cam 4K per iniziare subito",
+    "brand": "DJI",
+    "price": {
+      "value": 339.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2022,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CKML3W6R",
+    "category": "action-cam",
+    "title": "Insta360 Ace Pro - Action Camera impermeabile, obiettivo Leica, 4K120fps",
+    "brand": "Insta360",
+    "price": {
+      "value": 199.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1654,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H5CR9LZF",
+    "category": "action-cam",
+    "title": "Insta360 X6 - Action cam 360 8K con sensori da 1/1,1″, Nero notte",
+    "brand": "Insta360",
+    "price": {
+      "value": 629.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 628,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DHD6SFJB",
+    "category": "action-cam",
+    "title": "Insta360 Ace Pro 2 Nero Notte - Action cam 8K coprogettata con Leica",
+    "brand": "Insta360",
+    "price": {
+      "value": 299.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 403,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

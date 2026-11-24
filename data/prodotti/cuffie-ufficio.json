@@ -1,0 +1,128 @@
+[
+  {
+    "asin": "B0C3HCD34R",
+    "category": "cuffie-ufficio",
+    "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear con Cancellazione Rumore",
+    "brand": "Soundcore",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 80410,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0BYWMLVG1",
+    "category": "cuffie-ufficio",
+    "title": "JBL Tune 520 BT, Cuffie On-Ear Bluetooth Wireless, Nero",
+    "brand": "JBL",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 33165,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CCZ26B5V",
+    "category": "cuffie-ufficio",
+    "title": "Bose QuietComfort Headphones Cuffie",
+    "brand": "Bose",
+    "price": {
+      "value": 189.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 22607,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FQF32239",
+    "category": "cuffie-ufficio",
+    "title": "Apple AirPods Pro 3, Cancellazione attiva del rumore",
+    "brand": "Apple",
+    "price": {
+      "value": 189.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12550,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FNWCYLZN",
+    "category": "cuffie-ufficio",
+    "title": "Soundcore P31i di Anker Cuffie Bluetooth con Cancellazione Adattiva Rumore",
+    "brand": "Soundcore",
+    "price": {
+      "value": 25.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12279,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GX9Q2KJZ",
+    "category": "cuffie-ufficio",
+    "title": "TECKNET Cuffie Bluetooth con Microfono, Cancellazione del Rumore e",
+    "brand": "TECKNET",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5649,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D1VN2VB7",
+    "category": "cuffie-ufficio",
+    "title": "Marshall Major V Cuffie Wireless Bluetooth, 100 ore di riproduzione - nero",
+    "brand": "Marshall",
+    "price": {
+      "value": 88.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4815,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

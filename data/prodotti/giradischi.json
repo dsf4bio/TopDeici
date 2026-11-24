@@ -1,0 +1,164 @@
+[
+  {
+    "asin": "B07MVPRSHZ",
+    "category": "giradischi",
+    "title": "Audio-Technica AT-LP60XBT - Giradischi completamente automatico",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 153.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3170,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0C8ZF4F4L",
+    "category": "giradischi",
+    "title": "Fluance RT81+ Giradischi Elite ad Alta Fedeltà in Vinile",
+    "brand": "Fluance",
+    "price": {
+      "value": 307.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 376,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09J1B8DDS",
+    "category": "giradischi",
+    "title": "Audio-Technica AT-LP60XBK Giradischi",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 143.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1069,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07P97NSP2",
+    "category": "giradischi",
+    "title": "Audio-Technica AT-LP120X Giradischi a Trasmissione Diretta, Argento",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 296.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 729,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DBM8HSQN",
+    "category": "giradischi",
+    "title": "Audio-Technica AT-LP70XBT Giradischi wireless completamente automatico",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 247.5,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 405,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GFG86MCK",
+    "category": "giradischi",
+    "title": "Sony PS-LX3BT, giradischi wireless Bluetooth con riproduzione automatica",
+    "brand": "Sony",
+    "price": {
+      "value": 199.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 198,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DP69HT3X",
+    "category": "giradischi",
+    "title": "Qlearsoul SoulBox S1 Giradischi Vinile con Altoparlanti, Bluetooth",
+    "brand": "Qlearsoul",
+    "price": {
+      "value": 209.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 830,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08HCHR4G8",
+    "category": "giradischi",
+    "title": "Teac TN-280BT-A3 Giradischi con Bluetooth (piatto in alluminio",
+    "brand": "Teac",
+    "price": {
+      "value": 249.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 477,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FJXFQGJZ",
+    "category": "giradischi",
+    "title": "Qlearsoul HiFire X Giradischi Vinile Hi-Fi con Casse 100W, VU Meter",
+    "brand": "Qlearsoul",
+    "price": {
+      "value": 288.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 275,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

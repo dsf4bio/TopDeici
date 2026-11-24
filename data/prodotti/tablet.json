@@ -1,0 +1,182 @@
+[
+  {
+    "asin": "B0DZ75RKZH",
+    "category": "tablet",
+    "title": "Apple iPad con chip A16: display Liquid Retina da 11'', 128 GB, Wi Fi 6",
+    "brand": "Apple",
+    "price": {
+      "value": 449.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 11681,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GQVLW917",
+    "category": "tablet",
+    "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB",
+    "brand": "Apple",
+    "price": {
+      "value": 699.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 756,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09NP1FCKB",
+    "category": "tablet",
+    "title": "Samsung Galaxy Tab A8 Tablet Android 10.5 Pollici Wi-Fi RAM 4 GB 64 GB Tablet…",
+    "brand": "Samsung",
+    "price": {
+      "value": 224.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4851,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0G4827DCM",
+    "category": "tablet",
+    "title": "Samsung Galaxy Tab A11+ - Tablet - Android 16 - 128 Gb - 27.82 Cm (11\")",
+    "brand": "Samsung",
+    "price": {
+      "value": 209.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 670,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09FKZV2C6",
+    "category": "tablet",
+    "title": "TECLAST T70 Tablet 14 Pollici 2.2K Tablets Gaming, Helio G100 2.2GHz Octa-Core",
+    "brand": "TECLAST",
+    "price": {
+      "value": 289.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 147,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FWD7LX46",
+    "category": "tablet",
+    "title": "Apple iPad Pro 13'' (M5): Ultra Retina XDR, Vetro standard, 256 GB, Wi-Fi",
+    "brand": "Apple",
+    "price": {
+      "value": 1549.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 469,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FBX2LBTR",
+    "category": "tablet",
+    "title": "Lenovo Idea Tab - Tablet Touch con IA integrata 11'' 2.5K",
+    "brand": "Lenovo",
+    "price": {
+      "value": 215.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 304,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FV7HTBLZ",
+    "category": "tablet",
+    "title": "Blackview Mega2 Tablet 12 Pollici Android 15, 24GB RAM + 128GB ROM",
+    "brand": "Blackview",
+    "price": {
+      "value": 189.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 182,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H3KKS6TS",
+    "category": "tablet",
+    "title": "HONOR Pad X8a Tablet 11\" 4+128GB Espandibile 1TB 4 Altoparlanti 8300mAh",
+    "brand": "HONOR",
+    "price": {
+      "value": 159.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 143,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GJ4LYR77",
+    "category": "tablet",
+    "title": "TABWEE Android 16 Tablet con Tastiera in Offerta, 24 GB RAM+ 256 GB ROM",
+    "brand": "TABWEE",
+    "price": {
+      "value": 144.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 94,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

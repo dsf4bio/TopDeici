@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "B0DVM1T4NP",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "De'Longhi La Specialista Touch EC9455.M",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 664.6,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 261,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07PLXPCX3",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "De'Longhi Perfetto Magnifica S ECAM22.110.B Macchina da Caffè in Grani o in…",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 326.4,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 756,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H2ND6MJ4",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "De'Longhi Magnifica Duo - Macchina da Caffè Automatica 20 Bevande Argento",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 549.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 93,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GXKBCZTR",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "KKT KOLBE Macchina da caffè automatica Pro, nero argento",
+    "brand": "KKT",
+    "price": {
+      "value": 319.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 53,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "B0GR6CPHDD",
+    "category": "notebook",
+    "title": "Apple MacBook Neo 13'' con chip A18 Pro: progettato per l’AI e Apple…",
+    "brand": "Apple",
+    "price": {
+      "value": 899.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 179,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08HYDLVZY",
+    "category": "notebook",
+    "title": "Lenovo IdeaPad 3 Notebook 39.6 cm (15.6 ) 1920 x 1080 pixels 10th gen Intel®…",
+    "brand": "Lenovo",
+    "price": {
+      "value": 640.5,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 856,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DT6ZVTLK",
+    "category": "notebook",
+    "title": "HP 250, Computer Portatile Notebook, Intel Core 5, 15.6'' FHD, Ram 32Gb",
+    "brand": "HP",
+    "price": {
+      "value": 779.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 76,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0BRJJL95H",
+    "category": "notebook",
+    "title": "MSI Cyborg 15 A12VE-061IT, Notebook Gaming 15.6\" FHD 144Hz, Intel i7-12650H",
+    "brand": "MSI",
+    "price": {
+      "value": 1199.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 66,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

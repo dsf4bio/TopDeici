@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "B07D5NVYDN",
+    "category": "impastatrici-planetarie",
+    "title": "KitchenAid Artisan Planetaria 4,7L con Ciotola 3L Nero onice",
+    "brand": "KitchenAid",
+    "price": {
+      "value": 479.2,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2059,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07NY886CD",
+    "category": "impastatrici-planetarie",
+    "title": "Planetaria Robot da Cucina Mixer, DELECHEF Mixer Impastatrice 1000W 6 Velocità…",
+    "brand": "DELECHEF",
+    "price": {
+      "value": 180.54,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2663,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D9YBP5PX",
+    "category": "impastatrici-planetarie",
+    "title": "Kitchen in the box Impastatrice Planetaria，2 Ciotole 4,5 L+5 L Impastatrice…",
+    "brand": "Kitchen in the box",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 616,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07PC3G5FM",
+    "category": "impastatrici-planetarie",
+    "title": "Smeg, Impastatrice Planetaria SMF02RDEU, 10 Velocità, Smooth Start",
+    "brand": "Smeg",
+    "price": {
+      "value": 329.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 323,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

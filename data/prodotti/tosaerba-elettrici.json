@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "B09RKP8617",
+    "category": "tosaerba-elettrici",
+    "title": "Makita DLM330Z Rasaerba Batteria LXT 18V 33cm 30 L",
+    "brand": "Makita",
+    "price": {
+      "value": 162.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1293,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DPN4SJCY",
+    "category": "tosaerba-elettrici",
+    "title": "WORX WG733E tosaerba a batteria 20V, 33cm larghezza di taglio",
+    "brand": "WORX",
+    "price": {
+      "value": 199.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 193,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09RM4SDXJ",
+    "category": "tosaerba-elettrici",
+    "title": "Makita DLM330RT Rasaerba Batteria LXT 18V 33cm 30 L 1x5Ah",
+    "brand": "Makita",
+    "price": {
+      "value": 279.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 107,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DT4NXLXF",
+    "category": "tosaerba-elettrici",
+    "title": "LEHMANN Tosaerba a Batteria 40V, fino a 250 m², Larghezza Taglio 32 cm",
+    "brand": "LEHMANN",
+    "price": {
+      "value": 119.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 100,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

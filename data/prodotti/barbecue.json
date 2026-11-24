@@ -1,0 +1,92 @@
+[
+  {
+    "asin": "B0FTZN1YYZ",
+    "category": "barbecue",
+    "title": "Weber Barbecue a carbone Compact Kettle 47 cm",
+    "brand": "Weber",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 440,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08M875TPR",
+    "category": "barbecue",
+    "title": "Campingaz Attitude 2go CV, Barbecue a Gas Portatile da Tavolo, Grill a Gas",
+    "brand": "Campingaz",
+    "price": {
+      "value": 188.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 415,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B01N2HRTWM",
+    "category": "barbecue",
+    "title": "Char-Broil Barbecue Ibrido Gas2Coal 330 per Gas e Carbone, 3 Bruciatori",
+    "brand": "Char-Broil",
+    "price": {
+      "value": 379.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1200,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B00LTO7XTC",
+    "category": "barbecue",
+    "title": "Weber 14501004 - Barbecue a Carbone Master Touch 57 Nero GBS",
+    "brand": "Weber",
+    "price": {
+      "value": 329.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1171,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DZXC626L",
+    "category": "barbecue",
+    "title": "Charmline 47 x 34 cm Griglia a Carbone Portatile Pieghevole",
+    "brand": "Charmline",
+    "price": {
+      "value": 59.36,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1136,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

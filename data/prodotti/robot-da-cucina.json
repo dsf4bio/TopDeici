@@ -1,0 +1,38 @@
+[
+  {
+    "asin": "B084ZP1H7Z",
+    "category": "robot-da-cucina",
+    "title": "Moulinex HF80CBK Companion Robot da Cucina Multifunzione, 1500 W, 3L",
+    "brand": "Moulinex",
+    "price": {
+      "value": 745.25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 577,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GLQZJWQG",
+    "category": "robot-da-cucina",
+    "title": "Ninja PrecisionPro, Robot da Cucina Multifunzione, 2,1 L, Verde Salvia",
+    "brand": "Ninja",
+    "price": {
+      "value": 119.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 129,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

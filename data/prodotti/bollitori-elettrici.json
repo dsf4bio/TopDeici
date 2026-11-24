@@ -1,0 +1,182 @@
+[
+  {
+    "asin": "B091D2BKVB",
+    "category": "bollitori-elettrici",
+    "title": "Smeg, Bollitore Elettrico Piccolo KLF05BLEU 0,8 L, Filtro Acciaio Inox",
+    "brand": "Smeg",
+    "price": {
+      "value": 139.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1518,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07ND8MYKY",
+    "category": "bollitori-elettrici",
+    "title": "Russell Hobbs Bollitore Elettrico Piccolo 1 L Rosso, 2400 W, 24992-70",
+    "brand": "Russell Hobbs",
+    "price": {
+      "value": 32.35,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 17470,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B01J1RJH7Y",
+    "category": "bollitori-elettrici",
+    "title": "Russell Hobbs Bollitore Elettrico Retro, 1.7 L, 2400 W, Bollitura Rapida",
+    "brand": "Russell Hobbs",
+    "price": {
+      "value": 38.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 11057,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CJK276VP",
+    "category": "bollitori-elettrici",
+    "title": "Bosch MyMoment bollitore elettrico 1,7 L 3000 W Beige (MYMOMENT DELIGHT KETTLE…",
+    "brand": "Bosch",
+    "price": {
+      "value": 49.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 633,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08CZT7GTD",
+    "category": "bollitori-elettrici",
+    "title": "Philips Bollitore Elettrico 5000, 1,7 L, Ebollizione rapida, in Vetro",
+    "brand": "Philips",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7245,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07GDTDPXQ",
+    "category": "bollitori-elettrici",
+    "title": "Philips Bollitore Elettrico, 1,7 L, Regolazione Temperatura, 2200 W, Inox",
+    "brand": "Philips",
+    "price": {
+      "value": 47.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7245,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07HRD176Q",
+    "category": "bollitori-elettrici",
+    "title": "Ariete Bollitore Vintage 2868, Bollitore Elettrico con Base Cordless a 360°",
+    "brand": "Ariete",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6258,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B00ZYE03KE",
+    "category": "bollitori-elettrici",
+    "title": "Ovente KP72P 1.7 l bollitore elettrico senza BPA",
+    "brand": "Ovente",
+    "price": {
+      "value": 144.81,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5792,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07G83DVHH",
+    "category": "bollitori-elettrici",
+    "title": "Russell Hobbs Bollitore Elettrico Inspire, 1,7 L, 2400 W, Bianco, 24360-70",
+    "brand": "Russell Hobbs",
+    "price": {
+      "value": 47.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4034,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07X2YV68D",
+    "category": "bollitori-elettrici",
+    "title": "Ariete, Bollitore Elettrico Moderna 2854",
+    "brand": "Ariete",
+    "price": {
+      "value": 49.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 420,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "asin": "B07MY69GYY",
+    "category": "soffiatori",
+    "title": "BLACK+DECKER Soffiatore assiale da 1850 W, BEBL185-QS",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 52.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2731,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08FNYKHF5",
+    "category": "soffiatori",
+    "title": "Makita DUB185Z Soffiatore Batteria 18V Solo Corpo",
+    "brand": "Makita",
+    "price": {
+      "value": 63.34,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5873,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07WH16LF3",
+    "category": "soffiatori",
+    "title": "Einhell Professional Soffiatore a batteria GP-LB 36/210 Li E-Solo",
+    "brand": "Einhell",
+    "price": {
+      "value": 134.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1875,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07YFZTXCZ",
+    "category": "soffiatori",
+    "title": "WORX WG547E.9 Soffiatore 20 V, 600 m³/h, senza batteria e caricabatterie",
+    "brand": "WORX",
+    "price": {
+      "value": 71.53,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1471,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0C3B1GQJC",
+    "category": "soffiatori",
+    "title": "Bosch Soffiatore Aspiratore Giardino Batteria UniversalLeafBlower 18V-130",
+    "brand": "Bosch",
+    "price": {
+      "value": 60.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 332,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

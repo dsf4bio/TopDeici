@@ -1,0 +1,74 @@
+[
+  {
+    "asin": "B0BHDDH5W1",
+    "category": "console-portatili",
+    "title": "Nintendo Console Switch con Joy-Con Rosso Neon e Blu Neon",
+    "brand": "Nintendo",
+    "price": {
+      "value": 299.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 8123,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B098BYN3X3",
+    "category": "console-portatili",
+    "title": "Nintendo - Console Nintendo Switch – Modello OLED Blu Neon/Rosso Neon",
+    "brand": "Nintendo",
+    "price": {
+      "value": 348.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 5046,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F2J4SYJ2",
+    "category": "console-portatili",
+    "title": "Nintendo Console Switch 2",
+    "brand": "Nintendo",
+    "price": {
+      "value": 458.87,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2003,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CQ3L4726",
+    "category": "console-portatili",
+    "title": "Valve Steam Deck OLED 1TB Console di gioco portatile",
+    "brand": "Valve",
+    "price": {
+      "value": 999.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 623,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

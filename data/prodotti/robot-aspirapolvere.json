@@ -1,0 +1,164 @@
+[
+  {
+    "asin": "B0HLF3GXRD",
+    "category": "robot-aspirapolvere",
+    "title": "VONKO Robot Aspirapolvere Lavapavimenti con Stazione, 8000Pa, LiDAR 2.0",
+    "brand": "VONKO",
+    "price": {
+      "value": 139.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 434,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GY89Y1G5",
+    "category": "robot-aspirapolvere",
+    "title": "Vexilar Upgrade 10,000Pa Robot Aspirapolvere Lavapavimenti con Mappatura",
+    "brand": "Vexilar",
+    "price": {
+      "value": 129.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 349,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GNZNSV4P",
+    "category": "robot-aspirapolvere",
+    "title": "JONR T5 PRO GEN2 - Robot aspirapolvere con funzione di pulizia, potenza di",
+    "brand": "JONR",
+    "price": {
+      "value": 299.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 216,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H1539JTF",
+    "category": "robot-aspirapolvere",
+    "title": "Proscenic Q20 Plus Robot Aspirapolvere Lavapavimenti con Mappatura 10000Pa",
+    "brand": "Proscenic",
+    "price": {
+      "value": 197.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 208,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H6DZJX44",
+    "category": "robot-aspirapolvere",
+    "title": "FAMIVAC R10 Robot Aspirapolvere Lavapavimenti 3 in 1, 6000 Pa, 200 Min",
+    "brand": "FAMIVAC",
+    "price": {
+      "value": 99.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 184,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GWJY9SLX",
+    "category": "robot-aspirapolvere",
+    "title": "Mova V50 Ultra Complete Robot Aspirapolvere, Bianco, Powered by dreame",
+    "brand": "Mova",
+    "price": {
+      "value": 877.91,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 144,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0HCC4H13X",
+    "category": "robot-aspirapolvere",
+    "title": "ECOVACS X12S OMNICYCLONE Robot Aspirapolvere Lavapavimenti 27.000 Pa",
+    "brand": "ECOVACS",
+    "price": {
+      "value": 799.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 125,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0HBWNNV1D",
+    "category": "robot-aspirapolvere",
+    "title": "iRobot Roomba® Max 875 Combo robot aspirapolvere lavapavimenti, nero",
+    "brand": "iRobot",
+    "price": {
+      "value": 799.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 62,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GL372BTX",
+    "category": "robot-aspirapolvere",
+    "title": "Shark ThermaCharged PowerDetect Wet&Dry, Robot Aspirapolvere Lavapavimenti",
+    "brand": "Shark",
+    "price": {
+      "value": 1049.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 50,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

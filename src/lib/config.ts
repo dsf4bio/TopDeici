@@ -23,7 +23,7 @@ export const RANKING = {
   /** Soglia relativa: almeno questa frazione della mediana delle recensioni dei candidati. */
   minReviewsShareOfMedian: 0.2,
   /** Dati di valutazione più vecchi di così escludono il prodotto finché non vengono riverificati. */
-  maxDataAgeDays: 45,
+  maxDataAgeDays: 90,
   /** Pesi del punteggio finale (somma 1). */
   weights: { rating: 0.55, volume: 0.3, editorial: 0.15 },
   /** Posizioni in classifica. */

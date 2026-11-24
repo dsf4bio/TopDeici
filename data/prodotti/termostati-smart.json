@@ -1,0 +1,146 @@
+[
+  {
+    "asin": "B0CGRJ22KT",
+    "category": "termostati-smart",
+    "title": "Plikc - Cronotermostato digitale Wifi dual band compatibile con Alexa",
+    "brand": "Plikc",
+    "price": {
+      "value": 85.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1977,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CG99MN3B",
+    "category": "termostati-smart",
+    "title": "Plikc - Cronotermostato settimanale digitale - Neve (Neve PRO)",
+    "brand": "Plikc",
+    "price": {
+      "value": 55.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1945,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B086NL5ZHF",
+    "category": "termostati-smart",
+    "title": "BTICINO SXW8002 Termostato WiFi 220V, Smarther2 with Netatmo",
+    "brand": "BTICINO",
+    "price": {
+      "value": 179.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1398,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B086NC5WJQ",
+    "category": "termostati-smart",
+    "title": "BTICINO SXG8002 Termostato WiFi 220v, Smarther2 with Netatmo",
+    "brand": "BTICINO",
+    "price": {
+      "value": 159.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 831,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B086NHM9G3",
+    "category": "termostati-smart",
+    "title": "BTICINO SXM8002 Termostato WiFi 220v, Smarther2 with Netatmo",
+    "brand": "BTICINO",
+    "price": {
+      "value": 152.81,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 483,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09S3V2ZNK",
+    "category": "termostati-smart",
+    "title": "Vimar 02912 Termostato WiFi, compatibile con assistenti vocali Alexa e Google",
+    "brand": "Vimar",
+    "price": {
+      "value": 109.0,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 449,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DJMJYYPL",
+    "category": "termostati-smart",
+    "title": "Vimar 02912.G Termostato Wi-Fi per controllo locale o remoto di riscaldamento e…",
+    "brand": "Vimar",
+    "price": {
+      "value": 106.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 449,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CGRJ12GM",
+    "category": "termostati-smart",
+    "title": "Meross Termostato WiFi per Caldaia, Termostato Smart con HomeKit, Alexa",
+    "brand": "Meross",
+    "price": {
+      "value": 56.52,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 135,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]

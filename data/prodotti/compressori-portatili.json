@@ -1,0 +1,164 @@
+[
+  {
+    "asin": "B0DP32SRJK",
+    "category": "compressori-portatili",
+    "title": "ETENWOLF VORTEX S7 - Gonfiatore per pneumatici ad alta resistenza",
+    "brand": "ETENWOLF",
+    "price": {
+      "value": 646.86,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 332,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0BG45DV3Y",
+    "category": "compressori-portatili",
+    "title": "LEXIN P5 Compressore Portatile Auto e Moto, Mini Aria Pompa, Type-C",
+    "brand": "LEXIN",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1273,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0FDWQRBVB",
+    "category": "compressori-portatili",
+    "title": "Lamicall Pompa Elettrica per Bicicletta, Compressore Aria Portatile",
+    "brand": "Lamicall",
+    "price": {
+      "value": 42.86,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 887,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D17RJP1T",
+    "category": "compressori-portatili",
+    "title": "ETENWOLF ZEPHYR S3-7800mAh Compressore Aria Portatile 11Bar/160PSI",
+    "brand": "ETENWOLF",
+    "price": {
+      "value": 65.54,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 792,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09JZWJ2QY",
+    "category": "compressori-portatili",
+    "title": "Xiaomi Portable Electric Air Compressor 1S, Compressore ad Aria Portatile",
+    "brand": "Xiaomi",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 18016,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D2PM6R1R",
+    "category": "compressori-portatili",
+    "title": "NOCO AIR10 Gonfiagomme e Compressore d'Aria Portatile 12V 36L/min",
+    "brand": "NOCO",
+    "price": {
+      "value": 100.34,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 551,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CBBP8BQX",
+    "category": "compressori-portatili",
+    "title": "Xiaomi Portable Electric Air Compressor 2, Compressore ad Aria Portatile",
+    "brand": "Xiaomi",
+    "price": {
+      "value": 42.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 9973,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0D17QMS6F",
+    "category": "compressori-portatili",
+    "title": "ETENWOLF Vortex S6-19200 mAh Compressore Aria Portatile 11,03 Bar/160 PSI",
+    "brand": "ETENWOLF",
+    "price": {
+      "value": 123.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 395,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09G2RMPSS",
+    "category": "compressori-portatili",
+    "title": "Einhell Compressore per auto a batteria CE-CC 18 Li-Solo",
+    "brand": "Einhell",
+    "price": {
+      "value": 50.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3869,
+      "checkedAt": "2026-11-24T13:17:41+00:00",
+      "source": "manual"
+    }
+  }
+]
