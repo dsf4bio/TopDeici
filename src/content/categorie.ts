@@ -1,4 +1,5 @@
 import type { Category, SpecField } from "@/lib/types";
+import { EXTRA, EXTRA_SEARCH } from "./categorie-nuove";
 
 // Elenco delle categorie. Per aggiungerne una basta una riga in più:
 // slug (diventa l'URL), nome, descrizione breve e caratteristiche da confrontare
@@ -207,6 +208,10 @@ const SEARCH: Record<string, { query?: string; searchIndex?: string }> = {
   giradischi: { query: "giradischi", searchIndex: "Electronics" },
 };
 
-export const CATEGORIES: Category[] = Object.entries(TABLE).flatMap(([macro, rows]) =>
-  rows.map(([slug, name, summary, spec]) => ({ slug, macro, name, summary, specs: specs(spec), ...SEARCH[slug] })),
+const ALL: Record<string, Row[]> = { ...TABLE };
+for (const [macro, rows] of Object.entries(EXTRA)) ALL[macro] = [...(ALL[macro] ?? []), ...rows];
+const ALL_SEARCH = { ...SEARCH, ...EXTRA_SEARCH };
+
+export const CATEGORIES: Category[] = Object.entries(ALL).flatMap(([macro, rows]) =>
+  rows.map(([slug, name, summary, spec]) => ({ slug, macro, name, summary, specs: specs(spec), ...ALL_SEARCH[slug] })),
 );

@@ -527,3 +527,30 @@
     }
   }
 }
+
+/* Perché TopDieci: vantaggi rispetto alla ricerca diretta su Amazon */
+@layer components {
+  .benefits { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--s-4); grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr)); }
+  .benefits li { border: 1px solid var(--rule-strong); background: var(--white); padding: var(--s-4); display: flex; flex-direction: column; gap: var(--s-2); border-top: 4px solid var(--signal); }
+  .benefits strong { font-family: var(--ff-display); font-size: var(--fs-lg); line-height: 1.2; }
+  .benefits span { color: var(--steel); font-size: var(--fs-sm); line-height: 1.5; }
+  .vs { margin-top: var(--s-6); border: 1px solid var(--ink); background: var(--white); font-size: var(--fs-sm); }
+  .vs-row { display: grid; grid-template-columns: 1.2fr 1fr 1fr; border-top: 1px solid var(--rule); }
+  .vs-row:first-child { border-top: 0; }
+  .vs-row > span { padding: var(--s-3) var(--s-4); }
+  .vs-row > span:last-child { background: var(--signal-soft); font-weight: 700; }
+  .vs-head { background: var(--ink); color: var(--white); font-family: var(--ff-display); }
+  .vs-head > span:last-child { background: var(--signal); color: var(--ink); }
+  .vs-row [role="rowheader"] { font-weight: 700; }
+  @media (max-width: 40rem) {
+    .vs-row { grid-template-columns: 1fr 1fr; }
+    .vs-row > [role="rowheader"] { grid-column: 1 / -1; padding-bottom: 0; }
+    .vs-head > span:first-child { display: none; }
+  }
+  .how-steps { margin: var(--s-6) 0 0; padding: 0; list-style: none; counter-reset: st; display: grid; gap: var(--s-3); grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); }
+  .how-steps li { counter-increment: st; display: flex; gap: var(--s-3); align-items: baseline; }
+  .how-steps li::before { content: counter(st); font-family: var(--ff-display); font-size: var(--fs-xl); color: var(--signal-ink); min-width: 1.5ch; }
+  .trust-strip { list-style: none; padding: 0; margin: var(--s-3) 0 0; display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-4); font-size: var(--fs-sm); color: var(--ok); }
+  .trust-strip li { display: inline-flex; align-items: center; gap: 0.35em; }
+  .trust-strip li::before { content: "✓"; font-weight: 700; }
+}

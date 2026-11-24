@@ -8,7 +8,10 @@ export const MACRO_CATEGORIES: MacroCategory[] = [
   { slug: "sport", searchIndex: "SportsAndOutdoors", code: "SPO", name: "Sport e fitness", tagline: "Allenamento in casa, outdoor e mobilità." },
   { slug: "auto-moto", searchIndex: "Automotive", code: "AUT", name: "Auto e moto", tagline: "Sicurezza, manutenzione e accessori di viaggio." },
   { slug: "giardino-fai-da-te", searchIndex: "ToolsAndHomeImprovement", code: "FAI", name: "Giardino e fai-da-te", tagline: "Elettroutensili, prato e spazi esterni." },
+  { slug: "animali", searchIndex: "PetSupplies", code: "ANI", name: "Animali domestici", tagline: "Acqua, cibo, igiene e sicurezza per cani e gatti." },
+  { slug: "bambini", searchIndex: "Baby", code: "BAM", name: "Neonati e bambini", tagline: "Passeggio, pappa, nanna e primi anni." },
   { slug: "bellezza", searchIndex: "HealthPersonalCare", code: "BEL", name: "Bellezza e cura personale", tagline: "Igiene orale, rasatura, capelli e benessere." },
+  { slug: "salute", searchIndex: "HealthPersonalCare", code: "SAL", name: "Salute e benessere", tagline: "Pressione, respirazione, dolore e calore." },
   { slug: "ufficio", searchIndex: "OfficeProducts", code: "UFF", name: "Ufficio e produttività", tagline: "Postazione di lavoro, ergonomia e documenti." },
   { slug: "gaming", searchIndex: "VideoGames", code: "GAM", name: "Gaming e intrattenimento", tagline: "Console, periferiche di gioco, lettura e musica." },
 ];

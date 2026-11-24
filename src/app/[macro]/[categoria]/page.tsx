@@ -96,6 +96,12 @@ export default async function CategoryPage({ params }: Props) {
           {updated ? <>Classifica aggiornata il {formatDate(updated)} · </> : null}
           Link affiliati Amazon: il prezzo per te non cambia.
         </p>
+        <ul className="trust-strip" aria-label="Come abbiamo scelto questi prodotti">
+          <li>Nessun annuncio sponsorizzato</li>
+          <li>Almeno 4,4 stelle e oltre 100 recensioni</li>
+          <li>Niente doppioni né accessori</li>
+          <li>Acquisto e resi su Amazon</li>
+        </ul>
       </div>
 
       <div className="container cat-body">
