@@ -11,7 +11,7 @@ export function Footer() {
         <div className="footer-cols">
           <div className="stack">
             <Logo />
-            <p>Classifiche costruite con criteri pubblici. Nessun prodotto entra in lista per riempire un posto.</p>
+            <p>I 10 migliori prodotti Amazon per ogni categoria, aggiornati ogni giorno.</p>
           </div>
           <nav aria-label="Aree">
             <h2>Aree</h2>
@@ -32,7 +32,7 @@ export function Footer() {
           <nav aria-label="Informazioni">
             <h2>Il progetto</h2>
             <ul>
-              <li><Link href="/metodologia">Come scegliamo i prodotti</Link></li>
+              <li><Link href="/metodologia">Come funziona la classifica</Link></li>
               <li><Link href="/chi-siamo">Chi siamo</Link></li>
               <li><Link href="/affiliazione">Link affiliati</Link></li>
               <li><Link href="/privacy">Privacy</Link></li>

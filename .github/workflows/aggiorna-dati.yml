@@ -1,29 +1,41 @@
-# Aggiorna ogni giorno prezzi e disponibilità dalle API Amazon e fa il commit dei dati.
-# Il commit fa ripartire il deploy su Vercel.
-# Imposta i secret del repository: AMAZON_CREATORS_CLIENT_ID,
-# AMAZON_CREATORS_CLIENT_SECRET, AMAZON_CREATORS_TOKEN_URL.
+# Riempie e aggiorna ogni giorno le classifiche con i prodotti di Amazon.it (Creators API),
+# poi fa il commit dei dati: Vercel ripubblica il sito da solo.
+#
+# Prima volta: in GitHub, Settings > Secrets and variables > Actions > New repository secret, crea
+#   AMAZON_CREATORS_CLIENT_ID, AMAZON_CREATORS_CLIENT_SECRET, AMAZON_CREATORS_TOKEN_URL
+# poi in Actions > "Aggiorna classifiche Amazon" premi "Run workflow".
 
-name: Aggiorna dati Amazon
+name: Aggiorna classifiche Amazon
 
 on:
   schedule:
     - cron: "17 4 * * *" # ogni giorno alle 04:17 UTC
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      categorie:
+        description: "Solo queste categorie (slug separati da spazio). Vuoto = tutte"
+        required: false
+        default: ""
 
 permissions:
   contents: write
 
+concurrency:
+  group: dati-amazon
+  cancel-in-progress: false
+
 jobs:
   aggiorna:
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
-      - run: npm ci
-      - run: npm run dati:aggiorna
+      - run: npm install --no-audit --no-fund
+      - name: Cerca i prodotti su Amazon.it
+        run: npm run dati:popola -- ${{ github.event.inputs.categorie }}
         env:
           AMAZON_CREATORS_CLIENT_ID: ${{ secrets.AMAZON_CREATORS_CLIENT_ID }}
           AMAZON_CREATORS_CLIENT_SECRET: ${{ secrets.AMAZON_CREATORS_CLIENT_SECRET }}
@@ -34,5 +46,5 @@ jobs:
           git config user.name "topdieci-bot"
           git config user.email "bot@topdieci.click"
           git add data/prodotti
-          git diff --cached --quiet || git commit -m "Dati Amazon aggiornati $(date -u +%F)"
+          git diff --cached --quiet || git commit -m "Classifiche aggiornate $(date -u +%F)"
           git push

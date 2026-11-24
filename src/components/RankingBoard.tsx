@@ -16,6 +16,7 @@ export function RankingBoard({ products, category }: { products: CardModel[]; ca
 
   const brands = useMemo(() => [...new Set(products.map((p) => p.brand))].sort((a, b) => a.localeCompare(b, "it")), [products]);
   const hasPrices = products.some((p) => p.price);
+  const hasRatings = products.some((p) => p.rating);
 
   const visible = useMemo(() => {
     const list = products.filter(
@@ -39,12 +40,13 @@ export function RankingBoard({ products, category }: { products: CardModel[]; ca
         <label className="field">
           Ordina per
           <select value={sort} onChange={(e) => setSort(e.target.value as Sort)}>
-            <option value="posizione">Posizione in classifica</option>
-            <option value="valutazione">Valutazione media</option>
-            <option value="recensioni">Numero di recensioni</option>
-            {hasPrices && <option value="prezzo">Prezzo crescente</option>}
+            <option value="posizione">Classifica</option>
+            {hasRatings && <option value="valutazione">Valutazione media</option>}
+            {hasRatings && <option value="recensioni">Numero di recensioni</option>}
+            {hasPrices && <option value="prezzo">Prezzo più basso</option>}
           </select>
         </label>
+        {hasRatings && (
         <label className="field">
           Valutazione minima
           <select value={minRating} onChange={(e) => setMinRating(Number(e.target.value))}>
@@ -54,6 +56,7 @@ export function RankingBoard({ products, category }: { products: CardModel[]; ca
             <option value={4.8}>4,8 e oltre</option>
           </select>
         </label>
+        )}
         {hasPrices && (
           <label className="field">
             Prezzo massimo (€)

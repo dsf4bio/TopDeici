@@ -83,6 +83,17 @@ npm run dati:verifica                          # stato di tutte le categorie
 Ogni riga deve avere `verificato_il`: è la data in cui hai letto prezzo, stelle e recensioni su Amazon.it. Le righe
 aggiornano per ASIN; i campi vuoti non cancellano quelli esistenti. Se c'è un errore, nessun file viene modificato.
 
+### 0. Riempire tutte le classifiche in automatico (consigliato)
+
+`npm run dati:popola` cerca su Amazon.it i prodotti di tutte le 100 categorie (prezzo da 25 €, almeno 4 stelle,
+disponibili), li ordina e salva i candidati in `data/prodotti/`. Gira ogni giorno con GitHub Actions
+(workflow "Aggiorna classifiche Amazon"): servono solo i tre secret della Creators API. Le parole chiave e il reparto
+Amazon di ogni categoria sono in `src/content/categorie.ts` (`SEARCH`).
+
+Nota: le API Amazon non forniscono il numero di recensioni né la media esatta delle stelle. Il filtro più severo
+disponibile è "almeno 4 stelle"; l'ordine usa la ricerca Amazon per recensioni e la classifica vendite. Per applicare la
+soglia di 4,5 stelle a un prodotto, inserisci stelle e recensioni con l'import CSV: hanno la precedenza.
+
 ### 2. Aggiornamento automatico da Amazon (immagini, prezzi, disponibilità)
 
 PA-API 5 è stata ritirata nel 2026: il client usa la **Creators API** (OAuth 2.0).

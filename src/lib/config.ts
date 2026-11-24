@@ -7,7 +7,7 @@ export const SITE = {
   url: (process.env.NEXT_PUBLIC_SITE_URL || "https://www.topdieci.click").replace(/\/$/, ""),
   locale: "it_IT",
   description:
-    "Classifiche dei 10 migliori prodotti Amazon in oltre 100 categorie, costruite con criteri pubblici: prezzo, valutazioni, numero di recensioni e analisi della redazione.",
+    "I 10 migliori prodotti Amazon per ogni categoria: oltre 100 classifiche aggiornate ogni giorno.",
   contactEmail: "redazione@topdieci.click",
   /** Titolare del sito, da completare prima della pubblicazione (necessario per privacy e termini). */
   owner: "[Nome e cognome o ragione sociale del titolare]",

@@ -33,6 +33,14 @@ export function validateProduct(p: unknown, where: string): string[] {
     if (!isIso(x.rating.checkedAt)) err("data di verifica della valutazione non valida");
     if (x.rating.source !== "api" && x.rating.source !== "manual") err("fonte della valutazione non valida");
   }
+  if (x.amazon !== undefined) {
+    const a = x.amazon;
+    if (!(typeof a.minStars === "number" && a.minStars >= 1 && a.minStars < 5)) err("amazon.minStars non valido");
+    if (!(Number.isInteger(a.reviewSortRank) && a.reviewSortRank >= 1)) err("amazon.reviewSortRank non valido");
+    if (a.salesRank !== undefined && !(Number.isInteger(a.salesRank) && a.salesRank >= 1)) err("amazon.salesRank non valido");
+    if (!isIso(a.checkedAt)) err("amazon.checkedAt non valido");
+  }
+  if (x.features !== undefined && !(Array.isArray(x.features) && x.features.every(isText))) err("features non valide");
   if (x.editorialScore !== undefined && !(x.editorialScore >= 0 && x.editorialScore <= 1))
     err("editorialScore deve essere tra 0 e 1");
   return errors;

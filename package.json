@@ -12,8 +12,9 @@
     "start": "next start",
     "typecheck": "tsc --noEmit",
     "test": "node --import tsx --test src/lib/*.test.ts",
-    "dati:importa": "tsx scripts/importa-csv.ts",
+    "dati:popola": "tsx scripts/popola-amazon.ts",
     "dati:aggiorna": "tsx scripts/aggiorna-amazon.ts",
+    "dati:importa": "tsx scripts/importa-csv.ts",
     "dati:verifica": "tsx scripts/verifica-dati.ts"
   },
   "dependencies": {

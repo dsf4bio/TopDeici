@@ -64,7 +64,7 @@ export function SearchResults({ index, initial }: { index: SearchEntry[]; initia
           <li key={e.slug}>
             <Link href={e.href}>
               <h3>{e.name}</h3>
-              <span className={`tag ${e.ready ? "tag-live" : "tag-wait"}`}>{e.ready ? "Classifica" : "In preparazione"}</span>
+              <span className={`tag ${e.ready ? "tag-live" : "tag-wait"}`}>{e.ready ? "Top 10" : "In aggiornamento"}</span>
               <p>{e.macro} · {e.summary}</p>
             </Link>
           </li>

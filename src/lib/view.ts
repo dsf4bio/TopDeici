@@ -15,6 +15,7 @@ export type CardModel = {
   rating?: { average: number; text: string; count: number; countText: string; checked: string };
   price?: { value: number; text: string; at: string };
   specs: { key: string; label: string; value: string }[];
+  features: string[];
   strengths: string[];
   weaknesses: string[];
   breakdown: { adjusted: string; rating: number; volume: number; editorial: number };
@@ -40,10 +41,11 @@ export function toCardModel(p: RankedProduct, category: Category, now = new Date
     },
     price: price && { value: p.price!.value, ...price },
     specs: category.specs.map((s) => ({ key: s.key, label: s.label, value: formatSpec(p.specs?.[s.key], s.unit) })),
+    features: (p.features ?? []).map((f) => (f.length > 180 ? f.slice(0, 177).trimEnd() + "…" : f)).slice(0, 3),
     strengths: (p.strengths ?? []).slice(0, 4),
     weaknesses: (p.weaknesses ?? []).slice(0, 3),
     breakdown: {
-      adjusted: formatRating(p.breakdown.adjustedRating),
+      adjusted: p.breakdown.adjustedRating !== undefined ? formatRating(p.breakdown.adjustedRating) : "—",
       rating: Math.round(p.breakdown.ratingPart * 100),
       volume: Math.round(p.breakdown.volumePart * 100),
       editorial: Math.round(p.breakdown.editorialPart * 100),

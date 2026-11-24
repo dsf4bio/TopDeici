@@ -13,7 +13,7 @@ export function CategoryTile({ category, showMacro = false }: { category: Catego
         {count > 0 ? (
           <span className="tag tag-live">Top {count}</span>
         ) : (
-          <span className="tag tag-wait">In preparazione</span>
+          <span className="tag tag-wait">In aggiornamento</span>
         )}
         <span aria-hidden="true">→</span>
       </span>

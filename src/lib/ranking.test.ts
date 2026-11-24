@@ -84,3 +84,35 @@ test("è deterministica", () => {
   const second = rankCategory([...products].reverse(), {}, NOW).ranked.map((p) => p.asin);
   assert.deepEqual(first, second);
 });
+
+function fromApi(reviewSortRank: number, over: Partial<Product> = {}): Product {
+  n++;
+  return {
+    asin: `API${String(n).padStart(7, "0")}`,
+    category: "test",
+    title: `Prodotto API ${n}`,
+    brand: "Prova",
+    price: { value: 80, currency: "EUR", checkedAt: fresh, source: "api" },
+    amazon: { minStars: 4, reviewSortRank, salesRank: 1000 * reviewSortRank, checkedAt: fresh },
+    ...over,
+  };
+}
+
+test("funziona con i soli dati delle API Amazon", () => {
+  const products = [fromApi(3), fromApi(1), fromApi(2), fromApi(4, { price: { value: 20, currency: "EUR", checkedAt: fresh, source: "api" } })];
+  const r = rankCategory(products, {}, NOW);
+  assert.equal(r.ranked.length, 3);
+  assert.deepEqual(r.ranked.map((p) => p.amazon!.reviewSortRank), [1, 2, 3]);
+});
+
+test("la classifica vendite sposta prodotti con recensioni simili", () => {
+  const popular = fromApi(2, { amazon: { minStars: 4, reviewSortRank: 2, salesRank: 5, checkedAt: fresh } });
+  const niche = fromApi(1, { amazon: { minStars: 4, reviewSortRank: 1, salesRank: 90000, checkedAt: fresh } });
+  const r = rankCategory([niche, popular, fromApi(3)], {}, NOW);
+  assert.equal(r.ranked[0]!.asin, popular.asin);
+});
+
+test("dati della redazione e dati API convivono nella stessa classifica", () => {
+  const r = rankCategory([fake({ rating: 4.8, count: 20000 }), fromApi(1), fromApi(2)], {}, NOW);
+  assert.equal(r.ranked.length, 3);
+});

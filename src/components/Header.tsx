@@ -30,7 +30,6 @@ export function Header() {
         <div className="nav">
           <div className="nav-desktop">
             <MacroMenu label="Categorie" />
-            <Link href="/metodologia">Come scegliamo</Link>
             <Link href="/cerca" className="nav-search" aria-label="Cerca">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true">
                 <circle cx="11" cy="11" r="7" />

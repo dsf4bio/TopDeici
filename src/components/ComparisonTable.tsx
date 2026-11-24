@@ -4,6 +4,9 @@ import { AffiliateLink } from "./AffiliateLink";
 
 export function ComparisonTable({ products, specs, category }: { products: CardModel[]; specs: SpecField[]; category: string }) {
   const hasPrices = products.some((p) => p.price);
+  const hasRatings = products.some((p) => p.rating);
+  // Si mostrano solo le caratteristiche che hanno almeno un valore.
+  const columns = specs.filter((s) => products.some((p) => p.specs.find((x) => x.key === s.key)?.value !== "—"));
   return (
     <div className="table-wrap" tabIndex={0} role="region" aria-label="Tabella di confronto, scorrevole in orizzontale">
       <table className="compare">
@@ -11,12 +14,9 @@ export function ComparisonTable({ products, specs, category }: { products: CardM
         <thead>
           <tr>
             <th scope="col">Prodotto</th>
-            <th scope="col">Stelle</th>
-            <th scope="col">Recensioni</th>
-            {specs.map((s) => (
-              <th scope="col" key={s.key}>{s.label}</th>
-            ))}
             {hasPrices && <th scope="col">Prezzo</th>}
+            {hasRatings && <th scope="col">Stelle</th>}
+            {columns.map((s) => <th scope="col" key={s.key}>{s.label}</th>)}
             <th scope="col"><span className="visually-hidden">Link</span></th>
           </tr>
         </thead>
@@ -25,14 +25,11 @@ export function ComparisonTable({ products, specs, category }: { products: CardM
             <tr key={p.asin}>
               <th scope="row">
                 <span className="pos">{String(p.position).padStart(2, "0")}</span>
-                <a href={`#p-${p.asin}`}>{p.brand} {p.model ?? ""}</a>
+                <a href={`#p-${p.asin}`}>{p.brand}{p.model ? ` ${p.model}` : ""}</a>
               </th>
-              <td className="num">{p.rating?.text ?? "—"}</td>
-              <td className="num">{p.rating?.countText ?? "—"}</td>
-              {p.specs.map((s) => (
-                <td key={s.key}>{s.value}</td>
-              ))}
               {hasPrices && <td className="num">{p.price?.text ?? "su Amazon"}</td>}
+              {hasRatings && <td className="num">{p.rating?.text ?? "—"}</td>}
+              {columns.map((s) => <td key={s.key}>{p.specs.find((x) => x.key === s.key)?.value}</td>)}
               <td>
                 <AffiliateLink href={p.href} asin={p.asin} category={category} position={p.position} placement="tabella" className="link-arrow">
                   Amazon

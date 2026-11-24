@@ -38,6 +38,8 @@ for (const category of categories) {
     if (item.title) p.title = p.title || item.title; // il titolo editoriale, se c'è, ha la precedenza
     if (item.brand) p.brand = p.brand || item.brand;
     if (item.image) p.image = item.image;
+    if (item.features) p.features = item.features;
+    if (p.amazon) p.amazon = { ...p.amazon, salesRank: item.salesRank ?? p.amazon.salesRank, checkedAt: now };
     if (item.price !== undefined && item.available !== false) {
       p.price = { value: item.price, currency: "EUR", checkedAt: now, source: "api" };
     } else if (item.available === false && p.price) {

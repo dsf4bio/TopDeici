@@ -7,6 +7,8 @@ export type MacroCategory = {
   tagline: string;
   /** Codice breve mostrato nell'interfaccia (es. "TEC"). */
   code: string;
+  /** Reparto Amazon.it predefinito per le ricerche (SearchIndex). */
+  searchIndex: string;
 };
 
 /** Una caratteristica tecnica confrontabile dentro una categoria. */
@@ -26,6 +28,10 @@ export type Category = {
   specs: SpecField[];
   /** Soglia minima di recensioni per questa categoria; se assente si usa quella automatica. */
   minReviews?: number;
+  /** Parole chiave per la ricerca su Amazon (se assente si usa il nome). */
+  query?: string;
+  /** Reparto Amazon in cui cercare (SearchIndex); se assente si usa quello dell'area. */
+  searchIndex?: string;
 };
 
 /** Contenuto editoriale completo di una categoria (guida all'acquisto). */
@@ -64,6 +70,22 @@ export type Product = {
     checkedAt: string;
     source: DataSource;
   };
+  /**
+   * Segnali forniti dalle API Amazon (SearchItems), usati quando la redazione non ha inserito
+   * valutazione e numero di recensioni: Amazon non li espone via API.
+   */
+  amazon?: {
+    /** Valutazione minima garantita dal filtro di ricerca Amazon (minReviewsRating). */
+    minStars: number;
+    /** Posizione del prodotto nella ricerca Amazon ordinata per media delle recensioni (1 = migliore). */
+    reviewSortRank: number;
+    /** Posizione nella classifica vendite di Amazon (più basso = più venduto), se disponibile. */
+    salesRank?: number;
+    /** ISO 8601 */
+    checkedAt: string;
+  };
+  /** Caratteristiche principali fornite da Amazon (itemInfo.features). */
+  features?: string[];
   specs?: Record<string, string | number | boolean>;
   strengths?: string[];
   weaknesses?: string[];
@@ -96,8 +118,8 @@ export type RankedProduct = Product & {
   position: number;
   score: number;
   breakdown: {
-    /** Valutazione corretta con media bayesiana (stelle). */
-    adjustedRating: number;
+    /** Valutazione corretta con media bayesiana (stelle), se il prodotto ha una valutazione inserita dalla redazione. */
+    adjustedRating?: number;
     /** Componenti normalizzate 0–1. */
     ratingPart: number;
     volumePart: number;
