@@ -1,24 +1,5 @@
 [
  {
-  "asin": "B00G5YOVZA",
-  "category": "macchine-caffe-espresso",
-  "title": "Nespresso Inissia EN80.B Macchina per Caffè Espresso, Black",
-  "brand": "Nespresso",
-  "price": {
-   "value": 79.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 48452,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61f4U34vuyL._AC_SL500_.jpg"
- },
- {
   "asin": "B0DVM1T4NP",
   "category": "macchine-caffe-espresso",
   "title": "De'Longhi La Specialista Touch EC9455.M",
@@ -169,24 +150,5 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/61Qiz8Pe+uL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CMD922SQ",
-  "category": "macchine-caffe-espresso",
-  "title": "Nescafé Dolce Gusto De'Longhi Genio S, Macchina per Caffè Espresso",
-  "brand": "Nescafé Dolce Gusto",
-  "price": {
-   "value": 66.4,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3400,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71-y1bV6llL._AC_SL500_.jpg"
  }
 ]

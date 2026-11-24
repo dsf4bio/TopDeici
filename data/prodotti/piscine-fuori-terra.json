@@ -95,25 +95,6 @@
   }
  },
  {
-  "asin": "B014FHB764",
-  "category": "piscine-fuori-terra",
-  "title": "Bestway 56403-4 Piscina base fuori terra Steel Pro da 259x",
-  "brand": "Bestway",
-  "image": "https://m.media-amazon.com/images/I/81cSbo0KcfL._AC_SL500_.jpg",
-  "price": {
-   "value": 149.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1251,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B0065HDQ4O",
   "category": "piscine-fuori-terra",
   "title": "Intex 28210NP – Piscina Fuori Terra Metal Frame Rotonda, 6",
@@ -152,25 +133,6 @@
   }
  },
  {
-  "asin": "B07BHMGNV7",
-  "category": "piscine-fuori-terra",
-  "title": "Bestway 56404 Piscina Fuori Terra Steel Pro Rettangolare D",
-  "brand": "Bestway",
-  "image": "https://m.media-amazon.com/images/I/71cjmk5gjGL._AC_SL500_.jpg",
-  "price": {
-   "value": 127.5,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 343,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B07F21CM1Z",
   "category": "piscine-fuori-terra",
   "title": "Bestway 56448-19 Piscine Ovali, Grigio",
@@ -186,6 +148,44 @@
    "average": 4.5,
    "count": 189,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0751Y7D7H",
+  "category": "piscine-fuori-terra",
+  "title": "Bestway Steel Pro 56681 piscina fuori terra Piscina con bordi Piscina",
+  "brand": "Bestway",
+  "image": "https://m.media-amazon.com/images/I/51nhE0azwlL._AC_SL500_.jpg",
+  "price": {
+   "value": 129.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 607,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B078H9QBCD",
+  "category": "piscine-fuori-terra",
+  "title": "Bestway 56670-3 Piscina Fuori TerraPower Steel da 488x244x122 cm",
+  "brand": "Bestway",
+  "image": "https://m.media-amazon.com/images/I/71evjKxGqNL._AC_SL500_.jpg",
+  "price": {
+   "value": 748.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 185,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

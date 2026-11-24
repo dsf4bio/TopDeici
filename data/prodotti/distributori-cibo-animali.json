@@ -114,25 +114,6 @@
   }
  },
  {
-  "asin": "B0FNWHXP1V",
-  "category": "distributori-cibo-animali",
-  "title": "HoneyGuaridan 5L Distributore Automatico Cibo Gatti Doppia",
-  "brand": "HoneyGuaridan",
-  "image": "https://m.media-amazon.com/images/I/619XEXI4c6L._AC_SL500_.jpg",
-  "price": {
-   "value": 66.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3311,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B0GXK422TH",
   "category": "distributori-cibo-animali",
   "title": "Distributore Automatico Cibo Gatti 4L Dispenser Crocchette",
@@ -186,6 +167,25 @@
    "average": 4.4,
    "count": 956,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0H1KYPFXM",
+  "category": "distributori-cibo-animali",
+  "title": "Distributore automatico cibo cani, capacità 15L, croccantini fino a 23",
+  "brand": "Generico",
+  "image": "https://m.media-amazon.com/images/I/616x82YoldL._AC_SL500_.jpg",
+  "price": {
+   "value": 119.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 234,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

@@ -1,24 +1,5 @@
 [
  {
-  "asin": "B0C992CBH1",
-  "category": "fornetti-elettrici",
-  "title": "Cosori Friggitrice ad Aria 12 Litri, Doppia Resistenza, Fo",
-  "brand": "Cosori",
-  "image": "https://m.media-amazon.com/images/I/91+-qQ0oVJL._AC_SL500_.jpg",
-  "price": {
-   "value": 135.33,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 37969,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B07P1D1ZC4",
   "category": "fornetti-elettrici",
   "title": "G3 Ferrari G10006 Pizza Express Delizia, Forno Pizza, 1200",
@@ -33,44 +14,6 @@
   "rating": {
    "average": 4.6,
    "count": 5819,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0D9GRHLV7",
-  "category": "fornetti-elettrici",
-  "title": "LLIVEKIT 30L Friggitrice ad Aria Forno XXL con Girarrosto",
-  "brand": "LLIVEKIT",
-  "image": "https://m.media-amazon.com/images/I/71HKA1SbHVL._AC_SL500_.jpg",
-  "price": {
-   "value": 179.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 765,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0DNGLJ5DX",
-  "category": "fornetti-elettrici",
-  "title": "NutriChef Friggitrice ad Aria Forno 26 Litri con Girarrost",
-  "brand": "NutriChef",
-  "image": "https://m.media-amazon.com/images/I/81dYzlzvS4L._AC_SL500_.jpg",
-  "price": {
-   "value": 170.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4859,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
   }
@@ -114,25 +57,6 @@
   }
  },
  {
-  "asin": "B0DJM86H8J",
-  "category": "fornetti-elettrici",
-  "title": "Tristar Forno Friggitrice ad Aria, 12 L, 1800 W, per la Fa",
-  "brand": "Tristar",
-  "image": "https://m.media-amazon.com/images/I/61uC6uRvnSL._AC_SL500_.jpg",
-  "price": {
-   "value": 84.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 310,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B0CH1FNH81",
   "category": "fornetti-elettrici",
   "title": "De'Longhi Sfornatutto Chef DO34326, Forno Elettrico Ventil",
@@ -167,6 +91,101 @@
    "average": 4.4,
    "count": 3734,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DSQ5YWGX",
+  "category": "fornetti-elettrici",
+  "title": "Ariete 3919 Forno Elettrico Vintage, 800W, Capacità 10L, Doppio vetro",
+  "brand": "Ariete",
+  "image": "https://m.media-amazon.com/images/I/51Zs99idQ0L._AC_SL500_.jpg",
+  "price": {
+   "value": 31.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 463,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08WLC2DV8",
+  "category": "fornetti-elettrici",
+  "title": "ARDES - AR6226S Fornetto Elettrico Ventilato Capienza 25 Litri - Forne",
+  "brand": "ARDES",
+  "image": "https://m.media-amazon.com/images/I/71cjXPKuoxL._AC_SL500_.jpg",
+  "price": {
+   "value": 74.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 1236,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C869YQC8",
+  "category": "fornetti-elettrici",
+  "title": "OptimumX Mini Forno Elettrico 20L – Fornetto Ventilato 1380W, 6 Funzio",
+  "brand": "OptimumX",
+  "image": "https://m.media-amazon.com/images/I/61VmLvTmGdL._AC_SL500_.jpg",
+  "price": {
+   "value": 71.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 908,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08H5PGVNV",
+  "category": "fornetti-elettrici",
+  "title": "H.Koenig - forno elettrico FO30 da 30 l, multifunzione, potente, 1500",
+  "brand": "H.Koenig",
+  "image": "https://m.media-amazon.com/images/I/61FXlYH0UVL._AC_SL500_.jpg",
+  "price": {
+   "value": 99.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 215,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07BC3YK24",
+  "category": "fornetti-elettrici",
+  "title": "Sage The Smart Oven Pro, Forno, Griligia, Acciaio Inox Spazzolato",
+  "brand": "Sage",
+  "image": "https://m.media-amazon.com/images/I/71XLPXjRCLL._AC_SL500_.jpg",
+  "price": {
+   "value": 198.65,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 193,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

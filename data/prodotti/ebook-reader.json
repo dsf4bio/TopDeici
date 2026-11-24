@@ -114,44 +114,6 @@
   "image": "https://m.media-amazon.com/images/I/71pbsW7bl-L._AC_SL500_.jpg"
  },
  {
-  "asin": "B0D1KV86N4",
-  "category": "ebook-reader",
-  "title": "Kobo Libra Colour eReader, 7\" Color E Ink, impermeabile, bianco",
-  "brand": "Kobo",
-  "price": {
-   "value": 616.53,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 929,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61r65Us8XSL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0D1KV8J76",
-  "category": "ebook-reader",
-  "title": "Kobo Clara BW / eReader / Touchscreen antiriflesso da 6 pollici",
-  "brand": "Kobo",
-  "price": {
-   "value": 391.64,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 685,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61COzsfwaUL._AC_SL500_.jpg"
- },
- {
   "asin": "B0FC254WQH",
   "category": "ebook-reader",
   "title": "Amazon Kindle Scribe 64 GB (ultimo modello), schermo da 11''",

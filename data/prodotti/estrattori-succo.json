@@ -76,25 +76,6 @@
   }
  },
  {
-  "asin": "B0H4KLL65K",
-  "category": "estrattori-succo",
-  "title": "Fretta, estrattore di succo per frutta e verdura, apertura",
-  "brand": "Fretta",
-  "image": "https://m.media-amazon.com/images/I/813IpzB86jL._AC_SL500_.jpg",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 975,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B0GXFG29GW",
   "category": "estrattori-succo",
   "title": "AAOBOSI Estrattore Frutta e Verdura 165MM, Slow Juicer con",
@@ -186,6 +167,25 @@
    "average": 4.5,
    "count": 1295,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B01K4ILX6M",
+  "category": "estrattori-succo",
+  "title": "Philips centrifuga frutta e verdura 3000, 1100W, tecnologia FibreBoost",
+  "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/516Ngthq0iL._AC_SL500_.jpg",
+  "price": {
+   "value": 159.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 5797,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

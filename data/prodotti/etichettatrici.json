@@ -19,25 +19,6 @@
   "image": "https://m.media-amazon.com/images/I/71+RVOyO99L._AC_SL500_.jpg"
  },
  {
-  "asin": "B0032O7J0U",
-  "category": "etichettatrici",
-  "title": "Dymo LetraTag LT100H Etichettatrice",
-  "brand": "Dymo",
-  "price": {
-   "value": 50.2,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 8397,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71oTPyA9KxL._AC_SL500_.jpg"
- },
- {
   "asin": "B0BRZ9RTMX",
   "category": "etichettatrici",
   "title": "DYMO LetraTag LT-100T Etichettatrice",
@@ -188,5 +169,24 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/71rR+ZuGdnL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0B7NV87X7",
+  "category": "etichettatrici",
+  "title": "DYMO LetraTag 200B etichettatrice Bluetooth Stampante per etichette co",
+  "brand": "DYMO",
+  "image": "https://m.media-amazon.com/images/I/81BrwCTXjoL._AC_SL500_.jpg",
+  "price": {
+   "value": 30.19,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 2392,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

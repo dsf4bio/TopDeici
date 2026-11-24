@@ -95,98 +95,60 @@
   "image": "https://m.media-amazon.com/images/I/61QwyAYSHBL._AC_SL500_.jpg"
  },
  {
-  "asin": "B093X64R9H",
+  "asin": "B0D736BCNM",
   "category": "controller",
-  "title": "Xbox Wireless Controller - Astral Purple per Xbox Series X/S",
-  "brand": "Xbox",
+  "title": "8Bitdo Ultimate 2C Wireless Controller for Windows PC and Android, wit",
+  "brand": "8BitDo",
+  "image": "https://m.media-amazon.com/images/I/514wvI38zaL._AC_SL500_.jpg",
   "price": {
-   "value": 64.99,
+   "value": 29.99,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.7,
-   "count": 2427,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "count": 6569,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51avL1j90kL._AC_SL500_.jpg"
+  }
  },
  {
-  "asin": "B094WRT8PD",
+  "asin": "B0FN77594S",
   "category": "controller",
-  "title": "Sony PlayStation®5 - DualSense™ Wireless Controller Cosmic Red",
-  "brand": "Sony",
+  "title": "8BitDo Ultimate 2 Wireless Controller for Windows, Apple, Steam & Andr",
+  "brand": "8BitDo",
+  "image": "https://m.media-amazon.com/images/I/71x6upuMACL._AC_SL500_.jpg",
   "price": {
-   "value": 59.98,
+   "value": 69.99,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
-   "average": 4.6,
-   "count": 13659,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "average": 4.8,
+   "count": 765,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61CkSA9vPXS._AC_SL500_.jpg"
+  }
  },
  {
-  "asin": "B0DT52LVMS",
+  "asin": "B0F3JM95S4",
   "category": "controller",
-  "title": "Xbox Controller di gioco wireless (2025) - Rosa intenso",
-  "brand": "Xbox",
+  "title": "Set da due Controller Joy-Con Rosso-Blu per Nintendo Switch 2",
+  "brand": "Nintendo",
+  "image": "https://m.media-amazon.com/images/I/61dtKIypP0L._AC_SL500_.jpg",
   "price": {
-   "value": 89.1,
+   "value": 69.97,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
-   "average": 4.7,
-   "count": 1535,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "average": 4.8,
+   "count": 1449,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61GsffwIkqL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0F2N5WHT7",
-  "category": "controller",
-  "title": "Xbox Controller Wireless – Pulse Red Series X/S, One, PC, TV",
-  "brand": "Xbox",
-  "price": {
-   "value": 54.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1356,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Cphg-LqkL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0F2NCQYTX",
-  "category": "controller",
-  "title": "Xbox Controller Wireless – Robot White Series X/S, One, PC, TV",
-  "brand": "Xbox",
-  "price": {
-   "value": 47.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2398,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61HY+V2taqL._AC_SL500_.jpg"
+  }
  }
 ]

@@ -1,43 +1,5 @@
 [
  {
-  "asin": "B071L86DCT",
-  "category": "zaini-trekking",
-  "title": "The North Face Borealis Classic, Zaino Unisex Adulto",
-  "brand": "The North Face",
-  "price": {
-   "value": 94.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 15894,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/713I1P2q5WL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0B4HHP6LP",
-  "category": "zaini-trekking",
-  "title": "QT&QY 45L zaini militari tattici Zaino d'assalto dell'esercito caccia",
-  "brand": "QT&QY",
-  "price": {
-   "value": 45.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 13998,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71JPrtTeecL._AC_SL500_.jpg"
- },
- {
   "asin": "B08LNZX1XY",
   "category": "zaini-trekking",
   "title": "Osprey Tempest 20 Zaino da Hiking per Donna, Stealth Black - Wm/L",
@@ -55,82 +17,6 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/710MtWiYjAL._AC_SL500_.jpg"
- },
- {
-  "asin": "B01L7ZBL9U",
-  "category": "zaini-trekking",
-  "title": "Direct Action Dragon Egg Mk II Zaino da uomo da 25 litri (confezione da",
-  "brand": "Direct Action",
-  "price": {
-   "value": 163.64,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1512,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/91umm6VcmpL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08LP148YT",
-  "category": "zaini-trekking",
-  "title": "Osprey Daylite Zaino lifestyle, 13L",
-  "brand": "Osprey",
-  "price": {
-   "value": 56.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1487,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/817NuLLDWeL._AC_SL500_.jpg"
- },
- {
-  "asin": "B082Q3VRSV",
-  "category": "zaini-trekking",
-  "title": "Tasmanian Tiger Essential Pack L MKII Molle",
-  "brand": "Tasmanian Tiger",
-  "price": {
-   "value": 98.8,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 560,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71wUq36qKBL._AC_SL500_.jpg"
- },
- {
-  "asin": "B01DAVHPR6",
-  "category": "zaini-trekking",
-  "title": "Fieldline Pro Series Treeline - Zaino da donna",
-  "brand": "Fieldline",
-  "price": {
-   "value": 47.01,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 428,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/91UMMci7heL._AC_SL500_.jpg"
  },
  {
   "asin": "B0D4QYQTFH",
@@ -188,5 +74,81 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/61Pk1wOAwAL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0C7L61JPS",
+  "category": "zaini-trekking",
+  "title": "Deuter Futura 32 - Zaino",
+  "brand": "Deuter",
+  "image": "https://m.media-amazon.com/images/I/91VH4FgQ+fL._AC_SL500_.jpg",
+  "price": {
+   "value": 123.69,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 601,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C5M18121",
+  "category": "zaini-trekking",
+  "title": "Salomon Trailblazer 20 Zaino per Escursioni Unisex, Versatilità, Facil",
+  "brand": "Salomon",
+  "image": "https://m.media-amazon.com/images/I/81YoNL3pfcL._AC_SL500_.jpg",
+  "price": {
+   "value": 59.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 3687,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08JQYGMGX",
+  "category": "zaini-trekking",
+  "title": "Deuter Futura Pro 36 - Zaino da escursionismo",
+  "brand": "Deuter",
+  "image": "https://m.media-amazon.com/images/I/91bciV9e-4L._AC_SL500_.jpg",
+  "price": {
+   "value": 155.09,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 367,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0C7L3RCFP",
+  "category": "zaini-trekking",
+  "title": "Deuter Speed Lite 13 - Zaino da escursionismo leggero",
+  "brand": "Deuter",
+  "image": "https://m.media-amazon.com/images/I/81MQsPmZuDL._AC_SL500_.jpg",
+  "price": {
+   "value": 45.87,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 302,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

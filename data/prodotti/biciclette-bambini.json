@@ -76,25 +76,6 @@
   }
  },
  {
-  "asin": "B08HCQDHBP",
-  "category": "biciclette-bambini",
-  "title": "PUKY LR M Classic Balance Bike per Bambini 2+ Anni Bic",
-  "brand": "PUKY",
-  "image": "https://m.media-amazon.com/images/I/718N0xiSfML._AC_SL500_.jpg",
-  "price": {
-   "value": 109.24,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 920,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B0BXGNLGB5",
   "category": "biciclette-bambini",
   "title": "Umatoll Bici Senza Pedali 1 Anno, Giochi Bambini 1-2 Anni",
@@ -186,6 +167,25 @@
    "average": 4.8,
    "count": 132,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B086QPNM61",
+  "category": "biciclette-bambini",
+  "title": "BIKESTAR Bicicletta Bambini 4 Anni da 16 Pollici Telaio in Alluminio B",
+  "brand": "BIKESTAR",
+  "image": "https://m.media-amazon.com/images/I/81pErIbY+tL._AC_SL500_.jpg",
+  "price": {
+   "value": 237.9,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 200,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

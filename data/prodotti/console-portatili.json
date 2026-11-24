@@ -38,25 +38,6 @@
   "image": "https://m.media-amazon.com/images/I/61nqNujSF2L._AC_SL500_.jpg"
  },
  {
-  "asin": "B07WKNQ8JT",
-  "category": "console-portatili",
-  "title": "Nintendo - Console Nintendo Switch - Blu/Rosso Neon [ed. 2021]",
-  "brand": "Nintendo",
-  "price": {
-   "value": 327.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 20869,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81IQp9uUdRL._AC_SL500_.jpg"
- },
- {
   "asin": "B092JL5NS2",
   "category": "console-portatili",
   "title": "Nintendo - Console Nintendo Switch Lite Blu - schermo LCD 5,5\" - 32GB",
@@ -74,63 +55,6 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/7148gs3mRnL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BZK5M9TD",
-  "category": "console-portatili",
-  "title": "Nintendo Switch - OLED Model - The Legend of Zelda: Tears of the",
-  "brand": "Nintendo",
-  "price": {
-   "value": 355.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 7049,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81Yiw8Zk0uL._AC_SL500_.jpg"
- },
- {
-  "asin": "B098BYN3X3",
-  "category": "console-portatili",
-  "title": "Nintendo - Console Nintendo Switch – Modello OLED Blu Neon/Rosso Neon",
-  "brand": "Nintendo",
-  "price": {
-   "value": 348.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 5046,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61CTbGUe30L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0FJM752T3",
-  "category": "console-portatili",
-  "title": "Nintendo Switch 2 + Leggende Pokémon: Z-A - Nintendo Switch 2 edition",
-  "brand": "Nintendo",
-  "price": {
-   "value": 594.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 3367,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/5167Yp9RHNL._AC_SL500_.jpg"
  },
  {
   "asin": "B0F2J4SYJ2",
@@ -152,25 +76,6 @@
   "image": "https://m.media-amazon.com/images/I/61CIA5IVbvL._AC_SL500_.jpg"
  },
  {
-  "asin": "B08SSBJQC9",
-  "category": "console-portatili",
-  "title": "Nintendo Switch Edizione Speciale Mario (Rosso e Blu)",
-  "brand": "Nintendo",
-  "price": {
-   "value": 429.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1856,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71KEjnrVEjL._AC_SL500_.jpg"
- },
- {
   "asin": "B0CQ3L4726",
   "category": "console-portatili",
   "title": "Valve Steam Deck OLED 1TB Console di gioco portatile",
@@ -188,5 +93,24 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/61yx3cbytcL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0DSPWD3RP",
+  "category": "console-portatili",
+  "title": "Playstation Portal Remote Player – Midnight Black",
+  "brand": "Sony",
+  "image": "https://m.media-amazon.com/images/I/61FQfrGWodL._AC_SL500_.jpg",
+  "price": {
+   "value": 248.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 10618,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

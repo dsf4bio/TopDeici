@@ -25,10 +25,7 @@ export default function HomePage() {
             I <em>10 migliori</em> prodotti Amazon,<br />
             categoria per categoria.
           </h1>
-          <p className="hero-lede">
-            Su Amazon una ricerca restituisce centinaia di risultati, tra annunci sponsorizzati, doppioni e prodotti con
-            poche recensioni. Noi li abbiamo già filtrati: per ogni categoria trovi solo i 10 che valgono.
-          </p>
+          <p className="hero-lede">Amazon l'abbiamo già filtrato noi: per ogni categoria solo i 10 che valgono.</p>
           <div className="hero-search">
             <SearchForm id="hero-q" />
           </div>

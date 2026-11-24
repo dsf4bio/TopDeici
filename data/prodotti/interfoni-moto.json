@@ -133,25 +133,6 @@
   "image": "https://m.media-amazon.com/images/I/61O5FXf-s3L._AC_SL500_.jpg"
  },
  {
-  "asin": "B0087NAZM0",
-  "category": "interfoni-moto",
-  "title": "Sena SMH10D-10 Auricolare e Interfono Bluetooth per Moto",
-  "brand": "Sena",
-  "price": {
-   "value": 263.14,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1683,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61zxraNspGL._AC_SL500_.jpg"
- },
- {
   "asin": "B01ET8TM3Y",
   "category": "interfoni-moto",
   "title": "INTERPHONE TOUR - Doppio - Interfono Moto Bluetooth",
@@ -171,22 +152,41 @@
   "image": "https://m.media-amazon.com/images/I/71tXOqwalOL._AC_SL500_.jpg"
  },
  {
-  "asin": "B096YPNVBP",
+  "asin": "B09W6FDNQ2",
   "category": "interfoni-moto",
-  "title": "Sena SMH5 Auricolare e Interfono Bluetooth per Scooter e Motocicli",
-  "brand": "Sena",
+  "title": "Cardo PACKTALK EDGE Sistema di comunicazione Bluetooth per moto Citofo",
+  "brand": "Cardo",
+  "image": "https://m.media-amazon.com/images/I/51aVd1PbxxL._AC_SL500_.jpg",
   "price": {
-   "value": 57.94,
+   "value": 519.36,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.4,
-   "count": 1649,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "count": 1308,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B09JL94H8B",
+  "category": "interfoni-moto",
+  "title": "Sena 30K Auricolare Bluetooth per moto sistema di comunicazione Mesh c",
+  "brand": "Sena",
+  "image": "https://m.media-amazon.com/images/I/71FddYREALL._AC_SL500_.jpg",
+  "price": {
+   "value": 187.68,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51tnwRMX-0L._AC_SL500_.jpg"
+  "rating": {
+   "average": 4.4,
+   "count": 1191,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

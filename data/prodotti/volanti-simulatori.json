@@ -38,25 +38,6 @@
   "image": "https://m.media-amazon.com/images/I/61OUQwoq+bL._AC_SL500_.jpg"
  },
  {
-  "asin": "B07NZWDH7B",
-  "category": "volanti-simulatori",
-  "title": "Thrustmaster TM Open Wheel Add-On - Volante ad alta resa",
-  "brand": "Thrustmaster",
-  "price": {
-   "value": 158.53,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1760,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61oeWMzcq5L._AC_SL500_.jpg"
- },
- {
   "asin": "B07W6JB7N7",
   "category": "volanti-simulatori",
   "title": "Logitech G G923 Volante da Corsa e Pedali",
@@ -114,25 +95,6 @@
   "image": "https://m.media-amazon.com/images/I/614pKhKDstL._AC_SL500_.jpg"
  },
  {
-  "asin": "B013Y78YY4",
-  "category": "volanti-simulatori",
-  "title": "Logitech G G920 Driving Force Volante da corsa e pedali (Spina",
-  "brand": "Logitech",
-  "price": {
-   "value": 229.24,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 5862,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61vhZkVC0+L._AC_SL500_.jpg"
- },
- {
   "asin": "B08K9VCZ5G",
   "category": "volanti-simulatori",
   "title": "Logitech G923 Volante da Corsa e Pedali e Driving Force Leva di Cambio",
@@ -188,5 +150,43 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/81US+8C0u8L._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0DVGNKTLS",
+  "category": "volanti-simulatori",
+  "title": "MOZA R3 Bundle Volante Simulatore di Guida PC con Base Direct Drive 3.",
+  "brand": "MOZA",
+  "image": "https://m.media-amazon.com/images/I/61qa3XkfIpL._AC_SL500_.jpg",
+  "price": {
+   "value": 249.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 545,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F2FSTKM9",
+  "category": "volanti-simulatori",
+  "title": "Thrustmaster T98 Ferrari 296 GTB - Volante da Corsa e Pedaliera - PS5",
+  "brand": "Thrustmaster",
+  "image": "https://m.media-amazon.com/images/I/81RS8x8qemL._AC_SL500_.jpg",
+  "price": {
+   "value": 93.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 604,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

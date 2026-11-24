@@ -152,25 +152,6 @@
   }
  },
  {
-  "asin": "B072LX8LM7",
-  "category": "decespugliatori",
-  "title": "WORX WG163E.1 Decespugliatore Tagliabordi a Batteria 20V",
-  "brand": "WORX",
-  "image": "https://m.media-amazon.com/images/I/412EBYACa9L._AC_SL500_.jpg",
-  "price": {
-   "value": 93.67,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2855,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B0CGX8VYQC",
   "category": "decespugliatori",
   "title": "Bosch PRO 18V Decespugliatore a batteria GFR 18V-23 senza",
@@ -186,6 +167,25 @@
    "average": 4.5,
    "count": 386,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F8P81ZF3",
+  "category": "decespugliatori",
+  "title": "Einhell Professional Decespugliatore a batteria GP-BC 36/430 Li P BL-S",
+  "brand": "Einhell",
+  "image": "https://m.media-amazon.com/images/I/61M+Be9LQgL._AC_SL500_.jpg",
+  "price": {
+   "value": 218.22,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 115,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

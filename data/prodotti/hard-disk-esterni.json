@@ -57,25 +57,6 @@
   }
  },
  {
-  "asin": "B0BQX82Q17",
-  "category": "hard-disk-esterni",
-  "title": "TOSHIBA Canvio Basics - Disco rigido esterno portatile da",
-  "brand": "Toshiba",
-  "image": "https://m.media-amazon.com/images/I/81HElDSuH0L._AC_SL500_.jpg",
-  "price": {
-   "value": 179.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 21737,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B081VGMS8X",
   "category": "hard-disk-esterni",
   "title": "Seagate Basic, 5TB, Hard Disk Esterno Portatile - USB 3.0",
@@ -95,25 +76,6 @@
   }
  },
  {
-  "asin": "B081VJ79QZ",
-  "category": "hard-disk-esterni",
-  "title": "Seagate Basic, 2TB, Hard Disk Esterno Portatile - USB 3.0",
-  "brand": "Seagate",
-  "image": "https://m.media-amazon.com/images/I/61trIpxDuBL._AC_SL500_.jpg",
-  "price": {
-   "value": 126.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 15864,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B07VTW2LPX",
   "category": "hard-disk-esterni",
   "title": "WD 4TB My Passport Hard Disk Esterno Portatile, USB 3.2 Ge",
@@ -121,25 +83,6 @@
   "image": "https://m.media-amazon.com/images/I/41Ti9OX8m0L._AC_SL500_.jpg",
   "price": {
    "value": 177.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 105308,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B07VTFN6HM",
-  "category": "hard-disk-esterni",
-  "title": "WD 2TB My Passport Hard Disk Esterno Portatile, USB 3.2 Ge",
-  "brand": "WD",
-  "image": "https://m.media-amazon.com/images/I/411twnmQr2L._AC_SL500_.jpg",
-  "price": {
-   "value": 135.11,
    "currency": "EUR",
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
@@ -186,6 +129,63 @@
    "average": 4.6,
    "count": 6540,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0744NCY4K",
+  "category": "hard-disk-esterni",
+  "title": "ADATA HD710 Pro HDD esterno Portatile 2TB, Unità Rugged, Resistente al",
+  "brand": "ADATA",
+  "image": "https://m.media-amazon.com/images/I/71DI8ShgwTL._AC_SL500_.jpg",
+  "price": {
+   "value": 155.26,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 25090,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B07CM9D3PL",
+  "category": "hard-disk-esterni",
+  "title": "ADATA HDD Ext HV300 2TB Black disco rigido esterno 2000 GB Nero",
+  "brand": "ADATA",
+  "image": "https://m.media-amazon.com/images/I/71zC3J3FrEL._AC_SL500_.jpg",
+  "price": {
+   "value": 157.64,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 3478,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F6VBC747",
+  "category": "hard-disk-esterni",
+  "title": "WD_BLACK P10 Game Drive 5TB, Hard Disk Esterno Portatile, 130 MB/s, Ca",
+  "brand": "WD_BLACK",
+  "image": "https://m.media-amazon.com/images/I/61sJF6lUOKL._AC_SL500_.jpg",
+  "price": {
+   "value": 220.88,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 24831,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

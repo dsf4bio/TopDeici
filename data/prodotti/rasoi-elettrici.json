@@ -1,24 +1,5 @@
 [
  {
-  "asin": "B0DQWLG36G",
-  "category": "rasoi-elettrici",
-  "title": "Braun Rasoio Elettrico Barba e Capelli Serie 7, Accessori AIO7545 Grigio",
-  "brand": "Braun",
-  "price": {
-   "value": 49.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 26327,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81T1BgZQMhL._AC_SL500_.jpg"
- },
- {
   "asin": "B098K41CVJ",
   "category": "rasoi-elettrici",
   "title": "Braun Serie 9 Pro + Rasoio Elettrico Barba, Powercase",
@@ -171,22 +152,41 @@
   "image": "https://m.media-amazon.com/images/I/81fWoYe6wAL._AC_SL500_.jpg"
  },
  {
-  "asin": "B0CHMMMN28",
+  "asin": "B0CHMN5BJS",
   "category": "rasoi-elettrici",
-  "title": "Philips rasoio elettrico serie 3000",
+  "title": "Philips rasoio elettrico serie 3000x - Rasoio elettrico Wet & Dry per",
   "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/71Oyo5-vLDL._AC_SL500_.jpg",
   "price": {
-   "value": 79.47,
+   "value": 69.99,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
-   "average": 4.5,
-   "count": 2380,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "average": 4.4,
+   "count": 6052,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08SJSPV4Q",
+  "category": "rasoi-elettrici",
+  "title": "Philips Pq206 18 Shaver One Size",
+  "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/41QAOhOnQ3L._AC_SL500_.jpg",
+  "price": {
+   "value": 30.73,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/7119OxMo+AL._AC_SL500_.jpg"
+  "rating": {
+   "average": 4.4,
+   "count": 3092,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

@@ -152,21 +152,40 @@
   }
  },
  {
-  "asin": "B0FDB9RJ5C",
+  "asin": "B0DWTCG66J",
   "category": "tiralatte",
-  "title": "KISSBOBO 1508 Tiralatte Elettrico Indossabile, 193g Legger",
-  "brand": "KISSBOBO",
-  "image": "https://m.media-amazon.com/images/I/61RHn87T+jL._AC_SL500_.jpg",
+  "title": "Philips Avent tiralatte elettrico doppio a mani libere, con motore di",
+  "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/710ZRI9Y1BL._AC_SL500_.jpg",
   "price": {
-   "value": 40.99,
+   "value": 150.99,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 22390,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0H4WJ9YCN",
+  "category": "tiralatte",
+  "title": "Philips Avent Natural Care Tiralatte elettrico doppio indossabile a ma",
+  "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/71AzfjkimoL._AC_SL500_.jpg",
+  "price": {
+   "value": 157.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.4,
-   "count": 161,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
+   "count": 163,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

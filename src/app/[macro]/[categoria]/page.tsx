@@ -93,14 +93,14 @@ export default async function CategoryPage({ params }: Props) {
           I <span className="num">{cards.length || 10}</span> migliori {name}
         </h1>
         <p className="cat-meta">
-          {updated ? <>Classifica aggiornata il {formatDate(updated)} · </> : null}
-          Link affiliati Amazon: il prezzo per te non cambia.
+          {updated ? <>Aggiornata il {formatDate(updated)} · </> : null}
+          Link affiliati: il prezzo non cambia.
         </p>
         <ul className="trust-strip" aria-label="Come abbiamo scelto questi prodotti">
-          <li>Nessun annuncio sponsorizzato</li>
-          <li>Almeno 4,4 stelle e oltre 100 recensioni</li>
-          <li>Niente doppioni né accessori</li>
-          <li>Acquisto e resi su Amazon</li>
+          <li>Niente sponsorizzati</li>
+          <li>4,4★ e 100+ recensioni</li>
+          <li className="trust-extra">Niente doppioni</li>
+          <li className="trust-extra">Resi su Amazon</li>
         </ul>
       </div>
 

@@ -76,44 +76,6 @@
   "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL500_.jpg"
  },
  {
-  "asin": "B083VM9J62",
-  "category": "router-wifi",
-  "title": "FRITZ!Repeater 2400 Edition International, Ripetitore",
-  "brand": "FRITZ!",
-  "price": {
-   "value": 86.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5381,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61SXKeN9mEL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GX6M9PSN",
-  "category": "router-wifi",
-  "title": "FRITZ!Mesh Wi-Fi Extender 1600 / Tecnologia Mesh / Wi-Fi 6 fino 3 Gbit/s",
-  "brand": "FRITZ!",
-  "price": {
-   "value": 64.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4373,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51N1o8Mbw7L._AC_SL500_.jpg"
- },
- {
   "asin": "B0HBQKLRWY",
   "category": "router-wifi",
   "title": "TP-Link Archer NX505 Router 5G Wi-Fi 6 AX3000Mbps Dual Band",
@@ -188,5 +150,43 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/51h1eWrsN-L._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0DBVYKZT8",
+  "category": "router-wifi",
+  "title": "TP-Link Archer NX200 Router 5G con Sim WiFi 6 AX1800 Dual Band Gigabit",
+  "brand": "TP-Link",
+  "image": "https://m.media-amazon.com/images/I/51cxJ3I-msL._AC_SL500_.jpg",
+  "price": {
+   "value": 199.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 44602,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0BNYSG686",
+  "category": "router-wifi",
+  "title": "TP-Link Archer AX72 Pro Router Wi-Fi 6 AX5400Mbps, Dual-Band, USB 3.0",
+  "brand": "TP-Link",
+  "image": "https://m.media-amazon.com/images/I/61wFDNIaA9L._AC_SL500_.jpg",
+  "price": {
+   "value": 98.59,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 6112,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

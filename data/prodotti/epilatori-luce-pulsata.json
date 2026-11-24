@@ -76,44 +76,6 @@
   "image": "https://m.media-amazon.com/images/I/61vXPF0TyzL._AC_SL500_.jpg"
  },
  {
-  "asin": "B0G4CNSZ35",
-  "category": "epilatori-luce-pulsata",
-  "title": "Braun Silk·Expert Pro 5 Epilatore Luce Pulsata, 3 Testine, PL5321 Oro",
-  "brand": "Braun",
-  "price": {
-   "value": 349.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1395,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/814kKXu4jsL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GH17SLRV",
-  "category": "epilatori-luce-pulsata",
-  "title": "Braun Silk·Expert pro 5 Epilatore Luce Pulsata, 4 Testine, PL5412 Oro",
-  "brand": "Braun",
-  "price": {
-   "value": 376.2,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 373,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81ke99J+tYL._AC_SL500_.jpg"
- },
- {
   "asin": "B08RB6C5GP",
   "category": "epilatori-luce-pulsata",
   "title": "Philips Lumea 9000 Series, dispositivo di epilazione IPL",
@@ -133,60 +95,79 @@
   "image": "https://m.media-amazon.com/images/I/71bR7iXykPL._AC_SL500_.jpg"
  },
  {
-  "asin": "B08RB5H265",
+  "asin": "B017BP58KS",
   "category": "epilatori-luce-pulsata",
-  "title": "Philips Lumea 9000 Series, dispositivo di epilazione IPL",
+  "title": "Philips Lumea 7000 Series,dispositivo di epilazione IPL, alternativa a",
   "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/71E6v4rIiVL._AC_SL500_.jpg",
   "price": {
-   "value": 329.99,
+   "value": 359.17,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.4,
-   "count": 1560,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "count": 2622,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/719m1JQNt+L._AC_SL500_.jpg"
+  }
  },
  {
-  "asin": "B0HC6546PW",
+  "asin": "B0D45QGV1H",
   "category": "epilatori-luce-pulsata",
-  "title": "Braun Skin I·Expert Epilatore Luce Pulsata Smart, 2 Testine",
-  "brand": "Braun",
+  "title": "Philips Lumea Series 9900, dispositivo di epilazione IPL con tecnologi",
+  "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/713CQ-4uvqL._AC_SL500_.jpg",
   "price": {
    "value": 399.99,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.4,
-   "count": 1361,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "count": 984,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81H3Hdd4T8L._AC_SL500_.jpg"
+  }
  },
  {
-  "asin": "B09RKCD7DS",
+  "asin": "B0GF1ZGPKZ",
   "category": "epilatori-luce-pulsata",
-  "title": "Philips Lumea 8000 Series, dispositivo di epilazione IPL",
-  "brand": "Philips",
+  "title": "Haarlosy Epilatore Luce Pulsata con 3 IN 1 HR/SC/RA Finestra di 5cm² I",
+  "brand": "Haarlosy",
+  "image": "https://m.media-amazon.com/images/I/61r-PPsttTL._AC_SL500_.jpg",
   "price": {
-   "value": 472.12,
+   "value": 76.99,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
-   "average": 4.4,
-   "count": 662,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "average": 4.5,
+   "count": 180,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FQMX91ND",
+  "category": "epilatori-luce-pulsata",
+  "title": "Epilatore Luce Pulsata con Funzione di Raffreddamento a Ghiaccio, Sche",
+  "brand": "Generico",
+  "image": "https://m.media-amazon.com/images/I/61PLgvo7q3L._AC_SL500_.jpg",
+  "price": {
+   "value": 77.16,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71bwDT9dnUL._AC_SL500_.jpg"
+  "rating": {
+   "average": 4.5,
+   "count": 990,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

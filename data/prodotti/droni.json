@@ -152,25 +152,6 @@
   }
  },
  {
-  "asin": "B0BL3T49JF",
-  "category": "droni",
-  "title": "DJI Mini 3, mini drone con fotocamera e gimbal meccanico a",
-  "brand": "DJI",
-  "image": "https://m.media-amazon.com/images/I/51pZ9ejmSlL._AC_SL500_.jpg",
-  "price": {
-   "value": 320.15,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2008,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B07FTPX71F",
   "category": "droni",
   "title": "DJI Neo, mini drone con fotocamera UHD 4K per adulti",
@@ -186,6 +167,25 @@
    "average": 4.5,
    "count": 12575,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0FJ1S18HF",
+  "category": "droni",
+  "title": "DJI Neo 2 (drone singolo), drone 4K leggero con fotocamera",
+  "brand": "DJI",
+  "image": "https://m.media-amazon.com/images/I/61a0qGNG7KL._AC_SL500_.jpg",
+  "price": {
+   "value": 212.49,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 12575,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

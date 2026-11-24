@@ -554,3 +554,16 @@
   .trust-strip li { display: inline-flex; align-items: center; gap: 0.35em; }
   .trust-strip li::before { content: "✓"; font-weight: 700; }
 }
+
+/* Mobile: meno testo in apertura */
+@layer components {
+  .trust-strip { font-size: var(--fs-xs, 0.8rem); gap: var(--s-1) var(--s-3); }
+  @media (max-width: 40rem) {
+    .trust-strip .trust-extra { display: none; }
+    .benefits span { display: none; }
+    .benefits li { padding: var(--s-3); }
+    .benefits strong { font-size: var(--fs-base, 1rem); }
+    .vs { display: none; }
+    .how-steps { display: none; }
+  }
+}

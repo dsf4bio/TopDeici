@@ -57,25 +57,6 @@
   }
  },
  {
-  "asin": "B00E3RC9LO",
-  "category": "piastre-grill",
-  "title": "Moneta Etnea Bistecchiera antiaderente, Alluminio, Nero, 2",
-  "brand": "Moneta",
-  "image": "https://m.media-amazon.com/images/I/81KPTvbMOYL._AC_SL500_.jpg",
-  "price": {
-   "value": 34.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3894,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B0CPJ23RHZ",
   "category": "piastre-grill",
   "title": "Philips Tostiera per Panini 5000, Set di 3 Piastre Interca",
@@ -186,6 +167,25 @@
    "average": 4.5,
    "count": 3383,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B08XBSLSZB",
+  "category": "piastre-grill",
+  "title": "Tefal Plancha Booster Griglia Elettrica da Interno, Potenza 2200 W, Ri",
+  "brand": "Tefal",
+  "image": "https://m.media-amazon.com/images/I/7131Krd1HnL._AC_SL500_.jpg",
+  "price": {
+   "value": 80.74,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 488,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

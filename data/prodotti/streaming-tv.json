@@ -169,5 +169,24 @@
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
   }
+ },
+ {
+  "asin": "B0DGLTTWTT",
+  "category": "streaming-tv",
+  "title": "Dune HD Pro Vision 4K, Lettore multimediale, Android TV Box, Dolb Visi",
+  "brand": "Dune",
+  "image": "https://m.media-amazon.com/images/I/41vxlXFjxTL._AC_SL500_.jpg",
+  "price": {
+   "value": 219.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 260,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

@@ -19,25 +19,6 @@
   "image": "https://m.media-amazon.com/images/I/61HSMvDJQ8L._AC_SL500_.jpg"
  },
  {
-  "asin": "B0DHXCBTSD",
-  "category": "monitor-gaming",
-  "title": "Upperizon Monitor Portatile 18,5\" FHD 100Hz 130% sRGB HDR",
-  "brand": "Upperizon",
-  "price": {
-   "value": 179.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 788,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81hVQGaCGgL._AC_SL500_.jpg"
- },
- {
   "asin": "B0829S7178",
   "category": "monitor-gaming",
   "title": "ASUS TUF Gaming VG249Q Monitor da 23,8\" 144Hz Full HD (1920 x 1080) 1ms",
@@ -188,5 +169,24 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/81FTa3aSdnL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B09T99RXPR",
+  "category": "monitor-gaming",
+  "title": "ASUS TUF GAMING VG27VQ3B, Monitor Gaming Curvo da 27” FHD, Nero",
+  "brand": "ASUS",
+  "image": "https://m.media-amazon.com/images/I/71s3968FFEL._AC_SL500_.jpg",
+  "price": {
+   "value": 159.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 132,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

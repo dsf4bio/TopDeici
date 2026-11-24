@@ -114,25 +114,6 @@
   "image": "https://m.media-amazon.com/images/I/61tMNrL9QSL._AC_SL500_.jpg"
  },
  {
-  "asin": "B0DTYFYZ21",
-  "category": "cyclette",
-  "title": "MERACH Cyclette da Casa con Resistenza Regolabile",
-  "brand": "MERACH",
-  "price": {
-   "value": 249.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 931,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71ieqYnapNL._AC_SL500_.jpg"
- },
- {
   "asin": "B0GWQFRTHC",
   "category": "cyclette",
   "title": "Dskeuzeew Cyclette da Casa con App",
@@ -188,5 +169,24 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/61Dwwt72d5L._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0FX9KKHR7",
+  "category": "cyclette",
+  "title": "2026 Toputure Cyclette da Casa Pieghevole con APP, Cyclette Pieghevole",
+  "brand": "Toputure",
+  "image": "https://m.media-amazon.com/images/I/71w2Na6Js+L._AC_SL500_.jpg",
+  "price": {
+   "value": 187.76,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 363,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

@@ -38,25 +38,6 @@
   "image": "https://m.media-amazon.com/images/I/613gEOyGMNL._AC_SL500_.jpg"
  },
  {
-  "asin": "B0DSW7R4VN",
-  "category": "soffiatori",
-  "title": "WOLFBOX MF50 Soffiatore a Batteria, Soffiatore Aria Compressa Elettrico",
-  "brand": "WOLFBOX",
-  "price": {
-   "value": 35.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 17217,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/713BEhBxXWL._AC_SL500_.jpg"
- },
- {
   "asin": "B081H8MQ46",
   "category": "soffiatori",
   "title": "Makita DUB184Z Soffiatore Batteria LXT 18V Solo Corpo",
@@ -188,5 +169,24 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/51LfpatD5-L._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0CGX528FK",
+  "category": "soffiatori",
+  "title": "Bosch Professional 18V Soffiatore a batteria GBL 18V-750 senza batt./c",
+  "brand": "Bosch",
+  "image": "https://m.media-amazon.com/images/I/51FOLW73IML._AC_SL500_.jpg",
+  "price": {
+   "value": 182.31,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 590,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

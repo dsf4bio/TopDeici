@@ -57,44 +57,6 @@
   "image": "https://m.media-amazon.com/images/I/91D1pAh6AEL._AC_SL500_.jpg"
  },
  {
-  "asin": "B01DMDKZTC",
-  "category": "monitor",
-  "title": "Samsung Monitor CF39 (‎C24F396), Curvo (1800R) , 24\"",
-  "brand": "Samsung",
-  "price": {
-   "value": 195.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 12043,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/91stWpJ-J0S._AC_SL500_.jpg"
- },
- {
-  "asin": "B073NTCT4R",
-  "category": "monitor",
-  "title": "BenQ Gw2780 Monitor Led Eye-Care Da 27 Pollici, Pannello Ips Full Hd",
-  "brand": "BenQ",
-  "price": {
-   "value": 189.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 11814,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51ePcIimxiL._AC_SL500_.jpg"
- },
- {
   "asin": "B0886LBL8R",
   "category": "monitor",
   "title": "ASUS Proart Display Pa278Qv Professional Monitor, 27\" Ips",
@@ -188,5 +150,43 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/71N0T28sdiL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0F1YT4FCL",
+  "category": "monitor",
+  "title": "AOC 27B31H - Monitor Full HD da 27 pollici, 120 Hz, sincronizzazione a",
+  "brand": "AOC",
+  "image": "https://m.media-amazon.com/images/I/613VQyejdaL._AC_SL500_.jpg",
+  "price": {
+   "value": 85.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 305,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DJTDVCVT",
+  "category": "monitor",
+  "title": "ASUS VY279HGR, Eye Care Monitor da 27\" FHD IPS (1920 x 1080), Nero",
+  "brand": "ASUS",
+  "image": "https://m.media-amazon.com/images/I/81MrlTKJ8CL._AC_SL500_.jpg",
+  "price": {
+   "value": 99.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1349,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

@@ -152,25 +152,6 @@
   }
  },
  {
-  "asin": "B0BXSFR9B5",
-  "category": "cucce-cani",
-  "title": "Bedsure Cuccia Ortopedica Lavabile Per Cani Grandi, 89x63c",
-  "brand": "Bedsure",
-  "image": "https://m.media-amazon.com/images/I/713oK0vJNrL._AC_SL500_.jpg",
-  "price": {
-   "value": 52.69,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 20421,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B085XRZY59",
   "category": "cucce-cani",
   "title": "Bedsure Cuscino Per Cani Ortopedico Materasso Cane Grande",
@@ -186,6 +167,25 @@
    "average": 4.6,
    "count": 13240,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F3QH8VPP",
+  "category": "cucce-cani",
+  "title": "Furbedz Letto per cani grande, in memory foam, antistress per animali",
+  "brand": "Furbedz",
+  "image": "https://m.media-amazon.com/images/I/51lFsV3QEGL._AC_SL500_.jpg",
+  "price": {
+   "value": 71.62,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 698,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

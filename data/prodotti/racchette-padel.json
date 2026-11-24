@@ -169,5 +169,24 @@
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
   }
+ },
+ {
+  "asin": "B0DQKMHGJT",
+  "category": "racchette-padel",
+  "title": "HEAD Evo Padel Racket",
+  "brand": "HEAD",
+  "image": "https://m.media-amazon.com/images/I/519RUC5pToL._AC_SL500_.jpg",
+  "price": {
+   "value": 61.69,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 297,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

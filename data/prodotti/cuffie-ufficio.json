@@ -152,25 +152,6 @@
   "image": "https://m.media-amazon.com/images/I/6144+3nBNhL._AC_SL500_.jpg"
  },
  {
-  "asin": "B09QFYNJMB",
-  "category": "cuffie-ufficio",
-  "title": "Razer BlackShark V2 X - Cuffie da Gioco Esports Cablate",
-  "brand": "Razer",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3637,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71+QqMdwkAL._AC_SL500_.jpg"
- },
- {
   "asin": "B08HDBZNZ9",
   "category": "cuffie-ufficio",
   "title": "INFURTURE Cuffie cancellazione Attiva Rumore",
@@ -188,5 +169,24 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/61KQKnlrTVL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B005HWEZGG",
+  "category": "cuffie-ufficio",
+  "title": "EPOS PC8 USB Cuffie Stereo per PC Mac Auricolari Cablati On Ear con Mi",
+  "brand": "EPOS",
+  "image": "https://m.media-amazon.com/images/I/61HJ4vlxiLL._AC_SL500_.jpg",
+  "price": {
+   "value": 28.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.4,
+   "count": 14594,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

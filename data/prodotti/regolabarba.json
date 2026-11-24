@@ -1,24 +1,5 @@
 [
  {
-  "asin": "B0CHFWGK5R",
-  "category": "regolabarba",
-  "title": "Panasonic Tagliacapelli ER-DGP65",
-  "brand": "Panasonic",
-  "price": {
-   "value": 134.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 942,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81m1I1P+LML._AC_SL500_.jpg"
- },
- {
   "asin": "B00827ILWM",
   "category": "regolabarba",
   "title": "WAHL 79524-5201 Rasoio e regolabarba",
@@ -36,25 +17,6 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/81nyhHxrN4L._AC_SL500_.jpg"
- },
- {
-  "asin": "B09SGYN96F",
-  "category": "regolabarba",
-  "title": "Hatteker Tagliacapelli Uomo Tagliatrice Professionale Capelli",
-  "brand": "Hatteker",
-  "price": {
-   "value": 30.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 15780,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71RmDRr3HxL._AC_SL500_.jpg"
  },
  {
   "asin": "B0DQWPZVY3",
@@ -171,22 +133,60 @@
   "image": "https://m.media-amazon.com/images/I/81-aS8HJHcL._AC_SL500_.jpg"
  },
  {
-  "asin": "B0DQWLQMG8",
+  "asin": "B0C2J8DQC1",
   "category": "regolabarba",
-  "title": "Braun Tagliacapelli Uomo Series 5, + 3 Strumenti Styling, HC5330, Nero",
-  "brand": "Braun",
+  "title": "Rifinitore e raschietto OneBlade con 3 pettini, impermeabile, Bivolt",
+  "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/71XX+0k7cuL._AC_SL500_.jpg",
   "price": {
-   "value": 39.99,
+   "value": 30.94,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 13664,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0CG6TB95V",
+  "category": "regolabarba",
+  "title": "Rifinitore All-in-One Philips serie 7000, Multigroom 15 in 1 per viso",
+  "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/71aq8CpsbgL._AC_SL500_.jpg",
+  "price": {
+   "value": 80.8,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.5,
-   "count": 480,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "count": 3412,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0F3BPSCL6",
+  "category": "regolabarba",
+  "title": "Kensen Regolabarba Uomo Multifunzione, Kit Completo Barba Capelli Corp",
+  "brand": "kensen",
+  "image": "https://m.media-amazon.com/images/I/71zKcSdPOgL._AC_SL500_.jpg",
+  "price": {
+   "value": 45.23,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71DIy0RcIiL._AC_SL500_.jpg"
+  "rating": {
+   "average": 4.4,
+   "count": 172,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

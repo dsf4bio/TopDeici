@@ -38,25 +38,6 @@
   "image": "https://m.media-amazon.com/images/I/719QOzpJC9L._AC_SL500_.jpg"
  },
  {
-  "asin": "B08GZJ3XH8",
-  "category": "spazzole-viso",
-  "title": "VWMYQ Scrubber per il viso, in silicone, da uomo",
-  "brand": "VWMYQ",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 6223,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61DInwjFXnL._AC_SL500_.jpg"
- },
- {
   "asin": "B0C746D5H1",
   "category": "spazzole-viso",
   "title": "MYCARBON Spazzola Pulizia Viso Ricaricabile 2500mAh, IPX7, 2 Testine",
@@ -171,22 +152,41 @@
   "image": "https://m.media-amazon.com/images/I/7188XgeveOL._AC_SL500_.jpg"
  },
  {
-  "asin": "B09JHHBV2X",
+  "asin": "B0CB8VYNJ3",
   "category": "spazzole-viso",
-  "title": "EcoTools Mini spazzola per la pulizia del viso, infusa con agrumi",
-  "brand": "EcoTools",
+  "title": "GESKE Spazzola facciale Sonic, spazzola elettrica in silicone, 5 in 1",
+  "brand": "GESKE",
+  "image": "https://m.media-amazon.com/images/I/71+SohtfkvL._AC_SL500_.jpg",
   "price": {
-   "value": 25.71,
+   "value": 62.11,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 127,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0DD711CM5",
+  "category": "spazzole-viso",
+  "title": "VOYOR Spazzola Pulizia Viso Elettrica con 3 velocità regolabili FB101",
+  "brand": "VOYOR",
+  "image": "https://m.media-amazon.com/images/I/61GiU+mTzZL._AC_SL500_.jpg",
+  "price": {
+   "value": 29.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.4,
-   "count": 509,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "count": 365,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71Blz-8X7FL._AC_SL500_.jpg"
+  }
  }
 ]

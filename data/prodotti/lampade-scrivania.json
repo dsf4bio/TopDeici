@@ -76,25 +76,6 @@
   "image": "https://m.media-amazon.com/images/I/41sHO5yIZ5L._AC_SL500_.jpg"
  },
  {
-  "asin": "B09ZHYNYB9",
-  "category": "lampade-scrivania",
-  "title": "EYOCEAN Lampada da Scrivania a LED",
-  "brand": "EYOCEAN",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 3892,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/7149ki2Px2L._AC_SL500_.jpg"
- },
- {
   "asin": "B0D1KHCHZP",
   "category": "lampade-scrivania",
   "title": "Honeywell HWT-H2 Sunturalux Lampada da Scrivania LED",
@@ -188,5 +169,24 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/61gtFrCeEbL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0CQM88523",
+  "category": "lampade-scrivania",
+  "title": "EYOCEAN Lampada da scrivania a LED con controllo gestuale e telecomand",
+  "brand": "EYOCEAN",
+  "image": "https://m.media-amazon.com/images/I/71+Za4yq2WL._AC_SL500_.jpg",
+  "price": {
+   "value": 59.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.8,
+   "count": 2244,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

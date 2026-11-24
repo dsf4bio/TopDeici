@@ -57,25 +57,6 @@
   "image": "https://m.media-amazon.com/images/I/51PpXH+7qiL._AC_SL500_.jpg"
  },
  {
-  "asin": "B08VDGMBGP",
-  "category": "altoparlanti-bluetooth",
-  "title": "JBL Charge 5 Speaker Bluetooth Portatile",
-  "brand": "JBL",
-  "price": {
-   "value": 139.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 37615,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81qCE8moPiL._AC_SL500_.jpg"
- },
- {
   "asin": "B0CTNWBT1Z",
   "category": "altoparlanti-bluetooth",
   "title": "JBL Go 4 - Altoparlante Bluetooth ultra portatile",
@@ -188,5 +169,24 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/71OAC2L15TL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B09V7WS4PP",
+  "category": "altoparlanti-bluetooth",
+  "title": "JBL Flip6 Bluetooth Speaker IPX7 Black",
+  "brand": "JBL",
+  "image": "https://m.media-amazon.com/images/I/81nT721hWGL._AC_SL500_.jpg",
+  "price": {
+   "value": 107.21,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 30218,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

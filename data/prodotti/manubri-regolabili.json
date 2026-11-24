@@ -57,82 +57,6 @@
   "image": "https://m.media-amazon.com/images/I/71zY-yuZ-BL._AC_SL500_.jpg"
  },
  {
-  "asin": "B0077XVIS6",
-  "category": "manubri-regolabili",
-  "title": "Yes4All Barra per manubri solida e regolabile e barra di collegamento",
-  "brand": "Yes4All",
-  "price": {
-   "value": 81.48,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 12705,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71zN52Lu1nL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BCL7BLZS",
-  "category": "manubri-regolabili",
-  "title": "LoGest Pesi morbidi con cinghie regolabili",
-  "brand": "LoGest",
-  "price": {
-   "value": 144.64,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 516,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/91XFnYh1JiL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BS6BX75N",
-  "category": "manubri-regolabili",
-  "title": "SONGMICS Manubri, Esagonale",
-  "brand": "SONGMICS",
-  "price": {
-   "value": 32.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4385,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71CpU8RGbmL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DX1T5FHC",
-  "category": "manubri-regolabili",
-  "title": "SONGMICS Manubrio",
-  "brand": "SONGMICS",
-  "price": {
-   "value": 27.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 614,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71ndkzbWpxL._AC_SL500_.jpg"
- },
- {
   "asin": "B0CFTZ2RMP",
   "category": "manubri-regolabili",
   "title": "Sportneer Set di 2 manubri regolabili da 2,3 kg, ognuno da 0,9 kg",
@@ -188,5 +112,81 @@
    "source": "manual"
   },
   "image": "https://m.media-amazon.com/images/I/61RkJLnQ4sL._AC_SL500_.jpg"
+ },
+ {
+  "asin": "B0D96Y9W8Y",
+  "category": "manubri-regolabili",
+  "title": "BRAINGAIN Manubri regolabili 24 kg, coppia, 15 in 1, per la casa",
+  "brand": "BRAINGAIN",
+  "image": "https://m.media-amazon.com/images/I/81QTVDO2qjL._AC_SL500_.jpg",
+  "price": {
+   "value": 229.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.7,
+   "count": 439,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B078HDGG7H",
+  "category": "manubri-regolabili",
+  "title": "Bowflex 552i Manubrio Regolabile Nero 2 – 24 kg per Allenamento di For",
+  "brand": "Bowflex",
+  "image": "https://m.media-amazon.com/images/I/71uh+zSZ+ZL._AC_SL500_.jpg",
+  "price": {
+   "value": 320.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1820,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B000A6T9I8",
+  "category": "manubri-regolabili",
+  "title": "Power Block Manubrio Regolabile Sport 24",
+  "brand": "PowerBlock",
+  "image": "https://m.media-amazon.com/images/I/51KilJy7kqL._AC_SL500_.jpg",
+  "price": {
+   "value": 189.0,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1499,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B097YGK7V4",
+  "category": "manubri-regolabili",
+  "title": "RE:SPORT 2 in 1 Set di manubri 15-30 kg Set di manubri in ghisa regola",
+  "brand": "RE:SPORT",
+  "image": "https://m.media-amazon.com/images/I/91jvLL+cyQL._AC_SL500_.jpg",
+  "price": {
+   "value": 74.8,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1107,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
  }
 ]

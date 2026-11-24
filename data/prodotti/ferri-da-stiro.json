@@ -152,25 +152,6 @@
   }
  },
  {
-  "asin": "B07HG1NWXY",
-  "category": "ferri-da-stiro",
-  "title": "Braun TexStyle3 SI3042VI Ferro da Stiro a Vapore, 5 Anni d",
-  "brand": "Braun",
-  "image": "https://m.media-amazon.com/images/I/51UlnUkfFcL._AC_SL500_.jpg",
-  "price": {
-   "value": 39.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3460,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
   "asin": "B0B136KCXP",
   "category": "ferri-da-stiro",
   "title": "Philips 7000 Ferro da Stiro Verticale a Vapore, 28g/min, 1",
@@ -186,6 +167,25 @@
    "average": 4.4,
    "count": 1054,
    "checkedAt": "2026-11-24T15:57:38+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B00Y0QTUHE",
+  "category": "ferri-da-stiro",
+  "title": "Philips PerfectCare Elite GC9630/20 - Ferro da stiro a vapore per cari",
+  "brand": "Philips",
+  "image": "https://m.media-amazon.com/images/I/61PszB9zmTL._AC_SL500_.jpg",
+  "price": {
+   "value": 269.43,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.5,
+   "count": 1973,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   }
  }

@@ -57,25 +57,6 @@
   "image": "https://m.media-amazon.com/images/I/717JDoe3nkL._AC_SL500_.jpg"
  },
  {
-  "asin": "B07Q29TCG7",
-  "category": "asciugacapelli",
-  "title": "Parlux Alyon Asciugacapelli Professionale, Giada",
-  "brand": "Parlux",
-  "price": {
-   "value": 126.43,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1854,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61q5-t8ztvL._AC_SL500_.jpg"
- },
- {
   "asin": "B0D7J5NJ2R",
   "category": "asciugacapelli",
   "title": "ghd air, Asciugacapelli Professionale a Ioni, Potenza 2100 W, Nero",
@@ -152,41 +133,60 @@
   "image": "https://m.media-amazon.com/images/I/61+AcMDIyvL._AC_SL500_.jpg"
  },
  {
-  "asin": "B01D8XV9QO",
+  "asin": "B084QXY478",
   "category": "asciugacapelli",
-  "title": "Parlux Advance® Asciugacapelli Professionale, Colore Bianco",
-  "brand": "Parlux",
+  "title": "ghd helios, Asciugacapelli Professionale Leggero, Potenza 2200 W",
+  "brand": "ghd",
+  "image": "https://m.media-amazon.com/images/I/71-vUcNJa4L._AC_SL500_.jpg",
   "price": {
-   "value": 117.0,
+   "value": 171.75,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.6,
-   "count": 2217,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "count": 1603,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51DYMOv9J9S._AC_SL500_.jpg"
+  }
  },
  {
-  "asin": "B08HSM1R9K",
+  "asin": "B07R6HFNSJ",
   "category": "asciugacapelli",
-  "title": "Chicco Mini Asciugacapelli Per Bambini, Phon Per Bambini",
-  "brand": "Chicco",
+  "title": "Parlux 3200 Plus Asciugacapelli Professionale, Colore Nero",
+  "brand": "Parlux",
+  "image": "https://m.media-amazon.com/images/I/512X8g2uFJS._AC_SL500_.jpg",
   "price": {
-   "value": 27.3,
+   "value": 91.3,
    "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  },
+  "rating": {
+   "average": 4.6,
+   "count": 1648,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
+   "source": "manual"
+  }
+ },
+ {
+  "asin": "B0HFCV54Q1",
+  "category": "asciugacapelli",
+  "title": "Asciugacapelli Ionico 180,000 RPM Phon Capelli Professionale 500 Milio",
+  "brand": "Generico",
+  "image": "https://m.media-amazon.com/images/I/71OqEbZQ42L._AC_SL500_.jpg",
+  "price": {
+   "value": 62.99,
+   "currency": "EUR",
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
   },
   "rating": {
    "average": 4.7,
-   "count": 511,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
+   "count": 160,
+   "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41PjjKP+HPL._AC_SL500_.jpg"
+  }
  }
 ]
