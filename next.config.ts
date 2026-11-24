@@ -29,6 +29,8 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
   trailingSlash: false,
+  // I file prodotto vengono letti a runtime quando Next.js rigenera le pagine: vanno inclusi nel deploy.
+  outputFileTracingIncludes: { "/**": ["./data/prodotti/**/*"] },
   async headers() {
     return [{ source: "/:path*", headers: securityHeaders }];
   },

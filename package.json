@@ -4,7 +4,7 @@
   "private": true,
   "description": "TopDieci.click: classifiche dei 10 migliori prodotti Amazon per categoria",
   "engines": {
-    "node": ">=20.9"
+    "node": "22.x"
   },
   "scripts": {
     "dev": "next dev",
