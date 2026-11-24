@@ -1,4 +1,4 @@
-import { amazonUrl } from "./affiliate";
+import { productUrl } from "./affiliate";
 import { displayablePrice, formatDate, formatInt, formatRating, formatSpec } from "./format";
 import type { Category, RankedProduct } from "./types";
 
@@ -31,7 +31,7 @@ export function toCardModel(p: RankedProduct, category: Category, now = new Date
     brand: p.brand,
     model: p.model,
     image: p.image,
-    href: amazonUrl(p.asin, category.macro),
+    href: productUrl(p, category.macro),
     rating: p.rating && {
       average: p.rating.average,
       text: formatRating(p.rating.average),

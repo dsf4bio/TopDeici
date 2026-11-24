@@ -315,6 +315,8 @@
   .pcard-features li::before { content: ""; position: absolute; left: 0; top: 0.6em; width: 0.45rem; height: 0.45rem; background: var(--signal); }
   .pcard-rank small { font-size: 0.65rem; }
   a.pcard-media { text-decoration: none; }
+  @media (min-width: 46rem) { .pcard.no-media { grid-template-columns: 5.5rem 1fr; } }
+  .pcard.no-media h3 { font-size: var(--fs-2xl); }
   @media (max-width: 45.99rem) {
     .pcard-media { height: 11rem; }
     .toolbar { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s-2); padding: var(--s-3); }

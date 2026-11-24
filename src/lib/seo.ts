@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { SITE } from "./config";
-import { amazonUrl } from "./affiliate";
+import { productUrl } from "./affiliate";
 import type { Category, CategoryGuide, MacroCategory, RankedProduct } from "./types";
 
 export const absolute = (pathname: string) => (pathname === "/" ? SITE.url : `${SITE.url}${pathname}`);
@@ -73,7 +73,7 @@ export function rankingJsonLd(category: Category, macro: MacroCategory, ranked: 
           ...(p.model ? { model: p.model } : {}),
           ...(p.image ? { image: p.image } : {}),
           sku: p.asin,
-          url: amazonUrl(p.asin, macro.slug),
+          url: productUrl(p, macro.slug),
         },
       })),
     },

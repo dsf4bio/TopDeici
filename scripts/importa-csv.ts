@@ -4,7 +4,9 @@
 //   npm run dati:importa -- mio-file.csv --prova     (mostra cosa cambierebbe senza scrivere)
 //
 // Colonne (vedi templates/prodotti-modello.csv):
-//   categoria, asin, titolo, brand, modello, immagine, prezzo, valutazione, recensioni, verificato_il,
+//   Minimo indispensabile: categoria, posizione, link, nome, marca.
+//   Facoltative: caratteristiche (separate da " | "), prezzo, stelle, recensioni, verificato_il.
+//   Altre colonne: asin, titolo, modello, immagine, valutazione,
 //   punti_di_forza, limiti (voci separate da " | "), perche, problemi, per_chi, differenze,
 //   prima_di_acquistare, punteggio_editoriale, attivo, e una colonna "spec_<chiave>" per ogni
 //   caratteristica della categoria (es. spec_capacita).
@@ -14,6 +16,8 @@
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
+import { createHash } from "node:crypto";
+import { extractAsin } from "../src/lib/affiliate";
 import { parseCsv } from "../src/lib/csv";
 import { DATA_DIR, getCategory } from "../src/lib/catalog";
 import type { Product } from "../src/lib/types";
@@ -69,7 +73,14 @@ rows.forEach((r, i) => {
   try {
     const category = getCategory(r.categoria ?? "");
     if (!category) throw new Error(`categoria sconosciuta "${r.categoria}"`);
-    const asin = (r.asin ?? "").toUpperCase();
+    // Basta il link del prodotto: l'ASIN si ricava da lì. Per i link corti (amzn.to, amzn.eu) si crea un codice interno.
+    const link = text(r.link);
+    const shortLink = link && !extractAsin(link) ? link : undefined;
+    const asin = (
+      text(r.asin) ??
+      (link && extractAsin(link)) ??
+      (shortLink ? "L" + createHash("sha1").update(shortLink).digest("hex").slice(0, 9) : "")
+    ).toUpperCase();
     const products = load(category.slug);
     let p = products.find((x) => x.asin === asin);
     if (!p) {
@@ -78,18 +89,20 @@ rows.forEach((r, i) => {
       created++;
     } else updated++;
 
-    p.title = text(r.titolo) ?? p.title;
-    p.brand = text(r.brand) ?? p.brand;
+    if (shortLink) p.url = shortLink;
+    p.title = text(r.titolo) ?? text(r.nome) ?? p.title;
+    p.brand = text(r.brand) ?? text(r.marca) ?? p.brand;
     p.model = text(r.modello) ?? p.model;
     p.image = text(r.immagine) ?? p.image;
 
-    const checkedAt = r.verificato_il ? toIsoDate(r.verificato_il) : undefined;
+    // Senza data si assume che prezzo e stelle siano stati letti oggi, quando si prepara il file.
+    const checkedAt = r.verificato_il ? toIsoDate(r.verificato_il) : new Date().toISOString();
     const value = price(r.prezzo ?? "");
     if (value !== undefined) {
       if (!checkedAt) throw new Error("prezzo senza verificato_il");
       p.price = { value, currency: "EUR", checkedAt, source: "manual" };
     }
-    const average = decimal(r.valutazione ?? "");
+    const average = decimal(r.valutazione ?? r.stelle ?? "");
     const reviews = count(r.recensioni ?? "");
     if (average !== undefined || reviews !== undefined) {
       if (average === undefined || reviews === undefined) throw new Error("valutazione e recensioni vanno indicate insieme");
@@ -115,6 +128,9 @@ rows.forEach((r, i) => {
     };
     if (Object.keys(review).length) p.review = review;
 
+    const rank = count(r.posizione ?? "");
+    if (rank !== undefined) p.editorialRank = rank;
+    p.features = list(r.caratteristiche ?? "") ?? p.features;
     const editorial = decimal(r.punteggio_editoriale ?? "");
     if (editorial !== undefined) p.editorialScore = editorial;
     if (r.attivo) p.active = !/^(no|0|false|falso)$/i.test(r.attivo);
@@ -131,6 +147,14 @@ rows.forEach((r, i) => {
     problems.push(`${line}: ${(e as Error).message}`);
   }
 });
+
+const untagged = rows.filter((r) => /^https:\/\/amzn\.eu\//.test((r.link ?? "").trim())).length;
+if (untagged) {
+  console.warn(
+    `Attenzione: ${untagged} link amzn.eu (dal tasto Condividi di Amazon) non contengono il tuo tag affiliato e non ` +
+      "generano commissioni. Usa il link completo dalla barra degli indirizzi (amazon.it/.../dp/...) o un link SiteStripe amzn.to.",
+  );
+}
 
 if (problems.length) {
   console.error("Import interrotto, nessun file modificato:\n" + problems.map((p) => "  · " + p).join("\n"));

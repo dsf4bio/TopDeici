@@ -116,3 +116,12 @@ test("dati della redazione e dati API convivono nella stessa classifica", () => 
   const r = rankCategory([fake({ rating: 4.8, count: 20000 }), fromApi(1), fromApi(2)], {}, NOW);
   assert.equal(r.ranked.length, 3);
 });
+
+test("classifica della redazione con soli link e posizioni", () => {
+  const mk = (rank: number, price?: number): Product => ({
+    asin: `LINK${String(rank).padStart(6, "0")}`, category: "test", title: `Scelta ${rank}`, brand: "Prova", editorialRank: rank,
+    ...(price !== undefined ? { price: { value: price, currency: "EUR" as const, checkedAt: "2020-01-01T00:00:00Z", source: "manual" as const } } : {}),
+  });
+  const r = rankCategory([mk(3), mk(1, 40), mk(2), mk(4, 15)], {}, NOW);
+  assert.deepEqual(r.ranked.map((p) => p.editorialRank), [1, 2, 3]);
+});

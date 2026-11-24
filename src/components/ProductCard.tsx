@@ -15,19 +15,17 @@ export function ProductCard({ p, category }: { p: CardModel; category: string })
   const pos = String(p.position).padStart(2, "0");
   const specs = p.specs.filter((s) => s.value !== "—");
   return (
-    <li className={`pcard${p.position === 1 ? " is-first" : ""}`} id={`p-${p.asin}`}>
+    <li className={`pcard${p.position === 1 ? " is-first" : ""}${p.image ? "" : " no-media"}`} id={`p-${p.asin}`}>
       <div className="pcard-rank" aria-label={`Posizione ${p.position}`}>
         {pos}
         {p.position === 1 && <small>Il migliore</small>}
       </div>
-      <AffiliateLink href={p.href} asin={p.asin} category={category} position={p.position} placement="scheda" className="pcard-media">
-        {p.image ? (
-          // Immagine servita da Amazon: non va ottimizzata né copiata sui nostri server.
+      {p.image && (
+        <AffiliateLink href={p.href} asin={p.asin} category={category} position={p.position} placement="scheda" className="pcard-media">
+          {/* Immagine servita da Amazon: non va ottimizzata né copiata sui nostri server. */}
           <img src={p.image} alt={p.title} width={220} height={220} loading={p.position <= 2 ? "eager" : "lazy"} decoding="async" referrerPolicy="no-referrer" />
-        ) : (
-          <span className="noimg">immagine non disponibile</span>
-        )}
-      </AffiliateLink>
+        </AffiliateLink>
+      )}
       <div className="pcard-body">
         <div>
           <p className="pcard-brand">{p.brand}{p.model ? ` · ${p.model}` : ""}</p>

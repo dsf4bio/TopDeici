@@ -70,7 +70,15 @@ vuote su Google.
 
 ## Caricare i prodotti
 
-### 1. Import da CSV (valutazioni, recensioni, testi editoriali)
+### 1. Import da CSV con i link dei prodotti (finché non hai accesso alle API)
+
+Bastano cinque colonne: `categoria;posizione;link;nome;marca` (facoltative: `caratteristiche`, `prezzo`, `stelle`,
+`recensioni`). Il link può essere quello completo di amazon.it (l'ASIN viene estratto e il tag topdieci26-21 aggiunto in
+automatico) o un link SiteStripe amzn.to. I link amzn.eu del tasto "Condividi" non hanno il tag: lo script avvisa.
+Senza API il sito non mostra foto né prezzi (le regole Amazon lo consentono solo con dati delle API): la scheda mostra
+posizione, nome, marca, caratteristiche e il pulsante "Vedi su Amazon".
+
+### 1b. Import da CSV completo (valutazioni, recensioni, testi editoriali)
 
 Compila `templates/prodotti-modello.csv` (Excel va bene, separatore `;`), poi:
 

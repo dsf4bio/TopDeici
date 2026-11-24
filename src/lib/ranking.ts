@@ -11,7 +11,8 @@ import type { Category, ExclusionReason, Product, RankedProduct, RankingResult }
 //
 // 1. Requisiti minimi: prodotto attivo, prezzo >= 25 €, dati recenti e
 //    A) valutazione > 4,5 con recensioni sufficienti per la categoria, oppure
-//    B) almeno 4 stelle garantite dal filtro Amazon.
+//    B) almeno 4 stelle garantite dal filtro Amazon, oppure
+//    C) prodotto scelto dalla redazione con una posizione (editorialRank), quando non ci sono API né stelle.
 // 2. Punteggio: opinioni degli acquirenti + popolarità + giudizio della redazione.
 // 3. Si prendono al massimo 10 prodotti. Se ne restano meno, la classifica è più corta.
 
@@ -42,11 +43,14 @@ export function rankCategory(products: Product[], category: Pick<Category, "minR
   // Requisiti che non dipendono dagli altri prodotti.
   const withRating: Product[] = [];
   const withSignals: Product[] = [];
+  const curated: Product[] = [];
   for (const p of products) {
+    const editorialOnly = !p.rating && !p.amazon && p.editorialRank !== undefined;
     if (p.active === false) exclude(p, "inattivo");
-    else if (!p.price) exclude(p, "prezzo-mancante");
-    else if (p.price.value < RANKING.minPrice) exclude(p, "prezzo-basso");
-    else if (isStale(p.price.checkedAt, now, maxAge)) exclude(p, "dati-scaduti");
+    else if (!p.price && !editorialOnly) exclude(p, "prezzo-mancante");
+    else if (p.price && p.price.value < RANKING.minPrice) exclude(p, "prezzo-basso");
+    else if (p.price && !editorialOnly && isStale(p.price.checkedAt, now, maxAge)) exclude(p, "dati-scaduti");
+    else if (editorialOnly) curated.push(p);
     else if (p.rating) {
       if (!(p.rating.average > RANKING.minRating)) exclude(p, "valutazione-bassa");
       else if (isStale(p.rating.checkedAt, now, maxAge)) exclude(p, "dati-scaduti");
@@ -69,7 +73,7 @@ export function rankCategory(products: Product[], category: Pick<Category, "minR
   });
 
   const thresholds = { minPrice: RANKING.minPrice, minRating: RANKING.minRating, minReviews, maxAgeDays: maxAge };
-  const eligible = [...rated, ...withSignals];
+  const eligible = [...rated, ...withSignals, ...curated];
   if (eligible.length === 0) return { ranked: [], excluded, thresholds };
 
   // Riferimenti per normalizzare le componenti all'interno della categoria.
@@ -85,7 +89,10 @@ export function rankCategory(products: Product[], category: Pick<Category, "minR
     let ratingPart: number;
     let volumePart: number;
     let adjustedRating: number | undefined;
-    if (p.rating) {
+    if (!p.rating && !p.amazon) {
+      // Scelta della redazione senza dati numerici: conta la posizione indicata (1 = migliore).
+      ratingPart = volumePart = 1 - 0.5 * ((Math.min(p.editorialRank ?? 10, 10) - 1) / 9);
+    } else if (p.rating) {
       const { average: r, count: n } = p.rating;
       adjustedRating = (n * r + m * prior) / (n + m);
       // 4,5 stelle = 0, 5 stelle = 1.

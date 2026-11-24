@@ -40,6 +40,8 @@ export function validateProduct(p: unknown, where: string): string[] {
     if (a.salesRank !== undefined && !(Number.isInteger(a.salesRank) && a.salesRank >= 1)) err("amazon.salesRank non valido");
     if (!isIso(a.checkedAt)) err("amazon.checkedAt non valido");
   }
+  if (x.editorialRank !== undefined && !(Number.isInteger(x.editorialRank) && x.editorialRank >= 1)) err("posizione non valida");
+  if (x.url !== undefined && !/^https:\/\/(www\.amazon\.it|amzn\.to|amzn\.eu)\//.test(x.url)) err("il link deve essere di amazon.it, amzn.to o amzn.eu");
   if (x.features !== undefined && !(Array.isArray(x.features) && x.features.every(isText))) err("features non valide");
   if (x.editorialScore !== undefined && !(x.editorialScore >= 0 && x.editorialScore <= 1))
     err("editorialScore deve essere tra 0 e 1");

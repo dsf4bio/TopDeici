@@ -84,7 +84,11 @@ export type Product = {
     /** ISO 8601 */
     checkedAt: string;
   };
-  /** Caratteristiche principali fornite da Amazon (itemInfo.features). */
+  /** Posizione scelta dalla redazione (1 = migliore), usata quando non ci sono stelle né dati API. */
+  editorialRank?: number;
+  /** Link Amazon originale, se diverso da amazon.it/dp/ASIN (es. link corti amzn.to di SiteStripe). */
+  url?: string;
+  /** Caratteristiche principali (da Amazon o scritte dalla redazione). */
   features?: string[];
   specs?: Record<string, string | number | boolean>;
   strengths?: string[];
