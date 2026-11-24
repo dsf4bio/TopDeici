@@ -6,7 +6,8 @@ import { GUIDES } from "@/content/guide";
 import { FEATURED } from "@/content/evidenza";
 import { RANKING } from "./config";
 import { rankCategory } from "./ranking";
-import type { Category, Product, RankingResult } from "./types";
+import { dealOf, type Deal } from "./insights";
+import type { Category, Product, RankedProduct, RankingResult } from "./types";
 import { validateProduct } from "./validate";
 
 // Accesso a categorie, prodotti e classifiche. Usato solo lato server (pagine e script).
@@ -88,3 +89,15 @@ export function getSearchIndex() {
   }));
 }
 export type SearchEntry = ReturnType<typeof getSearchIndex>[number];
+
+/** Offerte vere tra i prodotti in classifica (prezzo API aggiornato e sconto reale), dalla più conveniente. */
+export function getDeals(now = new Date()) {
+  const out: { category: Category; product: RankedProduct; deal: Deal }[] = [];
+  for (const category of CATEGORIES) {
+    for (const product of getRanking(category.slug).ranked) {
+      const deal = dealOf(product, now);
+      if (deal) out.push({ category, product, deal });
+    }
+  }
+  return out.sort((a, b) => b.deal.percent - a.deal.percent);
+}

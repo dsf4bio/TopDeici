@@ -6,7 +6,7 @@ import { useEffect, useRef } from "react";
 
 export type MenuItem = { slug: string; code: string; name: string };
 
-export function MacroMenu({ label, items }: { label: string; items: MenuItem[] }) {
+export function MacroMenu({ label, items, showDeals = false }: { label: string; items: MenuItem[]; showDeals?: boolean }) {
   const ref = useRef<HTMLDetailsElement>(null);
   const pathname = usePathname();
 
@@ -43,6 +43,12 @@ export function MacroMenu({ label, items }: { label: string; items: MenuItem[] }
     <details className="menu" ref={ref}>
       <summary>{label}</summary>
       <nav className="menu-panel" aria-label="Aree">
+        {showDeals && (
+          <Link href="/offerte" onClick={close} className="menu-deals">
+            <span>%</span>
+            <span>Offerte vere di oggi</span>
+          </Link>
+        )}
         {items.map((m) => (
           <Link key={m.slug} href={`/${m.slug}`} onClick={close}>
             <span>{m.code}</span>

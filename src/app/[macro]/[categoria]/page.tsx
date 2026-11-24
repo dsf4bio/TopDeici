@@ -19,6 +19,7 @@ import {
 import { formatDate } from "@/lib/format";
 import { pageMetadata, rankingJsonLd } from "@/lib/seo";
 import { toCardModel } from "@/lib/view";
+import { assignBadges } from "@/lib/insights";
 
 // Deve essere un numero scritto qui: Next.js legge questo valore durante la build senza eseguire il codice.
 export const revalidate = 3600; // 1 ora: i prezzi più vecchi di 24 ore spariscono da soli
@@ -74,7 +75,8 @@ export default async function CategoryPage({ params }: Props) {
 
   const guide = getGuide(category.slug);
   const { ranked } = getRanking(category.slug);
-  const cards = ranked.map((p) => toCardModel(p, category));
+  const badges = assignBadges(ranked);
+  const cards = ranked.map((p) => toCardModel(p, category, new Date(), badges.get(p.asin)));
   const updated = lastUpdated(category.slug);
   const related = getCategoriesOf(macro.slug).filter((c) => c.slug !== category.slug);
   const withReview = ranked.filter((p) => p.review && Object.values(p.review).some(Boolean));

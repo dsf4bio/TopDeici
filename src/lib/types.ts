@@ -93,6 +93,18 @@ export type Product = {
   specs?: Record<string, string | number | boolean>;
   strengths?: string[];
   weaknesses?: string[];
+  /**
+   * Prezzi rilevati dalle API Amazon nel tempo (uno al giorno al massimo), per lo storico prezzi
+   * e la pagina offerte. Si mostrano solo se il prezzo attuale è mostrabile (fonte API, < 24 ore).
+   */
+  priceHistory?: { value: number; at: string }[];
+  /** Prezzo di riferimento barrato indicato da Amazon (savingBasis), se presente. */
+  listPrice?: { value: number; checkedAt: string };
+  /**
+   * Aspetti citati nelle recensioni degli acquirenti, come li riassume Amazon
+   * (es. "Facilità d'uso" positivo, "Rumorosità" contrastante). Solo nomi di aspetti, niente testo copiato.
+   */
+  opinions?: { positive: string[]; mixed: string[]; negative: string[]; checkedAt: string };
   /** Analisi editoriale originale. Tutti i campi sono testo scritto dalla redazione. */
   review?: {
     why?: string;

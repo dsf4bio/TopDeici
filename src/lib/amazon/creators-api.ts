@@ -43,6 +43,8 @@ export type ApiItem = {
   model?: string;
   image?: string;
   price?: number;
+  /** Prezzo di riferimento barrato (savingBasis), se Amazon lo indica. */
+  listPrice?: number;
   available?: boolean;
   features?: string[];
   salesRank?: number;
@@ -90,6 +92,7 @@ export function mapItem(raw: unknown): ApiItem | undefined {
     model: str(pick(raw, "itemInfo.manufactureInfo.model.displayValue")),
     image: str(pick(raw, "images.primary.large.url")),
     price: numOrUndef(pick(raw, "offersV2.listings.price.money.amount")) ?? numOrUndef(pick(raw, "offersV2.listings.price.amount")),
+    listPrice: numOrUndef(pick(raw, "offersV2.listings.price.savingBasis.money.amount")),
     features: (() => {
       const v = pick(raw, "itemInfo.features.displayValues");
       const list = (Array.isArray(v) ? v : []).map(str).filter((x): x is string => Boolean(x));

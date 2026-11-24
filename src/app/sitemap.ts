@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { categoryPath, getCategories, getMacros, isIndexable, lastUpdated } from "@/lib/catalog";
+import { categoryPath, getCategories, getDeals, getMacros, isIndexable, lastUpdated } from "@/lib/catalog";
 import { absolute } from "@/lib/seo";
 
 // Generata a ogni build: contiene solo le pagine indicizzabili.
@@ -9,6 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const pages: MetadataRoute.Sitemap = [
     { url: absolute("/"), lastModified: newest, changeFrequency: "daily", priority: 1 },
     { url: absolute("/categorie"), changeFrequency: "weekly", priority: 0.7 },
+    ...(getDeals().length > 0 ? [{ url: absolute("/offerte"), changeFrequency: "daily" as const, priority: 0.8 }] : []),
     { url: absolute("/metodologia"), changeFrequency: "monthly", priority: 0.5 },
     ...["/chi-siamo", "/affiliazione", "/privacy", "/cookie", "/termini"].map((p) => ({ url: absolute(p), priority: 0.2 })),
     ...getMacros().map((m) => ({ url: absolute(`/${m.slug}`), changeFrequency: "weekly" as const, priority: 0.6 })),

@@ -15,6 +15,14 @@ import { EXCLUSION_LABELS, rankCategory } from "../src/lib/ranking";
 import type { Product } from "../src/lib/types";
 
 const only = process.argv[2];
+
+/** Un prezzo al giorno, ultimi 180 giorni: basta per storico e offerte senza gonfiare i file. */
+function addToHistory(history: Product["priceHistory"], value: number, at: string): Product["priceHistory"] {
+  const day = at.slice(0, 10);
+  const cutoff = Date.parse(at) - 180 * 86_400_000;
+  const kept = (history ?? []).filter((h) => h.at.slice(0, 10) !== day && Date.parse(h.at) >= cutoff);
+  return [...kept, { value, at }].sort((a, b) => a.at.localeCompare(b.at));
+}
 const categories = getCategories().filter((c) => !only || c.slug === only);
 const now = new Date().toISOString();
 let touched = 0;
@@ -42,6 +50,9 @@ for (const category of categories) {
     if (p.amazon) p.amazon = { ...p.amazon, salesRank: item.salesRank ?? p.amazon.salesRank, checkedAt: now };
     if (item.price !== undefined && item.available !== false) {
       p.price = { value: item.price, currency: "EUR", checkedAt: now, source: "api" };
+      p.priceHistory = addToHistory(p.priceHistory, item.price, now);
+      if (item.listPrice && item.listPrice > item.price) p.listPrice = { value: item.listPrice, checkedAt: now };
+      else delete p.listPrice;
     } else if (item.available === false && p.price) {
       // Non disponibile: togliamo il prezzo, così il prodotto esce dalla classifica finché non torna.
       delete p.price;

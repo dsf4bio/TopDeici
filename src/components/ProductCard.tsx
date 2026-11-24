@@ -28,6 +28,7 @@ export function ProductCard({ p, category }: { p: CardModel; category: string })
       )}
       <div className="pcard-body">
         <div>
+          {p.badge && <p className="pcard-badge" title={p.badge.hint}>{p.badge.label}</p>}
           <p className="pcard-brand">{p.brand}{p.model ? ` · ${p.model}` : ""}</p>
           <h3 title={p.title}>{p.title}</h3>
         </div>
@@ -54,6 +55,21 @@ export function ProductCard({ p, category }: { p: CardModel; category: string })
           </dl>
         )}
 
+        {p.opinions && (
+          <div className="opinions">
+            <h4>Cosa dicono le recensioni</h4>
+            {p.opinions.positive.length > 0 && (
+              <p className="op-pos"><b>Apprezzati:</b> {p.opinions.positive.join(", ")}</p>
+            )}
+            {p.opinions.mixed.length > 0 && (
+              <p className="op-mix"><b>Pareri contrastanti:</b> {p.opinions.mixed.join(", ")}</p>
+            )}
+            {p.opinions.negative.length > 0 && (
+              <p className="op-neg"><b>Da evitare se per te conta:</b> {p.opinions.negative.join(", ").toLowerCase()}</p>
+            )}
+          </div>
+        )}
+
         {(p.strengths.length > 0 || p.weaknesses.length > 0) && (
           <div className="proscons">
             {p.strengths.length > 0 && (
@@ -70,6 +86,8 @@ export function ProductCard({ p, category }: { p: CardModel; category: string })
             {p.price ? (
               <>
                 <strong>{p.price.text}</strong>
+                {p.deal && <em className="deal-tag">−{p.deal.percent}%</em>}
+                {p.priceNote && <span className={`price-note is-${p.priceNote.tone}`}>{p.priceNote.text}</span>}
                 <small>prezzo Amazon al {p.price.at}, può variare</small>
               </>
             ) : (

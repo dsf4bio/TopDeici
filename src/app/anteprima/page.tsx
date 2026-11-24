@@ -5,6 +5,7 @@ import { getCategory } from "@/lib/catalog";
 import { rankCategory } from "@/lib/ranking";
 import type { Product } from "@/lib/types";
 import { toCardModel } from "@/lib/view";
+import { assignBadges } from "@/lib/insights";
 
 // Pagina di lavoro per il design delle schede: esiste solo in sviluppo (npm run dev) e usa
 // dati DI ESEMPIO dichiaratamente fittizi. In produzione risponde 404.
@@ -31,7 +32,8 @@ export default function PreviewPage() {
   if (process.env.NODE_ENV === "production") notFound();
   const category = getCategory("friggitrici-ad-aria")!;
   const { ranked } = rankCategory(Array.from({ length: 6 }, (_, i) => sample(i + 1, {})), category, now);
-  const cards = ranked.map((p) => ({ ...toCardModel(p, category, now), href: "#" }));
+  const badges = assignBadges(ranked);
+  const cards = ranked.map((p) => ({ ...toCardModel(p, category, now, badges.get(p.asin)), href: "#" }));
   return (
     <>
       <div className="preview-banner"><p>ANTEPRIMA DI SVILUPPO · DATI DI ESEMPIO FITTIZI · NON PUBBLICATA</p></div>

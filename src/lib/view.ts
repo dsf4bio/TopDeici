@@ -1,5 +1,6 @@
 import { productUrl } from "./affiliate";
 import { displayablePrice, formatDate, formatInt, formatRating, formatSpec } from "./format";
+import { dealOf, opinionsOf, priceNote, type Badge, type Deal, type Opinions, type PriceNote } from "./insights";
 import type { Category, RankedProduct } from "./types";
 
 /** Dati già pronti per l'interfaccia: serializzabili, così passano anche ai componenti client. */
@@ -19,9 +20,16 @@ export type CardModel = {
   strengths: string[];
   weaknesses: string[];
   breakdown: { adjusted: string; rating: number; volume: number; editorial: number };
+  /** "Il migliore per…": etichetta calcolata dai dati della classifica. */
+  badge?: Badge;
+  /** Aspetti citati nelle recensioni (positivi, contrastanti, negativi). */
+  opinions?: Opinions;
+  /** Confronto con lo storico dei prezzi. */
+  priceNote?: PriceNote;
+  deal?: Deal;
 };
 
-export function toCardModel(p: RankedProduct, category: Category, now = new Date()): CardModel {
+export function toCardModel(p: RankedProduct, category: Category, now = new Date(), badge?: Badge): CardModel {
   const price = displayablePrice(p, now);
   return {
     asin: p.asin,
@@ -51,5 +59,9 @@ export function toCardModel(p: RankedProduct, category: Category, now = new Date
       volume: Math.round(p.breakdown.volumePart * 100),
       editorial: Math.round(p.breakdown.editorialPart * 100),
     },
+    ...(badge ? { badge } : {}),
+    ...(opinionsOf(p, now) ? { opinions: opinionsOf(p, now) } : {}),
+    ...(price && priceNote(p, now) ? { priceNote: priceNote(p, now) } : {}),
+    ...(price && dealOf(p, now) ? { deal: dealOf(p, now) } : {}),
   };
 }

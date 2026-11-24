@@ -43,6 +43,15 @@ export function validateProduct(p: unknown, where: string): string[] {
   if (x.editorialRank !== undefined && !(Number.isInteger(x.editorialRank) && x.editorialRank >= 1)) err("posizione non valida");
   if (x.url !== undefined && !/^https:\/\/(www\.amazon\.it|amzn\.to|amzn\.eu)\//.test(x.url)) err("il link deve essere di amazon.it, amzn.to o amzn.eu");
   if (x.features !== undefined && !(Array.isArray(x.features) && x.features.every(isText))) err("features non valide");
+  if (x.priceHistory !== undefined && !(Array.isArray(x.priceHistory) && x.priceHistory.every((h) => typeof h.value === "number" && h.value > 0 && isIso(h.at))))
+    err("storico prezzi non valido");
+  if (x.listPrice !== undefined && !(typeof x.listPrice.value === "number" && x.listPrice.value > 0 && isIso(x.listPrice.checkedAt)))
+    err("prezzo barrato non valido");
+  if (x.opinions !== undefined) {
+    const o = x.opinions;
+    const ok = (l: unknown) => Array.isArray(l) && l.every((s) => isText(s) && String(s).length <= 40);
+    if (!(ok(o.positive) && ok(o.mixed) && ok(o.negative) && isIso(o.checkedAt))) err("opinioni non valide (solo nomi brevi di aspetti)");
+  }
   if (x.editorialScore !== undefined && !(x.editorialScore >= 0 && x.editorialScore <= 1))
     err("editorialScore deve essere tra 0 e 1");
   return errors;
