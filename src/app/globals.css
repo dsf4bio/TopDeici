@@ -322,9 +322,6 @@
   .pcard.no-media h3 { font-size: var(--fs-xl); }
   @media (max-width: 45.99rem) {
     .pcard-media { height: 11rem; }
-    .toolbar { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s-2); padding: var(--s-3); }
-    .toolbar .field select, .toolbar .field input[type="number"] { min-width: 0; width: 100%; }
-    .toolbar .count { grid-column: 1 / -1; margin-left: 0; }
   }
 
   /* ---------- Breadcrumb e testata pagina ---------- */
@@ -361,11 +358,9 @@
   .defs p { color: var(--ink-2); font-size: var(--fs-sm); }
   @media (min-width: 44rem) { .defs.two { grid-template-columns: 1fr 1fr; } }
 
-  /* ---------- Classifica: barra strumenti ---------- */
-  .toolbar { display: flex; flex-wrap: wrap; gap: var(--s-3); align-items: end; padding: var(--s-4); background: var(--paper-2); border: 1px solid var(--rule); margin-bottom: var(--s-5); }
+  /* ---------- Campi modulo ---------- */
   .field { display: grid; gap: 0.2rem; font-size: var(--fs-xs); font-family: var(--ff-mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--steel); }
   .field select, .field input[type="number"] { font-family: var(--ff-body); text-transform: none; letter-spacing: 0; font-size: var(--fs-sm); color: var(--ink); background: var(--white); border: 1px solid var(--rule-strong); border-radius: var(--radius); padding: 0.5rem 0.6rem; min-width: 9rem; }
-  .toolbar .count { margin-left: auto; font-family: var(--ff-mono); font-size: var(--fs-sm); }
 
   /* ---------- Scheda prodotto ---------- */
   .ranking { list-style: none; padding: 0; display: grid; gap: var(--s-5); }
