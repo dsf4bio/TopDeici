@@ -1,258 +1,258 @@
 [
- {
-  "asin": "B089QWNQXC",
-  "category": "sterilizzatori-biberon",
-  "title": "Dr. Brown's Clean Steam, biberon e ciuccio, sterilizzatore",
-  "brand": "Dr. Brown's",
-  "image": "https://m.media-amazon.com/images/I/61apKhGlMvL._AC_SL500_.jpg",
-  "price": {
-   "value": 116.28,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B089QWNQXC",
+    "category": "sterilizzatori-biberon",
+    "title": "Dr. Brown's Clean Steam, biberon e ciuccio, sterilizzatore",
+    "brand": "Dr. Brown's",
+    "image": "https://m.media-amazon.com/images/I/61apKhGlMvL._AC_SL500_.jpg",
+    "price": {
+      "value": 116.28,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 7570,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 7570,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B01C6ZWAQI",
+    "category": "sterilizzatori-biberon",
+    "title": "Tommee Tippee Sterilizzatore a vapore per microonde per bi",
+    "brand": "Tommee Tippee",
+    "image": "https://m.media-amazon.com/images/I/51g9364w+WL._AC_SL500_.jpg",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 6304,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Velocità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B003P9WSVC",
+    "category": "sterilizzatori-biberon",
+    "title": "Philips Avent SCF281/02 Sterilizzatore per Forno a Microon",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/61xYM8wSRiL._AC_SL500_.jpg",
+    "price": {
+      "value": 32.12,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 5530,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Comfort",
+        "Facilità d'uso",
+        "Facilità di sterilizzazione"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08DPPY1SC",
+    "category": "sterilizzatori-biberon",
+    "title": "Philips Avent Sterilizzatore e asciugatrice per biberon, r",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/716yOSNBjcL._AC_SL500_.jpg",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2428,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Asciugatura",
+        "Funzionalità",
+        "Praticità",
+        "Capienza"
+      ],
+      "mixed": [
+        "Costo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B001RTU4DQ",
+    "category": "sterilizzatori-biberon",
+    "title": "Tigex Express - Sterilizzatore per Microonde, per 5 Bibero",
+    "brand": "Tigex",
+    "image": "https://m.media-amazon.com/images/I/81JO3KK-izL._AC_SL500_.jpg",
+    "price": {
+      "value": 38,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1596,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Adattabilità al microonde",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FR8NDLM1",
+    "category": "sterilizzatori-biberon",
+    "title": "Momcozy Sterilizzatore Biberon e Asciugatrice 4-in-1 Compa",
+    "brand": "Momcozy",
+    "image": "https://m.media-amazon.com/images/I/61VJxYIvdIL._AC_SL500_.jpg",
+    "price": {
+      "value": 55.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1007,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Asciugatura",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01LX5ZT44",
+    "category": "sterilizzatori-biberon",
+    "title": "NUK Vario Express sterilizzatore biberon Sterilizza a va",
+    "brand": "NUK",
+    "image": "https://m.media-amazon.com/images/I/71u4gqowLWL._AC_SL500_.jpg",
+    "price": {
+      "value": 57.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 5103,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Capienza",
+        "Facile da pulire"
+      ],
+      "mixed": [
+        "Robustezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FCXTCFRC",
+    "category": "sterilizzatori-biberon",
+    "title": "Grownsy EaseClean Lavabiberon Pro, Sterilizzatore e Asciug",
+    "brand": "Grownsy",
+    "image": "https://m.media-amazon.com/images/I/61fkYwkrtJL._AC_SL500_.jpg",
+    "price": {
+      "value": 258.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 692,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08GLPNSCP",
+    "category": "sterilizzatori-biberon",
+    "title": "Nuby Sterilizzatore UV per biberon, ciclo di sterilizzazio",
+    "brand": "Nuby",
+    "image": "https://m.media-amazon.com/images/I/51M12KNAKtL._AC_SL500_.jpg",
+    "price": {
+      "value": 91.16,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 241,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H11BYCRC",
+    "category": "sterilizzatori-biberon",
+    "title": "GROWNSY Scaldabiberon, Riscaldamento Rapido e Temperatura",
+    "brand": "Grownsy",
+    "image": "https://m.media-amazon.com/images/I/518OXIfjI7L._AC_SL500_.jpg",
+    "price": {
+      "value": 46.55,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 13314,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B01C6ZWAQI",
-  "category": "sterilizzatori-biberon",
-  "title": "Tommee Tippee Sterilizzatore a vapore per microonde per bi",
-  "brand": "Tommee Tippee",
-  "image": "https://m.media-amazon.com/images/I/51g9364w+WL._AC_SL500_.jpg",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 6304,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Velocità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B003P9WSVC",
-  "category": "sterilizzatori-biberon",
-  "title": "Philips Avent SCF281/02 Sterilizzatore per Forno a Microon",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/61xYM8wSRiL._AC_SL500_.jpg",
-  "price": {
-   "value": 32.12,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 5530,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Comfort",
-    "Facilità d'uso",
-    "Facilità di sterilizzazione"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08DPPY1SC",
-  "category": "sterilizzatori-biberon",
-  "title": "Philips Avent Sterilizzatore e asciugatrice per biberon, r",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/716yOSNBjcL._AC_SL500_.jpg",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2428,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Asciugatura",
-    "Funzionalità",
-    "Praticità",
-    "Capienza"
-   ],
-   "mixed": [
-    "Costo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08GLPNSCP",
-  "category": "sterilizzatori-biberon",
-  "title": "Nuby Sterilizzatore UV per biberon, ciclo di sterilizzazio",
-  "brand": "Nuby",
-  "image": "https://m.media-amazon.com/images/I/51M12KNAKtL._AC_SL500_.jpg",
-  "price": {
-   "value": 91.16,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 241,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B001RTU4DQ",
-  "category": "sterilizzatori-biberon",
-  "title": "Tigex Express - Sterilizzatore per Microonde, per 5 Bibero",
-  "brand": "Tigex",
-  "image": "https://m.media-amazon.com/images/I/81JO3KK-izL._AC_SL500_.jpg",
-  "price": {
-   "value": 38.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1596,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Adattabilità al microonde",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FR8NDLM1",
-  "category": "sterilizzatori-biberon",
-  "title": "Momcozy Sterilizzatore Biberon e Asciugatrice 4-in-1 Compa",
-  "brand": "Momcozy",
-  "image": "https://m.media-amazon.com/images/I/61VJxYIvdIL._AC_SL500_.jpg",
-  "price": {
-   "value": 55.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1007,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Asciugatura",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01LX5ZT44",
-  "category": "sterilizzatori-biberon",
-  "title": "NUK Vario Express sterilizzatore biberon Sterilizza a va",
-  "brand": "NUK",
-  "image": "https://m.media-amazon.com/images/I/71u4gqowLWL._AC_SL500_.jpg",
-  "price": {
-   "value": 57.84,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 5103,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Capienza",
-    "Facile da pulire"
-   ],
-   "mixed": [
-    "Robustezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FCXTCFRC",
-  "category": "sterilizzatori-biberon",
-  "title": "Grownsy EaseClean Lavabiberon Pro, Sterilizzatore e Asciug",
-  "brand": "Grownsy",
-  "image": "https://m.media-amazon.com/images/I/61fkYwkrtJL._AC_SL500_.jpg",
-  "price": {
-   "value": 258.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 692,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0H11BYCRC",
-  "category": "sterilizzatori-biberon",
-  "title": "GROWNSY Scaldabiberon, Riscaldamento Rapido e Temperatura",
-  "brand": "Grownsy",
-  "image": "https://m.media-amazon.com/images/I/518OXIfjI7L._AC_SL500_.jpg",
-  "price": {
-   "value": 46.55,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 13314,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- }
 ]

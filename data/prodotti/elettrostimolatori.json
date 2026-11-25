@@ -1,257 +1,257 @@
 [
- {
-  "asin": "B0CHFS3F6V",
-  "category": "elettrostimolatori",
-  "title": "TENS 7000 Unità TENS digitale con accessori e 48 elettrodi",
-  "brand": "TENS 7000",
-  "image": "https://m.media-amazon.com/images/I/81Pp3qDKFsL._AC_SL500_.jpg",
-  "price": {
-   "value": 149.62,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B01KUJ1VMG",
+    "category": "elettrostimolatori",
+    "title": "Beurer EM 49 Digital TENS/EMS, elettrostimolatore 3 in 1 p",
+    "brand": "Beurer",
+    "image": "https://m.media-amazon.com/images/I/81Kmd+PcLaL._AC_SL500_.jpg",
+    "price": {
+      "value": 44.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 31153,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Efficacia"
+      ],
+      "mixed": [
+        "Durata",
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 703,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B000N4QRBY",
+    "category": "elettrostimolatori",
+    "title": "Dittmann - Elettrostimolatore 240, vari colori",
+    "brand": "Dittmann",
+    "image": "https://m.media-amazon.com/images/I/819fcbs4BSL._AC_SL500_.jpg",
+    "price": {
+      "value": 35.25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2028,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F9WGM4LM",
+    "category": "elettrostimolatori",
+    "title": "GHTENS 5 in 1 Elettrostimolatore Muscolare Professionale",
+    "brand": "GHTENS",
+    "image": "https://m.media-amazon.com/images/I/71t+ek4aBML._AC_SL500_.jpg",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1751,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Efficacia"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C7R437VC",
+    "category": "elettrostimolatori",
+    "title": "TESMED TE-880R Plus Elettrostimolatore TENS, EMS e Massagg",
+    "brand": "TESMED",
+    "image": "https://m.media-amazon.com/images/I/71xDgDgoKuL._AC_SL500_.jpg",
+    "price": {
+      "value": 75.05,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1427,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Varietà di funzionalità"
+      ],
+      "mixed": [
+        "Ricaricabile",
+        "Aderenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CHFS3F6V",
+    "category": "elettrostimolatori",
+    "title": "TENS 7000 Unità TENS digitale con accessori e 48 elettrodi",
+    "brand": "TENS 7000",
+    "image": "https://m.media-amazon.com/images/I/81Pp3qDKFsL._AC_SL500_.jpg",
+    "price": {
+      "value": 149.62,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 703,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0091G6WNS",
+    "category": "elettrostimolatori",
+    "title": "Med-Fit 3 Digital Dual Channel TENS Machine",
+    "brand": "Med-Fit",
+    "image": "https://m.media-amazon.com/images/I/71F9nOcNG0L._AC_SL500_.jpg",
+    "price": {
+      "value": 35.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4873,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B00D3I0INA",
+    "category": "elettrostimolatori",
+    "title": "TESMED Max 830: Elettrostimolatore Muscolare Professionale",
+    "brand": "TESMED",
+    "image": "https://m.media-amazon.com/images/I/811ZBS3lhAL._AC_SL500_.jpg",
+    "price": {
+      "value": 114.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4213,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CDL7DXVF",
+    "category": "elettrostimolatori",
+    "title": "AUVON TENS Professionale Elettrostimolatore Muscolare, Dis",
+    "brand": "AUVON",
+    "image": "https://m.media-amazon.com/images/I/71dxJMAnX0L._AC_SL500_.jpg",
+    "price": {
+      "value": 31.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 622,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0777JT98F",
+    "category": "elettrostimolatori",
+    "title": "iStim EV-805 TENS EMS 4 Canali – Stimolatore Muscolare e N",
+    "brand": "iStim",
+    "image": "https://m.media-amazon.com/images/I/61XdyYwWNPL._AC_SL500_.jpg",
+    "price": {
+      "value": 79.2,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2657,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B000C39II0",
+    "category": "elettrostimolatori",
+    "title": "I-TECH Medical Division, Mio-Care Tens, 2 Canali, 20 Progr",
+    "brand": "I-TECH",
+    "image": "https://m.media-amazon.com/images/I/71PTX1qd5gL._AC_SL500_.jpg",
+    "price": {
+      "value": 129.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 539,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B01KUJ1VMG",
-  "category": "elettrostimolatori",
-  "title": "Beurer EM 49 Digital TENS/EMS, elettrostimolatore 3 in 1 p",
-  "brand": "Beurer",
-  "image": "https://m.media-amazon.com/images/I/81Kmd+PcLaL._AC_SL500_.jpg",
-  "price": {
-   "value": 44.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 31153,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Efficacia"
-   ],
-   "mixed": [
-    "Durata",
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B000N4QRBY",
-  "category": "elettrostimolatori",
-  "title": "Dittmann - Elettrostimolatore 240, vari colori",
-  "brand": "Dittmann",
-  "image": "https://m.media-amazon.com/images/I/819fcbs4BSL._AC_SL500_.jpg",
-  "price": {
-   "value": 35.25,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2028,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0F9WGM4LM",
-  "category": "elettrostimolatori",
-  "title": "GHTENS 5 in 1 Elettrostimolatore Muscolare Professionale",
-  "brand": "GHTENS",
-  "image": "https://m.media-amazon.com/images/I/71t+ek4aBML._AC_SL500_.jpg",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1751,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Efficacia"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C7R437VC",
-  "category": "elettrostimolatori",
-  "title": "TESMED TE-880R Plus Elettrostimolatore TENS, EMS e Massagg",
-  "brand": "TESMED",
-  "image": "https://m.media-amazon.com/images/I/71xDgDgoKuL._AC_SL500_.jpg",
-  "price": {
-   "value": 75.05,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1427,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Varietà di funzionalità"
-   ],
-   "mixed": [
-    "Ricaricabile",
-    "Aderenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0091G6WNS",
-  "category": "elettrostimolatori",
-  "title": "Med-Fit 3 Digital Dual Channel TENS Machine",
-  "brand": "Med-Fit",
-  "image": "https://m.media-amazon.com/images/I/71F9nOcNG0L._AC_SL500_.jpg",
-  "price": {
-   "value": 35.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4873,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CDL7DXVF",
-  "category": "elettrostimolatori",
-  "title": "AUVON TENS Professionale Elettrostimolatore Muscolare, Dis",
-  "brand": "AUVON",
-  "image": "https://m.media-amazon.com/images/I/71dxJMAnX0L._AC_SL500_.jpg",
-  "price": {
-   "value": 31.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 622,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B00D3I0INA",
-  "category": "elettrostimolatori",
-  "title": "TESMED Max 830: Elettrostimolatore Muscolare Professionale",
-  "brand": "TESMED",
-  "image": "https://m.media-amazon.com/images/I/811ZBS3lhAL._AC_SL500_.jpg",
-  "price": {
-   "value": 114.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4213,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B000C39II0",
-  "category": "elettrostimolatori",
-  "title": "I-TECH Medical Division, Mio-Care Tens, 2 Canali, 20 Progr",
-  "brand": "I-TECH",
-  "image": "https://m.media-amazon.com/images/I/71PTX1qd5gL._AC_SL500_.jpg",
-  "price": {
-   "value": 129.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 539,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0777JT98F",
-  "category": "elettrostimolatori",
-  "title": "iStim EV-805 TENS EMS 4 Canali – Stimolatore Muscolare e N",
-  "brand": "iStim",
-  "image": "https://m.media-amazon.com/images/I/61XdyYwWNPL._AC_SL500_.jpg",
-  "price": {
-   "value": 79.2,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2657,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- }
 ]

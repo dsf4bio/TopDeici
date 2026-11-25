@@ -1,306 +1,306 @@
 [
- {
-  "asin": "B07BPB687B",
-  "category": "asciugacapelli",
-  "title": "Parlux Alyon Asciugacapelli Professionale, Nero Opaco",
-  "brand": "Parlux",
-  "price": {
-   "value": 133.25,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07BPB687B",
+    "category": "asciugacapelli",
+    "title": "Parlux Alyon Asciugacapelli Professionale, Nero Opaco",
+    "brand": "Parlux",
+    "price": {
+      "value": 133.25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 5564,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51wJz-BRXBL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Leggerezza",
+        "Funzionalità",
+        "Velocità di asciugatura",
+        "Potenza"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 5564,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00IBDVTSU",
+    "category": "asciugacapelli",
+    "title": "Remington Asciugacapelli Professionale 2300W",
+    "brand": "Remington",
+    "price": {
+      "value": 26.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 23193,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81t+LaQpAIL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Potenza",
+        "Funzionalità",
+        "Velocità di asciugatura"
+      ],
+      "mixed": [
+        "Quantità",
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/51wJz-BRXBL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Leggerezza",
-    "Funzionalità",
-    "Velocità di asciugatura",
-    "Potenza"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B01KLXFBVI",
+    "category": "asciugacapelli",
+    "title": "Remington Asciugacapelli Professionale 2400W",
+    "brand": "Remington",
+    "price": {
+      "value": 29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 17530,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/717JDoe3nkL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [
+        "Leggerezza",
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D7J5NJ2R",
+    "category": "asciugacapelli",
+    "title": "ghd air, Asciugacapelli Professionale a Ioni, Potenza 2100 W, Nero",
+    "brand": "ghd",
+    "price": {
+      "value": 100.59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6178,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71PwlTQJAXL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Asciugatura",
+        "Velocità di asciugatura",
+        "Potenza"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Peso"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D5CFV4C6",
+    "category": "asciugacapelli",
+    "title": "Faszin Asciugacapelli Professionale 110.000 RPM Ionico Leggero",
+    "brand": "Faszin",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 955,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61dtkBD6O-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Leggerezza",
+        "Silenziosità",
+        "Funzionalità",
+        "Velocità di asciugatura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01D8Y5XGA",
+    "category": "asciugacapelli",
+    "title": "Parlux Advance® Asciugacapelli Professionale, Colore Light Gold",
+    "brand": "Parlux",
+    "price": {
+      "value": 117.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2492,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51ImbJ3dbrS._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Leggerezza",
+        "Potenza",
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B086GHJFJY",
+    "category": "asciugacapelli",
+    "title": "Remington Asciugacapelli Professionale 2400 W",
+    "brand": "Remington",
+    "price": {
+      "value": 34.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2282,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61+AcMDIyvL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Velocità di asciugatura"
+      ],
+      "mixed": [
+        "Quantità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07R6HFNSJ",
+    "category": "asciugacapelli",
+    "title": "Parlux 3200 Plus Asciugacapelli Professionale, Colore Nero",
+    "brand": "Parlux",
+    "image": "https://m.media-amazon.com/images/I/512X8g2uFJS._AC_SL500_.jpg",
+    "price": {
+      "value": 91.3,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1648,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Leggerezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B084QXY478",
+    "category": "asciugacapelli",
+    "title": "ghd helios, Asciugacapelli Professionale Leggero, Potenza 2200 W",
+    "brand": "ghd",
+    "image": "https://m.media-amazon.com/images/I/71-vUcNJa4L._AC_SL500_.jpg",
+    "price": {
+      "value": 171.75,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1603,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità di asciugatura",
+        "Potenza",
+        "Estetica"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Leggerezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HFCV54Q1",
+    "category": "asciugacapelli",
+    "title": "Asciugacapelli Ionico 180,000 RPM Phon Capelli Professionale 500 Milio",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/71OqEbZQ42L._AC_SL500_.jpg",
+    "price": {
+      "value": 62.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 160,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B00IBDVTSU",
-  "category": "asciugacapelli",
-  "title": "Remington Asciugacapelli Professionale 2300W",
-  "brand": "Remington",
-  "price": {
-   "value": 26.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 23193,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81t+LaQpAIL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Potenza",
-    "Funzionalità",
-    "Velocità di asciugatura"
-   ],
-   "mixed": [
-    "Quantità",
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01KLXFBVI",
-  "category": "asciugacapelli",
-  "title": "Remington Asciugacapelli Professionale 2400W",
-  "brand": "Remington",
-  "price": {
-   "value": 29.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 17530,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/717JDoe3nkL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [
-    "Leggerezza",
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D7J5NJ2R",
-  "category": "asciugacapelli",
-  "title": "ghd air, Asciugacapelli Professionale a Ioni, Potenza 2100 W, Nero",
-  "brand": "ghd",
-  "price": {
-   "value": 100.59,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6178,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71PwlTQJAXL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Asciugatura",
-    "Velocità di asciugatura",
-    "Potenza"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Peso"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D5CFV4C6",
-  "category": "asciugacapelli",
-  "title": "Faszin Asciugacapelli Professionale 110.000 RPM Ionico Leggero",
-  "brand": "Faszin",
-  "price": {
-   "value": 69.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 955,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61dtkBD6O-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Leggerezza",
-    "Silenziosità",
-    "Funzionalità",
-    "Velocità di asciugatura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01D8Y5XGA",
-  "category": "asciugacapelli",
-  "title": "Parlux Advance® Asciugacapelli Professionale, Colore Light Gold",
-  "brand": "Parlux",
-  "price": {
-   "value": 117.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2492,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51ImbJ3dbrS._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Leggerezza",
-    "Potenza",
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B086GHJFJY",
-  "category": "asciugacapelli",
-  "title": "Remington Asciugacapelli Professionale 2400 W",
-  "brand": "Remington",
-  "price": {
-   "value": 34.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2282,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61+AcMDIyvL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Velocità di asciugatura"
-   ],
-   "mixed": [
-    "Quantità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B084QXY478",
-  "category": "asciugacapelli",
-  "title": "ghd helios, Asciugacapelli Professionale Leggero, Potenza 2200 W",
-  "brand": "ghd",
-  "image": "https://m.media-amazon.com/images/I/71-vUcNJa4L._AC_SL500_.jpg",
-  "price": {
-   "value": 171.75,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1603,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità di asciugatura",
-    "Potenza",
-    "Estetica"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Leggerezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07R6HFNSJ",
-  "category": "asciugacapelli",
-  "title": "Parlux 3200 Plus Asciugacapelli Professionale, Colore Nero",
-  "brand": "Parlux",
-  "image": "https://m.media-amazon.com/images/I/512X8g2uFJS._AC_SL500_.jpg",
-  "price": {
-   "value": 91.3,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1648,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Leggerezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HFCV54Q1",
-  "category": "asciugacapelli",
-  "title": "Asciugacapelli Ionico 180,000 RPM Phon Capelli Professionale 500 Milio",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/71OqEbZQ42L._AC_SL500_.jpg",
-  "price": {
-   "value": 62.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 160,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

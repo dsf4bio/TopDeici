@@ -1,278 +1,278 @@
 [
- {
-  "asin": "B08XY3JXQ7",
-  "category": "decespugliatori",
-  "title": "Decespugliatore MAKITA 18 V LI-ION - Senza batteria né car",
-  "brand": "Makita",
-  "image": "https://m.media-amazon.com/images/I/51OJcAUilfL._AC_SL500_.jpg",
-  "price": {
-   "value": 140.21,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B01AK2DYEQ",
+    "category": "decespugliatori",
+    "title": "Bosch AFS 23-37 Sistema di taglio combinato decespugliator",
+    "brand": "Bosch",
+    "image": "https://m.media-amazon.com/images/I/416o0v3ChjL._AC_SL500_.jpg",
+    "price": {
+      "value": 156.53,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2597,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Potenza"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 984,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B08XY3JXQ7",
+    "category": "decespugliatori",
+    "title": "Decespugliatore MAKITA 18 V LI-ION - Senza batteria né car",
+    "brand": "Makita",
+    "image": "https://m.media-amazon.com/images/I/51OJcAUilfL._AC_SL500_.jpg",
+    "price": {
+      "value": 140.21,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 984,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Leggerezza",
+        "Potenza",
+        "Durata"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Leggerezza",
-    "Potenza",
-    "Durata"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B09LM6MSGQ",
+    "category": "decespugliatori",
+    "title": "Bosch Tagliabordi a batteria EasyGrassCut 18V-26 senza bat",
+    "brand": "Bosch",
+    "image": "https://m.media-amazon.com/images/I/61HC6KEGWZL._AC_SL500_.jpg",
+    "price": {
+      "value": 59.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2910,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Maneggevolezza",
+        "Leggerezza",
+        "Dimensioni"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Robustezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B073Q66272",
+    "category": "decespugliatori",
+    "title": "WORX WG163E.9 Decespugliatore Tagliabordi a Batteria, Diam",
+    "brand": "WORX",
+    "image": "https://m.media-amazon.com/images/I/41-e5LnolaL._AC_SL500_.jpg",
+    "price": {
+      "value": 63.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2446,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Leggerezza",
+        "Praticità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BVBNGB6R",
+    "category": "decespugliatori",
+    "title": "WORX WG173E.9 Tagliabordi a batteria 20V, senza batteria e",
+    "brand": "WORX",
+    "image": "https://m.media-amazon.com/images/I/51vOMNoYpIL._AC_SL500_.jpg",
+    "price": {
+      "value": 88.06,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 505,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CCNVQX9M",
+    "category": "decespugliatori",
+    "title": "Ryobi Tagliabordi Decespugliatore a Batteria 18V ONE+, Bat",
+    "brand": "Ryobi",
+    "image": "https://m.media-amazon.com/images/I/51+5VkmYVyL._AC_SL500_.jpg",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 597,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B01N4PU3DC",
+    "category": "decespugliatori",
+    "title": "Einhell Tagliabordi a batteria GE-CT 18 Li Kit (1x2,0 Ah)",
+    "brand": "Einhell",
+    "image": "https://m.media-amazon.com/images/I/61BKifDFQRL._AC_SL500_.jpg",
+    "price": {
+      "value": 79.16,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 5362,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Durata batteria",
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Maneggevolezza"
+      ],
+      "mixed": [],
+      "negative": [
+        "Fragilità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B018F0A55G",
+    "category": "decespugliatori",
+    "title": "BLACK+DECKER POWERCONNECT Tagliabordi da 18 V 30 cm, STC18",
+    "brand": "BLACK+DECKER",
+    "image": "https://m.media-amazon.com/images/I/617qemiBmjL._AC_SL500_.jpg",
+    "price": {
+      "value": 99.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 4637,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Durata batteria",
+        "Efficacia",
+        "Leggerezza",
+        "Praticità"
+      ],
+      "mixed": [
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CGX8VYQC",
+    "category": "decespugliatori",
+    "title": "Bosch PRO 18V Decespugliatore a batteria GFR 18V-23 senza",
+    "brand": "Bosch",
+    "image": "https://m.media-amazon.com/images/I/51i4cxPvjsL._AC_SL500_.jpg",
+    "price": {
+      "value": 235.88,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 386,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F8P81ZF3",
+    "category": "decespugliatori",
+    "title": "Einhell Professional Decespugliatore a batteria GP-BC 36/430 Li P BL-S",
+    "brand": "Einhell",
+    "image": "https://m.media-amazon.com/images/I/61M+Be9LQgL._AC_SL500_.jpg",
+    "price": {
+      "value": 218.22,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 115,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B01AK2DYEQ",
-  "category": "decespugliatori",
-  "title": "Bosch AFS 23-37 Sistema di taglio combinato decespugliator",
-  "brand": "Bosch",
-  "image": "https://m.media-amazon.com/images/I/416o0v3ChjL._AC_SL500_.jpg",
-  "price": {
-   "value": 156.53,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2597,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Potenza"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BVBNGB6R",
-  "category": "decespugliatori",
-  "title": "WORX WG173E.9 Tagliabordi a batteria 20V, senza batteria e",
-  "brand": "WORX",
-  "image": "https://m.media-amazon.com/images/I/51vOMNoYpIL._AC_SL500_.jpg",
-  "price": {
-   "value": 88.06,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 505,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09LM6MSGQ",
-  "category": "decespugliatori",
-  "title": "Bosch Tagliabordi a batteria EasyGrassCut 18V-26 senza bat",
-  "brand": "Bosch",
-  "image": "https://m.media-amazon.com/images/I/61HC6KEGWZL._AC_SL500_.jpg",
-  "price": {
-   "value": 59.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2910,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Maneggevolezza",
-    "Leggerezza",
-    "Dimensioni"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Robustezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B073Q66272",
-  "category": "decespugliatori",
-  "title": "WORX WG163E.9 Decespugliatore Tagliabordi a Batteria, Diam",
-  "brand": "WORX",
-  "image": "https://m.media-amazon.com/images/I/41-e5LnolaL._AC_SL500_.jpg",
-  "price": {
-   "value": 63.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2446,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Leggerezza",
-    "Praticità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01N4PU3DC",
-  "category": "decespugliatori",
-  "title": "Einhell Tagliabordi a batteria GE-CT 18 Li Kit (1x2,0 Ah)",
-  "brand": "Einhell",
-  "image": "https://m.media-amazon.com/images/I/61BKifDFQRL._AC_SL500_.jpg",
-  "price": {
-   "value": 79.16,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 5362,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Durata batteria",
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Maneggevolezza"
-   ],
-   "mixed": [],
-   "negative": [
-    "Fragilità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B018F0A55G",
-  "category": "decespugliatori",
-  "title": "BLACK+DECKER POWERCONNECT Tagliabordi da 18 V 30 cm, STC18",
-  "brand": "BLACK+DECKER",
-  "image": "https://m.media-amazon.com/images/I/617qemiBmjL._AC_SL500_.jpg",
-  "price": {
-   "value": 99.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 4637,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Durata batteria",
-    "Efficacia",
-    "Leggerezza",
-    "Praticità"
-   ],
-   "mixed": [
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CCNVQX9M",
-  "category": "decespugliatori",
-  "title": "Ryobi Tagliabordi Decespugliatore a Batteria 18V ONE+, Bat",
-  "brand": "Ryobi",
-  "image": "https://m.media-amazon.com/images/I/51+5VkmYVyL._AC_SL500_.jpg",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 597,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CGX8VYQC",
-  "category": "decespugliatori",
-  "title": "Bosch PRO 18V Decespugliatore a batteria GFR 18V-23 senza",
-  "brand": "Bosch",
-  "image": "https://m.media-amazon.com/images/I/51i4cxPvjsL._AC_SL500_.jpg",
-  "price": {
-   "value": 235.88,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 386,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0F8P81ZF3",
-  "category": "decespugliatori",
-  "title": "Einhell Professional Decespugliatore a batteria GP-BC 36/430 Li P BL-S",
-  "brand": "Einhell",
-  "image": "https://m.media-amazon.com/images/I/61M+Be9LQgL._AC_SL500_.jpg",
-  "price": {
-   "value": 218.22,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 115,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

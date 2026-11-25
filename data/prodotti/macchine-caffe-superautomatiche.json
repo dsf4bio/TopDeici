@@ -1,183 +1,183 @@
 [
- {
-  "asin": "B00LPG2LLY",
-  "category": "macchine-caffe-superautomatiche",
-  "title": "De'Longhi Autentica Perfetto ETAM29.510.B Macchina da Caffè Automatica",
-  "brand": "De'Longhi",
-  "price": {
-   "value": 379.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07PLXPCX3",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "De'Longhi Perfetto Magnifica S ECAM22.110.B Macchina da Caffè in Grani",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 326.4,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 756,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61cofRHEFqL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.5,
-   "count": 1556,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00LPG2LLY",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "De'Longhi Autentica Perfetto ETAM29.510.B Macchina da Caffè Automatica",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 379.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1556,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61EhV8co22L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del caffè",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Facile da pulire"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Capienza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61EhV8co22L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del caffè",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Facile da pulire"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Capienza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B09TKRNWJX",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "De'Longhi Eletta Explore ECAM452.57.G, Macchina da Caffè Automatica",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 699,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1463,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71L+3vGowpL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Qualità del latte",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GNMS31J4",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "Krups EA508B Harmony - Macchina da caffè automatica",
+    "brand": "Krups",
+    "price": {
+      "value": 323.2,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 307,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71ECJgsxVlL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0H94ZSVN8",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "Philips 6000 Macchina Caffè Automatica, 22 bevande, Montalatte LatteGo",
+    "brand": "Philips",
+    "price": {
+      "value": 685.37,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 101,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51XWIZFon6L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B00NSWPB42",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "De'Longhi ETAM 29.620.SB Autentica Macchina caffe automatica",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 667.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 400,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61y6m3rxymL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B00JF8UIWS",
+    "category": "macchine-caffe-superautomatiche",
+    "title": "De'Longhi Magnifica S ECAM21.117.W, Macchina Caffè Automatica, Montalatte",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 269.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 388,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71aJpKA7OmL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Regolazioni"
+      ],
+      "mixed": [
+        "Temperatura",
+        "Affidabilità",
+        "Qualità del latte"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0GNMS31J4",
-  "category": "macchine-caffe-superautomatiche",
-  "title": "Krups EA508B Harmony - Macchina da caffè automatica",
-  "brand": "Krups",
-  "price": {
-   "value": 323.2,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 307,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71ECJgsxVlL._AC_SL500_.jpg"
- },
- {
-  "asin": "B00NSWPB42",
-  "category": "macchine-caffe-superautomatiche",
-  "title": "De'Longhi ETAM 29.620.SB Autentica Macchina caffe automatica",
-  "brand": "De'Longhi",
-  "price": {
-   "value": 667.94,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 400,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61y6m3rxymL._AC_SL500_.jpg"
- },
- {
-  "asin": "B09TKRNWJX",
-  "category": "macchine-caffe-superautomatiche",
-  "title": "De'Longhi Eletta Explore ECAM452.57.G, Macchina da Caffè Automatica",
-  "brand": "De'Longhi",
-  "price": {
-   "value": 699.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1463,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71L+3vGowpL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Qualità del latte",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07PLXPCX3",
-  "category": "macchine-caffe-superautomatiche",
-  "title": "De'Longhi Perfetto Magnifica S ECAM22.110.B Macchina da Caffè in Grani",
-  "brand": "De'Longhi",
-  "price": {
-   "value": 326.4,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 756,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61cofRHEFqL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0H94ZSVN8",
-  "category": "macchine-caffe-superautomatiche",
-  "title": "Philips 6000 Macchina Caffè Automatica, 22 bevande, Montalatte LatteGo",
-  "brand": "Philips",
-  "price": {
-   "value": 685.37,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 101,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51XWIZFon6L._AC_SL500_.jpg"
- },
- {
-  "asin": "B00JF8UIWS",
-  "category": "macchine-caffe-superautomatiche",
-  "title": "De'Longhi Magnifica S ECAM21.117.W, Macchina Caffè Automatica, Montalatte",
-  "brand": "De'Longhi",
-  "price": {
-   "value": 269.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 388,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71aJpKA7OmL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Regolazioni"
-   ],
-   "mixed": [
-    "Temperatura",
-    "Affidabilità",
-    "Qualità del latte"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,294 +1,294 @@
 [
- {
-  "asin": "B0030E5WYW",
-  "category": "etichettatrici",
-  "title": "Dymo LetraTag LT-100H S0883990 - Etichettatrice etichettatrice",
-  "brand": "Dymo",
-  "price": {
-   "value": 42.4,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0030E5WYW",
+    "category": "etichettatrici",
+    "title": "Dymo LetraTag LT-100H S0883990 - Etichettatrice etichettatrice",
+    "brand": "Dymo",
+    "price": {
+      "value": 42.4,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 18004,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71+RVOyO99L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 18004,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BRZ9RTMX",
+    "category": "etichettatrici",
+    "title": "DYMO LetraTag LT-100T Etichettatrice",
+    "brand": "DYMO",
+    "price": {
+      "value": 38.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7017,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Praticità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Batterie"
+      ],
+      "negative": [
+        "Resistenza"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71+RVOyO99L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B01N5ID8FR",
+    "category": "etichettatrici",
+    "title": "Brother PTH110, Etichettatrice Palmare Professionale, Tastiera QWERTY",
+    "brand": "Brother",
+    "price": {
+      "value": 39.2,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2696,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/715gorPNmgL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Qualità di scrittura"
+      ],
+      "mixed": [
+        "Alimentazione"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0056140MM",
+    "category": "etichettatrici",
+    "title": "Dymo S0884000 Etichettatrice",
+    "brand": "Dymo",
+    "price": {
+      "value": 44.52,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2200,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81nimNwZHaL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GCJT1CVP",
+    "category": "etichettatrici",
+    "title": "Nelko P21 Etichettatrice Portatile, con 3 Rotoli Etichette Adesive, Nero",
+    "brand": "Nelko",
+    "price": {
+      "value": 25.26,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 24653,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71Q2fNBFyuL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Praticità",
+        "Funzionalità",
+        "Costo ricarica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B073J1GX7Y",
+    "category": "etichettatrici",
+    "title": "Brother pte110vpzg1 P-Touch Etichettatrice",
+    "brand": "Brother",
+    "price": {
+      "value": 69,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 709,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61eyyUh3XAL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0B1KZJXPG",
+    "category": "etichettatrici",
+    "title": "Brother P-touch PT-D610BT Etichettatrice connessa professionale",
+    "brand": "Brother",
+    "price": {
+      "value": 370.45,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1165,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61vP7GQ2ZfL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B01N17AFPY",
+    "category": "etichettatrici",
+    "title": "Brother PTP300BT Cube, Etichettatrice Portatile, Bluetooth e compat. MFI",
+    "brand": "Brother",
+    "price": {
+      "value": 46.45,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1146,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51Ip2GaqR8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Praticità",
+        "Personalizzazione",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Qualità di stampa",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BLGSKKVR",
+    "category": "etichettatrici",
+    "title": "DYMO LabelManager 160 Etichettatrice portatile",
+    "brand": "DYMO",
+    "price": {
+      "value": 53.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 967,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71rR+ZuGdnL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Versatilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Qualità di scrittura"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0B7NV87X7",
+    "category": "etichettatrici",
+    "title": "DYMO LetraTag 200B etichettatrice Bluetooth Stampante per etichette co",
+    "brand": "DYMO",
+    "image": "https://m.media-amazon.com/images/I/81BrwCTXjoL._AC_SL500_.jpg",
+    "price": {
+      "value": 30.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2392,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità di scrittura",
+        "Praticità",
+        "Facilità d'uso",
+        "Connettività bluetooth"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "App",
+        "Scelta di font"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0BRZ9RTMX",
-  "category": "etichettatrici",
-  "title": "DYMO LetraTag LT-100T Etichettatrice",
-  "brand": "DYMO",
-  "price": {
-   "value": 38.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 7017,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Praticità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Batterie"
-   ],
-   "negative": [
-    "Resistenza"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01N5ID8FR",
-  "category": "etichettatrici",
-  "title": "Brother PTH110, Etichettatrice Palmare Professionale, Tastiera QWERTY",
-  "brand": "Brother",
-  "price": {
-   "value": 39.2,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2696,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/715gorPNmgL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Qualità di scrittura"
-   ],
-   "mixed": [
-    "Alimentazione"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0056140MM",
-  "category": "etichettatrici",
-  "title": "Dymo S0884000 Etichettatrice",
-  "brand": "Dymo",
-  "price": {
-   "value": 44.52,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2200,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81nimNwZHaL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GCJT1CVP",
-  "category": "etichettatrici",
-  "title": "Nelko P21 Etichettatrice Portatile, con 3 Rotoli Etichette Adesive, Nero",
-  "brand": "Nelko",
-  "price": {
-   "value": 25.26,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 24653,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71Q2fNBFyuL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Praticità",
-    "Funzionalità",
-    "Costo ricarica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B073J1GX7Y",
-  "category": "etichettatrici",
-  "title": "Brother pte110vpzg1 P-Touch Etichettatrice",
-  "brand": "Brother",
-  "price": {
-   "value": 69.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 709,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61eyyUh3XAL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0B1KZJXPG",
-  "category": "etichettatrici",
-  "title": "Brother P-touch PT-D610BT Etichettatrice connessa professionale",
-  "brand": "Brother",
-  "price": {
-   "value": 370.45,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1165,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61vP7GQ2ZfL._AC_SL500_.jpg"
- },
- {
-  "asin": "B01N17AFPY",
-  "category": "etichettatrici",
-  "title": "Brother PTP300BT Cube, Etichettatrice Portatile, Bluetooth e compat. MFI",
-  "brand": "Brother",
-  "price": {
-   "value": 46.45,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1146,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51Ip2GaqR8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Praticità",
-    "Personalizzazione",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Qualità di stampa",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BLGSKKVR",
-  "category": "etichettatrici",
-  "title": "DYMO LabelManager 160 Etichettatrice portatile",
-  "brand": "DYMO",
-  "price": {
-   "value": 53.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 967,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71rR+ZuGdnL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Versatilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Qualità di scrittura"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0B7NV87X7",
-  "category": "etichettatrici",
-  "title": "DYMO LetraTag 200B etichettatrice Bluetooth Stampante per etichette co",
-  "brand": "DYMO",
-  "image": "https://m.media-amazon.com/images/I/81BrwCTXjoL._AC_SL500_.jpg",
-  "price": {
-   "value": 30.19,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2392,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità di scrittura",
-    "Praticità",
-    "Facilità d'uso",
-    "Connettività bluetooth"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "App",
-    "Scelta di font"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

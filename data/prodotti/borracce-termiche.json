@@ -1,228 +1,228 @@
 [
- {
-  "asin": "B0HCF4SP9K",
-  "category": "borracce-termiche",
-  "title": "YETI Rambler Bottle Chug, bottiglia isolata sottovuoto in acciaio inox",
-  "brand": "YETI",
-  "price": {
-   "value": 37.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0HCF4SP9K",
+    "category": "borracce-termiche",
+    "title": "YETI Rambler Bottle Chug, bottiglia isolata sottovuoto in acciaio inox",
+    "brand": "YETI",
+    "price": {
+      "value": 37,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 31438,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61wnUv5kElL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.8,
-   "count": 31438,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0F2BF31PW",
+    "category": "borracce-termiche",
+    "title": "THERMOS Funtainer - Borraccia con cannuccia, 350 ml, costruzione",
+    "brand": "THERMOS",
+    "price": {
+      "value": 30.71,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 57643,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/717sCJ7vxQL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61wnUv5kElL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0F2BF31PW",
-  "category": "borracce-termiche",
-  "title": "THERMOS Funtainer - Borraccia con cannuccia, 350 ml, costruzione",
-  "brand": "THERMOS",
-  "price": {
-   "value": 30.71,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07S3BL36Y",
+    "category": "borracce-termiche",
+    "title": "Thermoflask Borraccia termica a doppia parete in acciaio inox",
+    "brand": "Thermoflask",
+    "price": {
+      "value": 74.52,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 47629,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61S+TvHnHNL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 57643,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BDMHJJJ5",
+    "category": "borracce-termiche",
+    "title": "Milu - Thermo in acciaio inox da 350/500/750/1000ml/1,5L borraccia",
+    "brand": "Milu",
+    "price": {
+      "value": 31.75,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 10875,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71E7Ptpl1iL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Tenuta termica",
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/717sCJ7vxQL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07S3BL36Y",
-  "category": "borracce-termiche",
-  "title": "Thermoflask Borraccia termica a doppia parete in acciaio inox",
-  "brand": "Thermoflask",
-  "price": {
-   "value": 74.52,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BJKDRGWP",
+    "category": "borracce-termiche",
+    "title": "LARS NYSØM Borraccia Termica 1500ml - Borracce Termiche",
+    "brand": "LARS",
+    "price": {
+      "value": 30.65,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 7176,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61pyBgQQ2DL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Tenuta termica",
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Resistenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 47629,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B083SP9Q7L",
+    "category": "borracce-termiche",
+    "title": "FLSK - Borraccia originale, in acciaio inox, da 500 ml",
+    "brand": "FLSK",
+    "price": {
+      "value": 43.85,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2546,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61ksAxKaQbL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61S+TvHnHNL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BDMHJJJ5",
-  "category": "borracce-termiche",
-  "title": "Milu - Thermo in acciaio inox da 350/500/750/1000ml/1,5L borraccia",
-  "brand": "Milu",
-  "price": {
-   "value": 31.75,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C59BVJ3N",
+    "category": "borracce-termiche",
+    "title": "Owala FreeSip borraccia in acciaio inox con cannuccia, Dreamy Field",
+    "brand": "Owala",
+    "price": {
+      "value": 35.85,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4817,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61aqi1vhLlL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 10875,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BZYBSRNF",
+    "category": "borracce-termiche",
+    "title": "Owala FreeSip borraccia in acciaio inox con beccuccio 2-in-1, Denim",
+    "brand": "Owala",
+    "price": {
+      "value": 38.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4785,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61GufZ2yW0L._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/71E7Ptpl1iL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Tenuta termica",
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0DSG78H69",
+    "category": "borracce-termiche",
+    "title": "Thermos - Borraccia termica termica in acciaio inox riutilizzabile per",
+    "brand": "Thermos",
+    "price": {
+      "value": 33.88,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3918,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61DerzqcHOL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0FK1C3GDW",
+    "category": "borracce-termiche",
+    "title": "Owala FreeSip Sway borraccia termica in acciaio inox, Foggy Tide",
+    "brand": "Owala",
+    "price": {
+      "value": 47.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 92189,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61CdTh9-khL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Mantenimento temperatura",
+        "Estetica",
+        "Comfort"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B083SP9Q7L",
-  "category": "borracce-termiche",
-  "title": "FLSK - Borraccia originale, in acciaio inox, da 500 ml",
-  "brand": "FLSK",
-  "price": {
-   "value": 43.85,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 2546,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61ksAxKaQbL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BJKDRGWP",
-  "category": "borracce-termiche",
-  "title": "LARS NYSØM Borraccia Termica 1500ml - Borracce Termiche",
-  "brand": "LARS",
-  "price": {
-   "value": 30.65,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 7176,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61pyBgQQ2DL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Tenuta termica",
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Resistenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FK1C3GDW",
-  "category": "borracce-termiche",
-  "title": "Owala FreeSip Sway borraccia termica in acciaio inox, Foggy Tide",
-  "brand": "Owala",
-  "price": {
-   "value": 47.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 92189,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61CdTh9-khL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Mantenimento temperatura",
-    "Estetica",
-    "Comfort"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C59BVJ3N",
-  "category": "borracce-termiche",
-  "title": "Owala FreeSip borraccia in acciaio inox con cannuccia, Dreamy Field",
-  "brand": "Owala",
-  "price": {
-   "value": 35.85,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 4817,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61aqi1vhLlL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BZYBSRNF",
-  "category": "borracce-termiche",
-  "title": "Owala FreeSip borraccia in acciaio inox con beccuccio 2-in-1, Denim",
-  "brand": "Owala",
-  "price": {
-   "value": 38.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 4785,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61GufZ2yW0L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DSG78H69",
-  "category": "borracce-termiche",
-  "title": "Thermos - Borraccia termica termica in acciaio inox riutilizzabile per",
-  "brand": "Thermos",
-  "price": {
-   "value": 33.88,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 3918,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61DerzqcHOL._AC_SL500_.jpg"
- }
 ]

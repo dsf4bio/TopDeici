@@ -1,275 +1,275 @@
 [
- {
-  "asin": "B07ND8MYKY",
-  "category": "bollitori-elettrici",
-  "title": "Russell Hobbs Bollitore Elettrico Piccolo 1 L Rosso, 2400 W, 24992-70",
-  "brand": "Russell Hobbs",
-  "price": {
-   "value": 32.35,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07ND8MYKY",
+    "category": "bollitori-elettrici",
+    "title": "Russell Hobbs Bollitore Elettrico Piccolo 1 L Rosso, 2400 W, 24992-70",
+    "brand": "Russell Hobbs",
+    "price": {
+      "value": 32.35,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 17470,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61KuUU9qaBL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Velocità",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Facilità d'uso"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 17470,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08CZT7GTD",
+    "category": "bollitori-elettrici",
+    "title": "Philips Bollitore Elettrico 5000, 1,7 L, Ebollizione rapida, in Vetro",
+    "brand": "Philips",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7246,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61ExABkL2jL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Velocità",
+        "Funzionalità",
+        "Regolazione temperatura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61KuUU9qaBL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Velocità",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Facilità d'uso"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07HRD176Q",
+    "category": "bollitori-elettrici",
+    "title": "Ariete Bollitore Vintage 2868, Bollitore Elettrico",
+    "brand": "Ariete",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6258,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/6192dW+hzOL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Funzionalità",
+        "Velocità di risalita",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00ZYE03KE",
+    "category": "bollitori-elettrici",
+    "title": "Ovente KP72P 1.7 l bollitore elettrico senza BPA",
+    "brand": "Ovente",
+    "price": {
+      "value": 144.81,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5792,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61R8c6jPI7L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07G8PJ19P",
+    "category": "bollitori-elettrici",
+    "title": "Russell Hobbs Bollitore Elettrico Compatto, 1 L, Victory 24990-70",
+    "brand": "Russell Hobbs",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4431,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61nATUYb+0L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Funzionalità",
+        "Estetica",
+        "Rapidità di riscaldamento"
+      ],
+      "mixed": [
+        "Robustezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07G83DVHH",
+    "category": "bollitori-elettrici",
+    "title": "Russell Hobbs Bollitore Elettrico Inspire, 1,7 L, 2400 W, Bianco",
+    "brand": "Russell Hobbs",
+    "price": {
+      "value": 47.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4034,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61mVtjuTw3L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Velocità",
+        "Funzionalità",
+        "Facile da pulire"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01ELTI3K4",
+    "category": "bollitori-elettrici",
+    "title": "Ariete Bollitore Vintage 2877, Bollitore Elettrico",
+    "brand": "Ariete",
+    "price": {
+      "value": 39.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2743,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61NeoferenL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Funzionalità",
+        "Velocità",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00BJL4V36",
+    "category": "bollitori-elettrici",
+    "title": "KitchenAid Artisan Bollitore 1,5L Temperatura Regolabile Rosso mela",
+    "brand": "KitchenAid",
+    "price": {
+      "value": 174.3,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2207,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61dp+Fs0MBL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Funzionalità",
+        "Velocità di bollitura",
+        "Regolazione temperatura"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B06ZZQMVBK",
+    "category": "bollitori-elettrici",
+    "title": "Breville BKE700BSS - Bollitore da tè Soft Top elettrico puro, argento",
+    "brand": "Breville",
+    "price": {
+      "value": 234.37,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1953,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51X+LE0a79L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CJK276VP",
+    "category": "bollitori-elettrici",
+    "title": "Bosch MyMoment bollitore elettrico 1,7 L 3000 W Beige (MYMOMENT DELIGHT",
+    "brand": "Bosch",
+    "price": {
+      "value": 49.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 633,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61jq0mqVv6L._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B08CZT7GTD",
-  "category": "bollitori-elettrici",
-  "title": "Philips Bollitore Elettrico 5000, 1,7 L, Ebollizione rapida, in Vetro",
-  "brand": "Philips",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 7246,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61ExABkL2jL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Velocità",
-    "Funzionalità",
-    "Regolazione temperatura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07HRD176Q",
-  "category": "bollitori-elettrici",
-  "title": "Ariete Bollitore Vintage 2868, Bollitore Elettrico",
-  "brand": "Ariete",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6258,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/6192dW+hzOL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Funzionalità",
-    "Velocità di risalita",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00ZYE03KE",
-  "category": "bollitori-elettrici",
-  "title": "Ovente KP72P 1.7 l bollitore elettrico senza BPA",
-  "brand": "Ovente",
-  "price": {
-   "value": 144.81,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5792,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61R8c6jPI7L._AC_SL500_.jpg"
- },
- {
-  "asin": "B07G8PJ19P",
-  "category": "bollitori-elettrici",
-  "title": "Russell Hobbs Bollitore Elettrico Compatto, 1 L, Victory 24990-70",
-  "brand": "Russell Hobbs",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4431,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61nATUYb+0L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Funzionalità",
-    "Estetica",
-    "Rapidità di riscaldamento"
-   ],
-   "mixed": [
-    "Robustezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07G83DVHH",
-  "category": "bollitori-elettrici",
-  "title": "Russell Hobbs Bollitore Elettrico Inspire, 1,7 L, 2400 W, Bianco",
-  "brand": "Russell Hobbs",
-  "price": {
-   "value": 47.96,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4034,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61mVtjuTw3L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Velocità",
-    "Funzionalità",
-    "Facile da pulire"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01ELTI3K4",
-  "category": "bollitori-elettrici",
-  "title": "Ariete Bollitore Vintage 2877, Bollitore Elettrico",
-  "brand": "Ariete",
-  "price": {
-   "value": 39.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2743,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61NeoferenL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Funzionalità",
-    "Velocità",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00BJL4V36",
-  "category": "bollitori-elettrici",
-  "title": "KitchenAid Artisan Bollitore 1,5L Temperatura Regolabile Rosso mela",
-  "brand": "KitchenAid",
-  "price": {
-   "value": 174.3,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2207,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61dp+Fs0MBL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Funzionalità",
-    "Velocità di bollitura",
-    "Regolazione temperatura"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B06ZZQMVBK",
-  "category": "bollitori-elettrici",
-  "title": "Breville BKE700BSS - Bollitore da tè Soft Top elettrico puro, argento",
-  "brand": "Breville",
-  "price": {
-   "value": 234.37,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1953,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51X+LE0a79L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CJK276VP",
-  "category": "bollitori-elettrici",
-  "title": "Bosch MyMoment bollitore elettrico 1,7 L 3000 W Beige (MYMOMENT DELIGHT",
-  "brand": "Bosch",
-  "price": {
-   "value": 49.94,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 633,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61jq0mqVv6L._AC_SL500_.jpg"
- }
 ]

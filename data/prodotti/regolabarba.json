@@ -1,296 +1,296 @@
 [
- {
-  "asin": "B00827ILWM",
-  "category": "regolabarba",
-  "title": "WAHL 79524-5201 Rasoio e regolabarba",
-  "brand": "WAHL",
-  "price": {
-   "value": 59.91,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C2J8DQC1",
+    "category": "regolabarba",
+    "title": "Rifinitore e raschietto OneBlade con 3 pettini, impermeabile, Bivolt",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/71XX+0k7cuL._AC_SL500_.jpg",
+    "price": {
+      "value": 30.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 13664,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Praticità"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.4,
-   "count": 18419,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CG6TB95V",
+    "category": "regolabarba",
+    "title": "Rifinitore All-in-One Philips serie 7000, Multigroom 15 in 1 per viso",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/71aq8CpsbgL._AC_SL500_.jpg",
+    "price": {
+      "value": 80.8,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3412,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Durata batteria",
+        "Rapporto qualità-prezzo",
+        "Accessori"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/81nyhHxrN4L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DQWPZVY3",
-  "category": "regolabarba",
-  "title": "Braun Serie 5 Regolabarba Uomo, 5 Strumenti Styling, Bt5525, Grigio",
-  "brand": "Braun",
-  "price": {
-   "value": 74.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00827ILWM",
+    "category": "regolabarba",
+    "title": "WAHL 79524-5201 Rasoio e regolabarba",
+    "brand": "WAHL",
+    "price": {
+      "value": 59.91,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 18419,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81nyhHxrN4L._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.5,
-   "count": 1031,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B085FBDBW7",
+    "category": "regolabarba",
+    "title": "Panasonic ER-GB80-H503 Regolabarba, Tagliacapelli da Uomo",
+    "brand": "Panasonic",
+    "price": {
+      "value": 44.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3613,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/716SPLWqnXL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71ZTY34sjtL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Regolabilità",
-    "Durata batteria",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B085F9FLCZ",
+    "category": "regolabarba",
+    "title": "Panasonic ER-GB62-H503 Regolabarba e Tagliacapelli da Uomo",
+    "brand": "Panasonic",
+    "price": {
+      "value": 36.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3339,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71UXcdiVwPL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Taglio",
+        "Robustezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DQWPZVY3",
+    "category": "regolabarba",
+    "title": "Braun Serie 5 Regolabarba Uomo, 5 Strumenti Styling, Bt5525, Grigio",
+    "brand": "Braun",
+    "price": {
+      "value": 74.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1031,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71ZTY34sjtL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Regolabilità",
+        "Durata batteria",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B082FLRP9W",
+    "category": "regolabarba",
+    "title": "Panasonic ER-GB37-K503 Regolabarba e Tagliacapelli Wet & Dry",
+    "brand": "Panasonic",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2422,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71DTASV68VL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza di trattamento",
+        "Praticità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Presa"
+      ],
+      "negative": [
+        "Durata batteria"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B074F32LFP",
+    "category": "regolabarba",
+    "title": "Panasonic ER-SB40-K803 Regolabarba da Uomo",
+    "brand": "Panasonic",
+    "price": {
+      "value": 79.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2354,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71wlDv+Iq5L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Taglio",
+        "Potenza",
+        "Durata batteria",
+        "Regolabilità"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DQWW7LNZ",
+    "category": "regolabarba",
+    "title": "Braun Rifinitore All-in-One Serie 5 Rasoio Elettrico,Accessori AIO5540",
+    "brand": "Braun",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2036,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81-aS8HJHcL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Versatilità",
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Qualità costruttiva"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Comfort",
+        "Lunghezza di taglio"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F3BPSCL6",
+    "category": "regolabarba",
+    "title": "Kensen Regolabarba Uomo Multifunzione, Kit Completo Barba Capelli Corp",
+    "brand": "kensen",
+    "image": "https://m.media-amazon.com/images/I/71zKcSdPOgL._AC_SL500_.jpg",
+    "price": {
+      "value": 45.23,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 172,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B085FBDBW7",
-  "category": "regolabarba",
-  "title": "Panasonic ER-GB80-H503 Regolabarba, Tagliacapelli da Uomo",
-  "brand": "Panasonic",
-  "price": {
-   "value": 44.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3613,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/716SPLWqnXL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B085F9FLCZ",
-  "category": "regolabarba",
-  "title": "Panasonic ER-GB62-H503 Regolabarba e Tagliacapelli da Uomo",
-  "brand": "Panasonic",
-  "price": {
-   "value": 36.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3339,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71UXcdiVwPL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Taglio",
-    "Robustezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B082FLRP9W",
-  "category": "regolabarba",
-  "title": "Panasonic ER-GB37-K503 Regolabarba e Tagliacapelli Wet & Dry",
-  "brand": "Panasonic",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2422,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71DTASV68VL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza di trattamento",
-    "Praticità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Presa"
-   ],
-   "negative": [
-    "Durata batteria"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B074F32LFP",
-  "category": "regolabarba",
-  "title": "Panasonic ER-SB40-K803 Regolabarba da Uomo",
-  "brand": "Panasonic",
-  "price": {
-   "value": 79.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2354,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71wlDv+Iq5L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Taglio",
-    "Potenza",
-    "Durata batteria",
-    "Regolabilità"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DQWW7LNZ",
-  "category": "regolabarba",
-  "title": "Braun Rifinitore All-in-One Serie 5 Rasoio Elettrico,Accessori AIO5540",
-  "brand": "Braun",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2036,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81-aS8HJHcL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Versatilità",
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Qualità costruttiva"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Comfort",
-    "Lunghezza di taglio"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C2J8DQC1",
-  "category": "regolabarba",
-  "title": "Rifinitore e raschietto OneBlade con 3 pettini, impermeabile, Bivolt",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/71XX+0k7cuL._AC_SL500_.jpg",
-  "price": {
-   "value": 30.94,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 13664,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Praticità"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CG6TB95V",
-  "category": "regolabarba",
-  "title": "Rifinitore All-in-One Philips serie 7000, Multigroom 15 in 1 per viso",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/71aq8CpsbgL._AC_SL500_.jpg",
-  "price": {
-   "value": 80.8,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3412,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Durata batteria",
-    "Rapporto qualità-prezzo",
-    "Accessori"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F3BPSCL6",
-  "category": "regolabarba",
-  "title": "Kensen Regolabarba Uomo Multifunzione, Kit Completo Barba Capelli Corp",
-  "brand": "kensen",
-  "image": "https://m.media-amazon.com/images/I/71zKcSdPOgL._AC_SL500_.jpg",
-  "price": {
-   "value": 45.23,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 172,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

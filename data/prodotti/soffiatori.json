@@ -1,298 +1,298 @@
 [
- {
-  "asin": "B01HIGWCQI",
-  "category": "soffiatori",
-  "title": "BLACK+DECKER LB700 - Soffiatore elettrico 7 Amp",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 178.7,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01HIGWCQI",
+    "category": "soffiatori",
+    "title": "BLACK+DECKER LB700 - Soffiatore elettrico 7 Amp",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 178.7,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 29327,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61EDm2plHWL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 29327,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07MY69GYY",
+    "category": "soffiatori",
+    "title": "BLACK+DECKER Soffiatore assiale da 1850 W, BEBL185-QS",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 52.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2731,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/613gEOyGMNL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Leggerezza"
+      ],
+      "mixed": [],
+      "negative": [
+        "Regolabilità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61EDm2plHWL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07MY69GYY",
-  "category": "soffiatori",
-  "title": "BLACK+DECKER Soffiatore assiale da 1850 W, BEBL185-QS",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 52.94,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B081H8MQ46",
+    "category": "soffiatori",
+    "title": "Makita DUB184Z Soffiatore Batteria LXT 18V Solo Corpo",
+    "brand": "Makita",
+    "price": {
+      "value": 110.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3018,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Rl0AVS-aL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Leggerezza",
+        "Funzionalità",
+        "Maneggevolezza"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 2731,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07WH16LF3",
+    "category": "soffiatori",
+    "title": "Einhell Professional Soffiatore a batteria GP-LB 36/210 Li E-Solo",
+    "brand": "Einhell",
+    "price": {
+      "value": 134.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1875,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71rLQhBS9mL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Efficacia",
+        "Leggerezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/613gEOyGMNL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Leggerezza"
-   ],
-   "mixed": [],
-   "negative": [
-    "Regolabilità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0B5D2PF1V",
+    "category": "soffiatori",
+    "title": "Einhell Soffiatore universale a batteria GE-UB 18/250 Li E-Solo",
+    "brand": "Einhell",
+    "price": {
+      "value": 59.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1653,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61I24NIReML._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Leggerezza",
+        "Funzionalità",
+        "Maneggevolezza",
+        "Praticità"
+      ],
+      "mixed": [
+        "Potenza",
+        "Durata batteria",
+        "Efficacia"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07YFZTXCZ",
+    "category": "soffiatori",
+    "title": "WORX WG547E.9 Soffiatore 20 V, 600 m³/h, senza batteria e caricabatterie",
+    "brand": "WORX",
+    "price": {
+      "value": 71.54,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1471,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41L2KpXKJ8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Leggerezza",
+        "Maneggevolezza"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09Q961ZTN",
+    "category": "soffiatori",
+    "title": "Einhell Professional Soffiatore a batteria GP-LB 18/200 Li E-Solo",
+    "brand": "Einhell",
+    "price": {
+      "value": 94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1119,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51tnwERgqjL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Leggerezza",
+        "Maneggevolezza"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [
+        "Rumorosità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B085DYPC1D",
+    "category": "soffiatori",
+    "title": "Dewalt DCBL722B 20V MAX XR - Soffiatore senza fili senza spazzole agli",
+    "brand": "Dewalt",
+    "price": {
+      "value": 355.71,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 10095,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/611u2SM0naL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B01BBZ1O1G",
+    "category": "soffiatori",
+    "title": "Einhell Soffiatore a batteria GC-CL 18 Li E Solo",
+    "brand": "Einhell",
+    "price": {
+      "value": 36.05,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 8413,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51LfpatD5-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Leggerezza",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [
+        "Potenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CGX528FK",
+    "category": "soffiatori",
+    "title": "Bosch Professional 18V Soffiatore a batteria GBL 18V-750 senza batt./c",
+    "brand": "Bosch",
+    "image": "https://m.media-amazon.com/images/I/51FOLW73IML._AC_SL500_.jpg",
+    "price": {
+      "value": 182.31,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 590,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Potenza"
+      ],
+      "mixed": [
+        "Consumo batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B081H8MQ46",
-  "category": "soffiatori",
-  "title": "Makita DUB184Z Soffiatore Batteria LXT 18V Solo Corpo",
-  "brand": "Makita",
-  "price": {
-   "value": 110.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3018,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Rl0AVS-aL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Leggerezza",
-    "Funzionalità",
-    "Maneggevolezza"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07WH16LF3",
-  "category": "soffiatori",
-  "title": "Einhell Professional Soffiatore a batteria GP-LB 36/210 Li E-Solo",
-  "brand": "Einhell",
-  "price": {
-   "value": 134.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1875,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71rLQhBS9mL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Efficacia",
-    "Leggerezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0B5D2PF1V",
-  "category": "soffiatori",
-  "title": "Einhell Soffiatore universale a batteria GE-UB 18/250 Li E-Solo",
-  "brand": "Einhell",
-  "price": {
-   "value": 59.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1653,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61I24NIReML._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Leggerezza",
-    "Funzionalità",
-    "Maneggevolezza",
-    "Praticità"
-   ],
-   "mixed": [
-    "Potenza",
-    "Durata batteria",
-    "Efficacia"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07YFZTXCZ",
-  "category": "soffiatori",
-  "title": "WORX WG547E.9 Soffiatore 20 V, 600 m³/h, senza batteria e caricabatterie",
-  "brand": "WORX",
-  "price": {
-   "value": 71.54,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1471,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41L2KpXKJ8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Leggerezza",
-    "Maneggevolezza"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09Q961ZTN",
-  "category": "soffiatori",
-  "title": "Einhell Professional Soffiatore a batteria GP-LB 18/200 Li E-Solo",
-  "brand": "Einhell",
-  "price": {
-   "value": 94.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1119,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51tnwERgqjL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Leggerezza",
-    "Maneggevolezza"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [
-    "Rumorosità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B085DYPC1D",
-  "category": "soffiatori",
-  "title": "Dewalt DCBL722B 20V MAX XR - Soffiatore senza fili senza spazzole agli",
-  "brand": "Dewalt",
-  "price": {
-   "value": 355.71,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 10095,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/611u2SM0naL._AC_SL500_.jpg"
- },
- {
-  "asin": "B01BBZ1O1G",
-  "category": "soffiatori",
-  "title": "Einhell Soffiatore a batteria GC-CL 18 Li E Solo",
-  "brand": "Einhell",
-  "price": {
-   "value": 36.05,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 8413,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51LfpatD5-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Leggerezza",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [
-    "Potenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CGX528FK",
-  "category": "soffiatori",
-  "title": "Bosch Professional 18V Soffiatore a batteria GBL 18V-750 senza batt./c",
-  "brand": "Bosch",
-  "image": "https://m.media-amazon.com/images/I/51FOLW73IML._AC_SL500_.jpg",
-  "price": {
-   "value": 182.31,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 590,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Potenza"
-   ],
-   "mixed": [
-    "Consumo batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

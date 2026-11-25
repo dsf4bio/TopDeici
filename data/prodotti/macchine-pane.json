@@ -1,270 +1,270 @@
 [
- {
-  "asin": "B01CHVXNXA",
-  "category": "macchine-pane",
-  "title": "Moulinex OW2101 Pain Doré Macchina del Pane, 720 W, 1 kg",
-  "brand": "Moulinex",
-  "image": "https://m.media-amazon.com/images/I/51GHKSOXmAL._AC_SL500_.jpg",
-  "price": {
-   "value": 94.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B01CHVXNXA",
+    "category": "macchine-pane",
+    "title": "Moulinex OW2101 Pain Doré Macchina del Pane, 720 W, 1 kg",
+    "brand": "Moulinex",
+    "image": "https://m.media-amazon.com/images/I/51GHKSOXmAL._AC_SL500_.jpg",
+    "price": {
+      "value": 94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 7351,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Lievitazione"
+      ],
+      "mixed": [],
+      "negative": [
+        "Ricettario"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.5,
-   "count": 7351,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B01CQYN2PM",
+    "category": "macchine-pane",
+    "title": "Moulinex OW240E Macchina del Pane, 20 Programmi, Nero",
+    "brand": "Moulinex",
+    "image": "https://m.media-amazon.com/images/I/611-yIl-66L._AC_SL500_.jpg",
+    "price": {
+      "value": 98.44,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4314,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Impastatura"
+      ],
+      "mixed": [
+        "Ricettario"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Lievitazione"
-   ],
-   "mixed": [],
-   "negative": [
-    "Ricettario"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B019HKBGPG",
+    "category": "macchine-pane",
+    "title": "Unold 68456 Macchina Per Il Pane",
+    "brand": "Unold",
+    "image": "https://m.media-amazon.com/images/I/51a4vMK-HgL._AC_SL500_.jpg",
+    "price": {
+      "value": 173.86,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1192,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B01CHVXOIO",
+    "category": "macchine-pane",
+    "title": "Moulinex OW2208 Pain & Plaisir, Macchina del Pane, 17 Prog",
+    "brand": "Moulinex",
+    "image": "https://m.media-amazon.com/images/I/71YKzotyXRL._AC_SL500_.jpg",
+    "price": {
+      "value": 119.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1025,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Impasto"
+      ],
+      "mixed": [
+        "Ricettario",
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B082WTBKYP",
+    "category": "macchine-pane",
+    "title": "Princess Macchina del Pane, 900 g, 15 Programmi, Programma",
+    "brand": "Princess",
+    "image": "https://m.media-amazon.com/images/I/71aKrKTQlmL._AC_SL500_.jpg",
+    "price": {
+      "value": 99.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2552,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Impastatura"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [
+        "Ricettario"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01I6H17XW",
+    "category": "macchine-pane",
+    "title": "Macchina per il pane Tefal PF240E38, nera/acciaio inossida",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/41cFN0RjpNS._AC_SL500_.jpg",
+    "price": {
+      "value": 119,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1253,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0921TRBHM",
+    "category": "macchine-pane",
+    "title": "Panasonic SD-YR2540 Premium Grigio Macchina per il pane co",
+    "brand": "Panasonic",
+    "image": "https://m.media-amazon.com/images/I/716dThmKXxL._AC_SL500_.jpg",
+    "price": {
+      "value": 192,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 846,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09LHRL5G3",
+    "category": "macchine-pane",
+    "title": "Macchina per il pane Clatronic® preparazione automatica",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81JYzMyKgzL._AC_SL500_.jpg",
+    "price": {
+      "value": 86.44,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 454,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B078HL7Y3W",
+    "category": "macchine-pane",
+    "title": "G3 Ferrari G10078 Macchina del pane, 550W, 3 Livelli di do",
+    "brand": "G3",
+    "image": "https://m.media-amazon.com/images/I/71pabzFsAGL._AC_SL500_.jpg",
+    "price": {
+      "value": 77.91,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 241,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Versatilità",
+        "Estetica"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Istruzioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0921P91XZ",
+    "category": "macchine-pane",
+    "title": "Panasonic SD-R2530KXE Macchina per il Pane Automatica, Pro",
+    "brand": "Panasonic",
+    "image": "https://m.media-amazon.com/images/I/71iLwaRVxNL._AC_SL500_.jpg",
+    "price": {
+      "value": 219.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 225,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità del pane",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B01CQYN2PM",
-  "category": "macchine-pane",
-  "title": "Moulinex OW240E Macchina del Pane, 20 Programmi, Nero",
-  "brand": "Moulinex",
-  "image": "https://m.media-amazon.com/images/I/611-yIl-66L._AC_SL500_.jpg",
-  "price": {
-   "value": 98.44,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4314,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Impastatura"
-   ],
-   "mixed": [
-    "Ricettario"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B019HKBGPG",
-  "category": "macchine-pane",
-  "title": "Unold 68456 Macchina Per Il Pane",
-  "brand": "Unold",
-  "image": "https://m.media-amazon.com/images/I/51a4vMK-HgL._AC_SL500_.jpg",
-  "price": {
-   "value": 173.86,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1192,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B01CHVXOIO",
-  "category": "macchine-pane",
-  "title": "Moulinex OW2208 Pain & Plaisir, Macchina del Pane, 17 Prog",
-  "brand": "Moulinex",
-  "image": "https://m.media-amazon.com/images/I/71YKzotyXRL._AC_SL500_.jpg",
-  "price": {
-   "value": 119.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1025,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Impasto"
-   ],
-   "mixed": [
-    "Ricettario",
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B082WTBKYP",
-  "category": "macchine-pane",
-  "title": "Princess Macchina del Pane, 900 g, 15 Programmi, Programma",
-  "brand": "Princess",
-  "image": "https://m.media-amazon.com/images/I/71aKrKTQlmL._AC_SL500_.jpg",
-  "price": {
-   "value": 99.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2552,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Impastatura"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [
-    "Ricettario"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01I6H17XW",
-  "category": "macchine-pane",
-  "title": "Macchina per il pane Tefal PF240E38, nera/acciaio inossida",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/41cFN0RjpNS._AC_SL500_.jpg",
-  "price": {
-   "value": 119.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1253,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0921TRBHM",
-  "category": "macchine-pane",
-  "title": "Panasonic SD-YR2540 Premium Grigio Macchina per il pane co",
-  "brand": "Panasonic",
-  "image": "https://m.media-amazon.com/images/I/716dThmKXxL._AC_SL500_.jpg",
-  "price": {
-   "value": 192.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 846,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B09LHRL5G3",
-  "category": "macchine-pane",
-  "title": "Macchina per il pane Clatronic® preparazione automatica",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81JYzMyKgzL._AC_SL500_.jpg",
-  "price": {
-   "value": 86.44,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 454,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B078HL7Y3W",
-  "category": "macchine-pane",
-  "title": "G3 Ferrari G10078 Macchina del pane, 550W, 3 Livelli di do",
-  "brand": "G3",
-  "image": "https://m.media-amazon.com/images/I/71pabzFsAGL._AC_SL500_.jpg",
-  "price": {
-   "value": 77.91,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 241,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Versatilità",
-    "Estetica"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Istruzioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0921P91XZ",
-  "category": "macchine-pane",
-  "title": "Panasonic SD-R2530KXE Macchina per il Pane Automatica, Pro",
-  "brand": "Panasonic",
-  "image": "https://m.media-amazon.com/images/I/71iLwaRVxNL._AC_SL500_.jpg",
-  "price": {
-   "value": 219.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 225,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità del pane",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

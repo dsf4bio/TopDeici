@@ -1,282 +1,282 @@
 [
- {
-  "asin": "B08QCTS33K",
-  "category": "scanner-documenti",
-  "title": "ScanSnap iX1600 Bianca - Scanner documenti per ufficio",
-  "brand": "ScanSnap",
-  "price": {
-   "value": 499.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08QCTS33K",
+    "category": "scanner-documenti",
+    "title": "ScanSnap iX1600 Bianca - Scanner documenti per ufficio",
+    "brand": "ScanSnap",
+    "price": {
+      "value": 499,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1132,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61dLYx1-qcL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Velocità",
+        "Scansione"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 1132,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08KKMYRBN",
+    "category": "scanner-documenti",
+    "title": "Doxie Pro - Scanner duplex per documenti e ricevute per casa e ufficio",
+    "brand": "Doxie",
+    "price": {
+      "value": 607.85,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 623,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51pBoQpNTCL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61dLYx1-qcL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Velocità",
-    "Scansione"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B08QCRFWL6",
+    "category": "scanner-documenti",
+    "title": "Ricoh ScanSnap iX1400 Dokumentenscanner Duplex ADF USB",
+    "brand": "Ricoh",
+    "price": {
+      "value": 364.11,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 373,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Q2WEJvKyL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Velocità",
+        "Presa",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07G1S1FKW",
+    "category": "scanner-documenti",
+    "title": "Canon CanoScan LiDE 400 Scanner piano a colori, Nero",
+    "brand": "Canon",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 5587,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/712jgOD-MTL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Facilità d'installazione"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Risoluzione"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01DDLYK8K",
+    "category": "scanner-documenti",
+    "title": "Plustek Ephoto Z300 Scanner Sheetfeed",
+    "brand": "Plustek",
+    "price": {
+      "value": 199.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 500,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/815YB2emf0L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B074PLQ21W",
+    "category": "scanner-documenti",
+    "title": "Epson Workforce DS-410 scanner A4 verticale",
+    "brand": "Epson",
+    "price": {
+      "value": 289.04,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 477,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Hkm00IajL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09H2SS5K9",
+    "category": "scanner-documenti",
+    "title": "Fujitsu ScanSnap iX1300 Scanner ADF 600 x 600 DPI A4 Bianco ScanSnap",
+    "brand": "Fujitsu",
+    "price": {
+      "value": 319,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 343,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71jiO3JZMpL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Velocità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07KF78D57",
+    "category": "scanner-documenti",
+    "title": "Epson WorkForce ES-50 Scanner Portatile Compatto Leggero",
+    "brand": "Epson",
+    "price": {
+      "value": 97.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1249,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/611zluh2+dL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Portabilità",
+        "Praticità",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B083MLP8W3",
+    "category": "scanner-documenti",
+    "title": "Brother DS740D, Scanner Portatile A4, 15 ppm, Scan Fronte/Retro Dual Cis",
+    "brand": "Brother",
+    "price": {
+      "value": 145.29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1117,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51X132J10yL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Velocità",
+        "Facilità d'uso",
+        "Scansione fronte-retro"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0928LV2XZ",
+    "category": "scanner-documenti",
+    "title": "CZUR Shine Ultra 13MP Scanner di Documenti",
+    "brand": "CZUR",
+    "price": {
+      "value": 176.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 390,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51qiIOqsU-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Versatilità"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Qualità dell'immagine"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B08KKMYRBN",
-  "category": "scanner-documenti",
-  "title": "Doxie Pro - Scanner duplex per documenti e ricevute per casa e ufficio",
-  "brand": "Doxie",
-  "price": {
-   "value": 607.85,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 623,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51pBoQpNTCL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08QCRFWL6",
-  "category": "scanner-documenti",
-  "title": "Ricoh ScanSnap iX1400 Dokumentenscanner Duplex ADF USB",
-  "brand": "Ricoh",
-  "price": {
-   "value": 364.11,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 373,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Q2WEJvKyL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Velocità",
-    "Presa",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07G1S1FKW",
-  "category": "scanner-documenti",
-  "title": "Canon CanoScan LiDE 400 Scanner piano a colori, Nero",
-  "brand": "Canon",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 5587,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/712jgOD-MTL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Facilità d'installazione"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Risoluzione"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01DDLYK8K",
-  "category": "scanner-documenti",
-  "title": "Plustek Ephoto Z300 Scanner Sheetfeed",
-  "brand": "Plustek",
-  "price": {
-   "value": 199.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 500,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/815YB2emf0L._AC_SL500_.jpg"
- },
- {
-  "asin": "B074PLQ21W",
-  "category": "scanner-documenti",
-  "title": "Epson Workforce DS-410 scanner A4 verticale",
-  "brand": "Epson",
-  "price": {
-   "value": 289.04,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 477,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Hkm00IajL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09H2SS5K9",
-  "category": "scanner-documenti",
-  "title": "Fujitsu ScanSnap iX1300 Scanner ADF 600 x 600 DPI A4 Bianco ScanSnap",
-  "brand": "Fujitsu",
-  "price": {
-   "value": 319.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 343,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71jiO3JZMpL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Velocità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07KF78D57",
-  "category": "scanner-documenti",
-  "title": "Epson WorkForce ES-50 Scanner Portatile Compatto Leggero",
-  "brand": "Epson",
-  "price": {
-   "value": 97.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1249,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/611zluh2+dL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Portabilità",
-    "Praticità",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B083MLP8W3",
-  "category": "scanner-documenti",
-  "title": "Brother DS740D, Scanner Portatile A4, 15 ppm, Scan Fronte/Retro Dual Cis",
-  "brand": "Brother",
-  "price": {
-   "value": 145.29,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1117,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51X132J10yL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Velocità",
-    "Facilità d'uso",
-    "Scansione fronte-retro"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0928LV2XZ",
-  "category": "scanner-documenti",
-  "title": "CZUR Shine Ultra 13MP Scanner di Documenti",
-  "brand": "CZUR",
-  "price": {
-   "value": 176.84,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 390,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51qiIOqsU-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Versatilità"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Qualità dell'immagine"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,305 +1,305 @@
 [
- {
-  "asin": "B0CZ9JLN3N",
-  "category": "power-bank",
-  "title": "Anker Power Bank 20000mAh 30W, Caricabatterie Portatile ad Alta Velocità",
-  "brand": "Anker",
-  "price": {
-   "value": 27.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CZ9JLN3N",
+    "category": "power-bank",
+    "title": "Anker Power Bank 20000mAh 30W, Caricabatterie Portatile ad Alta Velocità",
+    "brand": "Anker",
+    "price": {
+      "value": 27.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 15430,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/6108MclmmKL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Velocità di ricarica",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Capacità"
+      ],
+      "mixed": [
+        "Dimensioni"
+      ],
+      "negative": [
+        "Peso"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 15430,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DCBB2YTR",
+    "category": "power-bank",
+    "title": "Anker Laptop Power Bank 25000mAh Tre Porte USB C da 165W",
+    "brand": "Anker",
+    "price": {
+      "value": 74.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 13449,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/719gdk2nV9L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Velocità di ricarica",
+        "Funzionalità",
+        "Potenza",
+        "Capacità"
+      ],
+      "mixed": [],
+      "negative": [
+        "Leggerezza"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/6108MclmmKL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Velocità di ricarica",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Capacità"
-   ],
-   "mixed": [
-    "Dimensioni"
-   ],
-   "negative": [
-    "Peso"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0DCJXYKYD",
+    "category": "power-bank",
+    "title": "INIU Power Bank, Ultrapiccolo 20000mAh 22,5W PD Ricarica Rapida",
+    "brand": "INIU",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2189,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71YhFjQuZxL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Ricarica veloce",
+        "Dimensioni compatte",
+        "Funzionalità",
+        "Portabilità"
+      ],
+      "mixed": [
+        "Peso"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CSSRD4NT",
+    "category": "power-bank",
+    "title": "UGREEN Zapix 22.5W Power Bank 20000mAh Caricatore Portatile USB C PD 20W",
+    "brand": "UGREEN",
+    "price": {
+      "value": 35.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4478,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51D0jC2BHpL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Velocità di ricarica",
+        "Potenza",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [
+        "Peso"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DGKWTQQC",
+    "category": "power-bank",
+    "title": "Anker Nano Power Bank Caricatore Portatile 10000mAh 45W",
+    "brand": "Anker",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3888,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/615W85aaLXL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Funzionalità",
+        "Dimensioni compatte",
+        "Velocità di ricarica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DSZKKJTK",
+    "category": "power-bank",
+    "title": "Anker Zolo Power Bank Aggiornamento 2025 20000mAh(Nero)",
+    "brand": "Anker",
+    "price": {
+      "value": 30.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2889,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71Ujt4xUuFL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità di ricarica",
+        "Capienza",
+        "Capacità di ricarica"
+      ],
+      "mixed": [
+        "Ingombro"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CZDFL2BY",
+    "category": "power-bank",
+    "title": "Anker MagGo Power Bank Magsafe per Apple Watch, Portatile e Compatta",
+    "brand": "Anker",
+    "price": {
+      "value": 54.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2174,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61-jI0F1i1L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Ricarica compatibile",
+        "Durata di carica"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F66LNB8D",
+    "category": "power-bank",
+    "title": "Anker Prime Power Bank 26250mAh Potenza fino a 300W",
+    "brand": "Anker",
+    "price": {
+      "value": 159.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1731,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Z1Qfxu-hL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Ricarica",
+        "Prestazioni",
+        "Capacità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F66NH2ZX",
+    "category": "power-bank",
+    "title": "Anker Prime Power Bank 20100mAh Caricatore a 3 Porte Uscita Massima 220W",
+    "brand": "Anker",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 728,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61DO5j6ZYNL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B09VPHVT2Z",
+    "category": "power-bank",
+    "title": "Anker Power Bank Ricarica Rapida 24000mAh 737 PowerCore 24K (Nero)",
+    "brand": "Anker",
+    "price": {
+      "value": 75.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 17566,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61EUVVvuk1L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Velocità di ricarica",
+        "Potenza"
+      ],
+      "mixed": [
+        "Durata",
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0DCBB2YTR",
-  "category": "power-bank",
-  "title": "Anker Laptop Power Bank 25000mAh Tre Porte USB C da 165W",
-  "brand": "Anker",
-  "price": {
-   "value": 74.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 13449,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/719gdk2nV9L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Velocità di ricarica",
-    "Funzionalità",
-    "Potenza",
-    "Capacità"
-   ],
-   "mixed": [],
-   "negative": [
-    "Leggerezza"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DCJXYKYD",
-  "category": "power-bank",
-  "title": "INIU Power Bank, Ultrapiccolo 20000mAh 22,5W PD Ricarica Rapida",
-  "brand": "INIU",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2189,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71YhFjQuZxL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Ricarica veloce",
-    "Dimensioni compatte",
-    "Funzionalità",
-    "Portabilità"
-   ],
-   "mixed": [
-    "Peso"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CSSRD4NT",
-  "category": "power-bank",
-  "title": "UGREEN Zapix 22.5W Power Bank 20000mAh Caricatore Portatile USB C PD 20W",
-  "brand": "UGREEN",
-  "price": {
-   "value": 35.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4478,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51D0jC2BHpL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Velocità di ricarica",
-    "Potenza",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [
-    "Peso"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DGKWTQQC",
-  "category": "power-bank",
-  "title": "Anker Nano Power Bank Caricatore Portatile 10000mAh 45W",
-  "brand": "Anker",
-  "price": {
-   "value": 37.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3888,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/615W85aaLXL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Funzionalità",
-    "Dimensioni compatte",
-    "Velocità di ricarica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DSZKKJTK",
-  "category": "power-bank",
-  "title": "Anker Zolo Power Bank Aggiornamento 2025 20000mAh(Nero)",
-  "brand": "Anker",
-  "price": {
-   "value": 30.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2889,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71Ujt4xUuFL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità di ricarica",
-    "Capienza",
-    "Capacità di ricarica"
-   ],
-   "mixed": [
-    "Ingombro"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CZDFL2BY",
-  "category": "power-bank",
-  "title": "Anker MagGo Power Bank Magsafe per Apple Watch, Portatile e Compatta",
-  "brand": "Anker",
-  "price": {
-   "value": 54.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2174,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61-jI0F1i1L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Ricarica compatibile",
-    "Durata di carica"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09VPHVT2Z",
-  "category": "power-bank",
-  "title": "Anker Power Bank Ricarica Rapida 24000mAh 737 PowerCore 24K (Nero)",
-  "brand": "Anker",
-  "price": {
-   "value": 75.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 17566,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61EUVVvuk1L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Velocità di ricarica",
-    "Potenza"
-   ],
-   "mixed": [
-    "Durata",
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F66NH2ZX",
-  "category": "power-bank",
-  "title": "Anker Prime Power Bank 20100mAh Caricatore a 3 Porte Uscita Massima 220W",
-  "brand": "Anker",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 728,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61DO5j6ZYNL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0F66LNB8D",
-  "category": "power-bank",
-  "title": "Anker Prime Power Bank 26250mAh Potenza fino a 300W",
-  "brand": "Anker",
-  "price": {
-   "value": 159.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1731,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Z1Qfxu-hL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Ricarica",
-    "Prestazioni",
-    "Capacità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

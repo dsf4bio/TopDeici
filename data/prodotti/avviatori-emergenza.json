@@ -1,289 +1,289 @@
 [
- {
-  "asin": "B0924V8SPC",
-  "category": "avviatori-emergenza",
-  "title": "NOCO Boost X GBX45 Avviatore Batteria 1250A - 6,5L Benzina e 4,0L Diesel",
-  "brand": "NOCO",
-  "price": {
-   "value": 142.14,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0924V8SPC",
+    "category": "avviatori-emergenza",
+    "title": "NOCO Boost X GBX45 Avviatore Batteria 1250A - 6,5L Benzina e 4,0L Diesel",
+    "brand": "NOCO",
+    "price": {
+      "value": 142.14,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 15425,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/8130-0fqEAS._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 15425,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B09H729GKH",
+    "category": "avviatori-emergenza",
+    "title": "TOPDON JS2000Pro Booster Avviamento Auto",
+    "brand": "TOPDON",
+    "price": {
+      "value": 85.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3305,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71dP2cO22PL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/8130-0fqEAS._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B015TKSSB8",
+    "category": "avviatori-emergenza",
+    "title": "NOCO Boost GB150 Avviatore Batteria 3000A fino a 9,0L Benzina e 7,0L",
+    "brand": "NOCO",
+    "price": {
+      "value": 299,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12823,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71SDDwvgKtL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Ricarica",
+        "Praticità",
+        "Potenza"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CRRKRJ2S",
+    "category": "avviatori-emergenza",
+    "title": "WOLFBOX 4000A Booster Avviamento Auto, 10L Benzina o 10L Diesel, MV24",
+    "brand": "WOLFBOX",
+    "price": {
+      "value": 99.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6248,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71AXBYZ3D0L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DQ54YKH9",
+    "category": "avviatori-emergenza",
+    "title": "TREKURE Avviatore Batteria Auto 7000A 16800mAh, Avviatore di Emergenza",
+    "brand": "TREKURE",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4753,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71UHjBb++hL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Potenza"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B096ZWXT13",
+    "category": "avviatori-emergenza",
+    "title": "BRPOM Avviatore Batteria Auto, 9000A Avviatore di Emergenza per",
+    "brand": "BRPOM",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1751,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61t8I2zk0mL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F6N88NHD",
+    "category": "avviatori-emergenza",
+    "title": "AstroAI P10 Booster Avviamento 5000A",
+    "brand": "AstroAI",
+    "price": {
+      "value": 188.29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1711,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71evrx+gGzL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0FG3599DZ",
+    "category": "avviatori-emergenza",
+    "title": "Acmount Avviatore Batteria Auto",
+    "brand": "Acmount",
+    "price": {
+      "value": 56.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1411,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71ErYfTNZJL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B016UG6PWE",
+    "category": "avviatori-emergenza",
+    "title": "NOCO Boost GB70 Avviatore Batteria 2000A fino a 8,0L Benzina e 6,0L",
+    "brand": "NOCO",
+    "price": {
+      "value": 216.42,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 30410,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71Tk-77RvCL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Praticità",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Ricarica"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D2HJZ2CM",
+    "category": "avviatori-emergenza",
+    "title": "UTRAI 10-IN-1 Avviatore Batteria Auto con Compressore 150PSI",
+    "brand": "UTRAI",
+    "price": {
+      "value": 53.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 622,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71nMxD1ho1L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Versatilità",
+        "Qualità costruttiva",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B09H729GKH",
-  "category": "avviatori-emergenza",
-  "title": "TOPDON JS2000Pro Booster Avviamento Auto",
-  "brand": "TOPDON",
-  "price": {
-   "value": 85.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 3305,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71dP2cO22PL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B015TKSSB8",
-  "category": "avviatori-emergenza",
-  "title": "NOCO Boost GB150 Avviatore Batteria 3000A fino a 9,0L Benzina e 7,0L",
-  "brand": "NOCO",
-  "price": {
-   "value": 299.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 12823,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71SDDwvgKtL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Ricarica",
-    "Praticità",
-    "Potenza"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CRRKRJ2S",
-  "category": "avviatori-emergenza",
-  "title": "WOLFBOX 4000A Booster Avviamento Auto, 10L Benzina o 10L Diesel, MV24",
-  "brand": "WOLFBOX",
-  "price": {
-   "value": 99.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6248,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71AXBYZ3D0L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DQ54YKH9",
-  "category": "avviatori-emergenza",
-  "title": "TREKURE Avviatore Batteria Auto 7000A 16800mAh, Avviatore di Emergenza",
-  "brand": "TREKURE",
-  "price": {
-   "value": 37.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4753,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71UHjBb++hL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Potenza"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D2HJZ2CM",
-  "category": "avviatori-emergenza",
-  "title": "UTRAI 10-IN-1 Avviatore Batteria Auto con Compressore 150PSI",
-  "brand": "UTRAI",
-  "price": {
-   "value": 53.19,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 622,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71nMxD1ho1L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Versatilità",
-    "Qualità costruttiva",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B096ZWXT13",
-  "category": "avviatori-emergenza",
-  "title": "BRPOM Avviatore Batteria Auto, 9000A Avviatore di Emergenza per",
-  "brand": "BRPOM",
-  "price": {
-   "value": 49.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1751,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61t8I2zk0mL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F6N88NHD",
-  "category": "avviatori-emergenza",
-  "title": "AstroAI P10 Booster Avviamento 5000A",
-  "brand": "AstroAI",
-  "price": {
-   "value": 188.29,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1711,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71evrx+gGzL._AC_SL500_.jpg"
- },
- {
-  "asin": "B016UG6PWE",
-  "category": "avviatori-emergenza",
-  "title": "NOCO Boost GB70 Avviatore Batteria 2000A fino a 8,0L Benzina e 6,0L",
-  "brand": "NOCO",
-  "price": {
-   "value": 216.42,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 30410,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71Tk-77RvCL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Praticità",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Ricarica"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FG3599DZ",
-  "category": "avviatori-emergenza",
-  "title": "Acmount Avviatore Batteria Auto",
-  "brand": "Acmount",
-  "price": {
-   "value": 56.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1411,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71ErYfTNZJL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

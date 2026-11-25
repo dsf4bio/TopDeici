@@ -1,246 +1,246 @@
 [
- {
-  "asin": "B071L86DCT",
-  "category": "zaini-porta-pc",
-  "title": "The North Face Borealis Classic, Zaino Unisex Adulto",
-  "brand": "The North Face",
-  "price": {
-   "value": 94.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B071L86DCT",
+    "category": "zaini-porta-pc",
+    "title": "The North Face Borealis Classic, Zaino Unisex Adulto",
+    "brand": "The North Face",
+    "price": {
+      "value": 94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 15894,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/713I1P2q5WL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Comfort",
+        "Estetica",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 15894,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08KSHWYL2",
+    "category": "zaini-porta-pc",
+    "title": "JANSPORT Big Student, Zaino Unisex",
+    "brand": "JANSPORT",
+    "price": {
+      "value": 59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 7461,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/517-AUT6STL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/713I1P2q5WL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Comfort",
-    "Estetica",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0BRXTXTHD",
+    "category": "zaini-porta-pc",
+    "title": "LOVEVOOK Zaino Donna Porta PC 15.6&17.3 Pollici",
+    "brand": "LOVEVOOK",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 5127,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/712DyCezH2L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B00MGOJAVI",
+    "category": "zaini-porta-pc",
+    "title": "Eastpak BACK TO WORK Zaino, 27 L",
+    "brand": "Eastpak",
+    "price": {
+      "value": 42,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 5076,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/91y4D1LeCLL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Estetica",
+        "Comfort",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DLVWB25N",
+    "category": "zaini-porta-pc",
+    "title": "LOVEVOOK Zaino per donne con grande capacità",
+    "brand": "LOVEVOOK",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 4649,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61f4V3BPngL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B00JPZ0B2S",
+    "category": "zaini-porta-pc",
+    "title": "EASTPAK TUTOR Zaino, 39 L - Black (Nero)",
+    "brand": "EASTPAK",
+    "price": {
+      "value": 59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 3742,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81JYnJWCTuS._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Robustezza",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0H7W1BND1",
+    "category": "zaini-porta-pc",
+    "title": "LOVEVOOK Zaino da donna, per la scuola, impermeabile, motivo leopardato",
+    "brand": "LOVEVOOK",
+    "price": {
+      "value": 48.34,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 3703,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/810Jg7cGmxL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07JCGF6P6",
+    "category": "zaini-porta-pc",
+    "title": "Himawari XK-05#-USB L - Zaino grande per computer portatile per donne e",
+    "brand": "Himawari",
+    "price": {
+      "value": 46.73,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 27774,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/819FuK0wRkL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0GKP643Q4",
+    "category": "zaini-porta-pc",
+    "title": "KROSER Zaino per Laptop 15,6 Pollici Zaino Elegante per Computer",
+    "brand": "KROSER",
+    "price": {
+      "value": 41.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 25002,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71cIhCc89pL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Comfort",
+        "Estetica",
+        "Versatilità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B003OSUDOS",
+    "category": "zaini-porta-pc",
+    "title": "EASTPAK Out of Office Zaino 27L (44 x 29,5 x 22 cm)",
+    "brand": "EASTPAK",
+    "price": {
+      "value": 52,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 24780,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71yJUkogNjL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Robustezza",
+        "Estetica",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B08KSHWYL2",
-  "category": "zaini-porta-pc",
-  "title": "JANSPORT Big Student, Zaino Unisex",
-  "brand": "JANSPORT",
-  "price": {
-   "value": 59.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 7461,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/517-AUT6STL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BRXTXTHD",
-  "category": "zaini-porta-pc",
-  "title": "LOVEVOOK Zaino Donna Porta PC 15.6&17.3 Pollici",
-  "brand": "LOVEVOOK",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 5127,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/712DyCezH2L._AC_SL500_.jpg"
- },
- {
-  "asin": "B00MGOJAVI",
-  "category": "zaini-porta-pc",
-  "title": "Eastpak BACK TO WORK Zaino, 27 L",
-  "brand": "Eastpak",
-  "price": {
-   "value": 42.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 5076,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/91y4D1LeCLL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Estetica",
-    "Comfort",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DLVWB25N",
-  "category": "zaini-porta-pc",
-  "title": "LOVEVOOK Zaino per donne con grande capacità",
-  "brand": "LOVEVOOK",
-  "price": {
-   "value": 37.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 4649,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61f4V3BPngL._AC_SL500_.jpg"
- },
- {
-  "asin": "B00JPZ0B2S",
-  "category": "zaini-porta-pc",
-  "title": "EASTPAK TUTOR Zaino, 39 L - Black (Nero)",
-  "brand": "EASTPAK",
-  "price": {
-   "value": 59.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 3742,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81JYnJWCTuS._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Robustezza",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0H7W1BND1",
-  "category": "zaini-porta-pc",
-  "title": "LOVEVOOK Zaino da donna, per la scuola, impermeabile, motivo leopardato",
-  "brand": "LOVEVOOK",
-  "price": {
-   "value": 48.34,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 3703,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/810Jg7cGmxL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07JCGF6P6",
-  "category": "zaini-porta-pc",
-  "title": "Himawari XK-05#-USB L - Zaino grande per computer portatile per donne e",
-  "brand": "Himawari",
-  "price": {
-   "value": 46.73,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 27774,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/819FuK0wRkL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GKP643Q4",
-  "category": "zaini-porta-pc",
-  "title": "KROSER Zaino per Laptop 15,6 Pollici Zaino Elegante per Computer",
-  "brand": "KROSER",
-  "price": {
-   "value": 41.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 25002,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71cIhCc89pL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Comfort",
-    "Estetica",
-    "Versatilità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B003OSUDOS",
-  "category": "zaini-porta-pc",
-  "title": "EASTPAK Out of Office Zaino 27L (44 x 29,5 x 22 cm)",
-  "brand": "EASTPAK",
-  "price": {
-   "value": 52.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 24780,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71yJUkogNjL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Robustezza",
-    "Estetica",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

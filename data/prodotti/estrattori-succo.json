@@ -1,282 +1,282 @@
 [
- {
-  "asin": "B0HNMP8CHD",
-  "category": "estrattori-succo",
-  "title": "Anybear Estrattore di Succo, 200W Juicer, Spremiagrumi a F",
-  "brand": "Anybear",
-  "image": "https://m.media-amazon.com/images/I/71OzWghs6bL._AC_SL500_.jpg",
-  "price": {
-   "value": 149.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B076998CD8",
+    "category": "estrattori-succo",
+    "title": "Imetec Succovivo Pro 2000 – Estrattore di succo a freddo",
+    "brand": "Imetec",
+    "image": "https://m.media-amazon.com/images/I/71EOHU95uGL._AC_SL500_.jpg",
+    "price": {
+      "value": 199.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1461,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Facilità di montaggio"
+      ],
+      "mixed": [
+        "Facile da pulire"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.9,
-   "count": 177,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0FBGD5PHF",
+    "category": "estrattori-succo",
+    "title": "Fretta Estrattore frutta e verdura, apertura 108MM e capac",
+    "brand": "Fretta",
+    "image": "https://m.media-amazon.com/images/I/71uBG+g3ySL._AC_SL500_.jpg",
+    "price": {
+      "value": 72.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 975,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facile da pulire",
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Efficacia"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01K4ILX6M",
+    "category": "estrattori-succo",
+    "title": "Philips centrifuga frutta e verdura 3000, 1100W, tecnologia FibreBoost",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/516Ngthq0iL._AC_SL500_.jpg",
+    "price": {
+      "value": 159.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 5797,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facile da pulire",
+        "Rapporto qualità-prezzo",
+        "Potenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GXFG29GW",
+    "category": "estrattori-succo",
+    "title": "AAOBOSI Estrattore Frutta e Verdura 165MM, Slow Juicer con",
+    "brand": "AAOBOSI",
+    "image": "https://m.media-amazon.com/images/I/714jXR0-7LL._AC_SL500_.jpg",
+    "price": {
+      "value": 94.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2798,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FP127TVN",
+    "category": "estrattori-succo",
+    "title": "AMZCHEF Estrattore Frutta e Verdura 136mm, 1.8L Centrifuga",
+    "brand": "AMZCHEF",
+    "image": "https://m.media-amazon.com/images/I/71uSRxxJZGL._AC_SL500_.jpg",
+    "price": {
+      "value": 85.73,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2361,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facile da pulire",
+        "Prestazioni",
+        "Funzionalità",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DZ2L6KQ1",
+    "category": "estrattori-succo",
+    "title": "Braun MultiJuice 5 SJ5000, Estrattore Succo Centrifuga, Te",
+    "brand": "Braun",
+    "image": "https://m.media-amazon.com/images/I/71cTmjcZBNL._AC_SL500_.jpg",
+    "price": {
+      "value": 51,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2136,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facile da pulire",
+        "Prestazioni",
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HNMP8CHD",
+    "category": "estrattori-succo",
+    "title": "Anybear Estrattore di Succo, 200W Juicer, Spremiagrumi a F",
+    "brand": "Anybear",
+    "image": "https://m.media-amazon.com/images/I/71OzWghs6bL._AC_SL500_.jpg",
+    "price": {
+      "value": 149.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 177,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CTCCSQKQ",
+    "category": "estrattori-succo",
+    "title": "LINKchef Estrattore di Succo a Freddo, Facile da Pulire, 1",
+    "brand": "LINKChef",
+    "image": "https://m.media-amazon.com/images/I/71X1q39FcBL._AC_SL500_.jpg",
+    "price": {
+      "value": 109.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1474,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facile da pulire",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09GFRXB2P",
+    "category": "estrattori-succo",
+    "title": "Housnat Estrattore Frutta e Verdura, Estrattore di Succo a",
+    "brand": "Housnat",
+    "image": "https://m.media-amazon.com/images/I/711kJLFUNWL._AC_SL500_.jpg",
+    "price": {
+      "value": 54.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1295,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facile da pulire",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Estrazione"
+      ],
+      "mixed": [
+        "Dimensioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HR5DFCC1",
+    "category": "estrattori-succo",
+    "title": "Anybear Estrattore a Freddo 124mm 350W Doppia Tecnologia",
+    "brand": "Anybear",
+    "image": "https://m.media-amazon.com/images/I/71mwARwJ2jL._AC_SL500_.jpg",
+    "price": {
+      "value": 189.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 118,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0HR5DFCC1",
-  "category": "estrattori-succo",
-  "title": "Anybear Estrattore a Freddo 124mm 350W Doppia Tecnologia",
-  "brand": "Anybear",
-  "image": "https://m.media-amazon.com/images/I/71mwARwJ2jL._AC_SL500_.jpg",
-  "price": {
-   "value": 189.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.9,
-   "count": 118,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B076998CD8",
-  "category": "estrattori-succo",
-  "title": "Imetec Succovivo Pro 2000 – Estrattore di succo a freddo",
-  "brand": "Imetec",
-  "image": "https://m.media-amazon.com/images/I/71EOHU95uGL._AC_SL500_.jpg",
-  "price": {
-   "value": 199.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1461,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Facilità di montaggio"
-   ],
-   "mixed": [
-    "Facile da pulire"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FBGD5PHF",
-  "category": "estrattori-succo",
-  "title": "Fretta Estrattore frutta e verdura, apertura 108MM e capac",
-  "brand": "Fretta",
-  "image": "https://m.media-amazon.com/images/I/71uBG+g3ySL._AC_SL500_.jpg",
-  "price": {
-   "value": 72.19,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 975,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facile da pulire",
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Efficacia"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GXFG29GW",
-  "category": "estrattori-succo",
-  "title": "AAOBOSI Estrattore Frutta e Verdura 165MM, Slow Juicer con",
-  "brand": "AAOBOSI",
-  "image": "https://m.media-amazon.com/images/I/714jXR0-7LL._AC_SL500_.jpg",
-  "price": {
-   "value": 94.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2798,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FP127TVN",
-  "category": "estrattori-succo",
-  "title": "AMZCHEF Estrattore Frutta e Verdura 136mm, 1.8L Centrifuga",
-  "brand": "AMZCHEF",
-  "image": "https://m.media-amazon.com/images/I/71uSRxxJZGL._AC_SL500_.jpg",
-  "price": {
-   "value": 85.73,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2361,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facile da pulire",
-    "Prestazioni",
-    "Funzionalità",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DZ2L6KQ1",
-  "category": "estrattori-succo",
-  "title": "Braun MultiJuice 5 SJ5000, Estrattore Succo Centrifuga, Te",
-  "brand": "Braun",
-  "image": "https://m.media-amazon.com/images/I/71cTmjcZBNL._AC_SL500_.jpg",
-  "price": {
-   "value": 51.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2136,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facile da pulire",
-    "Prestazioni",
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CTCCSQKQ",
-  "category": "estrattori-succo",
-  "title": "LINKchef Estrattore di Succo a Freddo, Facile da Pulire, 1",
-  "brand": "LINKChef",
-  "image": "https://m.media-amazon.com/images/I/71X1q39FcBL._AC_SL500_.jpg",
-  "price": {
-   "value": 109.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1474,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facile da pulire",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09GFRXB2P",
-  "category": "estrattori-succo",
-  "title": "Housnat Estrattore Frutta e Verdura, Estrattore di Succo a",
-  "brand": "Housnat",
-  "image": "https://m.media-amazon.com/images/I/711kJLFUNWL._AC_SL500_.jpg",
-  "price": {
-   "value": 54.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1295,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facile da pulire",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Estrazione"
-   ],
-   "mixed": [
-    "Dimensioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01K4ILX6M",
-  "category": "estrattori-succo",
-  "title": "Philips centrifuga frutta e verdura 3000, 1100W, tecnologia FibreBoost",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/516Ngthq0iL._AC_SL500_.jpg",
-  "price": {
-   "value": 159.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 5797,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facile da pulire",
-    "Rapporto qualità-prezzo",
-    "Potenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

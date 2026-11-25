@@ -1,281 +1,281 @@
 [
- {
-  "asin": "B07KG54BVK",
-  "category": "streaming-tv",
-  "title": "Google Chromecast per Televisione, Grigio Antracite, Dai I",
-  "brand": "Google",
-  "image": "https://m.media-amazon.com/images/I/61WF-A2ZExL._AC_SL500_.jpg",
-  "price": {
-   "value": 158.84,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B07KG54BVK",
+    "category": "streaming-tv",
+    "title": "Google Chromecast per Televisione, Grigio Antracite, Dai I",
+    "brand": "Google",
+    "image": "https://m.media-amazon.com/images/I/61WF-A2ZExL._AC_SL500_.jpg",
+    "price": {
+      "value": 158.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7700,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'installazione",
+        "Praticità",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 7700,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GSQQSNMS",
+    "category": "streaming-tv",
+    "title": "STRONG LEAP-NOVA-X 4K UHD TV Stick, Google TV, Android 14",
+    "brand": "STRONG",
+    "image": "https://m.media-amazon.com/images/I/61HipUHaE2L._AC_SL500_.jpg",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3299,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Velocità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Integrazione",
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'installazione",
-    "Praticità",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07M9BKHNZ",
+    "category": "streaming-tv",
+    "title": "Google Chromecast - Trasmetti sulla tua TV in HD, Android",
+    "brand": "Google",
+    "image": "https://m.media-amazon.com/images/I/511nxwgmXgL._AC_SL500_.jpg",
+    "price": {
+      "value": 158.87,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 21041,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F8Q1SD52",
+    "category": "streaming-tv",
+    "title": "Xiaomi Mi TV Box S 3rd Gen, 2GB RAM + 32GB ROM, Wi-FI 6, S",
+    "brand": "Xiaomi",
+    "image": "https://m.media-amazon.com/images/I/51CpPQ9c9KL._AC_SL500_.jpg",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 678,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Facilità d'installazione"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09BZWZS6S",
+    "category": "streaming-tv",
+    "title": "Amazon Fire TV Cube (Ultimo modello) Lettore multimedial",
+    "brand": "Amazon",
+    "image": "https://m.media-amazon.com/images/I/61Bxc21xzZL._AC_SL500_.jpg",
+    "price": {
+      "value": 129.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 6544,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Velocità",
+        "Funzionalità di streaming"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Connettività",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DBM2QF8F",
+    "category": "streaming-tv",
+    "title": "Google TV Streamer (4K) - Intrattenimento in streaming in",
+    "brand": "Google",
+    "image": "https://m.media-amazon.com/images/I/51lM8VgB-qL._AC_SL500_.jpg",
+    "price": {
+      "value": 119.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2239,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Velocità",
+        "Qualità video",
+        "Interfaccia"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F58Q4CM9",
+    "category": "streaming-tv",
+    "title": "Xiaomi TV Box S (3nd Gen) - 4K Ultra HD, Potente procesado",
+    "brand": "Xiaomi",
+    "image": "https://m.media-amazon.com/images/I/51hUABcqFML._AC_SL500_.jpg",
+    "price": {
+      "value": 85.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1391,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Velocità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Fluidità"
+      ],
+      "mixed": [
+        "Connettività",
+        "Telecomando",
+        "Adattabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FFN6NRTZ",
+    "category": "streaming-tv",
+    "title": "Xiaomi Tv Stick 4K Wi-Fi 6 AX, supporta Google TV e Comand",
+    "brand": "Xiaomi",
+    "image": "https://m.media-amazon.com/images/I/41IWhPJ3yEL._AC_SL500_.jpg",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 692,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GFDR9M2P",
+    "category": "streaming-tv",
+    "title": "Thomson Go Cast 152 Dongle Streaming, 4K UHD Google TV, Co",
+    "brand": "Thomson",
+    "image": "https://m.media-amazon.com/images/I/61p-ChKWoFL._AC_SL500_.jpg",
+    "price": {
+      "value": 74.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 272,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DGLTTWTT",
+    "category": "streaming-tv",
+    "title": "Dune HD Pro Vision 4K, Lettore multimediale, Android TV Box, Dolb Visi",
+    "brand": "Dune",
+    "image": "https://m.media-amazon.com/images/I/41vxlXFjxTL._AC_SL500_.jpg",
+    "price": {
+      "value": 219,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 260,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0F8Q1SD52",
-  "category": "streaming-tv",
-  "title": "Xiaomi Mi TV Box S 3rd Gen, 2GB RAM + 32GB ROM, Wi-FI 6, S",
-  "brand": "Xiaomi",
-  "image": "https://m.media-amazon.com/images/I/51CpPQ9c9KL._AC_SL500_.jpg",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 678,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Facilità d'installazione"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GSQQSNMS",
-  "category": "streaming-tv",
-  "title": "STRONG LEAP-NOVA-X 4K UHD TV Stick, Google TV, Android 14",
-  "brand": "STRONG",
-  "image": "https://m.media-amazon.com/images/I/61HipUHaE2L._AC_SL500_.jpg",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3299,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Velocità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Integrazione",
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07M9BKHNZ",
-  "category": "streaming-tv",
-  "title": "Google Chromecast - Trasmetti sulla tua TV in HD, Android",
-  "brand": "Google",
-  "image": "https://m.media-amazon.com/images/I/511nxwgmXgL._AC_SL500_.jpg",
-  "price": {
-   "value": 158.87,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 21041,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09BZWZS6S",
-  "category": "streaming-tv",
-  "title": "Amazon Fire TV Cube (Ultimo modello) Lettore multimedial",
-  "brand": "Amazon",
-  "image": "https://m.media-amazon.com/images/I/61Bxc21xzZL._AC_SL500_.jpg",
-  "price": {
-   "value": 129.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 6544,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Velocità",
-    "Funzionalità di streaming"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Connettività",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DBM2QF8F",
-  "category": "streaming-tv",
-  "title": "Google TV Streamer (4K) - Intrattenimento in streaming in",
-  "brand": "Google",
-  "image": "https://m.media-amazon.com/images/I/51lM8VgB-qL._AC_SL500_.jpg",
-  "price": {
-   "value": 119.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2239,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Velocità",
-    "Qualità video",
-    "Interfaccia"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F58Q4CM9",
-  "category": "streaming-tv",
-  "title": "Xiaomi TV Box S (3nd Gen) - 4K Ultra HD, Potente procesado",
-  "brand": "Xiaomi",
-  "image": "https://m.media-amazon.com/images/I/51hUABcqFML._AC_SL500_.jpg",
-  "price": {
-   "value": 85.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1391,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Velocità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Fluidità"
-   ],
-   "mixed": [
-    "Connettività",
-    "Telecomando",
-    "Adattabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FFN6NRTZ",
-  "category": "streaming-tv",
-  "title": "Xiaomi Tv Stick 4K Wi-Fi 6 AX, supporta Google TV e Comand",
-  "brand": "Xiaomi",
-  "image": "https://m.media-amazon.com/images/I/41IWhPJ3yEL._AC_SL500_.jpg",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 692,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0GFDR9M2P",
-  "category": "streaming-tv",
-  "title": "Thomson Go Cast 152 Dongle Streaming, 4K UHD Google TV, Co",
-  "brand": "Thomson",
-  "image": "https://m.media-amazon.com/images/I/61p-ChKWoFL._AC_SL500_.jpg",
-  "price": {
-   "value": 74.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 272,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0DGLTTWTT",
-  "category": "streaming-tv",
-  "title": "Dune HD Pro Vision 4K, Lettore multimediale, Android TV Box, Dolb Visi",
-  "brand": "Dune",
-  "image": "https://m.media-amazon.com/images/I/41vxlXFjxTL._AC_SL500_.jpg",
-  "price": {
-   "value": 219.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 260,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

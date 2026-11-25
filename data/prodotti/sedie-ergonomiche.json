@@ -1,289 +1,289 @@
 [
- {
-  "asin": "B0CNWY86R4",
-  "category": "sedie-ergonomiche",
-  "title": "SONGMICS Sedia Scrivania, Ergonomica, Portata 110 kg",
-  "brand": "SONGMICS",
-  "price": {
-   "value": 64.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CNWY86R4",
+    "category": "sedie-ergonomiche",
+    "title": "SONGMICS Sedia Scrivania, Ergonomica, Portata 110 kg",
+    "brand": "SONGMICS",
+    "price": {
+      "value": 64.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4437,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71rMKJorvkL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Estetica",
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 4437,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BRKBR39M",
+    "category": "sedie-ergonomiche",
+    "title": "Yaheetech Sedia Ufficio Scrivania Senza Braccioli Regolabile Grigio",
+    "brand": "Yaheetech",
+    "price": {
+      "value": 41.51,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1423,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71C6DQxeTKL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71rMKJorvkL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Estetica",
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CSPN4VWY",
+    "category": "sedie-ergonomiche",
+    "title": "CLOUVOU Sedia Ufficio Ergonomica Lombare Posturale / per Lavoro da Casa",
+    "brand": "CLOUVOU",
+    "price": {
+      "value": 249.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1042,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81FtxepDgsL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0G7D7TX9S",
+    "category": "sedie-ergonomiche",
+    "title": "GABRYLLY sedia da ufficio ergonomica",
+    "brand": "GABRYLLY",
+    "price": {
+      "value": 219.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2684,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81gTmcXnJRL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CF24YTKK",
+    "category": "sedie-ergonomiche",
+    "title": "SONGMICS Sedia da Ufficio, Poltrona Girevole, Regolabile in Altezza",
+    "brand": "SONGMICS",
+    "price": {
+      "value": 56.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 771,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71zY4g2OOaL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Estetica",
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Stabilità",
+        "Altezza regolabile"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F9WBLVC4",
+    "category": "sedie-ergonomiche",
+    "title": "ProtoArc EC200 Sedia da Ufficio Ergonomica con Seduta Scorrevole, Nero",
+    "brand": "ProtoArc",
+    "price": {
+      "value": 179.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 571,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Aw4yC3nlL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Regolabilità",
+        "Ergonomia"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DCJYBJ4V",
+    "category": "sedie-ergonomiche",
+    "title": "naspaluro Sedia da Ufficio Ergonomica Poltrona con Supporto Lombare, G",
+    "brand": "naspaluro",
+    "image": "https://m.media-amazon.com/images/I/81dRzwAl5iL._AC_SL500_.jpg",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1005,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Facilità di montaggio",
+        "Estetica",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07GNDDNMW",
+    "category": "sedie-ergonomiche",
+    "title": "SIHOO M18 Sedia Ufficio Ergonómica, Supporto Lombare Regolabile,150Kg",
+    "brand": "SIHOO",
+    "image": "https://m.media-amazon.com/images/I/61ssfz9HZ-L._AC_SL500_.jpg",
+    "price": {
+      "value": 169.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 15580,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Facilità di montaggio",
+        "Supporto lombare"
+      ],
+      "mixed": [
+        "Reclinabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07BDFW1Y7",
+    "category": "sedie-ergonomiche",
+    "title": "SIHOO M57 Sedia Da Ufficio Ergonómica Rete, Supporto Lombare, 150 Kg",
+    "brand": "SIHOO",
+    "image": "https://m.media-amazon.com/images/I/61BOnde2eYL._AC_SL500_.jpg",
+    "price": {
+      "value": 208.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 8882,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Facilità di montaggio",
+        "Regolabilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DGTDWLRW",
+    "category": "sedie-ergonomiche",
+    "title": "HOLLUDLE Sedia da ufficio ergonomica con supporto lombare 3D e braccio",
+    "brand": "HOLLUDLE",
+    "image": "https://m.media-amazon.com/images/I/71zoxah1BuL._AC_SL500_.jpg",
+    "price": {
+      "value": 180.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 6195,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Facilità di montaggio",
+        "Regolabilità",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Schienale"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0BRKBR39M",
-  "category": "sedie-ergonomiche",
-  "title": "Yaheetech Sedia Ufficio Scrivania Senza Braccioli Regolabile Grigio",
-  "brand": "Yaheetech",
-  "price": {
-   "value": 41.51,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1423,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71C6DQxeTKL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CSPN4VWY",
-  "category": "sedie-ergonomiche",
-  "title": "CLOUVOU Sedia Ufficio Ergonomica Lombare Posturale / per Lavoro da Casa",
-  "brand": "CLOUVOU",
-  "price": {
-   "value": 249.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1042,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81FtxepDgsL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CF24YTKK",
-  "category": "sedie-ergonomiche",
-  "title": "SONGMICS Sedia da Ufficio, Poltrona Girevole, Regolabile in Altezza",
-  "brand": "SONGMICS",
-  "price": {
-   "value": 56.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 771,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71zY4g2OOaL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Estetica",
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Stabilità",
-    "Altezza regolabile"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0G7D7TX9S",
-  "category": "sedie-ergonomiche",
-  "title": "GABRYLLY sedia da ufficio ergonomica",
-  "brand": "GABRYLLY",
-  "price": {
-   "value": 219.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2684,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81gTmcXnJRL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0F9WBLVC4",
-  "category": "sedie-ergonomiche",
-  "title": "ProtoArc EC200 Sedia da Ufficio Ergonomica con Seduta Scorrevole, Nero",
-  "brand": "ProtoArc",
-  "price": {
-   "value": 179.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 571,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Aw4yC3nlL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Regolabilità",
-    "Ergonomia"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07GNDDNMW",
-  "category": "sedie-ergonomiche",
-  "title": "SIHOO M18 Sedia Ufficio Ergonómica, Supporto Lombare Regolabile,150Kg",
-  "brand": "SIHOO",
-  "image": "https://m.media-amazon.com/images/I/61ssfz9HZ-L._AC_SL500_.jpg",
-  "price": {
-   "value": 169.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 15580,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Facilità di montaggio",
-    "Supporto lombare"
-   ],
-   "mixed": [
-    "Reclinabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07BDFW1Y7",
-  "category": "sedie-ergonomiche",
-  "title": "SIHOO M57 Sedia Da Ufficio Ergonómica Rete, Supporto Lombare, 150 Kg",
-  "brand": "SIHOO",
-  "image": "https://m.media-amazon.com/images/I/61BOnde2eYL._AC_SL500_.jpg",
-  "price": {
-   "value": 208.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 8882,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Facilità di montaggio",
-    "Regolabilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DGTDWLRW",
-  "category": "sedie-ergonomiche",
-  "title": "HOLLUDLE Sedia da ufficio ergonomica con supporto lombare 3D e braccio",
-  "brand": "HOLLUDLE",
-  "image": "https://m.media-amazon.com/images/I/71zoxah1BuL._AC_SL500_.jpg",
-  "price": {
-   "value": 180.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 6195,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Facilità di montaggio",
-    "Regolabilità",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Schienale"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DCJYBJ4V",
-  "category": "sedie-ergonomiche",
-  "title": "naspaluro Sedia da Ufficio Ergonomica Poltrona con Supporto Lombare, G",
-  "brand": "naspaluro",
-  "image": "https://m.media-amazon.com/images/I/81dRzwAl5iL._AC_SL500_.jpg",
-  "price": {
-   "value": 69.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1005,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Facilità di montaggio",
-    "Estetica",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

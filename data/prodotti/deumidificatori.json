@@ -1,279 +1,279 @@
 [
- {
-  "asin": "B07MQ2MFGC",
-  "category": "deumidificatori",
-  "title": "COMFEE' Deumidificatore Casa Muffa 16L/24h, Adatto fino a 32㎡",
-  "brand": "COMFEE'",
-  "price": {
-   "value": 122.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07MQ2MFGC",
+    "category": "deumidificatori",
+    "title": "COMFEE' Deumidificatore Casa Muffa 16L/24h, Adatto fino a 32㎡",
+    "brand": "COMFEE'",
+    "price": {
+      "value": 122.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 8321,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51o1O6UT3DL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Deumidificazione",
+        "Rapporto qualità-prezzo",
+        "Monitoraggio dell'umidità"
+      ],
+      "mixed": [
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.5,
-   "count": 8321,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CXML5P2M",
+    "category": "deumidificatori",
+    "title": "Gasbye 2026 Energy Star Deumidificatore per cantina max 115 pinte/D",
+    "brand": "Gasbye",
+    "price": {
+      "value": 794.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 911,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61UTqPCqgML._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/51o1O6UT3DL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Deumidificazione",
-    "Rapporto qualità-prezzo",
-    "Monitoraggio dell'umidità"
-   ],
-   "mixed": [
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07NH26T31",
+    "category": "deumidificatori",
+    "title": "De'Longhi Tasciugo AriaDry DDSX225 Deumidificatore Elimina l'umidità",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 249.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1729,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51bmgJ+ZBHL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Asciugatura",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B06Y5PTJFN",
+    "category": "deumidificatori",
+    "title": "TROTEC TTK 66 E deumidificatore casa e cantina, 24 l/24 h",
+    "brand": "TROTEC",
+    "price": {
+      "value": 204.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1059,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61A68GMjm+L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BHZTJNL1",
+    "category": "deumidificatori",
+    "title": "MONHOUSE Deumidificatore Digitale 12L/Giorno",
+    "brand": "MONHOUSE",
+    "price": {
+      "value": 94.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 623,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61VUyDOIlOL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Deumidificazione",
+        "Silenziosità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [
+        "Istruzioni"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B079FQVVGQ",
+    "category": "deumidificatori",
+    "title": "Aktobis WDH-725DG Deumidificatore elettrico / fino a 25 Litri/g e 50 m²",
+    "brand": "Aktobis",
+    "price": {
+      "value": 228,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 621,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41Crk-S6roL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CJJ7T676",
+    "category": "deumidificatori",
+    "title": "De'Longhi DEX210SF Tasciugo Deumidificatore Ambiente Casa per eliminare",
+    "brand": "De'Longhi",
+    "price": {
+      "value": 147.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 582,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/518dcg5nuAL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Funzionalità",
+        "Silenziosità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Dimensioni",
+        "Assorbimento d'acqua"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B089B736GX",
+    "category": "deumidificatori",
+    "title": "Orbegozo Dh 2070 - Deumidificatore",
+    "brand": "Orbegozo",
+    "price": {
+      "value": 229.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 487,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/410qhKq6GXL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DZXKLNVL",
+    "category": "deumidificatori",
+    "title": "KNKA Deumidificatore 16L/giorno Deumidificatore Casa Domestico",
+    "brand": "KNKA",
+    "price": {
+      "value": 108.02,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2337,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71bB3SaZ6KL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Silenziosità",
+        "Rimozione dell'umidità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08PZ98R8H",
+    "category": "deumidificatori",
+    "title": "Aktobis WDH-520EB Deumidificatore elettrico fino a 25 Litri/g e 50 m²",
+    "brand": "Aktobis",
+    "price": {
+      "value": 247,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 257,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41QFDg6LX0L._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B0CXML5P2M",
-  "category": "deumidificatori",
-  "title": "Gasbye 2026 Energy Star Deumidificatore per cantina max 115 pinte/D",
-  "brand": "Gasbye",
-  "price": {
-   "value": 794.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 911,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61UTqPCqgML._AC_SL500_.jpg"
- },
- {
-  "asin": "B07NH26T31",
-  "category": "deumidificatori",
-  "title": "De'Longhi Tasciugo AriaDry DDSX225 Deumidificatore Elimina l'umidità",
-  "brand": "De'Longhi",
-  "price": {
-   "value": 249.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1729,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51bmgJ+ZBHL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Asciugatura",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B06Y5PTJFN",
-  "category": "deumidificatori",
-  "title": "TROTEC TTK 66 E deumidificatore casa e cantina, 24 l/24 h",
-  "brand": "TROTEC",
-  "price": {
-   "value": 204.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1059,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61A68GMjm+L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BHZTJNL1",
-  "category": "deumidificatori",
-  "title": "MONHOUSE Deumidificatore Digitale 12L/Giorno",
-  "brand": "MONHOUSE",
-  "price": {
-   "value": 94.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 623,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61VUyDOIlOL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Deumidificazione",
-    "Silenziosità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [
-    "Istruzioni"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B079FQVVGQ",
-  "category": "deumidificatori",
-  "title": "Aktobis WDH-725DG Deumidificatore elettrico / fino a 25 Litri/g e 50 m²",
-  "brand": "Aktobis",
-  "price": {
-   "value": 228.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 621,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41Crk-S6roL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CJJ7T676",
-  "category": "deumidificatori",
-  "title": "De'Longhi DEX210SF Tasciugo Deumidificatore Ambiente Casa per eliminare",
-  "brand": "De'Longhi",
-  "price": {
-   "value": 147.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 582,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/518dcg5nuAL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Funzionalità",
-    "Silenziosità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Dimensioni",
-    "Assorbimento d'acqua"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B089B736GX",
-  "category": "deumidificatori",
-  "title": "Orbegozo Dh 2070 - Deumidificatore",
-  "brand": "Orbegozo",
-  "price": {
-   "value": 229.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 487,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/410qhKq6GXL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DZXKLNVL",
-  "category": "deumidificatori",
-  "title": "KNKA Deumidificatore 16L/giorno Deumidificatore Casa Domestico",
-  "brand": "KNKA",
-  "price": {
-   "value": 108.02,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2337,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71bB3SaZ6KL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Silenziosità",
-    "Rimozione dell'umidità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08PZ98R8H",
-  "category": "deumidificatori",
-  "title": "Aktobis WDH-520EB Deumidificatore elettrico fino a 25 Litri/g e 50 m²",
-  "brand": "Aktobis",
-  "price": {
-   "value": 247.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 257,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41QFDg6LX0L._AC_SL500_.jpg"
- }
 ]

@@ -1,282 +1,282 @@
 [
- {
-  "asin": "B07P1D1ZC4",
-  "category": "fornetti-elettrici",
-  "title": "G3 Ferrari G10006 Pizza Express Delizia, Forno Pizza, 1200",
-  "brand": "G3",
-  "image": "https://m.media-amazon.com/images/I/81ISjK-xI+L._AC_SL500_.jpg",
-  "price": {
-   "value": 74.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B07P1D1ZC4",
+    "category": "fornetti-elettrici",
+    "title": "G3 Ferrari G10006 Pizza Express Delizia, Forno Pizza, 1200",
+    "brand": "G3",
+    "image": "https://m.media-amazon.com/images/I/81ISjK-xI+L._AC_SL500_.jpg",
+    "price": {
+      "value": 74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5819,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità della pizza",
+        "Velocità",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 5819,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BMGWT4BR",
+    "category": "fornetti-elettrici",
+    "title": "Ariete Forno Pizza Doppio 927, Forno per Pizza con 5 Livel",
+    "brand": "Ariete",
+    "image": "https://m.media-amazon.com/images/I/711GgDzlayL._AC_SL500_.jpg",
+    "price": {
+      "value": 144.73,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2530,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Cottura",
+        "Tempo di cottura",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Riscaldamento"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Qualità della pizza",
-    "Velocità",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B00OIZONJC",
+    "category": "fornetti-elettrici",
+    "title": "De'Longhi EO14902.W Sfornatutto Forno elettrico con spegni",
+    "brand": "De'Longhi",
+    "image": "https://m.media-amazon.com/images/I/61jsh4LdSHL._AC_SL500_.jpg",
+    "price": {
+      "value": 105.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2293,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Cottura",
+        "Rapporto qualità-prezzo",
+        "Dimensioni"
+      ],
+      "mixed": [
+        "Riscaldamento"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CH1FNH81",
+    "category": "fornetti-elettrici",
+    "title": "De'Longhi Sfornatutto Chef DO34326, Forno Elettrico Ventil",
+    "brand": "De'Longhi",
+    "image": "https://m.media-amazon.com/images/I/81ZT7MdCpLL._AC_SL500_.jpg",
+    "price": {
+      "value": 215,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1787,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Cottura",
+        "Rapporto qualità-prezzo",
+        "Capienza"
+      ],
+      "mixed": [
+        "Temperatura"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B008B3BD0E",
+    "category": "fornetti-elettrici",
+    "title": "De'Longhi EO20792 Forno Elettrico da 20 Litri con Spegnime",
+    "brand": "De'Longhi",
+    "image": "https://m.media-amazon.com/images/I/718LtAhHAsL._AC_SL500_.jpg",
+    "price": {
+      "value": 89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3734,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Cottura",
+        "Capienza"
+      ],
+      "mixed": [
+        "Riscaldamento",
+        "Velocità di cottura"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08WLC2DV8",
+    "category": "fornetti-elettrici",
+    "title": "ARDES - AR6226S Fornetto Elettrico Ventilato Capienza 25 Litri - Forne",
+    "brand": "ARDES",
+    "image": "https://m.media-amazon.com/images/I/71cjXPKuoxL._AC_SL500_.jpg",
+    "price": {
+      "value": 74.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1236,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Dimensioni",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [
+        "Riscaldamento"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DSQ5YWGX",
+    "category": "fornetti-elettrici",
+    "title": "Ariete 3919 Forno Elettrico Vintage, 800W, Capacità 10L, Doppio vetro",
+    "brand": "Ariete",
+    "image": "https://m.media-amazon.com/images/I/51Zs99idQ0L._AC_SL500_.jpg",
+    "price": {
+      "value": 31.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 463,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Funzionalità",
+        "Praticità",
+        "Riscaldamento"
+      ],
+      "mixed": [
+        "Dimensioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C869YQC8",
+    "category": "fornetti-elettrici",
+    "title": "OptimumX Mini Forno Elettrico 20L – Fornetto Ventilato 1380W, 6 Funzio",
+    "brand": "OptimumX",
+    "image": "https://m.media-amazon.com/images/I/61VmLvTmGdL._AC_SL500_.jpg",
+    "price": {
+      "value": 71.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 908,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08H5PGVNV",
+    "category": "fornetti-elettrici",
+    "title": "H.Koenig - forno elettrico FO30 da 30 l, multifunzione, potente, 1500",
+    "brand": "H.Koenig",
+    "image": "https://m.media-amazon.com/images/I/61FXlYH0UVL._AC_SL500_.jpg",
+    "price": {
+      "value": 99.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 215,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07BC3YK24",
+    "category": "fornetti-elettrici",
+    "title": "Sage The Smart Oven Pro, Forno, Griligia, Acciaio Inox Spazzolato",
+    "brand": "Sage",
+    "image": "https://m.media-amazon.com/images/I/71XLPXjRCLL._AC_SL500_.jpg",
+    "price": {
+      "value": 198.65,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 193,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0BMGWT4BR",
-  "category": "fornetti-elettrici",
-  "title": "Ariete Forno Pizza Doppio 927, Forno per Pizza con 5 Livel",
-  "brand": "Ariete",
-  "image": "https://m.media-amazon.com/images/I/711GgDzlayL._AC_SL500_.jpg",
-  "price": {
-   "value": 144.73,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2530,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Cottura",
-    "Tempo di cottura",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Riscaldamento"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00OIZONJC",
-  "category": "fornetti-elettrici",
-  "title": "De'Longhi EO14902.W Sfornatutto Forno elettrico con spegni",
-  "brand": "De'Longhi",
-  "image": "https://m.media-amazon.com/images/I/61jsh4LdSHL._AC_SL500_.jpg",
-  "price": {
-   "value": 105.84,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2293,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Cottura",
-    "Rapporto qualità-prezzo",
-    "Dimensioni"
-   ],
-   "mixed": [
-    "Riscaldamento"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CH1FNH81",
-  "category": "fornetti-elettrici",
-  "title": "De'Longhi Sfornatutto Chef DO34326, Forno Elettrico Ventil",
-  "brand": "De'Longhi",
-  "image": "https://m.media-amazon.com/images/I/81ZT7MdCpLL._AC_SL500_.jpg",
-  "price": {
-   "value": 215.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1787,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Cottura",
-    "Rapporto qualità-prezzo",
-    "Capienza"
-   ],
-   "mixed": [
-    "Temperatura"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B008B3BD0E",
-  "category": "fornetti-elettrici",
-  "title": "De'Longhi EO20792 Forno Elettrico da 20 Litri con Spegnime",
-  "brand": "De'Longhi",
-  "image": "https://m.media-amazon.com/images/I/718LtAhHAsL._AC_SL500_.jpg",
-  "price": {
-   "value": 89.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3734,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Cottura",
-    "Capienza"
-   ],
-   "mixed": [
-    "Riscaldamento",
-    "Velocità di cottura"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DSQ5YWGX",
-  "category": "fornetti-elettrici",
-  "title": "Ariete 3919 Forno Elettrico Vintage, 800W, Capacità 10L, Doppio vetro",
-  "brand": "Ariete",
-  "image": "https://m.media-amazon.com/images/I/51Zs99idQ0L._AC_SL500_.jpg",
-  "price": {
-   "value": 31.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 463,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Funzionalità",
-    "Praticità",
-    "Riscaldamento"
-   ],
-   "mixed": [
-    "Dimensioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08WLC2DV8",
-  "category": "fornetti-elettrici",
-  "title": "ARDES - AR6226S Fornetto Elettrico Ventilato Capienza 25 Litri - Forne",
-  "brand": "ARDES",
-  "image": "https://m.media-amazon.com/images/I/71cjXPKuoxL._AC_SL500_.jpg",
-  "price": {
-   "value": 74.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1236,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Dimensioni",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [
-    "Riscaldamento"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C869YQC8",
-  "category": "fornetti-elettrici",
-  "title": "OptimumX Mini Forno Elettrico 20L – Fornetto Ventilato 1380W, 6 Funzio",
-  "brand": "OptimumX",
-  "image": "https://m.media-amazon.com/images/I/61VmLvTmGdL._AC_SL500_.jpg",
-  "price": {
-   "value": 71.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 908,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B08H5PGVNV",
-  "category": "fornetti-elettrici",
-  "title": "H.Koenig - forno elettrico FO30 da 30 l, multifunzione, potente, 1500",
-  "brand": "H.Koenig",
-  "image": "https://m.media-amazon.com/images/I/61FXlYH0UVL._AC_SL500_.jpg",
-  "price": {
-   "value": 99.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 215,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B07BC3YK24",
-  "category": "fornetti-elettrici",
-  "title": "Sage The Smart Oven Pro, Forno, Griligia, Acciaio Inox Spazzolato",
-  "brand": "Sage",
-  "image": "https://m.media-amazon.com/images/I/71XLPXjRCLL._AC_SL500_.jpg",
-  "price": {
-   "value": 198.65,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 193,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

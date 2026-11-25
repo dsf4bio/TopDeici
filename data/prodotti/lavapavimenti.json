@@ -1,294 +1,294 @@
 [
- {
-  "asin": "B0H7S2SJY6",
-  "category": "lavapavimenti",
-  "title": "FAMIVAC S7PRO Aspirapolvere Lavapavimenti, Design Piatto a",
-  "brand": "FAMIVAC",
-  "image": "https://m.media-amazon.com/images/I/71P2hDkZ8tL._AC_SL500_.jpg",
-  "price": {
-   "value": 169.56,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0H7S2SJY6",
+    "category": "lavapavimenti",
+    "title": "FAMIVAC S7PRO Aspirapolvere Lavapavimenti, Design Piatto a",
+    "brand": "FAMIVAC",
+    "image": "https://m.media-amazon.com/images/I/71P2hDkZ8tL._AC_SL500_.jpg",
+    "price": {
+      "value": 169.56,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 185,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Pulizia",
+        "Potenza",
+        "Stabilità",
+        "Durata batteria"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 185,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GR53LD7K",
+    "category": "lavapavimenti",
+    "title": "Aspirapolvere Lavapavimenti Senza Fili, Autopulizia, Auton",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/61-Lt2hAfsL._AC_SL500_.jpg",
+    "price": {
+      "value": 129.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 161,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Maneggevolezza",
+        "Leggerezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Pulizia",
-    "Potenza",
-    "Stabilità",
-    "Durata batteria"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0HGXSJNN9",
+    "category": "lavapavimenti",
+    "title": "roborock F25 BX GEN2 Aspirapolvere e Lavapavimenti 20.000",
+    "brand": "roborock",
+    "image": "https://m.media-amazon.com/images/I/61Yf-ceIr7L._AC_SL500_.jpg",
+    "price": {
+      "value": 399,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 101,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CRR9KDK8",
+    "category": "lavapavimenti",
+    "title": "Tineco iFLOOR 5 Breeze Complete Lavapavimenti, Design Legg",
+    "brand": "Tineco",
+    "image": "https://m.media-amazon.com/images/I/616jQ17pobL._AC_SL500_.jpg",
+    "price": {
+      "value": 129.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 4472,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Pulizia",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CW1QDRVV",
+    "category": "lavapavimenti",
+    "title": "Tineco Floor ONE Stretch S6 AspirapolvereLavapavimenti, Fl",
+    "brand": "Tineco",
+    "image": "https://m.media-amazon.com/images/I/71Kd4m2VVYL._AC_SL500_.jpg",
+    "price": {
+      "value": 188.62,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3569,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Praticità"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Durata batteria",
+        "Assenza di aloni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DPPLWYGX",
+    "category": "lavapavimenti",
+    "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolv",
+    "brand": "Tineco",
+    "image": "https://m.media-amazon.com/images/I/61oLbeYTPEL._AC_SL500_.jpg",
+    "price": {
+      "value": 249.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3415,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Pulizia",
+        "Efficacia",
+        "Facilità d'uso",
+        "Praticità"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [
+        "Affidabilità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HN4797DX",
+    "category": "lavapavimenti",
+    "title": "Proscenic F10 Ultra+ Aspirapolvere senza fili Lavapaviment",
+    "brand": "Proscenic",
+    "image": "https://m.media-amazon.com/images/I/61Shz08k1wL._AC_SL500_.jpg",
+    "price": {
+      "value": 149.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 188,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Durata batteria",
+        "Potenza di aspirazione",
+        "Durata"
+      ],
+      "mixed": [
+        "Leggerezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FC64RCDX",
+    "category": "lavapavimenti",
+    "title": "Tineco Floor ONE S7 Artist Lavapavimenti aspirapolvere Sen",
+    "brand": "Tineco",
+    "image": "https://m.media-amazon.com/images/I/714v6yQtbTL._AC_SL500_.jpg",
+    "price": {
+      "value": 259,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 617,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Praticità",
+        "Estetica"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GJSLTZK3",
+    "category": "lavapavimenti",
+    "title": "roborock F25 GT Gen2 Set Aspirapolvere e Lavapavimenti Sen",
+    "brand": "roborock",
+    "image": "https://m.media-amazon.com/images/I/61AVz1Oy8NL._AC_SL500_.jpg",
+    "price": {
+      "value": 309,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 272,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GL28FZHH",
+    "category": "lavapavimenti",
+    "title": "MOVA M50 Aspirapolvere Lavapavimenti, Powered by dreame",
+    "brand": "MOVA",
+    "image": "https://m.media-amazon.com/images/I/61xJ0HktfxL._AC_SL500_.jpg",
+    "price": {
+      "value": 169,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 112,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0GR53LD7K",
-  "category": "lavapavimenti",
-  "title": "Aspirapolvere Lavapavimenti Senza Fili, Autopulizia, Auton",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/61-Lt2hAfsL._AC_SL500_.jpg",
-  "price": {
-   "value": 129.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 161,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Maneggevolezza",
-    "Leggerezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HGXSJNN9",
-  "category": "lavapavimenti",
-  "title": "roborock F25 BX GEN2 Aspirapolvere e Lavapavimenti 20.000",
-  "brand": "roborock",
-  "image": "https://m.media-amazon.com/images/I/61Yf-ceIr7L._AC_SL500_.jpg",
-  "price": {
-   "value": 399.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 101,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CRR9KDK8",
-  "category": "lavapavimenti",
-  "title": "Tineco iFLOOR 5 Breeze Complete Lavapavimenti, Design Legg",
-  "brand": "Tineco",
-  "image": "https://m.media-amazon.com/images/I/616jQ17pobL._AC_SL500_.jpg",
-  "price": {
-   "value": 129.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 4472,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Pulizia",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CW1QDRVV",
-  "category": "lavapavimenti",
-  "title": "Tineco Floor ONE Stretch S6 AspirapolvereLavapavimenti, Fl",
-  "brand": "Tineco",
-  "image": "https://m.media-amazon.com/images/I/71Kd4m2VVYL._AC_SL500_.jpg",
-  "price": {
-   "value": 188.62,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3569,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Praticità"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Durata batteria",
-    "Assenza di aloni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DPPLWYGX",
-  "category": "lavapavimenti",
-  "title": "Tineco Floor ONE S7 Stretch Ultra Lavapavimenti aspirapolv",
-  "brand": "Tineco",
-  "image": "https://m.media-amazon.com/images/I/61oLbeYTPEL._AC_SL500_.jpg",
-  "price": {
-   "value": 249.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3415,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Pulizia",
-    "Efficacia",
-    "Facilità d'uso",
-    "Praticità"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [
-    "Affidabilità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HN4797DX",
-  "category": "lavapavimenti",
-  "title": "Proscenic F10 Ultra+ Aspirapolvere senza fili Lavapaviment",
-  "brand": "Proscenic",
-  "image": "https://m.media-amazon.com/images/I/61Shz08k1wL._AC_SL500_.jpg",
-  "price": {
-   "value": 149.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 188,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Durata batteria",
-    "Potenza di aspirazione",
-    "Durata"
-   ],
-   "mixed": [
-    "Leggerezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FC64RCDX",
-  "category": "lavapavimenti",
-  "title": "Tineco Floor ONE S7 Artist Lavapavimenti aspirapolvere Sen",
-  "brand": "Tineco",
-  "image": "https://m.media-amazon.com/images/I/714v6yQtbTL._AC_SL500_.jpg",
-  "price": {
-   "value": 259.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 617,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Praticità",
-    "Estetica"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GJSLTZK3",
-  "category": "lavapavimenti",
-  "title": "roborock F25 GT Gen2 Set Aspirapolvere e Lavapavimenti Sen",
-  "brand": "roborock",
-  "image": "https://m.media-amazon.com/images/I/61AVz1Oy8NL._AC_SL500_.jpg",
-  "price": {
-   "value": 309.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 272,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0GL28FZHH",
-  "category": "lavapavimenti",
-  "title": "MOVA M50 Aspirapolvere Lavapavimenti, Powered by dreame",
-  "brand": "MOVA",
-  "image": "https://m.media-amazon.com/images/I/61xJ0HktfxL._AC_SL500_.jpg",
-  "price": {
-   "value": 169.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 112,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

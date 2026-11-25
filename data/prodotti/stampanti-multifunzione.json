@@ -1,313 +1,313 @@
 [
- {
-  "asin": "B0CK2TN13B",
-  "category": "stampanti-multifunzione",
-  "title": "Brother DCPL2620DW, Multifunzione Laser Monocromatica (B/N), 32 ppm",
-  "brand": "Brother",
-  "price": {
-   "value": 174.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CK2TN13B",
+    "category": "stampanti-multifunzione",
+    "title": "Brother DCPL2620DW, Multifunzione Laser Monocromatica (B/N), 32 ppm",
+    "brand": "Brother",
+    "price": {
+      "value": 174.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1377,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/612-0FeuEHL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'installazione",
+        "Connessione wifi"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 1377,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CK2PVJSR",
+    "category": "stampanti-multifunzione",
+    "title": "Brother MFCL2800DW, Multifunzione Laser Monocromatica (B/N), 32 ppm",
+    "brand": "Brother",
+    "price": {
+      "value": 206.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1124,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61ki4lrzAQL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Velocità di scrittura",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Affidabilità",
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/612-0FeuEHL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'installazione",
-    "Connessione wifi"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07H8JJH9Y",
+    "category": "stampanti-multifunzione",
+    "title": "Epson Expression Premium XP-7100 Multifunzione Versatile 3-in-1",
+    "brand": "Epson",
+    "price": {
+      "value": 149,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2823,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61IgwK18O8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Qualità di stampa",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09B26T8QP",
+    "category": "stampanti-multifunzione",
+    "title": "Brother DCPJ1050DW Stampante multifunzione inkjet a colori 3 in",
+    "brand": "Brother",
+    "price": {
+      "value": 259,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2385,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61WPQqaXrUL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità di stampa",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CK2P3HR7",
+    "category": "stampanti-multifunzione",
+    "title": "Brother HLL2445DW, Stampante Laser Monocromatica (B/N), 32 ppm",
+    "brand": "Brother",
+    "price": {
+      "value": 129,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 695,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61RV6F-uznL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'installazione",
+        "Funzionalità",
+        "Connettività",
+        "Velocità di scrittura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CRVPRYKK",
+    "category": "stampanti-multifunzione",
+    "title": "PANTUM BM2309W Stampante Laser Multifunzione WIFI Bianco e Nero",
+    "brand": "PANTUM",
+    "price": {
+      "value": 109,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1884,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61BkYtDjAOL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facile da configurare",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Connettività wifi",
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CJFYJBT6",
+    "category": "stampanti-multifunzione",
+    "title": "Brother MFCL3740CDWE, Multifunzione LED a Colori, Ecopro ready, 18 ppm",
+    "brand": "Brother",
+    "price": {
+      "value": 335,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 599,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61T-wWVvVbL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Connettività",
+        "Funzione fronte-retro"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0B5Q2LCY7",
+    "category": "stampanti-multifunzione",
+    "title": "PANTUM M6500NW Stampante Laser Multifunzione WiFi",
+    "brand": "PANTUM",
+    "price": {
+      "value": 123.41,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1460,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61EGQ7z4lFL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'installazione",
+        "Velocità di scrittura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09B281464",
+    "category": "stampanti-multifunzione",
+    "title": "Brother MFCJ1010DW Stampante multifunzione inkjet a colori 4 in",
+    "brand": "Brother",
+    "price": {
+      "value": 219,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1259,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61jROgwc39L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Qualità di scrittura"
+      ],
+      "mixed": [
+        "Connessione wifi"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08XNJ23VY",
+    "category": "stampanti-multifunzione",
+    "title": "HP LaserJet M234dw 6GW99F, Stampante Multifunzione A4",
+    "brand": "HP",
+    "price": {
+      "value": 121.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 932,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61G0ctMvKdL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'installazione",
+        "Qualità di scrittura",
+        "Velocità"
+      ],
+      "mixed": [
+        "Connettività",
+        "Connessione wifi"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0CK2PVJSR",
-  "category": "stampanti-multifunzione",
-  "title": "Brother MFCL2800DW, Multifunzione Laser Monocromatica (B/N), 32 ppm",
-  "brand": "Brother",
-  "price": {
-   "value": 206.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1124,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61ki4lrzAQL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Velocità di scrittura",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Affidabilità",
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07H8JJH9Y",
-  "category": "stampanti-multifunzione",
-  "title": "Epson Expression Premium XP-7100 Multifunzione Versatile 3-in-1",
-  "brand": "Epson",
-  "price": {
-   "value": 149.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2823,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61IgwK18O8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Qualità di stampa",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09B26T8QP",
-  "category": "stampanti-multifunzione",
-  "title": "Brother DCPJ1050DW Stampante multifunzione inkjet a colori 3 in",
-  "brand": "Brother",
-  "price": {
-   "value": 259.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2385,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61WPQqaXrUL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità di stampa",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CK2P3HR7",
-  "category": "stampanti-multifunzione",
-  "title": "Brother HLL2445DW, Stampante Laser Monocromatica (B/N), 32 ppm",
-  "brand": "Brother",
-  "price": {
-   "value": 129.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 695,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61RV6F-uznL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'installazione",
-    "Funzionalità",
-    "Connettività",
-    "Velocità di scrittura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CRVPRYKK",
-  "category": "stampanti-multifunzione",
-  "title": "PANTUM BM2309W Stampante Laser Multifunzione WIFI Bianco e Nero",
-  "brand": "PANTUM",
-  "price": {
-   "value": 109.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1884,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61BkYtDjAOL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facile da configurare",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Connettività wifi",
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CJFYJBT6",
-  "category": "stampanti-multifunzione",
-  "title": "Brother MFCL3740CDWE, Multifunzione LED a Colori, Ecopro ready, 18 ppm",
-  "brand": "Brother",
-  "price": {
-   "value": 335.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 599,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61T-wWVvVbL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Connettività",
-    "Funzione fronte-retro"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0B5Q2LCY7",
-  "category": "stampanti-multifunzione",
-  "title": "PANTUM M6500NW Stampante Laser Multifunzione WiFi",
-  "brand": "PANTUM",
-  "price": {
-   "value": 123.41,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1460,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61EGQ7z4lFL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'installazione",
-    "Velocità di scrittura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09B281464",
-  "category": "stampanti-multifunzione",
-  "title": "Brother MFCJ1010DW Stampante multifunzione inkjet a colori 4 in",
-  "brand": "Brother",
-  "price": {
-   "value": 219.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1259,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61jROgwc39L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Qualità di scrittura"
-   ],
-   "mixed": [
-    "Connessione wifi"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08XNJ23VY",
-  "category": "stampanti-multifunzione",
-  "title": "HP LaserJet M234dw 6GW99F, Stampante Multifunzione A4",
-  "brand": "HP",
-  "price": {
-   "value": 121.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 932,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61G0ctMvKdL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'installazione",
-    "Qualità di scrittura",
-    "Velocità"
-   ],
-   "mixed": [
-    "Connettività",
-    "Connessione wifi"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,304 +1,304 @@
 [
- {
-  "asin": "B01L6L52K4",
-  "category": "webcam",
-  "title": "Logitech C922 Webcam per streaming professionale, Full HD 1080p - Negro",
-  "brand": "Logitech",
-  "price": {
-   "value": 59.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01L6L52K4",
+    "category": "webcam",
+    "title": "Logitech C922 Webcam per streaming professionale, Full HD 1080p - Negro",
+    "brand": "Logitech",
+    "price": {
+      "value": 59.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 11240,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/513xBpxK0IL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Messa a fuoco"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 11240,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07MM4V7NR",
+    "category": "webcam",
+    "title": "Logitech C920S HD Pro Webcam - Nero",
+    "brand": "Logitech",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10678,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71y7HsMxOaL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Facilità d'installazione"
+      ],
+      "mixed": [
+        "Qualità del suono",
+        "Messa a fuoco"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/513xBpxK0IL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Messa a fuoco"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0002HAHUY",
+    "category": "webcam",
+    "title": "EMEET Full HD Webcam - C960 1080P Webcam con doppio microfono",
+    "brand": "EMEET",
+    "price": {
+      "value": 25.64,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5161,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61BW1Spm+UL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Qualità video",
+        "Funzionalità",
+        "Facilità d'installazione"
+      ],
+      "mixed": [
+        "Microfono"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F54PJK5V",
+    "category": "webcam",
+    "title": "Logitech C270 Webcam HD, 720p/30fps, Videochiamate HD Widescreen",
+    "brand": "Logitech",
+    "price": {
+      "value": 30.06,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 25341,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/618rbYI3p+L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Qualità video",
+        "Facilità d'installazione"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B006A2Q81M",
+    "category": "webcam",
+    "title": "Logitech C920 HD Pro Webcam",
+    "brand": "Logitech",
+    "price": {
+      "value": 58.85,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3032,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71eGb1FcyiL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Qualità del suono",
+        "Microfono"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GT6DLBV8",
+    "category": "webcam",
+    "title": "Trust Ovala 2K QHD Webcam PC con Microfono, Filtro Privacy, Nero",
+    "brand": "Trust",
+    "price": {
+      "value": 32.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 7642,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61G23fe+PwL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Microfono"
+      ],
+      "mixed": [
+        "Qualità video",
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08L7ZLNHB",
+    "category": "webcam",
+    "title": "NexiGo N660P 60FPS AutoFocus 1080P Webcam",
+    "brand": "NexiGo",
+    "price": {
+      "value": 71.68,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 6770,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61o-mRr6ziL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Qualità dell'immagine",
+        "Qualità video",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Luminosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DDTH3HX8",
+    "category": "webcam",
+    "title": "Insta360 Link 2 Nero Grafite - Webcam 4K PTZ per PC/Mac, tracciamento IA",
+    "brand": "Insta360",
+    "price": {
+      "value": 169,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1566,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51R6zRz7EVL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Qualità video",
+        "Stabilità",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DDTGY8FG",
+    "category": "webcam",
+    "title": "Insta360 Link 2C Nero Grafite - Webcam 4K per PC/Mac, Sensore da 1/2\"",
+    "brand": "Insta360",
+    "price": {
+      "value": 115,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1347,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51ueipcvQRL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D6BMY9PC",
+    "category": "webcam",
+    "title": "EMEET Webcam 4K S600 Kit, 1080P Webcam per PC con microfono",
+    "brand": "EMEET",
+    "price": {
+      "value": 94.75,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 553,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61GBkID6ksL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B07MM4V7NR",
-  "category": "webcam",
-  "title": "Logitech C920S HD Pro Webcam - Nero",
-  "brand": "Logitech",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 10678,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71y7HsMxOaL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Facilità d'installazione"
-   ],
-   "mixed": [
-    "Qualità del suono",
-    "Messa a fuoco"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0002HAHUY",
-  "category": "webcam",
-  "title": "EMEET Full HD Webcam - C960 1080P Webcam con doppio microfono",
-  "brand": "EMEET",
-  "price": {
-   "value": 25.64,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5161,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61BW1Spm+UL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Qualità video",
-    "Funzionalità",
-    "Facilità d'installazione"
-   ],
-   "mixed": [
-    "Microfono"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B006A2Q81M",
-  "category": "webcam",
-  "title": "Logitech C920 HD Pro Webcam",
-  "brand": "Logitech",
-  "price": {
-   "value": 58.85,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3032,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71eGb1FcyiL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Qualità del suono",
-    "Microfono"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F54PJK5V",
-  "category": "webcam",
-  "title": "Logitech C270 Webcam HD, 720p/30fps, Videochiamate HD Widescreen",
-  "brand": "Logitech",
-  "price": {
-   "value": 30.06,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 25341,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/618rbYI3p+L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Qualità video",
-    "Facilità d'installazione"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DDTH3HX8",
-  "category": "webcam",
-  "title": "Insta360 Link 2 Nero Grafite - Webcam 4K PTZ per PC/Mac, tracciamento IA",
-  "brand": "Insta360",
-  "price": {
-   "value": 169.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1566,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51R6zRz7EVL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Qualità video",
-    "Stabilità",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DDTGY8FG",
-  "category": "webcam",
-  "title": "Insta360 Link 2C Nero Grafite - Webcam 4K per PC/Mac, Sensore da 1/2\"",
-  "brand": "Insta360",
-  "price": {
-   "value": 115.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1347,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51ueipcvQRL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GT6DLBV8",
-  "category": "webcam",
-  "title": "Trust Ovala 2K QHD Webcam PC con Microfono, Filtro Privacy, Nero",
-  "brand": "Trust",
-  "price": {
-   "value": 32.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 7642,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61G23fe+PwL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Microfono"
-   ],
-   "mixed": [
-    "Qualità video",
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08L7ZLNHB",
-  "category": "webcam",
-  "title": "NexiGo N660P 60FPS AutoFocus 1080P Webcam",
-  "brand": "NexiGo",
-  "price": {
-   "value": 71.68,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 6770,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61o-mRr6ziL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Qualità dell'immagine",
-    "Qualità video",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Luminosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D6BMY9PC",
-  "category": "webcam",
-  "title": "EMEET Webcam 4K S600 Kit, 1080P Webcam per PC con microfono",
-  "brand": "EMEET",
-  "price": {
-   "value": 94.75,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 553,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61GBkID6ksL._AC_SL500_.jpg"
- }
 ]

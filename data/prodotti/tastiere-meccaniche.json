@@ -1,234 +1,234 @@
 [
- {
-  "asin": "B07D3GB4N3",
-  "category": "tastiere-meccaniche",
-  "title": "dragon K552 - Tastiera meccanica da gioco 60% compatta a 87 tasti",
-  "brand": "dragon",
-  "price": {
-   "value": 62.17,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07D3GB4N3",
+    "category": "tastiere-meccaniche",
+    "title": "dragon K552 - Tastiera meccanica da gioco 60% compatta a 87 tasti",
+    "brand": "dragon",
+    "price": {
+      "value": 62.17,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4891,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71troe+UNSL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 4891,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B084GYSFDT",
+    "category": "tastiere-meccaniche",
+    "title": "HyperX Alloy Origins Core, Tastiera Meccanica da Gaming Cablata",
+    "brand": "HyperX",
+    "price": {
+      "value": 97.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2628,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/713HboKyvoL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità dei materiali",
+        "Finitura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71troe+UNSL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GL5HC7VV",
-  "category": "tastiere-meccaniche",
-  "title": "YUNZII C98 Tastiera Meccanica Gaming Wireless (Beige, Candy Switch)",
-  "brand": "YUNZII",
-  "price": {
-   "value": 94.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DPWX3WTL",
+    "category": "tastiere-meccaniche",
+    "title": "EPOMAKER X Aula F75 MAX Tastiera Meccanica Senza Fili",
+    "brand": "EPOMAKER",
+    "price": {
+      "value": 84.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2047,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61yPM8dmZKL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.9,
-   "count": 473,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08FQTGFT5",
+    "category": "tastiere-meccaniche",
+    "title": "Razer BlackWidow V3 - Tastiera meccanica da gaming: interruttori",
+    "brand": "Razer",
+    "price": {
+      "value": 130.55,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1750,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71MMyY42UHL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/71w5CaKIkqL._AC_SL500_.jpg"
- },
- {
-  "asin": "B084GYSFDT",
-  "category": "tastiere-meccaniche",
-  "title": "HyperX Alloy Origins Core, Tastiera Meccanica da Gaming Cablata",
-  "brand": "HyperX",
-  "price": {
-   "value": 97.84,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0FLX873X1",
+    "category": "tastiere-meccaniche",
+    "title": "YUNZII C75 Tastiera Meccanica Wireless Gaming (Blu, Candy Switch)",
+    "brand": "YUNZII",
+    "price": {
+      "value": 73.14,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 712,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/718Z7jp9OuL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Qualità del suono"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 2628,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GL5HC7VV",
+    "category": "tastiere-meccaniche",
+    "title": "YUNZII C98 Tastiera Meccanica Gaming Wireless (Beige, Candy Switch)",
+    "brand": "YUNZII",
+    "price": {
+      "value": 94.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 473,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71w5CaKIkqL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/713HboKyvoL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità dei materiali",
-    "Finitura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CJ8Z2FY5",
+    "category": "tastiere-meccaniche",
+    "title": "YUNZII C68 Cute Tastiera Meccanica Senza Fili (Rosa, Milk Switch)",
+    "brand": "YUNZII",
+    "price": {
+      "value": 67.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1000,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71fyS-zUBFL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0FNRKG942",
+    "category": "tastiere-meccaniche",
+    "title": "YUNZII B87 TKL Tastiera Meccanica Wireless (Marrone Cuore",
+    "brand": "YUNZII",
+    "price": {
+      "value": 70.53,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 716,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/712k+Klh5JL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07G11G2X8",
+    "category": "tastiere-meccaniche",
+    "title": "Redragon K580 Tastiera Meccanica RGB Tasti Macro Hot-Swap Blu",
+    "brand": "Redragon",
+    "price": {
+      "value": 61.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4205,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71jPClBDPDL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CMWJSQMB",
+    "category": "tastiere-meccaniche",
+    "title": "EPOMAKER Ajazz AK820 Pro Tastiera Meccanica Wireless con Schermo TFT",
+    "brand": "EPOMAKER",
+    "price": {
+      "value": 63.07,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3104,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/614U66QoZQL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Personalizzazione"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0FLX873X1",
-  "category": "tastiere-meccaniche",
-  "title": "YUNZII C75 Tastiera Meccanica Wireless Gaming (Blu, Candy Switch)",
-  "brand": "YUNZII",
-  "price": {
-   "value": 73.14,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 712,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/718Z7jp9OuL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Qualità del suono"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DPWX3WTL",
-  "category": "tastiere-meccaniche",
-  "title": "EPOMAKER X Aula F75 MAX Tastiera Meccanica Senza Fili",
-  "brand": "EPOMAKER",
-  "price": {
-   "value": 84.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2047,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61yPM8dmZKL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08FQTGFT5",
-  "category": "tastiere-meccaniche",
-  "title": "Razer BlackWidow V3 - Tastiera meccanica da gaming: interruttori",
-  "brand": "Razer",
-  "price": {
-   "value": 130.55,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1750,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71MMyY42UHL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CJ8Z2FY5",
-  "category": "tastiere-meccaniche",
-  "title": "YUNZII C68 Cute Tastiera Meccanica Senza Fili (Rosa, Milk Switch)",
-  "brand": "YUNZII",
-  "price": {
-   "value": 67.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1000,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71fyS-zUBFL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07G11G2X8",
-  "category": "tastiere-meccaniche",
-  "title": "Redragon K580 Tastiera Meccanica RGB Tasti Macro Hot-Swap Blu",
-  "brand": "Redragon",
-  "price": {
-   "value": 61.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4205,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71jPClBDPDL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0FNRKG942",
-  "category": "tastiere-meccaniche",
-  "title": "YUNZII B87 TKL Tastiera Meccanica Wireless (Marrone Cuore",
-  "brand": "YUNZII",
-  "price": {
-   "value": 70.53,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 716,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/712k+Klh5JL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CMWJSQMB",
-  "category": "tastiere-meccaniche",
-  "title": "EPOMAKER Ajazz AK820 Pro Tastiera Meccanica Wireless con Schermo TFT",
-  "brand": "EPOMAKER",
-  "price": {
-   "value": 63.07,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3104,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/614U66QoZQL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Personalizzazione"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

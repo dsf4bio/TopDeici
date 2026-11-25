@@ -1,286 +1,286 @@
 [
- {
-  "asin": "B0HR96VK2W",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Cuffie Conduzione Aerea Cuffie Wireless a Orecchio Aperto",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/51v8yh3qOkL._AC_SL500_.jpg",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CYFSQPJH",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Shokz OpenRun cuffie a conduzione ossea, IP67 - Nero",
+    "brand": "Shokz",
+    "image": "https://m.media-amazon.com/images/I/51DryLrEKpL._AC_SL500_.jpg",
+    "price": {
+      "value": 99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 41280,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Funzionalità",
+        "Praticità"
+      ],
+      "mixed": [
+        "Qualità del suono",
+        "Durata batteria",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 5.0,
-   "count": 125,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0HFJ7NVPB",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Soundcore di Anker AeroClip 2 Auricolari open-ear con clip",
+    "brand": "Soundcore",
+    "image": "https://m.media-amazon.com/images/I/61M3tBERqYL._AC_SL500_.jpg",
+    "price": {
+      "value": 152.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 645,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Isolamento acustico",
+        "Rapporto qualità-prezzo",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HNS3Z55K",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Cuffie Conduzione Ossea Bluetooth 6.0 Cuffie Open Ear Wire",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/51pp1K0KmcL._AC_SL500_.jpg",
+    "price": {
+      "value": 36.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 5,
+      "count": 125,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0HR96VK2W",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Cuffie Conduzione Aerea Cuffie Wireless a Orecchio Aperto",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/51v8yh3qOkL._AC_SL500_.jpg",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 5,
+      "count": 125,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0HQYWJKQV",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Cuffie a Conduzione Ossea Nuoto, IPX8, MP3 8 GB, Bluetooth",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/71LePqVOHyL._AC_SL500_.jpg",
+    "price": {
+      "value": 42.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 5,
+      "count": 109,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CNH1DVWB",
+    "category": "cuffie-conduzione-ossea",
+    "title": "HUAWEI FreeClip Innovative Clip Design for Unparalleled Co",
+    "brand": "HUAWEI",
+    "image": "https://m.media-amazon.com/images/I/714lcBM8CkL._AC_SL500_.jpg",
+    "price": {
+      "value": 109,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1265,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Qualità del suono",
+        "Stabilità",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Cancellazione del rumore"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GQ3MD31D",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Shokz OpenDots 2 auricolari open-ear clip-on, Dolby Audio",
+    "brand": "Shokz",
+    "image": "https://m.media-amazon.com/images/I/617Yb5D3IkL._AC_SL500_.jpg",
+    "price": {
+      "value": 159,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1291,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09BW29FJS",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Shokz OpenMove cuffie a conduzione ossea, IP55 - Grigio",
+    "brand": "Shokz",
+    "image": "https://m.media-amazon.com/images/I/514DHeZb-UL._AC_SL500_.jpg",
+    "price": {
+      "value": 64,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 24699,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Comfort",
+        "Praticità",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D31C567W",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Soundcore di Anker V20i, Cuffie Bluetooth Open Ear con Gan",
+    "brand": "Soundcore",
+    "image": "https://m.media-amazon.com/images/I/51yF6poTEvL._AC_SL500_.jpg",
+    "price": {
+      "value": 25.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 20523,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Stabilità"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D2HKCMBP",
+    "category": "cuffie-conduzione-ossea",
+    "title": "Shokz OpenRun Pro 2 cuffie a conduzione ossea, IP55 - Nero",
+    "brand": "Shokz",
+    "image": "https://m.media-amazon.com/images/I/51r-dKlDUVL._AC_SL500_.jpg",
+    "price": {
+      "value": 149,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 9056,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Comfort",
+        "Stabilità",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "negative": [
+        "Volume"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0HNS3Z55K",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Cuffie Conduzione Ossea Bluetooth 6.0 Cuffie Open Ear Wire",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/51pp1K0KmcL._AC_SL500_.jpg",
-  "price": {
-   "value": 36.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 5.0,
-   "count": 125,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0HQYWJKQV",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Cuffie a Conduzione Ossea Nuoto, IPX8, MP3 8 GB, Bluetooth",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/71LePqVOHyL._AC_SL500_.jpg",
-  "price": {
-   "value": 42.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 5.0,
-   "count": 109,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CYFSQPJH",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Shokz OpenRun cuffie a conduzione ossea, IP67 - Nero",
-  "brand": "Shokz",
-  "image": "https://m.media-amazon.com/images/I/51DryLrEKpL._AC_SL500_.jpg",
-  "price": {
-   "value": 99.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 41280,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Funzionalità",
-    "Praticità"
-   ],
-   "mixed": [
-    "Qualità del suono",
-    "Durata batteria",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HFJ7NVPB",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Soundcore di Anker AeroClip 2 Auricolari open-ear con clip",
-  "brand": "Soundcore",
-  "image": "https://m.media-amazon.com/images/I/61M3tBERqYL._AC_SL500_.jpg",
-  "price": {
-   "value": 152.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 645,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Isolamento acustico",
-    "Rapporto qualità-prezzo",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09BW29FJS",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Shokz OpenMove cuffie a conduzione ossea, IP55 - Grigio",
-  "brand": "Shokz",
-  "image": "https://m.media-amazon.com/images/I/514DHeZb-UL._AC_SL500_.jpg",
-  "price": {
-   "value": 64.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 24699,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Comfort",
-    "Praticità",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D31C567W",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Soundcore di Anker V20i, Cuffie Bluetooth Open Ear con Gan",
-  "brand": "Soundcore",
-  "image": "https://m.media-amazon.com/images/I/51yF6poTEvL._AC_SL500_.jpg",
-  "price": {
-   "value": 25.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 20523,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Stabilità"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D2HKCMBP",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Shokz OpenRun Pro 2 cuffie a conduzione ossea, IP55 - Nero",
-  "brand": "Shokz",
-  "image": "https://m.media-amazon.com/images/I/51r-dKlDUVL._AC_SL500_.jpg",
-  "price": {
-   "value": 149.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 9056,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Comfort",
-    "Stabilità",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "negative": [
-    "Volume"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GQ3MD31D",
-  "category": "cuffie-conduzione-ossea",
-  "title": "Shokz OpenDots 2 auricolari open-ear clip-on, Dolby Audio",
-  "brand": "Shokz",
-  "image": "https://m.media-amazon.com/images/I/617Yb5D3IkL._AC_SL500_.jpg",
-  "price": {
-   "value": 159.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1291,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CNH1DVWB",
-  "category": "cuffie-conduzione-ossea",
-  "title": "HUAWEI FreeClip Innovative Clip Design for Unparalleled Co",
-  "brand": "HUAWEI",
-  "image": "https://m.media-amazon.com/images/I/714lcBM8CkL._AC_SL500_.jpg",
-  "price": {
-   "value": 109.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1265,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Qualità del suono",
-    "Stabilità",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Cancellazione del rumore"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

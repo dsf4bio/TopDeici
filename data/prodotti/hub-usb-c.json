@@ -1,293 +1,293 @@
 [
- {
-  "asin": "B0GWH4ZZ7T",
-  "category": "hub-usb-c",
-  "title": "Anker Nano Hub USB C 8 in 1, Hub per Doppio Monitor 4K@60Hz",
-  "brand": "Anker",
-  "price": {
-   "value": 27.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GWH4ZZ7T",
+    "category": "hub-usb-c",
+    "title": "Anker Nano Hub USB C 8 in 1, Hub per Doppio Monitor 4K@60Hz",
+    "brand": "Anker",
+    "price": {
+      "value": 27.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10568,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61T2Ie1fVOL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Versatilità",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 10568,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08GY3GKRC",
+    "category": "hub-usb-c",
+    "title": "VENTION Hub USB C PD 100W, 6 in 1 Docking Station, HDMI 4K@30HZ",
+    "brand": "VENTION",
+    "price": {
+      "value": 30.26,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5673,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61vrAnwbsUL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Versatilità",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61T2Ie1fVOL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Versatilità",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0DY1BD3T2",
+    "category": "hub-usb-c",
+    "title": "UGREEN Revodok Pro 108 Hub USB C 8 in 1 Docking Station Multiporta",
+    "brand": "UGREEN",
+    "price": {
+      "value": 25.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2542,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71kRRJy15cL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Qualità costruttiva",
+        "Rapporto qualità-prezzo",
+        "Velocità di trasferimento"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B087QZVQJX",
+    "category": "hub-usb-c",
+    "title": "Anker Hub USB C 8 in 1 100W, Adattatore PowerExpand",
+    "brand": "Anker",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 9590,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71zuiK5poRL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Connettività",
+        "Rapporto qualità-prezzo",
+        "Velocità di trasmissione"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Surriscaldamento",
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B093FKT9BF",
+    "category": "hub-usb-c",
+    "title": "UGREEN Revodok Hub USB C Ethernet Gigabit 7 in 1 Docking Station",
+    "brand": "UGREEN",
+    "price": {
+      "value": 27.06,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 9128,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71oaJLsifAL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Costruzione",
+        "Comfort"
+      ],
+      "mixed": [
+        "Surriscaldamento",
+        "Risoluzione",
+        "Potenza di ricarica"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F6MWNJ6J",
+    "category": "hub-usb-c",
+    "title": "Baseus Nomos Air 12 in 1 Docking Station 2 Monitor per Windows",
+    "brand": "Baseus",
+    "price": {
+      "value": 65.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 6743,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71dNQHw9p-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Versatilità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08HZ1GGH9",
+    "category": "hub-usb-c",
+    "title": "UGREEN Hub USB C, HDMI 4K@60Hz, Ethernet 1000Mbps, PD 100W, 2 USB 3.0",
+    "brand": "UGREEN",
+    "price": {
+      "value": 51.51,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2231,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61kTbrhBglL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07BFJSYFM",
+    "category": "hub-usb-c",
+    "title": "Plugable USB 3.0 Docking Station Orizzontale Doppio Monitor per Windows",
+    "brand": "Plugable",
+    "price": {
+      "value": 104.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1849,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61TjqsnhK5L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DSJ5ZH8F",
+    "category": "hub-usb-c",
+    "title": "UGREEN Docking Station Hub USB C con Supporto per Mac Mini M4 M5 Pro M6",
+    "brand": "UGREEN",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1786,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51uvxEMqFgL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Connettività",
+        "Estetica",
+        "Varietà di porte"
+      ],
+      "mixed": [
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CLXV83J6",
+    "category": "hub-usb-c",
+    "title": "Baseus Hub USB C 10Gbps Adattatore USB 3.2 con Gigabit Ethernet",
+    "brand": "Baseus",
+    "price": {
+      "value": 27.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1021,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71-vGSzugrL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Connettività",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [
+        "Dissipazione calore"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B08GY3GKRC",
-  "category": "hub-usb-c",
-  "title": "VENTION Hub USB C PD 100W, 6 in 1 Docking Station, HDMI 4K@30HZ",
-  "brand": "VENTION",
-  "price": {
-   "value": 30.26,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5673,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61vrAnwbsUL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Versatilità",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DY1BD3T2",
-  "category": "hub-usb-c",
-  "title": "UGREEN Revodok Pro 108 Hub USB C 8 in 1 Docking Station Multiporta",
-  "brand": "UGREEN",
-  "price": {
-   "value": 25.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2542,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71kRRJy15cL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Qualità costruttiva",
-    "Rapporto qualità-prezzo",
-    "Velocità di trasferimento"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B087QZVQJX",
-  "category": "hub-usb-c",
-  "title": "Anker Hub USB C 8 in 1 100W, Adattatore PowerExpand",
-  "brand": "Anker",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 9590,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71zuiK5poRL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Connettività",
-    "Rapporto qualità-prezzo",
-    "Velocità di trasmissione"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Surriscaldamento",
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B093FKT9BF",
-  "category": "hub-usb-c",
-  "title": "UGREEN Revodok Hub USB C Ethernet Gigabit 7 in 1 Docking Station",
-  "brand": "UGREEN",
-  "price": {
-   "value": 27.06,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 9128,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71oaJLsifAL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Costruzione",
-    "Comfort"
-   ],
-   "mixed": [
-    "Surriscaldamento",
-    "Risoluzione",
-    "Potenza di ricarica"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F6MWNJ6J",
-  "category": "hub-usb-c",
-  "title": "Baseus Nomos Air 12 in 1 Docking Station 2 Monitor per Windows",
-  "brand": "Baseus",
-  "price": {
-   "value": 65.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 6743,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71dNQHw9p-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Versatilità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08HZ1GGH9",
-  "category": "hub-usb-c",
-  "title": "UGREEN Hub USB C, HDMI 4K@60Hz, Ethernet 1000Mbps, PD 100W, 2 USB 3.0",
-  "brand": "UGREEN",
-  "price": {
-   "value": 51.51,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2231,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61kTbrhBglL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07BFJSYFM",
-  "category": "hub-usb-c",
-  "title": "Plugable USB 3.0 Docking Station Orizzontale Doppio Monitor per Windows",
-  "brand": "Plugable",
-  "price": {
-   "value": 104.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1849,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61TjqsnhK5L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DSJ5ZH8F",
-  "category": "hub-usb-c",
-  "title": "UGREEN Docking Station Hub USB C con Supporto per Mac Mini M4 M5 Pro M6",
-  "brand": "UGREEN",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1786,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51uvxEMqFgL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Connettività",
-    "Estetica",
-    "Varietà di porte"
-   ],
-   "mixed": [
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CLXV83J6",
-  "category": "hub-usb-c",
-  "title": "Baseus Hub USB C 10Gbps Adattatore USB 3.2 con Gigabit Ethernet",
-  "brand": "Baseus",
-  "price": {
-   "value": 27.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1021,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71-vGSzugrL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Connettività",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [
-    "Dissipazione calore"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

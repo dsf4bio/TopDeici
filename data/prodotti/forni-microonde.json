@@ -1,310 +1,310 @@
 [
- {
-  "asin": "B089RVKYYG",
-  "category": "forni-microonde",
-  "title": "Samsung Forno a Microonde Grill, a libera installazione, D",
-  "brand": "Samsung",
-  "image": "https://m.media-amazon.com/images/I/51d4XczKDlL._AC_SL500_.jpg",
-  "price": {
-   "value": 113.11,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B089RVKYYG",
+    "category": "forni-microonde",
+    "title": "Samsung Forno a Microonde Grill, a libera installazione, D",
+    "brand": "Samsung",
+    "image": "https://m.media-amazon.com/images/I/51d4XczKDlL._AC_SL500_.jpg",
+    "price": {
+      "value": 113.11,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6472,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [
+        "Visibilità interna"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 6472,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0767D58GW",
+    "category": "forni-microonde",
+    "title": "LG MH6336GIB Forno Microonde Smart Inverter con Grill al Q",
+    "brand": "LG",
+    "image": "https://m.media-amazon.com/images/I/71MRgMdek5L._AC_SL500_.jpg",
+    "price": {
+      "value": 93.34,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2711,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Estetica",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [
-    "Visibilità interna"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CYSYYWW8",
+    "category": "forni-microonde",
+    "title": "COMFEE' Forno a Microonde Nero, 20 Litri, 700 W, 5 Livelli",
+    "brand": "COMFEE'",
+    "image": "https://m.media-amazon.com/images/I/61JiVZ6XjwL._AC_SL500_.jpg",
+    "price": {
+      "value": 48.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1808,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Semplicità d'uso",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07YFPZTY6",
+    "category": "forni-microonde",
+    "title": "Cecotec Forno a Microonde ProClean 2010 da 20 Litri, 700 W",
+    "brand": "Cecotec",
+    "image": "https://m.media-amazon.com/images/I/41f8bidH6SL._AC_SL500_.jpg",
+    "price": {
+      "value": 49.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 5456,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Estetica"
+      ],
+      "mixed": [
+        "Dimensioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0040KO9T4",
+    "category": "forni-microonde",
+    "title": "Candy CMG2071M Forno a Microonde con Grill, 20 Litri, 700",
+    "brand": "Candy",
+    "image": "https://m.media-amazon.com/images/I/81UTcPMNp6L._AC_SL500_.jpg",
+    "price": {
+      "value": 90.13,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 5203,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D1VC5TB6",
+    "category": "forni-microonde",
+    "title": "COMFEE' Forno a Microonde Digitale, 700W, 20L, 6 Menù Prei",
+    "brand": "COMFEE'",
+    "image": "https://m.media-amazon.com/images/I/61nERDsAY8L._AC_SL500_.jpg",
+    "price": {
+      "value": 52.24,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1259,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Dimensioni",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Potenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00FQ7M8KC",
+    "category": "forni-microonde",
+    "title": "Candy Idea Forno a Microonde 20 Litri, 700W, 13 Programmi",
+    "brand": "Candy",
+    "image": "https://m.media-amazon.com/images/I/81kkcbnstZL._AC_SL500_.jpg",
+    "price": {
+      "value": 109.41,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4070,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01549DUJE",
+    "category": "forni-microonde",
+    "title": "Whirlpool Max 39 WSL - Dimensioni 39,2cm x 35,3cm x 36,0cm",
+    "brand": "Whirlpool",
+    "image": "https://m.media-amazon.com/images/I/81ufzULP+sL._AC_SL500_.jpg",
+    "price": {
+      "value": 192.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1220,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Dimensioni",
+        "Estetica",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07CP9X7RF",
+    "category": "forni-microonde",
+    "title": "LG MH6535GIB Forno Microonde Smart Inverter con Grill al Q",
+    "brand": "LG",
+    "image": "https://m.media-amazon.com/images/I/61qEAZ+AknL._AC_SL500_.jpg",
+    "price": {
+      "value": 107.1,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3651,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Estetica",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00NA3527A",
+    "category": "forni-microonde",
+    "title": "Russell Hobbs RHM2076S Microonde Compatto Autonomo, 800 W",
+    "brand": "Russell Hobbs",
+    "image": "https://m.media-amazon.com/images/I/61FtyN5yrAL._AC_SL500_.jpg",
+    "price": {
+      "value": 94.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 164,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica"
+      ],
+      "mixed": [
+        "Facilità d'uso"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0767D58GW",
-  "category": "forni-microonde",
-  "title": "LG MH6336GIB Forno Microonde Smart Inverter con Grill al Q",
-  "brand": "LG",
-  "image": "https://m.media-amazon.com/images/I/71MRgMdek5L._AC_SL500_.jpg",
-  "price": {
-   "value": 93.34,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2711,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Estetica",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CYSYYWW8",
-  "category": "forni-microonde",
-  "title": "COMFEE' Forno a Microonde Nero, 20 Litri, 700 W, 5 Livelli",
-  "brand": "COMFEE'",
-  "image": "https://m.media-amazon.com/images/I/61JiVZ6XjwL._AC_SL500_.jpg",
-  "price": {
-   "value": 48.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1808,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Semplicità d'uso",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D1VC5TB6",
-  "category": "forni-microonde",
-  "title": "COMFEE' Forno a Microonde Digitale, 700W, 20L, 6 Menù Prei",
-  "brand": "COMFEE'",
-  "image": "https://m.media-amazon.com/images/I/61nERDsAY8L._AC_SL500_.jpg",
-  "price": {
-   "value": 52.24,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1259,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Dimensioni",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Potenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01549DUJE",
-  "category": "forni-microonde",
-  "title": "Whirlpool Max 39 WSL - Dimensioni 39,2cm x 35,3cm x 36,0cm",
-  "brand": "Whirlpool",
-  "image": "https://m.media-amazon.com/images/I/81ufzULP+sL._AC_SL500_.jpg",
-  "price": {
-   "value": 192.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1220,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Dimensioni",
-    "Estetica",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07YFPZTY6",
-  "category": "forni-microonde",
-  "title": "Cecotec Forno a Microonde ProClean 2010 da 20 Litri, 700 W",
-  "brand": "Cecotec",
-  "image": "https://m.media-amazon.com/images/I/41f8bidH6SL._AC_SL500_.jpg",
-  "price": {
-   "value": 49.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 5456,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Estetica"
-   ],
-   "mixed": [
-    "Dimensioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0040KO9T4",
-  "category": "forni-microonde",
-  "title": "Candy CMG2071M Forno a Microonde con Grill, 20 Litri, 700",
-  "brand": "Candy",
-  "image": "https://m.media-amazon.com/images/I/81UTcPMNp6L._AC_SL500_.jpg",
-  "price": {
-   "value": 90.13,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 5203,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00FQ7M8KC",
-  "category": "forni-microonde",
-  "title": "Candy Idea Forno a Microonde 20 Litri, 700W, 13 Programmi",
-  "brand": "Candy",
-  "image": "https://m.media-amazon.com/images/I/81kkcbnstZL._AC_SL500_.jpg",
-  "price": {
-   "value": 109.41,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4070,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07CP9X7RF",
-  "category": "forni-microonde",
-  "title": "LG MH6535GIB Forno Microonde Smart Inverter con Grill al Q",
-  "brand": "LG",
-  "image": "https://m.media-amazon.com/images/I/61qEAZ+AknL._AC_SL500_.jpg",
-  "price": {
-   "value": 107.1,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3651,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Estetica",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00NA3527A",
-  "category": "forni-microonde",
-  "title": "Russell Hobbs RHM2076S Microonde Compatto Autonomo, 800 W",
-  "brand": "Russell Hobbs",
-  "image": "https://m.media-amazon.com/images/I/61FtyN5yrAL._AC_SL500_.jpg",
-  "price": {
-   "value": 94.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 164,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica"
-   ],
-   "mixed": [
-    "Facilità d'uso"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

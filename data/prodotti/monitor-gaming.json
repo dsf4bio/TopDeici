@@ -1,242 +1,242 @@
 [
- {
-  "asin": "B08FF6DJNP",
-  "category": "monitor-gaming",
-  "title": "BenQ MOBIUZ EX2510 - Monitor da gaming IPS da 24,5\", 144 Hz, HDRi",
-  "brand": "BenQ",
-  "price": {
-   "value": 1199.17,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08FF6DJNP",
+    "category": "monitor-gaming",
+    "title": "BenQ MOBIUZ EX2510 - Monitor da gaming IPS da 24,5\", 144 Hz, HDRi",
+    "brand": "BenQ",
+    "price": {
+      "value": 1199.17,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1320,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61HSMvDJQ8L._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.8,
-   "count": 1320,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0829S7178",
+    "category": "monitor-gaming",
+    "title": "ASUS TUF Gaming VG249Q Monitor da 23,8\" 144Hz Full HD (1920 x 1080) 1ms",
+    "brand": "ASUS",
+    "price": {
+      "value": 497.71,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 930,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61qNNyuF9XL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61HSMvDJQ8L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0829S7178",
-  "category": "monitor-gaming",
-  "title": "ASUS TUF Gaming VG249Q Monitor da 23,8\" 144Hz Full HD (1920 x 1080) 1ms",
-  "brand": "ASUS",
-  "price": {
-   "value": 497.71,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07DTGXKK7",
+    "category": "monitor-gaming",
+    "title": "AOC Monitor Italia AOC C27G1 Monitor Gaming Curvo da 27\"",
+    "brand": "AOC",
+    "price": {
+      "value": 429.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3157,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61CDsLezAoL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Stabilità"
+      ],
+      "mixed": [
+        "Qualità dell'immagine",
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 930,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BS9TDY31",
+    "category": "monitor-gaming",
+    "title": "Acer KB272 Hbi Monitor da ufficio da gioco Full HD da 27\" (1920 x 1080)",
+    "brand": "Acer",
+    "price": {
+      "value": 358.14,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 581,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81FTa3aSdnL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61qNNyuF9XL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07DTGXKK7",
-  "category": "monitor-gaming",
-  "title": "AOC Monitor Italia AOC C27G1 Monitor Gaming Curvo da 27\"",
-  "brand": "AOC",
-  "price": {
-   "value": 429.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BT4Y1FY4",
+    "category": "monitor-gaming",
+    "title": "AOC Gaming Monitor 27G2ZNE/BK 27 pollici 1920x1080, FHD, 240Hz",
+    "brand": "AOC",
+    "price": {
+      "value": 129,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2716,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71SahTHP2vL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Qualità video",
+        "Estetica",
+        "Per gaming"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 3157,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0FH5NMXHK",
+    "category": "monitor-gaming",
+    "title": "Alienware 25 Monitor Gaming - AW2525HM, FHD (1920x1080), 320Hz, Fast IPS",
+    "brand": "Alienware",
+    "price": {
+      "value": 194.65,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 547,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/6106dbww1XL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61CDsLezAoL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Stabilità"
-   ],
-   "mixed": [
-    "Qualità dell'immagine",
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0F2KBZ7WQ",
+    "category": "monitor-gaming",
+    "title": "Alienware 27 Monitor Gaming - AW2725DM, QHD (2560x1440), 180Hz, Fast IPS",
+    "brand": "Alienware",
+    "price": {
+      "value": 233,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 506,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Y4ccIFSzL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità dell'immagine",
+        "Colori",
+        "Regolabilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Luminosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CT5P2DS9",
+    "category": "monitor-gaming",
+    "title": "BenQ GW2790E Eye-Care Monitor Gaming 27 Pollici, IPS, 100Hz",
+    "brand": "BenQ",
+    "price": {
+      "value": 101,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1831,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61bE1zJcj6L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Colori",
+        "Qualità dell'immagine"
+      ],
+      "mixed": [
+        "Luminosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BY9NPLP4",
+    "category": "monitor-gaming",
+    "title": "Acer KB272 EBI 27\" IPS Full HD Zero-Frame Gaming Office",
+    "brand": "Acer",
+    "price": {
+      "value": 389.14,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1733,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81FTa3aSdnL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B09T99RXPR",
+    "category": "monitor-gaming",
+    "title": "ASUS TUF GAMING VG27VQ3B, Monitor Gaming Curvo da 27” FHD, Nero",
+    "brand": "ASUS",
+    "image": "https://m.media-amazon.com/images/I/71s3968FFEL._AC_SL500_.jpg",
+    "price": {
+      "value": 159,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 132,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0BT4Y1FY4",
-  "category": "monitor-gaming",
-  "title": "AOC Gaming Monitor 27G2ZNE/BK 27 pollici 1920x1080, FHD, 240Hz",
-  "brand": "AOC",
-  "price": {
-   "value": 129.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2716,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71SahTHP2vL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Qualità video",
-    "Estetica",
-    "Per gaming"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BS9TDY31",
-  "category": "monitor-gaming",
-  "title": "Acer KB272 Hbi Monitor da ufficio da gioco Full HD da 27\" (1920 x 1080)",
-  "brand": "Acer",
-  "price": {
-   "value": 358.14,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 581,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81FTa3aSdnL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0FH5NMXHK",
-  "category": "monitor-gaming",
-  "title": "Alienware 25 Monitor Gaming - AW2525HM, FHD (1920x1080), 320Hz, Fast IPS",
-  "brand": "Alienware",
-  "price": {
-   "value": 194.65,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 547,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/6106dbww1XL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0F2KBZ7WQ",
-  "category": "monitor-gaming",
-  "title": "Alienware 27 Monitor Gaming - AW2725DM, QHD (2560x1440), 180Hz, Fast IPS",
-  "brand": "Alienware",
-  "price": {
-   "value": 233.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 506,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Y4ccIFSzL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità dell'immagine",
-    "Colori",
-    "Regolabilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Luminosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CT5P2DS9",
-  "category": "monitor-gaming",
-  "title": "BenQ GW2790E Eye-Care Monitor Gaming 27 Pollici, IPS, 100Hz",
-  "brand": "BenQ",
-  "price": {
-   "value": 101.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1831,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61bE1zJcj6L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Colori",
-    "Qualità dell'immagine"
-   ],
-   "mixed": [
-    "Luminosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BY9NPLP4",
-  "category": "monitor-gaming",
-  "title": "Acer KB272 EBI 27\" IPS Full HD Zero-Frame Gaming Office",
-  "brand": "Acer",
-  "price": {
-   "value": 389.14,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1733,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81FTa3aSdnL._AC_SL500_.jpg"
- },
- {
-  "asin": "B09T99RXPR",
-  "category": "monitor-gaming",
-  "title": "ASUS TUF GAMING VG27VQ3B, Monitor Gaming Curvo da 27” FHD, Nero",
-  "brand": "ASUS",
-  "image": "https://m.media-amazon.com/images/I/71s3968FFEL._AC_SL500_.jpg",
-  "price": {
-   "value": 159.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 132,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

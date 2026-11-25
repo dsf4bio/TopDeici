@@ -1,287 +1,287 @@
 [
- {
-  "asin": "B0C2YTJ74M",
-  "category": "baby-monitor",
-  "title": "Boifun Baby Monitor con Telecamera Rotante 360° HD, Scherm",
-  "brand": "Boifun",
-  "image": "https://m.media-amazon.com/images/I/61NfOq0i4+L._AC_SL500_.jpg",
-  "price": {
-   "value": 66.48,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C2YTJ74M",
+    "category": "baby-monitor",
+    "title": "Boifun Baby Monitor con Telecamera Rotante 360° HD, Scherm",
+    "brand": "Boifun",
+    "image": "https://m.media-amazon.com/images/I/61NfOq0i4+L._AC_SL500_.jpg",
+    "price": {
+      "value": 66.48,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1946,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Qualità dell'immagine",
+        "Rapporto qualità-prezzo",
+        "Visibilità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 1946,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0D6BK47VP",
+    "category": "baby-monitor",
+    "title": "BOIFUN Baby Monitor con 2 Telecamere, Schermo IPS 5\" Split",
+    "brand": "Boifun",
+    "image": "https://m.media-amazon.com/images/I/61hOCf+jggL._AC_SL500_.jpg",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1946,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Qualità dell'immagine",
+        "Rapporto qualità-prezzo",
+        "Visibilità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Qualità dell'immagine",
-    "Rapporto qualità-prezzo",
-    "Visibilità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07G858N5N",
+    "category": "baby-monitor",
+    "title": "BOIFUN Baby Monitor 720P, No WiFi, Night Vision 940nm, VOX",
+    "brand": "Boifun",
+    "image": "https://m.media-amazon.com/images/I/61WevuYhmQL._AC_SL500_.jpg",
+    "price": {
+      "value": 56.05,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7581,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Visione notturna",
+        "Qualità video"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07F2CZJT2",
+    "category": "baby-monitor",
+    "title": "Philips Avent DECT Audio Baby Monitor luce notturna e ninn",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/71mWkYHXhmL._AC_SL500_.jpg",
+    "price": {
+      "value": 111.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4154,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DHWY75FW",
+    "category": "baby-monitor",
+    "title": "2K 5\" Baby Monitor Video, Controllo Tramite Cellulare APP",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/61Ah0+j3nVL._AC_SL500_.jpg",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1251,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Connettività",
+        "Funzionalità",
+        "Visione notturna"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DX27MWZJ",
+    "category": "baby-monitor",
+    "title": "Baby Monitor WiFi 5\" con Camera 2K, App, Visione Notturna",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/71yzzjuVWtL._AC_SL500_.jpg",
+    "price": {
+      "value": 94.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1071,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Qualità dell'immagine",
+        "Rapporto qualità-prezzo",
+        "Connettività"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DH1ZBL5F",
+    "category": "baby-monitor",
+    "title": "BOIFUN 2K Baby Monitor WiFi con Display 5”, Controllo Dopp",
+    "brand": "Boifun",
+    "image": "https://m.media-amazon.com/images/I/712JTmMDIeL._AC_SL500_.jpg",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 961,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Affidabilità",
+        "Rapporto qualità-prezzo",
+        "Notifiche"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BNZYY5VN",
+    "category": "baby-monitor",
+    "title": "HelloBaby Baby Monitor Video e Audio telecamera bambini co",
+    "brand": "HelloBaby",
+    "image": "https://m.media-amazon.com/images/I/61Aw0w7NG8L._AC_SL500_.jpg",
+    "price": {
+      "value": 66.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 9277,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Visione notturna",
+        "Qualità del suono"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01M0W3YNJ",
+    "category": "baby-monitor",
+    "title": "GHB Baby Monitor Video e Audio 3,2'' Visione Notturna",
+    "brand": "GHB",
+    "image": "https://m.media-amazon.com/images/I/61cPo-nMDlL._AC_SL500_.jpg",
+    "price": {
+      "value": 54.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4022,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Visione notturna",
+        "Qualità video"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Durata batteria",
+        "Sensibilità audio"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HH9K6XJY",
+    "category": "baby-monitor",
+    "title": "Babysense Baby Monitor Video e Audio Senza WiFi con 2 Tele",
+    "brand": "Babysense",
+    "image": "https://m.media-amazon.com/images/I/71dF88hVEuL._AC_SL500_.jpg",
+    "price": {
+      "value": 99.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 108,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0D6BK47VP",
-  "category": "baby-monitor",
-  "title": "BOIFUN Baby Monitor con 2 Telecamere, Schermo IPS 5\" Split",
-  "brand": "Boifun",
-  "image": "https://m.media-amazon.com/images/I/61hOCf+jggL._AC_SL500_.jpg",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1946,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Qualità dell'immagine",
-    "Rapporto qualità-prezzo",
-    "Visibilità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HH9K6XJY",
-  "category": "baby-monitor",
-  "title": "Babysense Baby Monitor Video e Audio Senza WiFi con 2 Tele",
-  "brand": "Babysense",
-  "image": "https://m.media-amazon.com/images/I/71dF88hVEuL._AC_SL500_.jpg",
-  "price": {
-   "value": 99.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.9,
-   "count": 108,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B07G858N5N",
-  "category": "baby-monitor",
-  "title": "BOIFUN Baby Monitor 720P, No WiFi, Night Vision 940nm, VOX",
-  "brand": "Boifun",
-  "image": "https://m.media-amazon.com/images/I/61WevuYhmQL._AC_SL500_.jpg",
-  "price": {
-   "value": 56.05,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 7581,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Visione notturna",
-    "Qualità video"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07F2CZJT2",
-  "category": "baby-monitor",
-  "title": "Philips Avent DECT Audio Baby Monitor luce notturna e ninn",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/71mWkYHXhmL._AC_SL500_.jpg",
-  "price": {
-   "value": 111.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4154,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0BNZYY5VN",
-  "category": "baby-monitor",
-  "title": "HelloBaby Baby Monitor Video e Audio telecamera bambini co",
-  "brand": "HelloBaby",
-  "image": "https://m.media-amazon.com/images/I/61Aw0w7NG8L._AC_SL500_.jpg",
-  "price": {
-   "value": 66.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 9277,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Visione notturna",
-    "Qualità del suono"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DHWY75FW",
-  "category": "baby-monitor",
-  "title": "2K 5\" Baby Monitor Video, Controllo Tramite Cellulare APP",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/61Ah0+j3nVL._AC_SL500_.jpg",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1251,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Connettività",
-    "Funzionalità",
-    "Visione notturna"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DX27MWZJ",
-  "category": "baby-monitor",
-  "title": "Baby Monitor WiFi 5\" con Camera 2K, App, Visione Notturna",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/71yzzjuVWtL._AC_SL500_.jpg",
-  "price": {
-   "value": 94.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1071,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Qualità dell'immagine",
-    "Rapporto qualità-prezzo",
-    "Connettività"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DH1ZBL5F",
-  "category": "baby-monitor",
-  "title": "BOIFUN 2K Baby Monitor WiFi con Display 5”, Controllo Dopp",
-  "brand": "Boifun",
-  "image": "https://m.media-amazon.com/images/I/712JTmMDIeL._AC_SL500_.jpg",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 961,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Affidabilità",
-    "Rapporto qualità-prezzo",
-    "Notifiche"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01M0W3YNJ",
-  "category": "baby-monitor",
-  "title": "GHB Baby Monitor Video e Audio 3,2'' Visione Notturna",
-  "brand": "GHB",
-  "image": "https://m.media-amazon.com/images/I/61cPo-nMDlL._AC_SL500_.jpg",
-  "price": {
-   "value": 54.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4022,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Visione notturna",
-    "Qualità video"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Durata batteria",
-    "Sensibilità audio"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

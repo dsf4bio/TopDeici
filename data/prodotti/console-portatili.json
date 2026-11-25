@@ -1,160 +1,160 @@
 [
- {
-  "asin": "B0BHDDH5W1",
-  "category": "console-portatili",
-  "title": "Nintendo Console Switch con Joy-Con Rosso Neon e Blu Neon",
-  "brand": "Nintendo",
-  "price": {
-   "value": 299.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B098RKWHHZ",
+    "category": "console-portatili",
+    "title": "Nintendo Switch (OLED model) with White Joy-Con",
+    "brand": "Nintendo",
+    "price": {
+      "value": 561.43,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 30360,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61nqNujSF2L._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.8,
-   "count": 8123,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BHDDH5W1",
+    "category": "console-portatili",
+    "title": "Nintendo Console Switch con Joy-Con Rosso Neon e Blu Neon",
+    "brand": "Nintendo",
+    "price": {
+      "value": 299,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 8123,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81Sic9wi4zL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Estetica"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/81Sic9wi4zL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Estetica"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B092JL5NS2",
+    "category": "console-portatili",
+    "title": "Nintendo - Console Nintendo Switch Lite Blu - schermo LCD 5,5\" - 32GB",
+    "brand": "Nintendo",
+    "price": {
+      "value": 209,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 9394,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/7148gs3mRnL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Portabilità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F2J4SYJ2",
+    "category": "console-portatili",
+    "title": "Nintendo Console Switch 2",
+    "brand": "Nintendo",
+    "price": {
+      "value": 458.87,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2003,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61CIA5IVbvL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Qualità dell'immagine"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CQ3L4726",
+    "category": "console-portatili",
+    "title": "Valve Steam Deck OLED 1TB Console di gioco portatile",
+    "brand": "Valve",
+    "price": {
+      "value": 999.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 623,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61yx3cbytcL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DSPWD3RP",
+    "category": "console-portatili",
+    "title": "Playstation Portal Remote Player – Midnight Black",
+    "brand": "Sony",
+    "image": "https://m.media-amazon.com/images/I/61FQfrGWodL._AC_SL500_.jpg",
+    "price": {
+      "value": 248,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 10618,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità costruttiva"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B098RKWHHZ",
-  "category": "console-portatili",
-  "title": "Nintendo Switch (OLED model) with White Joy-Con",
-  "brand": "Nintendo",
-  "price": {
-   "value": 561.43,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 30360,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61nqNujSF2L._AC_SL500_.jpg"
- },
- {
-  "asin": "B092JL5NS2",
-  "category": "console-portatili",
-  "title": "Nintendo - Console Nintendo Switch Lite Blu - schermo LCD 5,5\" - 32GB",
-  "brand": "Nintendo",
-  "price": {
-   "value": 209.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 9394,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/7148gs3mRnL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Portabilità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F2J4SYJ2",
-  "category": "console-portatili",
-  "title": "Nintendo Console Switch 2",
-  "brand": "Nintendo",
-  "price": {
-   "value": 458.87,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2003,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61CIA5IVbvL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Qualità dell'immagine"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CQ3L4726",
-  "category": "console-portatili",
-  "title": "Valve Steam Deck OLED 1TB Console di gioco portatile",
-  "brand": "Valve",
-  "price": {
-   "value": 999.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 623,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61yx3cbytcL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DSPWD3RP",
-  "category": "console-portatili",
-  "title": "Playstation Portal Remote Player – Midnight Black",
-  "brand": "Sony",
-  "image": "https://m.media-amazon.com/images/I/61FQfrGWodL._AC_SL500_.jpg",
-  "price": {
-   "value": 248.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 10618,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità costruttiva"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

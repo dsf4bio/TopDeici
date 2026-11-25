@@ -1,276 +1,276 @@
 [
- {
-  "asin": "B0BX4KL2C8",
-  "category": "idropulitrici",
-  "title": "Westinghouse ePX3100v idropulitrice elettrica, 2100 PSI max 1,76 GPM",
-  "brand": "Westinghouse",
-  "price": {
-   "value": 232.05,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BX4KL2C8",
+    "category": "idropulitrici",
+    "title": "Westinghouse ePX3100v idropulitrice elettrica, 2100 PSI max 1,76 GPM",
+    "brand": "Westinghouse",
+    "price": {
+      "value": 232.05,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4814,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71qxvc3sAOL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 4814,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B06XRDTQFP",
+    "category": "idropulitrici",
+    "title": "Bosch Idropulitrice UniversalAquatak 135",
+    "brand": "Bosch",
+    "price": {
+      "value": 132.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4711,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61uuH5NUspL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [
+        "Affidabilità",
+        "Robustezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71qxvc3sAOL._AC_SL500_.jpg"
- },
- {
-  "asin": "B06XRDTQFP",
-  "category": "idropulitrici",
-  "title": "Bosch Idropulitrice UniversalAquatak 135",
-  "brand": "Bosch",
-  "price": {
-   "value": 132.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B06XQJMZFK",
+    "category": "idropulitrici",
+    "title": "Bosch Idropulitrice UniversalAquatak 125",
+    "brand": "Bosch",
+    "price": {
+      "value": 102.21,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3345,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61RMS-dSw7L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 4711,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0989M4WJ1",
+    "category": "idropulitrici",
+    "title": "Greenworks Idropulitrice 2000 PSI 1.2 GPM (Open Frame GPW2003) GPW2003",
+    "brand": "Greenworks",
+    "price": {
+      "value": 512.92,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1645,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71MjdL1aavL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61uuH5NUspL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [
-    "Affidabilità",
-    "Robustezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07JGZT1FJ",
+    "category": "idropulitrici",
+    "title": "Bosch Idropulitrice ad alta pressione AdvancedAquatak 140",
+    "brand": "Bosch",
+    "price": {
+      "value": 220.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1430,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71R-eRJg3UL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Potenza",
+        "Facilità d'uso",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Peso"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B086XYFJ3J",
+    "category": "idropulitrici",
+    "title": "Bosch Home and Garden Idropulitrice Easy Aquatak 120",
+    "brand": "Bosch",
+    "price": {
+      "value": 99.64,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3937,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61JX2DdREJL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Praticità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B077ZL5FH7",
+    "category": "idropulitrici",
+    "title": "Bosch Idropulitrice EasyAquatak 120",
+    "brand": "Bosch",
+    "price": {
+      "value": 87.24,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3693,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71hnlMmhcoL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Efficacia",
+        "Dimensioni compatte",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C3RJ3F1R",
+    "category": "idropulitrici",
+    "title": "ARXP Idropulitrice BOX4 180DSS Compatta (2500 W, 180 bar, 500 l/h)",
+    "brand": "ARXP",
+    "price": {
+      "value": 160.48,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 450,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61gzzeX5bHL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Dimensioni compatte",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B088C6Y6XV",
+    "category": "idropulitrici",
+    "title": "AR Blue Clean Idropulitrice ad Alta Pressione e-4 TWINFLOW D",
+    "brand": "AR Blue Clean",
+    "price": {
+      "value": 218.41,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 296,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71WteFtlE2L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BDWKRK8V",
+    "category": "idropulitrici",
+    "title": "Greenworks Idropulitrice da 1800 PSI 1,2 GPM (telaio aperto)",
+    "brand": "Greenworks",
+    "price": {
+      "value": 320.91,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 277,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71hB6AB25nL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B06XQJMZFK",
-  "category": "idropulitrici",
-  "title": "Bosch Idropulitrice UniversalAquatak 125",
-  "brand": "Bosch",
-  "price": {
-   "value": 102.21,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3345,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61RMS-dSw7L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0989M4WJ1",
-  "category": "idropulitrici",
-  "title": "Greenworks Idropulitrice 2000 PSI 1.2 GPM (Open Frame GPW2003) GPW2003",
-  "brand": "Greenworks",
-  "price": {
-   "value": 512.92,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1645,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71MjdL1aavL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07JGZT1FJ",
-  "category": "idropulitrici",
-  "title": "Bosch Idropulitrice ad alta pressione AdvancedAquatak 140",
-  "brand": "Bosch",
-  "price": {
-   "value": 220.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1430,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71R-eRJg3UL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Potenza",
-    "Facilità d'uso",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Peso"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B088C6Y6XV",
-  "category": "idropulitrici",
-  "title": "AR Blue Clean Idropulitrice ad Alta Pressione e-4 TWINFLOW D",
-  "brand": "AR Blue Clean",
-  "price": {
-   "value": 218.41,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 296,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71WteFtlE2L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BDWKRK8V",
-  "category": "idropulitrici",
-  "title": "Greenworks Idropulitrice da 1800 PSI 1,2 GPM (telaio aperto)",
-  "brand": "Greenworks",
-  "price": {
-   "value": 320.91,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 277,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71hB6AB25nL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0C3RJ3F1R",
-  "category": "idropulitrici",
-  "title": "ARXP Idropulitrice BOX4 180DSS Compatta (2500 W, 180 bar, 500 l/h)",
-  "brand": "ARXP",
-  "price": {
-   "value": 160.48,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 450,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61gzzeX5bHL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Dimensioni compatte",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B086XYFJ3J",
-  "category": "idropulitrici",
-  "title": "Bosch Home and Garden Idropulitrice Easy Aquatak 120",
-  "brand": "Bosch",
-  "price": {
-   "value": 99.64,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3937,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61JX2DdREJL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Praticità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B077ZL5FH7",
-  "category": "idropulitrici",
-  "title": "Bosch Idropulitrice EasyAquatak 120",
-  "brand": "Bosch",
-  "price": {
-   "value": 87.24,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3693,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71hnlMmhcoL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Efficacia",
-    "Dimensioni compatte",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,205 +1,205 @@
 [
- {
-  "asin": "B0D35T7DNF",
-  "category": "topper-materasso",
-  "title": "Gel Topper Matrimoniale 180 x 200 Premium 8cm Peso speci",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81TWvz4piGL._AC_SL500_.jpg",
-  "price": {
-   "value": 209.97,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0FXMH1DN4",
+    "category": "topper-materasso",
+    "title": "Welldora Coprimaterasso Topper Antiacaro 180x200x8, Fodera",
+    "brand": "Welldora",
+    "image": "https://m.media-amazon.com/images/I/717-xN2+tQL._AC_SL500_.jpg",
+    "price": {
+      "value": 38.68,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1675,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 393,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0HKNRGG5R",
+    "category": "topper-materasso",
+    "title": "Kiby® Topper Matrimoniale Memory Foam 160x190 alto 5 CM",
+    "brand": "Kiby",
+    "image": "https://m.media-amazon.com/images/I/71ZFiek7UsL._AC_SL500_.jpg",
+    "price": {
+      "value": 74.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1353,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Dimensioni",
+        "Praticità"
+      ],
+      "mixed": [
+        "Rigidità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D35T7DNF",
+    "category": "topper-materasso",
+    "title": "Gel Topper Matrimoniale 180 x 200 Premium 8cm Peso speci",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81TWvz4piGL._AC_SL500_.jpg",
+    "price": {
+      "value": 209.97,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 393,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07D7XLDPM",
+    "category": "topper-materasso",
+    "title": "Dailydream Topper 140x200cm in schiuma memory foam, 3,5 cm",
+    "brand": "Dailydream",
+    "image": "https://m.media-amazon.com/images/I/81n+JLKpkDL._AC_SL500_.jpg",
+    "price": {
+      "value": 73.11,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 12086,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Morbidezza",
+        "Qualità del sonno",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Calore"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08B4139JN",
+    "category": "topper-materasso",
+    "title": "Bedshire Topper Matrimoniale 160x190 Materasso Correttore",
+    "brand": "Bedshire",
+    "image": "https://m.media-amazon.com/images/I/61oMGOQSa1L._AC_SL500_.jpg",
+    "price": {
+      "value": 125.91,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 5708,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Qualità del sonno",
+        "Morbidezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C4YCPP2J",
+    "category": "topper-materasso",
+    "title": "MKS Topper per Materasso 180x200 cm in Memory Foam con Gel",
+    "brand": "MKS",
+    "image": "https://m.media-amazon.com/images/I/81SHjE8baIL._AC_SL500_.jpg",
+    "price": {
+      "value": 151.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 396,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CTZQC1ZW",
+    "category": "topper-materasso",
+    "title": "Novilla Topper Matrimoniale Memory Foam 160x190x7,5cm, Copertura Lavab",
+    "brand": "Novilla",
+    "image": "https://m.media-amazon.com/images/I/71RiUVL3MtL._AC_SL500_.jpg",
+    "price": {
+      "value": 66.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1707,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Qualità del sonno",
+        "Adattabilità"
+      ],
+      "mixed": [
+        "Morbidezza",
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B098BKNMB4",
+    "category": "topper-materasso",
+    "title": "Linenspa Topper Singolo, alto 10 cm Correttore materasso",
+    "brand": "Linenspa",
+    "image": "https://m.media-amazon.com/images/I/817DC8paN5L._AC_SL500_.jpg",
+    "price": {
+      "value": 119.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 130106,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0FXMH1DN4",
-  "category": "topper-materasso",
-  "title": "Welldora Coprimaterasso Topper Antiacaro 180x200x8, Fodera",
-  "brand": "Welldora",
-  "image": "https://m.media-amazon.com/images/I/717-xN2+tQL._AC_SL500_.jpg",
-  "price": {
-   "value": 38.68,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1675,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B098BKNMB4",
-  "category": "topper-materasso",
-  "title": "Linenspa Topper Singolo, alto 10 cm Correttore materasso",
-  "brand": "Linenspa",
-  "image": "https://m.media-amazon.com/images/I/817DC8paN5L._AC_SL500_.jpg",
-  "price": {
-   "value": 119.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 130106,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B07D7XLDPM",
-  "category": "topper-materasso",
-  "title": "Dailydream Topper 140x200cm in schiuma memory foam, 3,5 cm",
-  "brand": "Dailydream",
-  "image": "https://m.media-amazon.com/images/I/81n+JLKpkDL._AC_SL500_.jpg",
-  "price": {
-   "value": 73.11,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 12086,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Morbidezza",
-    "Qualità del sonno",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Calore"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HKNRGG5R",
-  "category": "topper-materasso",
-  "title": "Kiby® Topper Matrimoniale Memory Foam 160x190 alto 5 CM",
-  "brand": "Kiby",
-  "image": "https://m.media-amazon.com/images/I/71ZFiek7UsL._AC_SL500_.jpg",
-  "price": {
-   "value": 74.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1353,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Dimensioni",
-    "Praticità"
-   ],
-   "mixed": [
-    "Rigidità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08B4139JN",
-  "category": "topper-materasso",
-  "title": "Bedshire Topper Matrimoniale 160x190 Materasso Correttore",
-  "brand": "Bedshire",
-  "image": "https://m.media-amazon.com/images/I/61oMGOQSa1L._AC_SL500_.jpg",
-  "price": {
-   "value": 125.91,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 5708,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Qualità del sonno",
-    "Morbidezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C4YCPP2J",
-  "category": "topper-materasso",
-  "title": "MKS Topper per Materasso 180x200 cm in Memory Foam con Gel",
-  "brand": "MKS",
-  "image": "https://m.media-amazon.com/images/I/81SHjE8baIL._AC_SL500_.jpg",
-  "price": {
-   "value": 151.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 396,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CTZQC1ZW",
-  "category": "topper-materasso",
-  "title": "Novilla Topper Matrimoniale Memory Foam 160x190x7,5cm, Copertura Lavab",
-  "brand": "Novilla",
-  "image": "https://m.media-amazon.com/images/I/71RiUVL3MtL._AC_SL500_.jpg",
-  "price": {
-   "value": 66.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1707,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Qualità del sonno",
-    "Adattabilità"
-   ],
-   "mixed": [
-    "Morbidezza",
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

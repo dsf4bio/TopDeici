@@ -1,272 +1,272 @@
 [
- {
-  "asin": "B087JF3B5S",
-  "category": "scrivanie-regolabili",
-  "title": "MAIDeSITe Scrivania Regolabile in Altezza con 2 Potenti Motori",
-  "brand": "MAIDeSITe",
-  "price": {
-   "value": 288.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B087JF3B5S",
+    "category": "scrivanie-regolabili",
+    "title": "MAIDeSITe Scrivania Regolabile in Altezza con 2 Potenti Motori",
+    "brand": "MAIDeSITe",
+    "price": {
+      "value": 288.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1837,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71Twbh2OnaL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Silenziosità",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 1837,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B083T9Z4SG",
+    "category": "scrivanie-regolabili",
+    "title": "MAIDeSITe Scrivania Regolabile in Altezza",
+    "brand": "MAIDeSITe",
+    "price": {
+      "value": 254.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1576,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71b1g2hZNpL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Regolabilità",
+        "Silenziosità"
+      ],
+      "mixed": [
+        "Istruzioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71Twbh2OnaL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Silenziosità",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0727PTRVL",
+    "category": "scrivanie-regolabili",
+    "title": "FLEXISPOT E1 PRO Scrivania Regolabile in Altezza con 2 Motori",
+    "brand": "FLEXISPOT",
+    "price": {
+      "value": 145.75,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2161,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61GOUvUgdKL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B077JPC7PK",
+    "category": "scrivanie-regolabili",
+    "title": "FLEXISPOT EC5B - Scrivania a 3 colonne da seduta, 2 motori",
+    "brand": "FLEXISPOT",
+    "price": {
+      "value": 239.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 929,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51v9L9w8n-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità costruttiva",
+        "Stabilità",
+        "Facilità di montaggio",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Costo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B087JSVN83",
+    "category": "scrivanie-regolabili",
+    "title": "MAIDeSITe Scrivania elettrica Sit-Stand Scrivania Regolabile in Altezza",
+    "brand": "MAIDeSITe",
+    "price": {
+      "value": 371.86,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 405,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71x+fNigIdL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B09TKLDMYD",
+    "category": "scrivanie-regolabili",
+    "title": "Homall Scrivania elettrica doppio motore 72-120cm portata 100 kg Grigia",
+    "brand": "Homall",
+    "price": {
+      "value": 112.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 687,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61R8CdHloKL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CQNT4H9Z",
+    "category": "scrivanie-regolabili",
+    "title": "ErGear Scrivania Regolabile in Altezza, 2 Motori, 4 Memorie, Bianco",
+    "brand": "ErGear",
+    "price": {
+      "value": 169.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 644,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51xhWrv9HYL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0FQBQFZR5",
+    "category": "scrivanie-regolabili",
+    "title": "ErGear Scrivania Regolabile in Altezza, 160x80cm, Bianca",
+    "brand": "ErGear",
+    "price": {
+      "value": 132.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4234,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71TQXJ01rtL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Funzionalità",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DBVFDM3D",
+    "category": "scrivanie-regolabili",
+    "title": "MAIDeSITe EL2 Pro Art Scrivania Regolabile in Altezza Elettrica, Desig",
+    "brand": "MAIDeSITe",
+    "image": "https://m.media-amazon.com/images/I/61yWYUnyA3L._AC_SL500_.jpg",
+    "price": {
+      "value": 254.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 259,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Estetica",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CH8WN7TY",
+    "category": "scrivanie-regolabili",
+    "title": "Devoko Scrivania Regolabile in Altezza 160x80 cm Bianco Ufficio con Ru",
+    "brand": "Devoko",
+    "image": "https://m.media-amazon.com/images/I/51rMeB4nYfL._AC_SL500_.jpg",
+    "price": {
+      "value": 149.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1800,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Robustezza",
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B083T9Z4SG",
-  "category": "scrivanie-regolabili",
-  "title": "MAIDeSITe Scrivania Regolabile in Altezza",
-  "brand": "MAIDeSITe",
-  "price": {
-   "value": 254.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1576,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71b1g2hZNpL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Regolabilità",
-    "Silenziosità"
-   ],
-   "mixed": [
-    "Istruzioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0727PTRVL",
-  "category": "scrivanie-regolabili",
-  "title": "FLEXISPOT E1 PRO Scrivania Regolabile in Altezza con 2 Motori",
-  "brand": "FLEXISPOT",
-  "price": {
-   "value": 145.75,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2161,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61GOUvUgdKL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B087JSVN83",
-  "category": "scrivanie-regolabili",
-  "title": "MAIDeSITe Scrivania elettrica Sit-Stand Scrivania Regolabile in Altezza",
-  "brand": "MAIDeSITe",
-  "price": {
-   "value": 371.86,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 405,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71x+fNigIdL._AC_SL500_.jpg"
- },
- {
-  "asin": "B077JPC7PK",
-  "category": "scrivanie-regolabili",
-  "title": "FLEXISPOT EC5B - Scrivania a 3 colonne da seduta, 2 motori",
-  "brand": "FLEXISPOT",
-  "price": {
-   "value": 239.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 929,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51v9L9w8n-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità costruttiva",
-    "Stabilità",
-    "Facilità di montaggio",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Costo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FQBQFZR5",
-  "category": "scrivanie-regolabili",
-  "title": "ErGear Scrivania Regolabile in Altezza, 160x80cm, Bianca",
-  "brand": "ErGear",
-  "price": {
-   "value": 132.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4234,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71TQXJ01rtL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Funzionalità",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09TKLDMYD",
-  "category": "scrivanie-regolabili",
-  "title": "Homall Scrivania elettrica doppio motore 72-120cm portata 100 kg Grigia",
-  "brand": "Homall",
-  "price": {
-   "value": 112.96,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 687,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61R8CdHloKL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CQNT4H9Z",
-  "category": "scrivanie-regolabili",
-  "title": "ErGear Scrivania Regolabile in Altezza, 2 Motori, 4 Memorie, Bianco",
-  "brand": "ErGear",
-  "price": {
-   "value": 169.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 644,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51xhWrv9HYL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DBVFDM3D",
-  "category": "scrivanie-regolabili",
-  "title": "MAIDeSITe EL2 Pro Art Scrivania Regolabile in Altezza Elettrica, Desig",
-  "brand": "MAIDeSITe",
-  "image": "https://m.media-amazon.com/images/I/61yWYUnyA3L._AC_SL500_.jpg",
-  "price": {
-   "value": 254.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 259,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Estetica",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CH8WN7TY",
-  "category": "scrivanie-regolabili",
-  "title": "Devoko Scrivania Regolabile in Altezza 160x80 cm Bianco Ufficio con Ru",
-  "brand": "Devoko",
-  "image": "https://m.media-amazon.com/images/I/51rMeB4nYfL._AC_SL500_.jpg",
-  "price": {
-   "value": 149.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1800,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Robustezza",
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

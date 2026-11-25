@@ -1,286 +1,286 @@
 [
- {
-  "asin": "B00YUIM2J0",
-  "category": "volanti-simulatori",
-  "title": "Logitech G G29 Driving Force volante da corsa per PS5, PS4, PC, Mac",
-  "brand": "Logitech",
-  "price": {
-   "value": 178.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00YUIM2J0",
+    "category": "volanti-simulatori",
+    "title": "Logitech G G29 Driving Force volante da corsa per PS5, PS4, PC, Mac",
+    "brand": "Logitech",
+    "price": {
+      "value": 178.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 30388,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61wBV8pnsFL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Qualità del volante",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 30388,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B011N78DMA",
+    "category": "volanti-simulatori",
+    "title": "Logitech G G920 Driving Force Volante e pedali - Nero",
+    "brand": "Logitech",
+    "price": {
+      "value": 189.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 10042,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61OUQwoq+bL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Force feedback",
+        "Qualità dei materiali"
+      ],
+      "mixed": [],
+      "negative": [
+        "Freno"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61wBV8pnsFL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Qualità del volante",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07W6JB7N7",
+    "category": "volanti-simulatori",
+    "title": "Logitech G G923 Volante da Corsa e Pedali",
+    "brand": "Logitech",
+    "price": {
+      "value": 229.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1278,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61ixZED7ZlL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Connettività"
+      ],
+      "mixed": [],
+      "negative": [
+        "Pedale del freno"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01HRYFODO",
+    "category": "volanti-simulatori",
+    "title": "Thrustmaster T300RS GT Volante Force Feedback e 3 Pedali - PS5 e PC",
+    "brand": "Thrustmaster",
+    "price": {
+      "value": 359.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4154,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71vf7FTHtAL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Force feedback",
+        "Estetica"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07W4DG81W",
+    "category": "volanti-simulatori",
+    "title": "Logitech G G923 volante da corsa e pedali per Xbox & PC",
+    "brand": "Logitech",
+    "price": {
+      "value": 184.8,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1913,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/614pKhKDstL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità costruttiva",
+        "Qualità del volante",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Compatibilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DVGNKTLS",
+    "category": "volanti-simulatori",
+    "title": "MOZA R3 Bundle Volante Simulatore di Guida PC con Base Direct Drive 3.",
+    "brand": "MOZA",
+    "image": "https://m.media-amazon.com/images/I/61qa3XkfIpL._AC_SL500_.jpg",
+    "price": {
+      "value": 249,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 545,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08K9VCZ5G",
+    "category": "volanti-simulatori",
+    "title": "Logitech G923 Volante da Corsa e Pedali e Driving Force Leva di Cambio",
+    "brand": "Logitech",
+    "price": {
+      "value": 217.09,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 220,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71bt6K7tjDS._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0B3MSFMWN",
+    "category": "volanti-simulatori",
+    "title": "Thrustmaster T128 Volante da Corsa Force Feedback e Pedaliera - PS e PC",
+    "brand": "Thrustmaster",
+    "price": {
+      "value": 129,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1112,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81qJLljsYyL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Prestazioni",
+        "Estetica"
+      ],
+      "mixed": [
+        "Affidabilità",
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0B3RJNZXG",
+    "category": "volanti-simulatori",
+    "title": "Thrustmaster T128 Volante da Corsa Force Feedback e Pedaliera",
+    "brand": "Thrustmaster",
+    "price": {
+      "value": 129,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 730,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81US+8C0u8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Sensibilità",
+        "Force feedback"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F2FSTKM9",
+    "category": "volanti-simulatori",
+    "title": "Thrustmaster T98 Ferrari 296 GTB - Volante da Corsa e Pedaliera - PS5",
+    "brand": "Thrustmaster",
+    "image": "https://m.media-amazon.com/images/I/81RS8x8qemL._AC_SL500_.jpg",
+    "price": {
+      "value": 93.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 604,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B011N78DMA",
-  "category": "volanti-simulatori",
-  "title": "Logitech G G920 Driving Force Volante e pedali - Nero",
-  "brand": "Logitech",
-  "price": {
-   "value": 189.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 10042,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61OUQwoq+bL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Force feedback",
-    "Qualità dei materiali"
-   ],
-   "mixed": [],
-   "negative": [
-    "Freno"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07W6JB7N7",
-  "category": "volanti-simulatori",
-  "title": "Logitech G G923 Volante da Corsa e Pedali",
-  "brand": "Logitech",
-  "price": {
-   "value": 229.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1278,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61ixZED7ZlL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Connettività"
-   ],
-   "mixed": [],
-   "negative": [
-    "Pedale del freno"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01HRYFODO",
-  "category": "volanti-simulatori",
-  "title": "Thrustmaster T300RS GT Volante Force Feedback e 3 Pedali - PS5 e PC",
-  "brand": "Thrustmaster",
-  "price": {
-   "value": 359.94,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4154,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71vf7FTHtAL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Force feedback",
-    "Estetica"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07W4DG81W",
-  "category": "volanti-simulatori",
-  "title": "Logitech G G923 volante da corsa e pedali per Xbox & PC",
-  "brand": "Logitech",
-  "price": {
-   "value": 184.8,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1913,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/614pKhKDstL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità costruttiva",
-    "Qualità del volante",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Compatibilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08K9VCZ5G",
-  "category": "volanti-simulatori",
-  "title": "Logitech G923 Volante da Corsa e Pedali e Driving Force Leva di Cambio",
-  "brand": "Logitech",
-  "price": {
-   "value": 217.09,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 220,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71bt6K7tjDS._AC_SL500_.jpg"
- },
- {
-  "asin": "B0B3MSFMWN",
-  "category": "volanti-simulatori",
-  "title": "Thrustmaster T128 Volante da Corsa Force Feedback e Pedaliera - PS e PC",
-  "brand": "Thrustmaster",
-  "price": {
-   "value": 129.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1112,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81qJLljsYyL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Prestazioni",
-    "Estetica"
-   ],
-   "mixed": [
-    "Affidabilità",
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0B3RJNZXG",
-  "category": "volanti-simulatori",
-  "title": "Thrustmaster T128 Volante da Corsa Force Feedback e Pedaliera",
-  "brand": "Thrustmaster",
-  "price": {
-   "value": 129.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 730,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81US+8C0u8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Sensibilità",
-    "Force feedback"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DVGNKTLS",
-  "category": "volanti-simulatori",
-  "title": "MOZA R3 Bundle Volante Simulatore di Guida PC con Base Direct Drive 3.",
-  "brand": "MOZA",
-  "image": "https://m.media-amazon.com/images/I/61qa3XkfIpL._AC_SL500_.jpg",
-  "price": {
-   "value": 249.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 545,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0F2FSTKM9",
-  "category": "volanti-simulatori",
-  "title": "Thrustmaster T98 Ferrari 296 GTB - Volante da Corsa e Pedaliera - PS5",
-  "brand": "Thrustmaster",
-  "image": "https://m.media-amazon.com/images/I/81RS8x8qemL._AC_SL500_.jpg",
-  "price": {
-   "value": 93.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 604,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

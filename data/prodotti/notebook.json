@@ -1,278 +1,278 @@
 [
- {
-  "asin": "B08HYDLVZY",
-  "category": "notebook",
-  "title": "Lenovo IdeaPad 3 Notebook 39.6 cm (15.6 ) 1920 x 1080 pixels 10th gen",
-  "brand": "Lenovo",
-  "price": {
-   "value": 640.5,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08HYDLVZY",
+    "category": "notebook",
+    "title": "Lenovo IdeaPad 3 Notebook 39.6 cm (15.6 ) 1920 x 1080 pixels 10th gen",
+    "brand": "Lenovo",
+    "price": {
+      "value": 640.5,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 856,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51WyevU9lSL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 856,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GR6CPHDD",
+    "category": "notebook",
+    "title": "Apple MacBook Neo 13'' con chip A18 Pro: progettato per l’AI e Apple",
+    "brand": "Apple",
+    "price": {
+      "value": 899,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 179,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61MxIxzYvUL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Velocità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/51WyevU9lSL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GR6CPHDD",
-  "category": "notebook",
-  "title": "Apple MacBook Neo 13'' con chip A18 Pro: progettato per l’AI e Apple",
-  "brand": "Apple",
-  "price": {
-   "value": 899.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DZZWMB2L",
+    "category": "notebook",
+    "title": "ASUS ROG Strix G16 (2025) Computer portatile da gioco",
+    "brand": "ASUS",
+    "price": {
+      "value": 1999.25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 640,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81n1T4CYfmL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.8,
-   "count": 179,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08T9V1FG9",
+    "category": "notebook",
+    "title": "HP 255 G8 Computer Portatile 39,6 cm (15.6\") 1366 x 768 Pixel Intel",
+    "brand": "HP",
+    "price": {
+      "value": 399.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3341,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81o6QUBK5cL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Versatilità",
+        "Leggerezza"
+      ],
+      "mixed": [
+        "Prestazioni",
+        "Qualità dello schermo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61MxIxzYvUL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Velocità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B089DBLZGG",
+    "category": "notebook",
+    "title": "Traiteck Lenovo Notebook Display 15.6\" FULL HD, AMD Ryzen™ 3",
+    "brand": "Traiteck",
+    "price": {
+      "value": 439,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 690,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71PbpgP2-ZL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Velocità",
+        "Leggerezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DFQGDPJD",
+    "category": "notebook",
+    "title": "HP 250R G9, Computer Portatile Notebook, Intel 5-120u 10 Core 1.4Ghz",
+    "brand": "HP",
+    "price": {
+      "value": 629,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 411,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81FIn+WRVuL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Affidabilità",
+        "Velocità"
+      ],
+      "mixed": [
+        "Qualità dello schermo"
+      ],
+      "negative": [
+        "Durata batteria"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BWSJ3CB5",
+    "category": "notebook",
+    "title": "Lenovo IdeaPad 3 – (2023) – Notebook quotidiano",
+    "brand": "Lenovo",
+    "price": {
+      "value": 492.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 398,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81sq-a+suJL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DV5Q67F7",
+    "category": "notebook",
+    "title": "Lenovo, Notebook Pc Portatile, Display 15,6\" Full HD",
+    "brand": "Lenovo",
+    "price": {
+      "value": 511.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 190,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71KuGiu4QaL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Prestazioni",
+        "Velocità",
+        "Praticità"
+      ],
+      "mixed": [
+        "Qualità dello schermo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CSDKHRZQ",
+    "category": "notebook",
+    "title": "MSI Cyborg 15 A13VE-656IT, Notebook Gaming, 15,6\" FHD 144Hz",
+    "brand": "MSI",
+    "price": {
+      "value": 1299.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 136,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81PP+WKL3aL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Prestazioni",
+        "Velocità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B091Z4SW53",
+    "category": "notebook",
+    "title": "HP Notebook G9 Intel i5-1235u 10 Core 4,4 Ghz 15,6\" Full Hd",
+    "brand": "HP",
+    "price": {
+      "value": 769.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 130,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61dpNzN4ddL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Velocità"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0DZZWMB2L",
-  "category": "notebook",
-  "title": "ASUS ROG Strix G16 (2025) Computer portatile da gioco",
-  "brand": "ASUS",
-  "price": {
-   "value": 1999.25,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 640,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81n1T4CYfmL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08T9V1FG9",
-  "category": "notebook",
-  "title": "HP 255 G8 Computer Portatile 39,6 cm (15.6\") 1366 x 768 Pixel Intel",
-  "brand": "HP",
-  "price": {
-   "value": 399.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3341,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81o6QUBK5cL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Versatilità",
-    "Leggerezza"
-   ],
-   "mixed": [
-    "Prestazioni",
-    "Qualità dello schermo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B089DBLZGG",
-  "category": "notebook",
-  "title": "Traiteck Lenovo Notebook Display 15.6\" FULL HD, AMD Ryzen™ 3",
-  "brand": "Traiteck",
-  "price": {
-   "value": 439.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 690,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71PbpgP2-ZL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Velocità",
-    "Leggerezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DFQGDPJD",
-  "category": "notebook",
-  "title": "HP 250R G9, Computer Portatile Notebook, Intel 5-120u 10 Core 1.4Ghz",
-  "brand": "HP",
-  "price": {
-   "value": 629.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 411,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81FIn+WRVuL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Affidabilità",
-    "Velocità"
-   ],
-   "mixed": [
-    "Qualità dello schermo"
-   ],
-   "negative": [
-    "Durata batteria"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BWSJ3CB5",
-  "category": "notebook",
-  "title": "Lenovo IdeaPad 3 – (2023) – Notebook quotidiano",
-  "brand": "Lenovo",
-  "price": {
-   "value": 492.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 398,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81sq-a+suJL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DV5Q67F7",
-  "category": "notebook",
-  "title": "Lenovo, Notebook Pc Portatile, Display 15,6\" Full HD",
-  "brand": "Lenovo",
-  "price": {
-   "value": 511.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 190,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71KuGiu4QaL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Prestazioni",
-    "Velocità",
-    "Praticità"
-   ],
-   "mixed": [
-    "Qualità dello schermo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CSDKHRZQ",
-  "category": "notebook",
-  "title": "MSI Cyborg 15 A13VE-656IT, Notebook Gaming, 15,6\" FHD 144Hz",
-  "brand": "MSI",
-  "price": {
-   "value": 1299.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 136,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81PP+WKL3aL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Prestazioni",
-    "Velocità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B091Z4SW53",
-  "category": "notebook",
-  "title": "HP Notebook G9 Intel i5-1235u 10 Core 4,4 Ghz 15,6\" Full Hd",
-  "brand": "HP",
-  "price": {
-   "value": 769.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 130,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61dpNzN4ddL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Velocità"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

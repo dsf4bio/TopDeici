@@ -1,299 +1,299 @@
 [
- {
-  "asin": "B0C3HCD34R",
-  "category": "cuffie-wireless",
-  "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear",
-  "brand": "Soundcore",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C3HCD34R",
+    "category": "cuffie-wireless",
+    "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear",
+    "brand": "Soundcore",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 80410,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61+2Wr079NL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Cancellazione del rumore",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 80410,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BYWMLVG1",
+    "category": "cuffie-wireless",
+    "title": "JBL Tune 520 BT, Cuffie On-Ear Bluetooth Wireless, Nero",
+    "brand": "JBL",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 33165,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61PqlLPmgVL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Comfort",
+        "Connettività"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61+2Wr079NL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Cancellazione del rumore",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CCZ26B5V",
+    "category": "cuffie-wireless",
+    "title": "Bose QuietComfort Headphones Cuffie",
+    "brand": "Bose",
+    "price": {
+      "value": 189,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 22607,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61windvlNZL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Comfort",
+        "Isolamento acustico",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B096G2RN6D",
+    "category": "cuffie-wireless",
+    "title": "JBL Tune 710 BT, Cuffie Over-Ear Wireless Bluetooth, JBL Pure Bass",
+    "brand": "JBL",
+    "price": {
+      "value": 76.73,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12373,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61yOL4YTvLL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Durata batteria"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CFV9XR2Q",
+    "category": "cuffie-wireless",
+    "title": "Picun Cuffie Bluetooth B8, 120 ore di riproduzione",
+    "brand": "Picun",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12204,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71nUVpEvHyL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B08HMWZBXC",
+    "category": "cuffie-wireless",
+    "title": "Soundcore di Anker Q30, Cuffie Bluetooth Over Ear",
+    "brand": "Soundcore",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 97397,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61K3Y0MZMpL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Cancellazione del rumore",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CDC4X65Q",
+    "category": "cuffie-wireless",
+    "title": "BERIBES Cuffie ibride con cancellazione attiva del rumore",
+    "brand": "BERIBES",
+    "price": {
+      "value": 108.25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 51161,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/714SLdK9+LL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Comfort",
+        "Connettività"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BTJD6LCL",
+    "category": "cuffie-wireless",
+    "title": "Sony WH-CH520 / Cuffie Wireless, Connessione Multipoint, con Microfono",
+    "brand": "Sony",
+    "price": {
+      "value": 29.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 48933,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61LK7-Kx24L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Comfort",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Connettività",
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08FCGLYFZ",
+    "category": "cuffie-wireless",
+    "title": "Skullcandy Crusher Evo Cuffie Wireless Over-Ear",
+    "brand": "Skullcandy",
+    "price": {
+      "value": 114.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4173,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71AXcd2I4+L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Comfort"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D1VN2VB7",
+    "category": "cuffie-wireless",
+    "title": "Marshall Major V Cuffie Wireless Bluetooth, 100 ore di riproduzione",
+    "brand": "Marshall",
+    "price": {
+      "value": 88,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4815,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51K8eJaYsKL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Estetica",
+        "Durata batteria",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Comfort",
+        "Isolamento acustico"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0BYWMLVG1",
-  "category": "cuffie-wireless",
-  "title": "JBL Tune 520 BT, Cuffie On-Ear Bluetooth Wireless, Nero",
-  "brand": "JBL",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 33165,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61PqlLPmgVL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Comfort",
-    "Connettività"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CCZ26B5V",
-  "category": "cuffie-wireless",
-  "title": "Bose QuietComfort Headphones Cuffie",
-  "brand": "Bose",
-  "price": {
-   "value": 189.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 22607,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61windvlNZL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Comfort",
-    "Isolamento acustico",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08FCGLYFZ",
-  "category": "cuffie-wireless",
-  "title": "Skullcandy Crusher Evo Cuffie Wireless Over-Ear",
-  "brand": "Skullcandy",
-  "price": {
-   "value": 114.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 4173,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71AXcd2I4+L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Comfort"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B096G2RN6D",
-  "category": "cuffie-wireless",
-  "title": "JBL Tune 710 BT, Cuffie Over-Ear Wireless Bluetooth, JBL Pure Bass",
-  "brand": "JBL",
-  "price": {
-   "value": 76.73,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 12373,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61yOL4YTvLL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Durata batteria"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CFV9XR2Q",
-  "category": "cuffie-wireless",
-  "title": "Picun Cuffie Bluetooth B8, 120 ore di riproduzione",
-  "brand": "Picun",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 12204,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71nUVpEvHyL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08HMWZBXC",
-  "category": "cuffie-wireless",
-  "title": "Soundcore di Anker Q30, Cuffie Bluetooth Over Ear",
-  "brand": "Soundcore",
-  "price": {
-   "value": 49.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 97397,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61K3Y0MZMpL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Cancellazione del rumore",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D1VN2VB7",
-  "category": "cuffie-wireless",
-  "title": "Marshall Major V Cuffie Wireless Bluetooth, 100 ore di riproduzione",
-  "brand": "Marshall",
-  "price": {
-   "value": 88.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4815,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51K8eJaYsKL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Estetica",
-    "Durata batteria",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Comfort",
-    "Isolamento acustico"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CDC4X65Q",
-  "category": "cuffie-wireless",
-  "title": "BERIBES Cuffie ibride con cancellazione attiva del rumore",
-  "brand": "BERIBES",
-  "price": {
-   "value": 108.25,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 51161,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/714SLdK9+LL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Comfort",
-    "Connettività"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BTJD6LCL",
-  "category": "cuffie-wireless",
-  "title": "Sony WH-CH520 / Cuffie Wireless, Connessione Multipoint, con Microfono",
-  "brand": "Sony",
-  "price": {
-   "value": 29.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 48933,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61LK7-Kx24L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Comfort",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Connettività",
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

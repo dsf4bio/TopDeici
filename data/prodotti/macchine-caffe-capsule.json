@@ -1,233 +1,233 @@
 [
- {
-  "asin": "B07GJY9KH9",
-  "category": "macchine-caffe-capsule",
-  "title": "NESCAFÉ DOLCE GUSTO Krups Mini Me, Macchina per Caffè Esp",
-  "brand": "Nescafé Dolce Gusto",
-  "image": "https://m.media-amazon.com/images/I/61ZSfWNiQ-L._AC_SL500_.jpg",
-  "price": {
-   "value": 72.85,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B07GJY9KH9",
+    "category": "macchine-caffe-capsule",
+    "title": "NESCAFÉ DOLCE GUSTO Krups Mini Me, Macchina per Caffè Esp",
+    "brand": "Nescafé Dolce Gusto",
+    "image": "https://m.media-amazon.com/images/I/61ZSfWNiQ-L._AC_SL500_.jpg",
+    "price": {
+      "value": 72.85,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 23816,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Qualità del caffè"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 23816,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B00G5YOVZA",
+    "category": "macchine-caffe-capsule",
+    "title": "Nespresso Inissia EN80.B Macchina per Caffè Espresso, Blac",
+    "brand": "Nespresso",
+    "image": "https://m.media-amazon.com/images/I/61f4U34vuyL._AC_SL500_.jpg",
+    "price": {
+      "value": 79,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 48452,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Qualità del caffè",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [
+        "Rumorosità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Qualità del caffè"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B01IBOHDUQ",
+    "category": "macchine-caffe-capsule",
+    "title": "Macchina per Caffé Jolie Evo White, 10 bar, per capsule La",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81D7Fvza7WL._AC_SL500_.jpg",
+    "price": {
+      "value": 78,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4402,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Funzionalità",
+        "Qualità del latte"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01IBNX50E",
+    "category": "macchine-caffe-capsule",
+    "title": "Lavazza a Modo Mio Jolie - Macchina per Caffé, 10 bar, per",
+    "brand": "Lavazza",
+    "image": "https://m.media-amazon.com/images/I/81fHsCrUhCL._AC_SL500_.jpg",
+    "price": {
+      "value": 78,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3712,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità del caffè",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Dimensioni"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07M8J4ZXK",
+    "category": "macchine-caffe-capsule",
+    "title": "PHILIPS L'OR Barista LM8012/60 Macchina per caffè Capsule",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/61QnE6GYiSL._AC_SL500_.jpg",
+    "price": {
+      "value": 100.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 11429,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Estetica",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CF58PC87",
+    "category": "macchine-caffe-capsule",
+    "title": "Krups NESCAFÉ DOLCE GUSTO PICCOLO XS by bianco macchina pe",
+    "brand": "Krups",
+    "image": "https://m.media-amazon.com/images/I/713+DwLT0AL._AC_SL500_.jpg",
+    "price": {
+      "value": 53.8,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 11128,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Dimensioni compatte",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0G36BS9YH",
+    "category": "macchine-caffe-capsule",
+    "title": "De'Longhi Nespresso Essenza Mini - Macchina da Caffè, Sist",
+    "brand": "De'Longhi",
+    "image": "https://m.media-amazon.com/images/I/711n0WR-lXL._AC_SL500_.jpg",
+    "price": {
+      "value": 89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 7679,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Dimensioni",
+        "Facilità d'uso",
+        "Funzionalità",
+        "Qualità del caffè"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DFWH1QM5",
+    "category": "macchine-caffe-capsule",
+    "title": "Bosch - Macchina da caffè Tassimo Style Friendly, fino a 7",
+    "brand": "Bosch",
+    "image": "https://m.media-amazon.com/images/I/61AtdgIk5-L._AC_SL500_.jpg",
+    "price": {
+      "value": 41.03,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 899,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B00G5YOVZA",
-  "category": "macchine-caffe-capsule",
-  "title": "Nespresso Inissia EN80.B Macchina per Caffè Espresso, Blac",
-  "brand": "Nespresso",
-  "image": "https://m.media-amazon.com/images/I/61f4U34vuyL._AC_SL500_.jpg",
-  "price": {
-   "value": 79.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 48452,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Qualità del caffè",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [
-    "Rumorosità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01IBOHDUQ",
-  "category": "macchine-caffe-capsule",
-  "title": "Macchina per Caffé Jolie Evo White, 10 bar, per capsule La",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81D7Fvza7WL._AC_SL500_.jpg",
-  "price": {
-   "value": 78.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4402,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Funzionalità",
-    "Qualità del latte"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01IBNX50E",
-  "category": "macchine-caffe-capsule",
-  "title": "Lavazza a Modo Mio Jolie - Macchina per Caffé, 10 bar, per",
-  "brand": "Lavazza",
-  "image": "https://m.media-amazon.com/images/I/81fHsCrUhCL._AC_SL500_.jpg",
-  "price": {
-   "value": 78.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3712,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità del caffè",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Dimensioni"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07M8J4ZXK",
-  "category": "macchine-caffe-capsule",
-  "title": "PHILIPS L'OR Barista LM8012/60 Macchina per caffè Capsule",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/61QnE6GYiSL._AC_SL500_.jpg",
-  "price": {
-   "value": 100.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 11429,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Estetica",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CF58PC87",
-  "category": "macchine-caffe-capsule",
-  "title": "Krups NESCAFÉ DOLCE GUSTO PICCOLO XS by bianco macchina pe",
-  "brand": "Krups",
-  "image": "https://m.media-amazon.com/images/I/713+DwLT0AL._AC_SL500_.jpg",
-  "price": {
-   "value": 53.8,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 11128,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Dimensioni compatte",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0G36BS9YH",
-  "category": "macchine-caffe-capsule",
-  "title": "De'Longhi Nespresso Essenza Mini - Macchina da Caffè, Sist",
-  "brand": "De'Longhi",
-  "image": "https://m.media-amazon.com/images/I/711n0WR-lXL._AC_SL500_.jpg",
-  "price": {
-   "value": 89.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 7679,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Dimensioni",
-    "Facilità d'uso",
-    "Funzionalità",
-    "Qualità del caffè"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DFWH1QM5",
-  "category": "macchine-caffe-capsule",
-  "title": "Bosch - Macchina da caffè Tassimo Style Friendly, fino a 7",
-  "brand": "Bosch",
-  "image": "https://m.media-amazon.com/images/I/61AtdgIk5-L._AC_SL500_.jpg",
-  "price": {
-   "value": 41.03,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 899,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- }
 ]

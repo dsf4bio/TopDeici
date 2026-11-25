@@ -1,315 +1,315 @@
 [
- {
-  "asin": "B001IWNDDA",
-  "category": "piscine-fuori-terra",
-  "title": "Intex 28272NP - Piscina Fuori Terra Rectangular Frame Rett",
-  "brand": "Intex",
-  "image": "https://m.media-amazon.com/images/I/61Yj7vQtbAL._AC_SL500_.jpg",
-  "price": {
-   "value": 82.59,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B001IWNDDA",
+    "category": "piscine-fuori-terra",
+    "title": "Intex 28272NP - Piscina Fuori Terra Rectangular Frame Rett",
+    "brand": "Intex",
+    "image": "https://m.media-amazon.com/images/I/61Yj7vQtbAL._AC_SL500_.jpg",
+    "price": {
+      "value": 82.59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 49981,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Resistenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 49981,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B00388B500",
+    "category": "piscine-fuori-terra",
+    "title": "Intex 28271 Family Frame Rettangolare Cm 260X160X65 Piscin",
+    "brand": "Intex",
+    "image": "https://m.media-amazon.com/images/I/61xMnGroiLL._AC_SL500_.jpg",
+    "price": {
+      "value": 75.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 49981,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Resistenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Resistenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07BHMYDZN",
+    "category": "piscine-fuori-terra",
+    "title": "Bestway 56403 Piscina Fuori Terra Steel Pro da 259 x 170 x",
+    "brand": "Bestway",
+    "image": "https://m.media-amazon.com/images/I/71JCt2+luBL._AC_SL500_.jpg",
+    "price": {
+      "value": 149,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1898,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Dimensioni",
+        "Resistenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B014FHB72I",
+    "category": "piscine-fuori-terra",
+    "title": "Bestway 56404 - Deluxe Splash Frame Pool Piscina tubolare",
+    "brand": "Bestway",
+    "image": "https://m.media-amazon.com/images/I/71oNh+pHWEL._AC_SL500_.jpg",
+    "price": {
+      "value": 169.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1251,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Dimensioni",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Resistenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00HEGLCGE",
+    "category": "piscine-fuori-terra",
+    "title": "Intex 57173NP - Piscina Mini Frame Azzurro, Acciaio e PVC",
+    "brand": "Intex",
+    "image": "https://m.media-amazon.com/images/I/51u0ZA+Lt6L._AC_SL500_.jpg",
+    "price": {
+      "value": 36.58,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 10718,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Robustezza",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [
+        "Resistenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0065HDQ4O",
+    "category": "piscine-fuori-terra",
+    "title": "Intex 28210NP – Piscina Fuori Terra Metal Frame Rotonda, 6",
+    "brand": "Intex",
+    "image": "https://m.media-amazon.com/images/I/615yBWkB2tL._AC_SL500_.jpg",
+    "price": {
+      "value": 104.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3195,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Robustezza",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [
+        "Resistenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07TCD3S9B",
+    "category": "piscine-fuori-terra",
+    "title": "Bestway 56985 Set piscina fuori terra Steel Pro da 305x66",
+    "brand": "Bestway",
+    "image": "https://m.media-amazon.com/images/I/81vfA+Fls8L._AC_SL500_.jpg",
+    "price": {
+      "value": 116.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 399,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Estetica",
+        "Capienza",
+        "Facilità di montaggio"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0751Y7D7H",
+    "category": "piscine-fuori-terra",
+    "title": "Bestway Steel Pro 56681 piscina fuori terra Piscina con bordi Piscina",
+    "brand": "Bestway",
+    "image": "https://m.media-amazon.com/images/I/51nhE0azwlL._AC_SL500_.jpg",
+    "price": {
+      "value": 129,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 607,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Resistenza"
+      ],
+      "mixed": [
+        "Dimensioni",
+        "Funzionalità",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07F21CM1Z",
+    "category": "piscine-fuori-terra",
+    "title": "Bestway 56448-19 Piscine Ovali, Grigio",
+    "brand": "Bestway",
+    "image": "https://m.media-amazon.com/images/I/61PKR+WHxtL._AC_SL500_.jpg",
+    "price": {
+      "value": 508.81,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 189,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Estetica",
+        "Robustezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [
+        "Affidabilità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B078H9QBCD",
+    "category": "piscine-fuori-terra",
+    "title": "Bestway 56670-3 Piscina Fuori TerraPower Steel da 488x244x122 cm",
+    "brand": "Bestway",
+    "image": "https://m.media-amazon.com/images/I/71evjKxGqNL._AC_SL500_.jpg",
+    "price": {
+      "value": 748.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 185,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Dimensioni"
+      ],
+      "mixed": [
+        "Facilità di montaggio",
+        "Robustezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B00388B500",
-  "category": "piscine-fuori-terra",
-  "title": "Intex 28271 Family Frame Rettangolare Cm 260X160X65 Piscin",
-  "brand": "Intex",
-  "image": "https://m.media-amazon.com/images/I/61xMnGroiLL._AC_SL500_.jpg",
-  "price": {
-   "value": 75.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 49981,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Resistenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07BHMYDZN",
-  "category": "piscine-fuori-terra",
-  "title": "Bestway 56403 Piscina Fuori Terra Steel Pro da 259 x 170 x",
-  "brand": "Bestway",
-  "image": "https://m.media-amazon.com/images/I/71JCt2+luBL._AC_SL500_.jpg",
-  "price": {
-   "value": 149.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1898,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Dimensioni",
-    "Resistenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00HEGLCGE",
-  "category": "piscine-fuori-terra",
-  "title": "Intex 57173NP - Piscina Mini Frame Azzurro, Acciaio e PVC",
-  "brand": "Intex",
-  "image": "https://m.media-amazon.com/images/I/51u0ZA+Lt6L._AC_SL500_.jpg",
-  "price": {
-   "value": 36.58,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 10718,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Robustezza",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [
-    "Resistenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B014FHB72I",
-  "category": "piscine-fuori-terra",
-  "title": "Bestway 56404 - Deluxe Splash Frame Pool Piscina tubolare",
-  "brand": "Bestway",
-  "image": "https://m.media-amazon.com/images/I/71oNh+pHWEL._AC_SL500_.jpg",
-  "price": {
-   "value": 169.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1251,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Dimensioni",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Resistenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0065HDQ4O",
-  "category": "piscine-fuori-terra",
-  "title": "Intex 28210NP – Piscina Fuori Terra Metal Frame Rotonda, 6",
-  "brand": "Intex",
-  "image": "https://m.media-amazon.com/images/I/615yBWkB2tL._AC_SL500_.jpg",
-  "price": {
-   "value": 104.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3195,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Robustezza",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [
-    "Resistenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07TCD3S9B",
-  "category": "piscine-fuori-terra",
-  "title": "Bestway 56985 Set piscina fuori terra Steel Pro da 305x66",
-  "brand": "Bestway",
-  "image": "https://m.media-amazon.com/images/I/81vfA+Fls8L._AC_SL500_.jpg",
-  "price": {
-   "value": 116.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 399,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Estetica",
-    "Capienza",
-    "Facilità di montaggio"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07F21CM1Z",
-  "category": "piscine-fuori-terra",
-  "title": "Bestway 56448-19 Piscine Ovali, Grigio",
-  "brand": "Bestway",
-  "image": "https://m.media-amazon.com/images/I/61PKR+WHxtL._AC_SL500_.jpg",
-  "price": {
-   "value": 508.81,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 189,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Estetica",
-    "Robustezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [
-    "Affidabilità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0751Y7D7H",
-  "category": "piscine-fuori-terra",
-  "title": "Bestway Steel Pro 56681 piscina fuori terra Piscina con bordi Piscina",
-  "brand": "Bestway",
-  "image": "https://m.media-amazon.com/images/I/51nhE0azwlL._AC_SL500_.jpg",
-  "price": {
-   "value": 129.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 607,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Resistenza"
-   ],
-   "mixed": [
-    "Dimensioni",
-    "Funzionalità",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B078H9QBCD",
-  "category": "piscine-fuori-terra",
-  "title": "Bestway 56670-3 Piscina Fuori TerraPower Steel da 488x244x122 cm",
-  "brand": "Bestway",
-  "image": "https://m.media-amazon.com/images/I/71evjKxGqNL._AC_SL500_.jpg",
-  "price": {
-   "value": 748.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 185,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Dimensioni"
-   ],
-   "mixed": [
-    "Facilità di montaggio",
-    "Robustezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

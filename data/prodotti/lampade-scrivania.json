@@ -1,284 +1,284 @@
 [
- {
-  "asin": "B0BNDLND3Y",
-  "category": "lampade-scrivania",
-  "title": "EYOCEAN Lampada da Scrivania a LED",
-  "brand": "EYOCEAN",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01GZSW8M8",
+    "category": "lampade-scrivania",
+    "title": "WILIT T3 Lampada da Scrivania Bambini",
+    "brand": "WILIT",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 10197,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/616aljXXHrL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Colore",
+        "Luminosità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 2244,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BNDLND3Y",
+    "category": "lampade-scrivania",
+    "title": "EYOCEAN Lampada da Scrivania a LED",
+    "brand": "EYOCEAN",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2244,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71mSP49CQdL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Luminosità",
+        "Estetica",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71mSP49CQdL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Luminosità",
-    "Estetica",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CQM88523",
+    "category": "lampade-scrivania",
+    "title": "EYOCEAN Lampada da scrivania a LED con controllo gestuale e telecomand",
+    "brand": "EYOCEAN",
+    "image": "https://m.media-amazon.com/images/I/71+Za4yq2WL._AC_SL500_.jpg",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2244,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Luminosità",
+        "Estetica",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08TQS1NQS",
+    "category": "lampade-scrivania",
+    "title": "JKSWT Lampada da scrivania a LED",
+    "brand": "JKSWT",
+    "price": {
+      "value": 58.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 5279,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/518ZdXV5m9L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Funzionalità",
+        "Regolabilità",
+        "Luminosità"
+      ],
+      "mixed": [
+        "Alimentazione"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08MJJN9YF",
+    "category": "lampade-scrivania",
+    "title": "Lepro Lampada da Scrivania LED 800LM,25 Modalità di illuminazione,Bianco",
+    "brand": "Lepro",
+    "price": {
+      "value": 37.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4509,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41sHO5yIZ5L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Regolabilità di illuminazione",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Regolabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D1KHCHZP",
+    "category": "lampade-scrivania",
+    "title": "Honeywell HWT-H2 Sunturalux Lampada da Scrivania LED",
+    "brand": "Honeywell",
+    "price": {
+      "value": 37.04,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1874,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71uphX5R3fL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Regolabilità",
+        "Orientamento",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08DKQ3JG1",
+    "category": "lampade-scrivania",
+    "title": "Quntis 41cm Lampada Monitor con Telecomando e Touch, Protegge Gli Occhi",
+    "brand": "Quntis",
+    "price": {
+      "value": 44.45,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 19089,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51p1Ui5sa7L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Luminosità",
+        "Illuminazione",
+        "Regolabilità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F5WD3XBP",
+    "category": "lampade-scrivania",
+    "title": "EYOCEAN Lampada da scrivania a doppia testa, 24 W, 80 cm",
+    "brand": "EYOCEAN",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 629,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81D0PCABTlL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DS49R59M",
+    "category": "lampade-scrivania",
+    "title": "Honeywell Lampada da Scrivania LED Ufficio Casa Dimmerabile USB",
+    "brand": "Honeywell",
+    "price": {
+      "value": 34.09,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 969,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61gtFrCeEbL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B09XF23WY2",
+    "category": "lampade-scrivania",
+    "title": "Lepro Lampada da Scrivania LED con Morsetto 10 Livelli,Nero",
+    "brand": "Lepro",
+    "price": {
+      "value": 31.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10672,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71RBlpE8s1L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Luminosità",
+        "Regolabilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B01GZSW8M8",
-  "category": "lampade-scrivania",
-  "title": "WILIT T3 Lampada da Scrivania Bambini",
-  "brand": "WILIT",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 10197,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/616aljXXHrL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Colore",
-    "Luminosità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08TQS1NQS",
-  "category": "lampade-scrivania",
-  "title": "JKSWT Lampada da scrivania a LED",
-  "brand": "JKSWT",
-  "price": {
-   "value": 58.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 5279,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/518ZdXV5m9L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Funzionalità",
-    "Regolabilità",
-    "Luminosità"
-   ],
-   "mixed": [
-    "Alimentazione"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08MJJN9YF",
-  "category": "lampade-scrivania",
-  "title": "Lepro Lampada da Scrivania LED 800LM,25 Modalità di illuminazione,Bianco",
-  "brand": "Lepro",
-  "price": {
-   "value": 37.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 4509,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41sHO5yIZ5L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Regolabilità di illuminazione",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Regolabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D1KHCHZP",
-  "category": "lampade-scrivania",
-  "title": "Honeywell HWT-H2 Sunturalux Lampada da Scrivania LED",
-  "brand": "Honeywell",
-  "price": {
-   "value": 37.04,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1874,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71uphX5R3fL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Regolabilità",
-    "Orientamento",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08DKQ3JG1",
-  "category": "lampade-scrivania",
-  "title": "Quntis 41cm Lampada Monitor con Telecomando e Touch, Protegge Gli Occhi",
-  "brand": "Quntis",
-  "price": {
-   "value": 44.45,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 19089,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51p1Ui5sa7L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Luminosità",
-    "Illuminazione",
-    "Regolabilità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F5WD3XBP",
-  "category": "lampade-scrivania",
-  "title": "EYOCEAN Lampada da scrivania a doppia testa, 24 W, 80 cm",
-  "brand": "EYOCEAN",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 629,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81D0PCABTlL._AC_SL500_.jpg"
- },
- {
-  "asin": "B09XF23WY2",
-  "category": "lampade-scrivania",
-  "title": "Lepro Lampada da Scrivania LED con Morsetto 10 Livelli,Nero",
-  "brand": "Lepro",
-  "price": {
-   "value": 31.19,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 10672,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71RBlpE8s1L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Luminosità",
-    "Regolabilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DS49R59M",
-  "category": "lampade-scrivania",
-  "title": "Honeywell Lampada da Scrivania LED Ufficio Casa Dimmerabile USB",
-  "brand": "Honeywell",
-  "price": {
-   "value": 34.09,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 969,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61gtFrCeEbL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CQM88523",
-  "category": "lampade-scrivania",
-  "title": "EYOCEAN Lampada da scrivania a LED con controllo gestuale e telecomand",
-  "brand": "EYOCEAN",
-  "image": "https://m.media-amazon.com/images/I/71+Za4yq2WL._AC_SL500_.jpg",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 2244,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Luminosità",
-    "Estetica",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

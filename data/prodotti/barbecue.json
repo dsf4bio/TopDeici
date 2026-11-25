@@ -1,287 +1,287 @@
 [
- {
-  "asin": "B00N634TV4",
-  "category": "barbecue",
-  "title": "Weber - Barbecue a carbonella, 56 cm, colore: nero, 15301001",
-  "brand": "Weber",
-  "price": {
-   "value": 600.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00N634TV4",
+    "category": "barbecue",
+    "title": "Weber - Barbecue a carbonella, 56 cm, colore: nero, 15301001",
+    "brand": "Weber",
+    "price": {
+      "value": 600,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1481,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81QBpayMXnL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.8,
-   "count": 1481,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00GYUN5ZM",
+    "category": "barbecue",
+    "title": "Weber Barbecue a carbone Go-Anywhere",
+    "brand": "Weber",
+    "price": {
+      "value": 103.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1640,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71PkAacSnlL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Dimensioni",
+        "Portabilità",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/81QBpayMXnL._AC_SL500_.jpg"
- },
- {
-  "asin": "B00GYUN5ZM",
-  "category": "barbecue",
-  "title": "Weber Barbecue a carbone Go-Anywhere",
-  "brand": "Weber",
-  "price": {
-   "value": 103.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01MDQYA48",
+    "category": "barbecue",
+    "title": "CAMPINGAZ Party 400 Barbecue and Cooker in 1, Blue/Black, Taglia unica",
+    "brand": "CAMPINGAZ",
+    "price": {
+      "value": 117.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4181,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71OvnM4ZnlL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Portabilità",
+        "Funzionalità",
+        "Facile da pulire",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Robustezza",
+        "Dimensioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 1640,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00U3SXCYA",
+    "category": "barbecue",
+    "title": "Sochef Saporillo Barbecue, Nero/Grigio, 46x125x103 cm",
+    "brand": "Sochef",
+    "price": {
+      "value": 163,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1574,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71SgiZ1uqmL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Facilità di montaggio",
+        "Funzionalità",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71PkAacSnlL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Dimensioni",
-    "Portabilità",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07QC3SSQ2",
+    "category": "barbecue",
+    "title": "Tramontina Barbecue a Carbone TCP 400 in Acciaio Inox",
+    "brand": "Tramontina",
+    "price": {
+      "value": 68.31,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 286,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61B4MHrMoAL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0FTZN1YYZ",
+    "category": "barbecue",
+    "title": "Weber Barbecue a carbone Compact Kettle 47 cm",
+    "brand": "Weber",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 440,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61McjZxy0oL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Funzionalità",
+        "Capienza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08M875TPR",
+    "category": "barbecue",
+    "title": "Campingaz Attitude 2go CV, Barbecue a Gas Portatile da Tavolo",
+    "brand": "Campingaz",
+    "price": {
+      "value": 188.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 415,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61ls2vPDiEL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Riscaldamento rapido",
+        "Robustezza",
+        "Facilità d'uso",
+        "Capacità di cottura"
+      ],
+      "mixed": [
+        "Facile da pulire"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01N2HRTWM",
+    "category": "barbecue",
+    "title": "Char-Broil Barbecue Ibrido Gas2Coal 330 per Gas e Carbone, 3 Bruciatori",
+    "brand": "Char-Broil",
+    "price": {
+      "value": 379.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1200,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/616WhXzfBOL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Versatilità",
+        "Facilità di montaggio",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Facile da pulire"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00LTO7XTC",
+    "category": "barbecue",
+    "title": "Weber 14501004 - Barbecue a Carbone Master Touch 57 Nero GBS",
+    "brand": "Weber",
+    "price": {
+      "value": 329.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1171,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/31T6NplE2VS._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Cottura",
+        "Durata"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DZXC626L",
+    "category": "barbecue",
+    "title": "Charmline 47 x 34 cm Griglia a Carbone Portatile Pieghevole",
+    "brand": "Charmline",
+    "price": {
+      "value": 59.36,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1136,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/7165aKpyZRL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Funzionalità",
+        "Praticità",
+        "Capienza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B01MDQYA48",
-  "category": "barbecue",
-  "title": "CAMPINGAZ Party 400 Barbecue and Cooker in 1, Blue/Black, Taglia unica",
-  "brand": "CAMPINGAZ",
-  "price": {
-   "value": 117.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4181,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71OvnM4ZnlL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Portabilità",
-    "Funzionalità",
-    "Facile da pulire",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Robustezza",
-    "Dimensioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07QC3SSQ2",
-  "category": "barbecue",
-  "title": "Tramontina Barbecue a Carbone TCP 400 in Acciaio Inox",
-  "brand": "Tramontina",
-  "price": {
-   "value": 68.31,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 286,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61B4MHrMoAL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0FTZN1YYZ",
-  "category": "barbecue",
-  "title": "Weber Barbecue a carbone Compact Kettle 47 cm",
-  "brand": "Weber",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 440,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61McjZxy0oL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Funzionalità",
-    "Capienza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00U3SXCYA",
-  "category": "barbecue",
-  "title": "Sochef Saporillo Barbecue, Nero/Grigio, 46x125x103 cm",
-  "brand": "Sochef",
-  "price": {
-   "value": 163.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1574,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71SgiZ1uqmL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Facilità di montaggio",
-    "Funzionalità",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08M875TPR",
-  "category": "barbecue",
-  "title": "Campingaz Attitude 2go CV, Barbecue a Gas Portatile da Tavolo",
-  "brand": "Campingaz",
-  "price": {
-   "value": 188.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 415,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61ls2vPDiEL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Riscaldamento rapido",
-    "Robustezza",
-    "Facilità d'uso",
-    "Capacità di cottura"
-   ],
-   "mixed": [
-    "Facile da pulire"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01N2HRTWM",
-  "category": "barbecue",
-  "title": "Char-Broil Barbecue Ibrido Gas2Coal 330 per Gas e Carbone, 3 Bruciatori",
-  "brand": "Char-Broil",
-  "price": {
-   "value": 379.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1200,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/616WhXzfBOL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Versatilità",
-    "Facilità di montaggio",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Facile da pulire"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00LTO7XTC",
-  "category": "barbecue",
-  "title": "Weber 14501004 - Barbecue a Carbone Master Touch 57 Nero GBS",
-  "brand": "Weber",
-  "price": {
-   "value": 329.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1171,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/31T6NplE2VS._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Cottura",
-    "Durata"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DZXC626L",
-  "category": "barbecue",
-  "title": "Charmline 47 x 34 cm Griglia a Carbone Portatile Pieghevole",
-  "brand": "Charmline",
-  "price": {
-   "value": 59.36,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1136,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/7165aKpyZRL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Funzionalità",
-    "Praticità",
-    "Capienza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

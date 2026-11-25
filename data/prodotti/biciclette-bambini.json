@@ -1,262 +1,262 @@
 [
- {
-  "asin": "B004MW55Z2",
-  "category": "biciclette-bambini",
-  "title": "Chicco Bicicletta Bambini Senza Pedali 2-5 Anni, Bici Senz",
-  "brand": "Chicco",
-  "image": "https://m.media-amazon.com/images/I/7147-qqzRpL._AC_SL500_.jpg",
-  "price": {
-   "value": 31.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B004MW55Z2",
+    "category": "biciclette-bambini",
+    "title": "Chicco Bicicletta Bambini Senza Pedali 2-5 Anni, Bici Senz",
+    "brand": "Chicco",
+    "image": "https://m.media-amazon.com/images/I/7147-qqzRpL._AC_SL500_.jpg",
+    "price": {
+      "value": 31.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 18185,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Facilità di montaggio",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 18185,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B086Q8F2Z6",
+    "category": "biciclette-bambini",
+    "title": "Chicco Green Rocket Bicicletta Senza Pedali 2 Anni, Bici B",
+    "brand": "Chicco",
+    "image": "https://m.media-amazon.com/images/I/61F8cp+aVgL._AC_SL500_.jpg",
+    "price": {
+      "value": 35.92,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2135,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Robustezza",
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Facilità di montaggio",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B00HYZIOES",
+    "category": "biciclette-bambini",
+    "title": "Chicco, Pink Arrow Bicicletta Senza Pedali, Bici Senza Ped",
+    "brand": "Chicco",
+    "image": "https://m.media-amazon.com/images/I/61B5bFnMW4S._AC_SL500_.jpg",
+    "price": {
+      "value": 31.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 7467,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Robustezza",
+        "Facilità di montaggio"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BXGNLGB5",
+    "category": "biciclette-bambini",
+    "title": "Umatoll Bici Senza Pedali 1 Anno, Giochi Bambini 1-2 Anni",
+    "brand": "Umatoll",
+    "image": "https://m.media-amazon.com/images/I/61dS-AVI6LL._AC_SL500_.jpg",
+    "price": {
+      "value": 28.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 6064,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Facilità di montaggio",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DJ7DS33P",
+    "category": "biciclette-bambini",
+    "title": "PUKY LR M Bicicletta Senza Pedali per Bambini dai 2 Anni",
+    "brand": "PUKY",
+    "image": "https://m.media-amazon.com/images/I/61Xou4mAs9L._AC_SL500_.jpg",
+    "price": {
+      "value": 75.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1033,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Equilibrio",
+        "Estetica"
+      ],
+      "mixed": [
+        "Leggerezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CP26NB32",
+    "category": "biciclette-bambini",
+    "title": "Hello-5ive Bicicletta senza pedali per bambini da 3,4,5,6",
+    "brand": "Hello-5ive",
+    "image": "https://m.media-amazon.com/images/I/61V7XLuhiSL._AC_SL500_.jpg",
+    "price": {
+      "value": 59.65,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 348,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07RVMN42W",
+    "category": "biciclette-bambini",
+    "title": "besrey Triciclo Evolutivo 5in 1, Bici Senza Pedali, Bambin",
+    "brand": "besrey",
+    "image": "https://m.media-amazon.com/images/I/61Y8bQ61JuL._AC_SL500_.jpg",
+    "price": {
+      "value": 56.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 9375,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Facilità di montaggio",
+        "Robustezza",
+        "Versatilità"
+      ],
+      "mixed": [
+        "Facilità d'uso"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CF5YNH16",
+    "category": "biciclette-bambini",
+    "title": "kk Kinderkraft TOVE Bicicletta bambini da 1,5 anni, Bici s",
+    "brand": "Kinderkraft",
+    "image": "https://m.media-amazon.com/images/I/614sWN8JX8L._AC_SL500_.jpg",
+    "price": {
+      "value": 50.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 142,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CHFJNGGX",
+    "category": "biciclette-bambini",
+    "title": "LIONELO Sammy Bicicletta Senza Pedali a 4 Ruote per Bambin",
+    "brand": "LIONELO",
+    "image": "https://m.media-amazon.com/images/I/71vX8FjOWIL._AC_SL500_.jpg",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 132,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B086QPNM61",
+    "category": "biciclette-bambini",
+    "title": "BIKESTAR Bicicletta Bambini 4 Anni da 16 Pollici Telaio in Alluminio B",
+    "brand": "BIKESTAR",
+    "image": "https://m.media-amazon.com/images/I/81pErIbY+tL._AC_SL500_.jpg",
+    "price": {
+      "value": 237.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 200,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B086Q8F2Z6",
-  "category": "biciclette-bambini",
-  "title": "Chicco Green Rocket Bicicletta Senza Pedali 2 Anni, Bici B",
-  "brand": "Chicco",
-  "image": "https://m.media-amazon.com/images/I/61F8cp+aVgL._AC_SL500_.jpg",
-  "price": {
-   "value": 35.92,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 2135,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Robustezza",
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00HYZIOES",
-  "category": "biciclette-bambini",
-  "title": "Chicco, Pink Arrow Bicicletta Senza Pedali, Bici Senza Ped",
-  "brand": "Chicco",
-  "image": "https://m.media-amazon.com/images/I/61B5bFnMW4S._AC_SL500_.jpg",
-  "price": {
-   "value": 31.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 7467,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Robustezza",
-    "Facilità di montaggio"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DJ7DS33P",
-  "category": "biciclette-bambini",
-  "title": "PUKY LR M Bicicletta Senza Pedali per Bambini dai 2 Anni",
-  "brand": "PUKY",
-  "image": "https://m.media-amazon.com/images/I/61Xou4mAs9L._AC_SL500_.jpg",
-  "price": {
-   "value": 75.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1033,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Equilibrio",
-    "Estetica"
-   ],
-   "mixed": [
-    "Leggerezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BXGNLGB5",
-  "category": "biciclette-bambini",
-  "title": "Umatoll Bici Senza Pedali 1 Anno, Giochi Bambini 1-2 Anni",
-  "brand": "Umatoll",
-  "image": "https://m.media-amazon.com/images/I/61dS-AVI6LL._AC_SL500_.jpg",
-  "price": {
-   "value": 28.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 6064,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Facilità di montaggio",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CP26NB32",
-  "category": "biciclette-bambini",
-  "title": "Hello-5ive Bicicletta senza pedali per bambini da 3,4,5,6",
-  "brand": "Hello-5ive",
-  "image": "https://m.media-amazon.com/images/I/61V7XLuhiSL._AC_SL500_.jpg",
-  "price": {
-   "value": 59.65,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 348,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B07RVMN42W",
-  "category": "biciclette-bambini",
-  "title": "besrey Triciclo Evolutivo 5in 1, Bici Senza Pedali, Bambin",
-  "brand": "besrey",
-  "image": "https://m.media-amazon.com/images/I/61Y8bQ61JuL._AC_SL500_.jpg",
-  "price": {
-   "value": 56.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 9375,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Facilità di montaggio",
-    "Robustezza",
-    "Versatilità"
-   ],
-   "mixed": [
-    "Facilità d'uso"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CF5YNH16",
-  "category": "biciclette-bambini",
-  "title": "kk Kinderkraft TOVE Bicicletta bambini da 1,5 anni, Bici s",
-  "brand": "Kinderkraft",
-  "image": "https://m.media-amazon.com/images/I/614sWN8JX8L._AC_SL500_.jpg",
-  "price": {
-   "value": 50.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 142,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CHFJNGGX",
-  "category": "biciclette-bambini",
-  "title": "LIONELO Sammy Bicicletta Senza Pedali a 4 Ruote per Bambin",
-  "brand": "LIONELO",
-  "image": "https://m.media-amazon.com/images/I/71vX8FjOWIL._AC_SL500_.jpg",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 132,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B086QPNM61",
-  "category": "biciclette-bambini",
-  "title": "BIKESTAR Bicicletta Bambini 4 Anni da 16 Pollici Telaio in Alluminio B",
-  "brand": "BIKESTAR",
-  "image": "https://m.media-amazon.com/images/I/81pErIbY+tL._AC_SL500_.jpg",
-  "price": {
-   "value": 237.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 200,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

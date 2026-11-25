@@ -1,277 +1,277 @@
 [
- {
-  "asin": "B0C5X2G933",
-  "category": "distributori-cibo-animali",
-  "title": "oneisall, Mangiatoia automatica per gatti, per 2 gatti, 5",
-  "brand": "oneisall",
-  "image": "https://m.media-amazon.com/images/I/61GGQluO1XL._AC_SL500_.jpg",
-  "price": {
-   "value": 72.69,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C5X2G933",
+    "category": "distributori-cibo-animali",
+    "title": "oneisall, Mangiatoia automatica per gatti, per 2 gatti, 5",
+    "brand": "oneisall",
+    "image": "https://m.media-amazon.com/images/I/61GGQluO1XL._AC_SL500_.jpg",
+    "price": {
+      "value": 72.69,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4513,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 4513,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C772KDKT",
+    "category": "distributori-cibo-animali",
+    "title": "oneisall Distributore Automatico Cibo Gatti 5L 2 Mangiatoi",
+    "brand": "oneisall",
+    "image": "https://m.media-amazon.com/images/I/718H01hvu3L._AC_SL500_.jpg",
+    "price": {
+      "value": 51.29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1529,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Praticità",
+        "Programmazione"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0B8MKDS9M",
+    "category": "distributori-cibo-animali",
+    "title": "Wifi Distributore Automatico di Cibo per Due Gatti, Alimen",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/711IXGJsSGL._AC_SL500_.jpg",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 11104,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Comfort",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Connettività",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CMCVNPN2",
+    "category": "distributori-cibo-animali",
+    "title": "Balimo Distributore Automatico Cibo Gatti, 2.4G WiFi Dispe",
+    "brand": "Balimo",
+    "image": "https://m.media-amazon.com/images/I/61Jt5osZawL._AC_SL500_.jpg",
+    "price": {
+      "value": 39.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 476,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Programmabilità",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Capienza",
+        "Monitoraggio dell'alimentazione"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CD7N5X3K",
+    "category": "distributori-cibo-animali",
+    "title": "PETKIT Distributore Automatico Cibo Gatti, 3L Distributore",
+    "brand": "PETKIT",
+    "image": "https://m.media-amazon.com/images/I/71D4Uo3J6hL._AC_SL500_.jpg",
+    "price": {
+      "value": 56.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 4316,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "App",
+        "Praticità"
+      ],
+      "mixed": [
+        "Connessione wifi"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CQFYF32Q",
+    "category": "distributori-cibo-animali",
+    "title": "HoneyGuaridan 3.5L Distributore Automatico Cibo Gatti Dopp",
+    "brand": "HoneyGuaridan",
+    "image": "https://m.media-amazon.com/images/I/61XIFsjfDSL._AC_SL500_.jpg",
+    "price": {
+      "value": 52.24,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3311,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Praticità",
+        "Programmabilità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0H4VCJ4XV",
+    "category": "distributori-cibo-animali",
+    "title": "Frienhund 7L distributore automatico cibo gatti 2 Ciotole",
+    "brand": "Frienhund",
+    "image": "https://m.media-amazon.com/images/I/61GXlTOJNSL._AC_SL500_.jpg",
+    "price": {
+      "value": 75.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1640,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0CY2942F7",
+    "category": "distributori-cibo-animali",
+    "title": "IMIPAW Distributore Automatico Cibo Gatti, Dispenser Cibo",
+    "brand": "IMIPAW",
+    "image": "https://m.media-amazon.com/images/I/71OjexB2BDL._AC_SL500_.jpg",
+    "price": {
+      "value": 36.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 956,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Programmabilità",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GXK422TH",
+    "category": "distributori-cibo-animali",
+    "title": "Distributore Automatico Cibo Gatti 4L Dispenser Crocchette",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/71++vMUFYhL._AC_SL500_.jpg",
+    "price": {
+      "value": 32.1,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 243,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Comfort",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0H1KYPFXM",
+    "category": "distributori-cibo-animali",
+    "title": "Distributore automatico cibo cani, capacità 15L, croccantini fino a 23",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/616x82YoldL._AC_SL500_.jpg",
+    "price": {
+      "value": 119.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 234,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0C772KDKT",
-  "category": "distributori-cibo-animali",
-  "title": "oneisall Distributore Automatico Cibo Gatti 5L 2 Mangiatoi",
-  "brand": "oneisall",
-  "image": "https://m.media-amazon.com/images/I/718H01hvu3L._AC_SL500_.jpg",
-  "price": {
-   "value": 51.29,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1529,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Praticità",
-    "Programmazione"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CMCVNPN2",
-  "category": "distributori-cibo-animali",
-  "title": "Balimo Distributore Automatico Cibo Gatti, 2.4G WiFi Dispe",
-  "brand": "Balimo",
-  "image": "https://m.media-amazon.com/images/I/61Jt5osZawL._AC_SL500_.jpg",
-  "price": {
-   "value": 39.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 476,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Programmabilità",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Capienza",
-    "Monitoraggio dell'alimentazione"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0B8MKDS9M",
-  "category": "distributori-cibo-animali",
-  "title": "Wifi Distributore Automatico di Cibo per Due Gatti, Alimen",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/711IXGJsSGL._AC_SL500_.jpg",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 11104,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Comfort",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Connettività",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CD7N5X3K",
-  "category": "distributori-cibo-animali",
-  "title": "PETKIT Distributore Automatico Cibo Gatti, 3L Distributore",
-  "brand": "PETKIT",
-  "image": "https://m.media-amazon.com/images/I/71D4Uo3J6hL._AC_SL500_.jpg",
-  "price": {
-   "value": 56.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 4316,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "App",
-    "Praticità"
-   ],
-   "mixed": [
-    "Connessione wifi"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CQFYF32Q",
-  "category": "distributori-cibo-animali",
-  "title": "HoneyGuaridan 3.5L Distributore Automatico Cibo Gatti Dopp",
-  "brand": "HoneyGuaridan",
-  "image": "https://m.media-amazon.com/images/I/61XIFsjfDSL._AC_SL500_.jpg",
-  "price": {
-   "value": 52.24,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3311,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Praticità",
-    "Programmabilità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GXK422TH",
-  "category": "distributori-cibo-animali",
-  "title": "Distributore Automatico Cibo Gatti 4L Dispenser Crocchette",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/71++vMUFYhL._AC_SL500_.jpg",
-  "price": {
-   "value": 32.1,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 243,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Comfort",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0H4VCJ4XV",
-  "category": "distributori-cibo-animali",
-  "title": "Frienhund 7L distributore automatico cibo gatti 2 Ciotole",
-  "brand": "Frienhund",
-  "image": "https://m.media-amazon.com/images/I/61GXlTOJNSL._AC_SL500_.jpg",
-  "price": {
-   "value": 75.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1640,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CY2942F7",
-  "category": "distributori-cibo-animali",
-  "title": "IMIPAW Distributore Automatico Cibo Gatti, Dispenser Cibo",
-  "brand": "IMIPAW",
-  "image": "https://m.media-amazon.com/images/I/71OjexB2BDL._AC_SL500_.jpg",
-  "price": {
-   "value": 36.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 956,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Programmabilità",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0H1KYPFXM",
-  "category": "distributori-cibo-animali",
-  "title": "Distributore automatico cibo cani, capacità 15L, croccantini fino a 23",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/616x82YoldL._AC_SL500_.jpg",
-  "price": {
-   "value": 119.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 234,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

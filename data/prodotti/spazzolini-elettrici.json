@@ -1,284 +1,284 @@
 [
- {
-  "asin": "B01B1J95M2",
-  "category": "spazzolini-elettrici",
-  "title": "Philips Sonicare For Kids HX6322/04 Spazzolino Elettrico Sonico per",
-  "brand": "Philips",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01B1J95M2",
+    "category": "spazzolini-elettrici",
+    "title": "Philips Sonicare For Kids HX6322/04 Spazzolino Elettrico Sonico per",
+    "brand": "Philips",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 9791,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/614asYMr1jL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Estetica"
+      ],
+      "mixed": [
+        "Adesione"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 9791,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07RN73HB3",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B Spazzolino Elettrico Ricaricabile Junior",
+    "brand": "Oral-B",
+    "price": {
+      "value": 111.48,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 8843,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81OHRgXfhdL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Adatto ai bambini",
+        "Rapporto qualità-prezzo",
+        "Efficacia"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/614asYMr1jL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Estetica"
-   ],
-   "mixed": [
-    "Adesione"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0BN8VNG4B",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B Pro - Spazzolino da denti a batteria",
+    "brand": "Oral-B",
+    "price": {
+      "value": 49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5984,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61RfauSugkL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Praticità",
+        "Pulizia"
+      ],
+      "mixed": [
+        "Ricarica batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09V5DTH5X",
+    "category": "spazzolini-elettrici",
+    "title": "WonderSmile Pro Spazzolino elettrico a ultrasuoni",
+    "brand": "WonderSmile",
+    "price": {
+      "value": 69.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4400,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Ga4MUBthL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0G2CYQ99M",
+    "category": "spazzolini-elettrici",
+    "title": "MyVariations Spazzolino elettrico sonico [5 modalità] [1 mese di",
+    "brand": "MyVariations",
+    "price": {
+      "value": 54.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2877,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51931GO1mTL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Pulizia"
+      ],
+      "mixed": [
+        "Delicatezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07STDTG5G",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B PRO 1 - Spazzolino elettrico",
+    "brand": "Oral-B",
+    "price": {
+      "value": 77.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 13855,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71gTQqOr4GL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GQ1X66C7",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B Spazzolino da denti elettrico, confezione duo",
+    "brand": "Oral-B",
+    "price": {
+      "value": 126.29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 10400,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61lOYfqFXmL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Sensazione di pulizia"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C142LDKV",
+    "category": "spazzolini-elettrici",
+    "title": "Oral-B Spazzolino elettrico Pro Kids, regalo di Natale per bambini",
+    "brand": "Oral-B",
+    "price": {
+      "value": 36.7,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4902,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81+D-bgAjLL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0G5YCDL21",
+    "category": "spazzolini-elettrici",
+    "title": "Philips Sonicare Serie 2100 - Spazzolino elettrico sonico",
+    "brand": "Philips",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 928,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/713dSMlt7OL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Delicato"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FJ2N61YM",
+    "category": "spazzolini-elettrici",
+    "title": "Philips Sonicare AdvancedClean Limited Edition, Spazzolino elettrico",
+    "brand": "Philips",
+    "price": {
+      "value": 119.3,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 927,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/710Osj1pukL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Pulizia",
+        "Modalità di utilizzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B07RN73HB3",
-  "category": "spazzolini-elettrici",
-  "title": "Oral-B Spazzolino Elettrico Ricaricabile Junior",
-  "brand": "Oral-B",
-  "price": {
-   "value": 111.48,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 8843,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81OHRgXfhdL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Adatto ai bambini",
-    "Rapporto qualità-prezzo",
-    "Efficacia"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BN8VNG4B",
-  "category": "spazzolini-elettrici",
-  "title": "Oral-B Pro - Spazzolino da denti a batteria",
-  "brand": "Oral-B",
-  "price": {
-   "value": 49.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5984,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61RfauSugkL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Praticità",
-    "Pulizia"
-   ],
-   "mixed": [
-    "Ricarica batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09V5DTH5X",
-  "category": "spazzolini-elettrici",
-  "title": "WonderSmile Pro Spazzolino elettrico a ultrasuoni",
-  "brand": "WonderSmile",
-  "price": {
-   "value": 69.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4400,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Ga4MUBthL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0G2CYQ99M",
-  "category": "spazzolini-elettrici",
-  "title": "MyVariations Spazzolino elettrico sonico [5 modalità] [1 mese di",
-  "brand": "MyVariations",
-  "price": {
-   "value": 54.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2877,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51931GO1mTL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Pulizia"
-   ],
-   "mixed": [
-    "Delicatezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07STDTG5G",
-  "category": "spazzolini-elettrici",
-  "title": "Oral-B PRO 1 - Spazzolino elettrico",
-  "brand": "Oral-B",
-  "price": {
-   "value": 77.94,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 13855,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71gTQqOr4GL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GQ1X66C7",
-  "category": "spazzolini-elettrici",
-  "title": "Oral-B Spazzolino da denti elettrico, confezione duo",
-  "brand": "Oral-B",
-  "price": {
-   "value": 126.29,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 10400,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61lOYfqFXmL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Sensazione di pulizia"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C142LDKV",
-  "category": "spazzolini-elettrici",
-  "title": "Oral-B Spazzolino elettrico Pro Kids, regalo di Natale per bambini",
-  "brand": "Oral-B",
-  "price": {
-   "value": 36.7,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4902,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81+D-bgAjLL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0G5YCDL21",
-  "category": "spazzolini-elettrici",
-  "title": "Philips Sonicare Serie 2100 - Spazzolino elettrico sonico",
-  "brand": "Philips",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 928,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/713dSMlt7OL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Delicato"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FJ2N61YM",
-  "category": "spazzolini-elettrici",
-  "title": "Philips Sonicare AdvancedClean Limited Edition, Spazzolino elettrico",
-  "brand": "Philips",
-  "price": {
-   "value": 119.3,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 927,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/710Osj1pukL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Pulizia",
-    "Modalità di utilizzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

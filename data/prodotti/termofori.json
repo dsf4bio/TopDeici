@@ -1,272 +1,272 @@
 [
- {
-  "asin": "B0H4LQC4M2",
-  "category": "termofori",
-  "title": "Comfytemp Fascia Riscaldante Portatile Morbida per il Bene",
-  "brand": "Comfytemp",
-  "image": "https://m.media-amazon.com/images/I/71GMlGTwXNL._AC_SL500_.jpg",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C69JMNMS",
+    "category": "termofori",
+    "title": "Termoforo Elettrico, Pad Elettrico con Spegnimento Automat",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/71i8msGEmUL._AC_SL500_.jpg",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 4980,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Riscaldamento",
+        "Funzionalità",
+        "Praticità",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 109,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0B8SK9RXN",
+    "category": "termofori",
+    "title": "Termoforo Lombare Elettrico 126x30 cm, 6 Livelli di Temper",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81-a5hs2dcL._AC_SL500_.jpg",
+    "price": {
+      "value": 27.45,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 4570,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Calore",
+        "Comfort",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09CTZF711",
+    "category": "termofori",
+    "title": "Cuscino Riscaldante Multiuso Imetec Intellisense Comfort",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81+dtl5PJBL._AC_SL500_.jpg",
+    "price": {
+      "value": 41.04,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 789,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Efficacia",
+        "Comfort"
+      ],
+      "mixed": [
+        "Temperatura"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09KV6G5KT",
+    "category": "termofori",
+    "title": "Imetec Intellisense Essential – Termoforo multiuso 40x35 c",
+    "brand": "Imetec",
+    "image": "https://m.media-amazon.com/images/I/81afoU6uIbL._AC_SL500_.jpg",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 688,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Riscaldamento",
+        "Rapporto qualità-prezzo",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CBQ7VPMP",
+    "category": "termofori",
+    "title": "Mowend Termoforo, Termoforo Elettrico con 6 Impostazioni d",
+    "brand": "Mowend",
+    "image": "https://m.media-amazon.com/images/I/81DxoIDpatL._AC_SL500_.jpg",
+    "price": {
+      "value": 26.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2588,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Temperatura",
+        "Funzionalità",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09CTZV4TM",
+    "category": "termofori",
+    "title": "Imetec Intellisense Cervical – Termoforo cervicale e spall",
+    "brand": "Imetec",
+    "image": "https://m.media-amazon.com/images/I/81GYJGALwIL._AC_SL500_.jpg",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2432,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Funzionalità",
+        "Praticità",
+        "Riscaldamento rapido"
+      ],
+      "mixed": [
+        "Calore",
+        "Rapporto qualità-prezzo",
+        "Adattabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GS5CJ9R4",
+    "category": "termofori",
+    "title": "Comfytemp 150cm Fascia Riscaldante Mestruali, Ideale per M",
+    "brand": "Comfytemp",
+    "image": "https://m.media-amazon.com/images/I/71efZZ0nlBL._AC_SL500_.jpg",
+    "price": {
+      "value": 32.48,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 572,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08G1F9FPC",
+    "category": "termofori",
+    "title": "Cuscino Termoforo Elettrico Riscaldante 60x30cm, per allev",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81Su-rhFt2L._AC_SL500_.jpg",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2155,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Calore"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DGTPQNS9",
+    "category": "termofori",
+    "title": "Termoforo Elettrico 126x30cm Termoforo Lombare con 6 Livel",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81vHa1iIvzL._AC_SL500_.jpg",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 194,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H4LQC4M2",
+    "category": "termofori",
+    "title": "Comfytemp Fascia Riscaldante Portatile Morbida per il Bene",
+    "brand": "Comfytemp",
+    "image": "https://m.media-amazon.com/images/I/71GMlGTwXNL._AC_SL500_.jpg",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 109,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0DGTPQNS9",
-  "category": "termofori",
-  "title": "Termoforo Elettrico 126x30cm Termoforo Lombare con 6 Livel",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81vHa1iIvzL._AC_SL500_.jpg",
-  "price": {
-   "value": 37.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 194,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B09CTZF711",
-  "category": "termofori",
-  "title": "Cuscino Riscaldante Multiuso Imetec Intellisense Comfort",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81+dtl5PJBL._AC_SL500_.jpg",
-  "price": {
-   "value": 41.04,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 789,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Efficacia",
-    "Comfort"
-   ],
-   "mixed": [
-    "Temperatura"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C69JMNMS",
-  "category": "termofori",
-  "title": "Termoforo Elettrico, Pad Elettrico con Spegnimento Automat",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/71i8msGEmUL._AC_SL500_.jpg",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 4980,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Riscaldamento",
-    "Funzionalità",
-    "Praticità",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09KV6G5KT",
-  "category": "termofori",
-  "title": "Imetec Intellisense Essential – Termoforo multiuso 40x35 c",
-  "brand": "Imetec",
-  "image": "https://m.media-amazon.com/images/I/81afoU6uIbL._AC_SL500_.jpg",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 688,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Riscaldamento",
-    "Rapporto qualità-prezzo",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0B8SK9RXN",
-  "category": "termofori",
-  "title": "Termoforo Lombare Elettrico 126x30 cm, 6 Livelli di Temper",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81-a5hs2dcL._AC_SL500_.jpg",
-  "price": {
-   "value": 27.45,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 4570,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Calore",
-    "Comfort",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GS5CJ9R4",
-  "category": "termofori",
-  "title": "Comfytemp 150cm Fascia Riscaldante Mestruali, Ideale per M",
-  "brand": "Comfytemp",
-  "image": "https://m.media-amazon.com/images/I/71efZZ0nlBL._AC_SL500_.jpg",
-  "price": {
-   "value": 32.48,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 572,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CBQ7VPMP",
-  "category": "termofori",
-  "title": "Mowend Termoforo, Termoforo Elettrico con 6 Impostazioni d",
-  "brand": "Mowend",
-  "image": "https://m.media-amazon.com/images/I/81DxoIDpatL._AC_SL500_.jpg",
-  "price": {
-   "value": 26.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2588,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Temperatura",
-    "Funzionalità",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09CTZV4TM",
-  "category": "termofori",
-  "title": "Imetec Intellisense Cervical – Termoforo cervicale e spall",
-  "brand": "Imetec",
-  "image": "https://m.media-amazon.com/images/I/81GYJGALwIL._AC_SL500_.jpg",
-  "price": {
-   "value": 49.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2432,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Funzionalità",
-    "Praticità",
-    "Riscaldamento rapido"
-   ],
-   "mixed": [
-    "Calore",
-    "Rapporto qualità-prezzo",
-    "Adattabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08G1F9FPC",
-  "category": "termofori",
-  "title": "Cuscino Termoforo Elettrico Riscaldante 60x30cm, per allev",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81Su-rhFt2L._AC_SL500_.jpg",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2155,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Calore"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

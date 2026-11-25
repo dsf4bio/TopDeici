@@ -1,296 +1,296 @@
 [
- {
-  "asin": "B08F7VSSH7",
-  "category": "culle-co-sleeping",
-  "title": "BabyBjörn Lettino da Viaggio Light, Verde scuro",
-  "brand": "BabyBjörn",
-  "image": "https://m.media-amazon.com/images/I/81OUDB+jETL._AC_SL500_.jpg",
-  "price": {
-   "value": 219.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B08F7VSSH7",
+    "category": "culle-co-sleeping",
+    "title": "BabyBjörn Lettino da Viaggio Light, Verde scuro",
+    "brand": "BabyBjörn",
+    "image": "https://m.media-amazon.com/images/I/81OUDB+jETL._AC_SL500_.jpg",
+    "price": {
+      "value": 219.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1125,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Leggerezza",
+        "Facilità di montaggio",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Comfort"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 1125,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B07RZH5YW6",
+    "category": "culle-co-sleeping",
+    "title": "Maxi-Cosi Iora Culla Co-Sleeping, 0-9 kg, Essential Graphi",
+    "brand": "Maxi-Cosi",
+    "image": "https://m.media-amazon.com/images/I/71kVU9J6XML._AC_SL500_.jpg",
+    "price": {
+      "value": 149.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1795,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Facilità di montaggio"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Leggerezza",
-    "Facilità di montaggio",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Comfort"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B004AHLMF6",
+    "category": "culle-co-sleeping",
+    "title": "hauck Lettino da Viaggio Dream N Play Plus - Culla Neonato",
+    "brand": "hauck",
+    "image": "https://m.media-amazon.com/images/I/61jt4c4ASML._AC_SL500_.jpg",
+    "price": {
+      "value": 61.83,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 18052,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Trasportabilità",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DW48K7V3",
+    "category": "culle-co-sleeping",
+    "title": "LIONELO Sven Lettino da Viaggio Pieghevole dalla Nascita a",
+    "brand": "LIONELO",
+    "image": "https://m.media-amazon.com/images/I/81ZBAtcfSkL._AC_SL500_.jpg",
+    "price": {
+      "value": 99.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4454,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Robustezza",
+        "Comfort",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Facilità di montaggio",
+        "Praticità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0829K69VZ",
+    "category": "culle-co-sleeping",
+    "title": "Kinderkraft LOVI Lettino da Campeggio, Culla a Dondolo, Ca",
+    "brand": "Kinderkraft",
+    "image": "https://m.media-amazon.com/images/I/717rPhtGzCL._AC_SL500_.jpg",
+    "price": {
+      "value": 55.13,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4279,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BSLT55Z3",
+    "category": "culle-co-sleeping",
+    "title": "Bebeconfort Soft Dreams, Lettino da Campeggio, 0–15 kg, Gr",
+    "brand": "Bebeconfort",
+    "image": "https://m.media-amazon.com/images/I/71sLplb+5+L._AC_SL500_.jpg",
+    "price": {
+      "value": 64.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2264,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Robustezza",
+        "Comfort",
+        "Facilità di montaggio"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B079J25V1H",
+    "category": "culle-co-sleeping",
+    "title": "Foppapedretti Lettino da Viaggio Teddytour, Pieghevole, Gr",
+    "brand": "Foppapedretti",
+    "image": "https://m.media-amazon.com/images/I/51SFd8yOleL._AC_SL500_.jpg",
+    "price": {
+      "value": 41,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1733,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Robustezza",
+        "Rapporto qualità-prezzo",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0H1DHFLSB",
+    "category": "culle-co-sleeping",
+    "title": "hauck Dream N Play Set Lettino da Viaggio con Materasso, D",
+    "brand": "hauck",
+    "image": "https://m.media-amazon.com/images/I/61vk0y2IxvL._AC_SL500_.jpg",
+    "price": {
+      "value": 119.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 417,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Trasportabilità",
+        "Comfort",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GQ53PZSR",
+    "category": "culle-co-sleeping",
+    "title": "LIONELO Pari Culla Co-Sleeping 3in1 Fianco Letto per Neonati Dalla Nas",
+    "brand": "LIONELO",
+    "image": "https://m.media-amazon.com/images/I/81bU2SMFG-L._AC_SL500_.jpg",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 249,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Facilità di montaggio"
+      ],
+      "mixed": [
+        "Mobilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GFMZT6CV",
+    "category": "culle-co-sleeping",
+    "title": "Culla Neonato Fianco Letto 3-in-1 Oscillante,Culla Next To",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81HRdCmO+0L._AC_SL500_.jpg",
+    "price": {
+      "value": 129.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 133,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0GFMZT6CV",
-  "category": "culle-co-sleeping",
-  "title": "Culla Neonato Fianco Letto 3-in-1 Oscillante,Culla Next To",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81HRdCmO+0L._AC_SL500_.jpg",
-  "price": {
-   "value": 129.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.9,
-   "count": 133,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B004AHLMF6",
-  "category": "culle-co-sleeping",
-  "title": "hauck Lettino da Viaggio Dream N Play Plus - Culla Neonato",
-  "brand": "hauck",
-  "image": "https://m.media-amazon.com/images/I/61jt4c4ASML._AC_SL500_.jpg",
-  "price": {
-   "value": 61.83,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 18052,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Trasportabilità",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07RZH5YW6",
-  "category": "culle-co-sleeping",
-  "title": "Maxi-Cosi Iora Culla Co-Sleeping, 0-9 kg, Essential Graphi",
-  "brand": "Maxi-Cosi",
-  "image": "https://m.media-amazon.com/images/I/71kVU9J6XML._AC_SL500_.jpg",
-  "price": {
-   "value": 149.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1795,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Facilità di montaggio"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DW48K7V3",
-  "category": "culle-co-sleeping",
-  "title": "LIONELO Sven Lettino da Viaggio Pieghevole dalla Nascita a",
-  "brand": "LIONELO",
-  "image": "https://m.media-amazon.com/images/I/81ZBAtcfSkL._AC_SL500_.jpg",
-  "price": {
-   "value": 99.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4454,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Robustezza",
-    "Comfort",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Facilità di montaggio",
-    "Praticità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0829K69VZ",
-  "category": "culle-co-sleeping",
-  "title": "Kinderkraft LOVI Lettino da Campeggio, Culla a Dondolo, Ca",
-  "brand": "Kinderkraft",
-  "image": "https://m.media-amazon.com/images/I/717rPhtGzCL._AC_SL500_.jpg",
-  "price": {
-   "value": 55.13,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4279,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0H1DHFLSB",
-  "category": "culle-co-sleeping",
-  "title": "hauck Dream N Play Set Lettino da Viaggio con Materasso, D",
-  "brand": "hauck",
-  "image": "https://m.media-amazon.com/images/I/61vk0y2IxvL._AC_SL500_.jpg",
-  "price": {
-   "value": 119.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 417,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Trasportabilità",
-    "Comfort",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BSLT55Z3",
-  "category": "culle-co-sleeping",
-  "title": "Bebeconfort Soft Dreams, Lettino da Campeggio, 0–15 kg, Gr",
-  "brand": "Bebeconfort",
-  "image": "https://m.media-amazon.com/images/I/71sLplb+5+L._AC_SL500_.jpg",
-  "price": {
-   "value": 64.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2264,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Robustezza",
-    "Comfort",
-    "Facilità di montaggio"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B079J25V1H",
-  "category": "culle-co-sleeping",
-  "title": "Foppapedretti Lettino da Viaggio Teddytour, Pieghevole, Gr",
-  "brand": "Foppapedretti",
-  "image": "https://m.media-amazon.com/images/I/51SFd8yOleL._AC_SL500_.jpg",
-  "price": {
-   "value": 41.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1733,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Robustezza",
-    "Rapporto qualità-prezzo",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GQ53PZSR",
-  "category": "culle-co-sleeping",
-  "title": "LIONELO Pari Culla Co-Sleeping 3in1 Fianco Letto per Neonati Dalla Nas",
-  "brand": "LIONELO",
-  "image": "https://m.media-amazon.com/images/I/81bU2SMFG-L._AC_SL500_.jpg",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 249,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Facilità di montaggio"
-   ],
-   "mixed": [
-    "Mobilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,277 +1,277 @@
 [
- {
-  "asin": "B0C3HCD34R",
-  "category": "cuffie-ufficio",
-  "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear",
-  "brand": "Soundcore",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C3HCD34R",
+    "category": "cuffie-ufficio",
+    "title": "Soundcore di Anker Q20i, Cuffie Bluetooth Over-Ear",
+    "brand": "Soundcore",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 80410,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61+2Wr079NL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Cancellazione del rumore",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 80410,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CLC9L67G",
+    "category": "cuffie-ufficio",
+    "title": "Picun Cuffie Bluetooth B8, 120 ore di riproduzione",
+    "brand": "Picun",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12204,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71IAN+jScBL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61+2Wr079NL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Cancellazione del rumore",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0BZLG1VLJ",
+    "category": "cuffie-ufficio",
+    "title": "Uliptz Cuffie Wireless Bluetooth, 65 Ore Autonomia Stereo HiFi Over Ear",
+    "brand": "Uliptz",
+    "price": {
+      "value": 25.26,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 24955,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71LLWom9GOL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Qualità del suono",
+        "Comfort",
+        "Connettività"
+      ],
+      "mixed": [
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GX9Q2KJZ",
+    "category": "cuffie-ufficio",
+    "title": "TECKNET Cuffie Bluetooth con Microfono, Cancellazione del Rumore e",
+    "brand": "TECKNET",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5649,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61j7qTCLgkL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0D1Q649TG",
+    "category": "cuffie-ufficio",
+    "title": "DOQAUS Cuffie Bluetooth Over Ear,90 Ore Di Autonomia,Blu Navy",
+    "brand": "DOQAUS",
+    "price": {
+      "value": 26.59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 7858,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/712Xh+170fL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Comfort"
+      ],
+      "mixed": [
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07KY8G9NM",
+    "category": "cuffie-ufficio",
+    "title": "TOZO Cuffie Bluetooth 6.0 con ANC Ibrido, 5 Mics per Chiamate Chiare",
+    "brand": "TOZO",
+    "price": {
+      "value": 42.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 6196,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71gavVn1RVL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Cancellazione del rumore",
+        "Connettività",
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FPD1P24J",
+    "category": "cuffie-ufficio",
+    "title": "TOZO HT3 Cuffie Bluetooth 6.0 con ANC Ibrido, 5 Mics per Chiamate Chiare",
+    "brand": "TOZO",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3857,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71Ep6B3fLJL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B000UXZQ42",
+    "category": "cuffie-ufficio",
+    "title": "Logitech ClearChat Comfort USB Cuffie, Nero",
+    "brand": "Logitech",
+    "price": {
+      "value": 37.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 65492,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/6144+3nBNhL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Comfort"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08HDBZNZ9",
+    "category": "cuffie-ufficio",
+    "title": "INFURTURE Cuffie cancellazione Attiva Rumore",
+    "brand": "INFURTURE",
+    "price": {
+      "value": 79.56,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 15743,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61KQKnlrTVL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Comfort",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Isolamento acustico"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B005HWEZGG",
+    "category": "cuffie-ufficio",
+    "title": "EPOS PC8 USB Cuffie Stereo per PC Mac Auricolari Cablati On Ear con Mi",
+    "brand": "EPOS",
+    "image": "https://m.media-amazon.com/images/I/61HJ4vlxiLL._AC_SL500_.jpg",
+    "price": {
+      "value": 28.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 14594,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Comfort",
+        "Leggerezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0CLC9L67G",
-  "category": "cuffie-ufficio",
-  "title": "Picun Cuffie Bluetooth B8, 120 ore di riproduzione",
-  "brand": "Picun",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 12204,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71IAN+jScBL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GX9Q2KJZ",
-  "category": "cuffie-ufficio",
-  "title": "TECKNET Cuffie Bluetooth con Microfono, Cancellazione del Rumore e",
-  "brand": "TECKNET",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5649,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61j7qTCLgkL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BZLG1VLJ",
-  "category": "cuffie-ufficio",
-  "title": "Uliptz Cuffie Wireless Bluetooth, 65 Ore Autonomia Stereo HiFi Over Ear",
-  "brand": "Uliptz",
-  "price": {
-   "value": 25.26,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 24955,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71LLWom9GOL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Qualità del suono",
-    "Comfort",
-    "Connettività"
-   ],
-   "mixed": [
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D1Q649TG",
-  "category": "cuffie-ufficio",
-  "title": "DOQAUS Cuffie Bluetooth Over Ear,90 Ore Di Autonomia,Blu Navy",
-  "brand": "DOQAUS",
-  "price": {
-   "value": 26.59,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 7858,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/712Xh+170fL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Comfort"
-   ],
-   "mixed": [
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07KY8G9NM",
-  "category": "cuffie-ufficio",
-  "title": "TOZO Cuffie Bluetooth 6.0 con ANC Ibrido, 5 Mics per Chiamate Chiare",
-  "brand": "TOZO",
-  "price": {
-   "value": 42.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 6196,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71gavVn1RVL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Cancellazione del rumore",
-    "Connettività",
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FPD1P24J",
-  "category": "cuffie-ufficio",
-  "title": "TOZO HT3 Cuffie Bluetooth 6.0 con ANC Ibrido, 5 Mics per Chiamate Chiare",
-  "brand": "TOZO",
-  "price": {
-   "value": 49.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3857,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71Ep6B3fLJL._AC_SL500_.jpg"
- },
- {
-  "asin": "B000UXZQ42",
-  "category": "cuffie-ufficio",
-  "title": "Logitech ClearChat Comfort USB Cuffie, Nero",
-  "brand": "Logitech",
-  "price": {
-   "value": 37.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 65492,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/6144+3nBNhL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Comfort"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08HDBZNZ9",
-  "category": "cuffie-ufficio",
-  "title": "INFURTURE Cuffie cancellazione Attiva Rumore",
-  "brand": "INFURTURE",
-  "price": {
-   "value": 79.56,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 15743,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61KQKnlrTVL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Comfort",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Isolamento acustico"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B005HWEZGG",
-  "category": "cuffie-ufficio",
-  "title": "EPOS PC8 USB Cuffie Stereo per PC Mac Auricolari Cablati On Ear con Mi",
-  "brand": "EPOS",
-  "image": "https://m.media-amazon.com/images/I/61HJ4vlxiLL._AC_SL500_.jpg",
-  "price": {
-   "value": 28.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 14594,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Comfort",
-    "Leggerezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

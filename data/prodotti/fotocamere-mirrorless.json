@@ -1,234 +1,234 @@
 [
- {
-  "asin": "B08KSKV35C",
-  "category": "fotocamere-mirrorless",
-  "title": "Canon Fotocamera Mirrorless EOS M50 Mark II 15-45 IS STM (Nero)",
-  "brand": "Canon",
-  "price": {
-   "value": 1138.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08KSKV35C",
+    "category": "fotocamere-mirrorless",
+    "title": "Canon Fotocamera Mirrorless EOS M50 Mark II 15-45 IS STM (Nero)",
+    "brand": "Canon",
+    "price": {
+      "value": 1138.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1568,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/611yrCtKp9L._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 1568,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BL7ZVY78",
+    "category": "fotocamere-mirrorless",
+    "title": "Canon Fotocamera mirrorless EOS R6 Mark II (solo corpo)",
+    "brand": "Canon",
+    "price": {
+      "value": 1749,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 657,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61s5kI0U4cL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/611yrCtKp9L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BL7ZVY78",
-  "category": "fotocamere-mirrorless",
-  "title": "Canon Fotocamera mirrorless EOS R6 Mark II (solo corpo)",
-  "brand": "Canon",
-  "price": {
-   "value": 1749.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C65KQ5CH",
+    "category": "fotocamere-mirrorless",
+    "title": "Canon EOS R100 Fotocamera Mirrorless 24 Megapixel APS-C + RF-S 18-45mm",
+    "brand": "Canon",
+    "price": {
+      "value": 459,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 570,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81y2PZrXEPL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Qualità dell'immagine",
+        "Funzionalità",
+        "Adatto per principianti"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 657,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07MWDP1VD",
+    "category": "fotocamere-mirrorless",
+    "title": "Sony Alpha 6400L - Kit Fotocamera Digitale Mirrorless",
+    "brand": "Sony",
+    "price": {
+      "value": 1149,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1397,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61s8hZkonoL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità fotografica",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Autofocus"
+      ],
+      "mixed": [
+        "Stabilizzazione"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61s5kI0U4cL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0C65KQ5CH",
-  "category": "fotocamere-mirrorless",
-  "title": "Canon EOS R100 Fotocamera Mirrorless 24 Megapixel APS-C + RF-S 18-45mm",
-  "brand": "Canon",
-  "price": {
-   "value": 459.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07B4L1PQ8",
+    "category": "fotocamere-mirrorless",
+    "title": "Sony Alpha 7 III – 24,2 MP Fotocamera mirrorless full frame , video 4K",
+    "brand": "Sony",
+    "price": {
+      "value": 999,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1273,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81hhMLhGdSL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità dell'immagine",
+        "Affidabilità",
+        "Autofocus",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 570,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B09JZT6YK5",
+    "category": "fotocamere-mirrorless",
+    "title": "Sony Alpha 7 IV – 33 MP Fotocamera mirrorless full frame",
+    "brand": "Sony",
+    "price": {
+      "value": 1799,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 741,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71BaBwNek-L._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/81y2PZrXEPL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Qualità dell'immagine",
-    "Funzionalità",
-    "Adatto per principianti"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07X69YCZQ",
+    "category": "fotocamere-mirrorless",
+    "title": "Sony Alpha 6100L - Kit Fotocamera Digitale Mirrorless",
+    "brand": "Sony",
+    "price": {
+      "value": 699,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 282,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/719uMazCbJL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità dell'immagine",
+        "Funzionalità",
+        "Estetica",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BDKL1TVX",
+    "category": "fotocamere-mirrorless",
+    "title": "Canon EOS R10 Fotocamera Mirrorless APS-C 24,2MP + Obiettivo RF-S",
+    "brand": "Canon",
+    "price": {
+      "value": 1299,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 250,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/613tQqYjVEL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CB8T476W",
+    "category": "fotocamere-mirrorless",
+    "title": "Sony Alpha 6700 Fotocamera mirrorless APS-C",
+    "brand": "Sony",
+    "price": {
+      "value": 1302.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 426,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81MtTmppPqL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità dell'immagine",
+        "Autofocus",
+        "Rapporto qualità-prezzo",
+        "Colori"
+      ],
+      "mixed": [
+        "Prestazioni"
+      ],
+      "negative": [
+        "Surriscaldamento"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B07MWDP1VD",
-  "category": "fotocamere-mirrorless",
-  "title": "Sony Alpha 6400L - Kit Fotocamera Digitale Mirrorless",
-  "brand": "Sony",
-  "price": {
-   "value": 1149.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1397,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61s8hZkonoL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità fotografica",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Autofocus"
-   ],
-   "mixed": [
-    "Stabilizzazione"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07B4L1PQ8",
-  "category": "fotocamere-mirrorless",
-  "title": "Sony Alpha 7 III – 24,2 MP Fotocamera mirrorless full frame , video 4K",
-  "brand": "Sony",
-  "price": {
-   "value": 999.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1273,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81hhMLhGdSL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità dell'immagine",
-    "Affidabilità",
-    "Autofocus",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07X69YCZQ",
-  "category": "fotocamere-mirrorless",
-  "title": "Sony Alpha 6100L - Kit Fotocamera Digitale Mirrorless",
-  "brand": "Sony",
-  "price": {
-   "value": 699.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 282,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/719uMazCbJL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità dell'immagine",
-    "Funzionalità",
-    "Estetica",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BDKL1TVX",
-  "category": "fotocamere-mirrorless",
-  "title": "Canon EOS R10 Fotocamera Mirrorless APS-C 24,2MP + Obiettivo RF-S",
-  "brand": "Canon",
-  "price": {
-   "value": 1299.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 250,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/613tQqYjVEL._AC_SL500_.jpg"
- },
- {
-  "asin": "B09JZT6YK5",
-  "category": "fotocamere-mirrorless",
-  "title": "Sony Alpha 7 IV – 33 MP Fotocamera mirrorless full frame",
-  "brand": "Sony",
-  "price": {
-   "value": 1799.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 741,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71BaBwNek-L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CB8T476W",
-  "category": "fotocamere-mirrorless",
-  "title": "Sony Alpha 6700 Fotocamera mirrorless APS-C",
-  "brand": "Sony",
-  "price": {
-   "value": 1302.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 426,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81MtTmppPqL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità dell'immagine",
-    "Autofocus",
-    "Rapporto qualità-prezzo",
-    "Colori"
-   ],
-   "mixed": [
-    "Prestazioni"
-   ],
-   "negative": [
-    "Surriscaldamento"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

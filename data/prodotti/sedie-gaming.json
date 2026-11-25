@@ -1,301 +1,301 @@
 [
- {
-  "asin": "B0DB5YQV6Y",
-  "category": "sedie-gaming",
-  "title": "DIABLO Sedia Gaming Tessuto X-Horn 2.0 / Braccioli 3D Regolabili",
-  "brand": "DIABLO",
-  "price": {
-   "value": 199.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DB5YQV6Y",
+    "category": "sedie-gaming",
+    "title": "DIABLO Sedia Gaming Tessuto X-Horn 2.0 / Braccioli 3D Regolabili",
+    "brand": "DIABLO",
+    "price": {
+      "value": 199.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2016,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61axKUCSIrL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Estetica",
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Reclinabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 2016,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0FSZQTSTJ",
+    "category": "sedie-gaming",
+    "title": "AutoFull M6 Ultra 2.0 Sedia Gaming con supporto lombare dinamico",
+    "brand": "AutoFull",
+    "price": {
+      "value": 479,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4150,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Ovuql5vvL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Comfort",
+        "Facilità di montaggio",
+        "Qualità costruttiva"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61axKUCSIrL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Estetica",
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Reclinabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0DB5YCDDV",
+    "category": "sedie-gaming",
+    "title": "DIABLO Sedia Gaming Tessuto X-One 2.0 / Braccioli Regolabili",
+    "brand": "DIABLO",
+    "price": {
+      "value": 185.24,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1345,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61PnQQk7AzL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Facilità di montaggio",
+        "Estetica",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Posizionamento"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C48Z3GG9",
+    "category": "sedie-gaming",
+    "title": "Ferghana Sedia da Gaming Ergonomica",
+    "brand": "Ferghana",
+    "price": {
+      "value": 100.31,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1019,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61tYc-JH9WL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Comfort",
+        "Facilità di montaggio",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Qualità del materiale"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B083SXT7Q6",
+    "category": "sedie-gaming",
+    "title": "Oversteel - ULTIMET Sedia da gaming professionale in similpelle",
+    "brand": "Oversteel",
+    "price": {
+      "value": 193.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 13714,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61ZnncH3KEL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [
+        "Durata",
+        "Stabilità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BBPRZHRX",
+    "category": "sedie-gaming",
+    "title": "GTPLAYER Sedia da Gaming, Ergonomico Sedia da Ufficio, Nessun Massaggi",
+    "brand": "GTPLAYER",
+    "image": "https://m.media-amazon.com/images/I/61f24Up7UdL._AC_SL500_.jpg",
+    "price": {
+      "value": 129.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 13110,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Estetica",
+        "Facilità di montaggio",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Qualità dei materiali",
+        "Rapporto qualità-prezzo",
+        "Supporto"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B086MC977H",
+    "category": "sedie-gaming",
+    "title": "SONGMICS Poltrona Gamer, Sedia Gaming Regolabile, carico 150 kg",
+    "brand": "SONGMICS",
+    "price": {
+      "value": 101.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 8145,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/711vkcZQtxL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [
+        "Reclinabilità",
+        "Comfort"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09SWNNC88",
+    "category": "sedie-gaming",
+    "title": "Soontrans Sedia Gaming con Massaggio Lombare Poggiatesta Poggiapiedi",
+    "brand": "Soontrans",
+    "price": {
+      "value": 85.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 6519,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/810pRN5WYtL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Facilità di montaggio",
+        "Estetica",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Robustezza",
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GHR5M6JF",
+    "category": "sedie-gaming",
+    "title": "Dowinx sedia da gaming ergonomica con poggiapiedi",
+    "brand": "Dowinx",
+    "price": {
+      "value": 115.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 431,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/612KX0aAGwL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0G4D12S14",
+    "category": "sedie-gaming",
+    "title": "Dowinx Sedia da gaming ergonomica con poggiapiedi",
+    "brand": "Dowinx",
+    "price": {
+      "value": 161.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 597,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Tl5O9Y1yL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B0FSZQTSTJ",
-  "category": "sedie-gaming",
-  "title": "AutoFull M6 Ultra 2.0 Sedia Gaming con supporto lombare dinamico",
-  "brand": "AutoFull",
-  "price": {
-   "value": 479.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4150,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Ovuql5vvL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Comfort",
-    "Facilità di montaggio",
-    "Qualità costruttiva"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DB5YCDDV",
-  "category": "sedie-gaming",
-  "title": "DIABLO Sedia Gaming Tessuto X-One 2.0 / Braccioli Regolabili",
-  "brand": "DIABLO",
-  "price": {
-   "value": 185.24,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1345,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61PnQQk7AzL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Facilità di montaggio",
-    "Estetica",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Posizionamento"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B083SXT7Q6",
-  "category": "sedie-gaming",
-  "title": "Oversteel - ULTIMET Sedia da gaming professionale in similpelle",
-  "brand": "Oversteel",
-  "price": {
-   "value": 193.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 13714,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61ZnncH3KEL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [
-    "Durata",
-    "Stabilità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C48Z3GG9",
-  "category": "sedie-gaming",
-  "title": "Ferghana Sedia da Gaming Ergonomica",
-  "brand": "Ferghana",
-  "price": {
-   "value": 100.31,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1019,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61tYc-JH9WL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Comfort",
-    "Facilità di montaggio",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Qualità del materiale"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GHR5M6JF",
-  "category": "sedie-gaming",
-  "title": "Dowinx sedia da gaming ergonomica con poggiapiedi",
-  "brand": "Dowinx",
-  "price": {
-   "value": 115.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 431,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/612KX0aAGwL._AC_SL500_.jpg"
- },
- {
-  "asin": "B086MC977H",
-  "category": "sedie-gaming",
-  "title": "SONGMICS Poltrona Gamer, Sedia Gaming Regolabile, carico 150 kg",
-  "brand": "SONGMICS",
-  "price": {
-   "value": 101.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 8145,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/711vkcZQtxL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [
-    "Reclinabilità",
-    "Comfort"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09SWNNC88",
-  "category": "sedie-gaming",
-  "title": "Soontrans Sedia Gaming con Massaggio Lombare Poggiatesta Poggiapiedi",
-  "brand": "Soontrans",
-  "price": {
-   "value": 85.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 6519,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/810pRN5WYtL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Facilità di montaggio",
-    "Estetica",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Robustezza",
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0G4D12S14",
-  "category": "sedie-gaming",
-  "title": "Dowinx Sedia da gaming ergonomica con poggiapiedi",
-  "brand": "Dowinx",
-  "price": {
-   "value": 161.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 597,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Tl5O9Y1yL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BBPRZHRX",
-  "category": "sedie-gaming",
-  "title": "GTPLAYER Sedia da Gaming, Ergonomico Sedia da Ufficio, Nessun Massaggi",
-  "brand": "GTPLAYER",
-  "image": "https://m.media-amazon.com/images/I/61f24Up7UdL._AC_SL500_.jpg",
-  "price": {
-   "value": 129.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 13110,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Estetica",
-    "Facilità di montaggio",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Qualità dei materiali",
-    "Rapporto qualità-prezzo",
-    "Supporto"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

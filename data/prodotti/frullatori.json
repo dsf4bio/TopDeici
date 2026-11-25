@@ -1,259 +1,259 @@
 [
- {
-  "asin": "B07Q6GT98V",
-  "category": "frullatori",
-  "title": "Ninja Frullatore sottile da 700 W e frullatore",
-  "brand": "Ninja",
-  "price": {
-   "value": 110.28,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07Q6GT98V",
+    "category": "frullatori",
+    "title": "Ninja Frullatore sottile da 700 W e frullatore",
+    "brand": "Ninja",
+    "price": {
+      "value": 110.28,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 5461,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61rnOxsULRL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 5461,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00NGV4506",
+    "category": "frullatori",
+    "title": "Ninja BL610 frullatore",
+    "brand": "Ninja",
+    "price": {
+      "value": 136.16,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 55029,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61DvtaqAWML._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61rnOxsULRL._AC_SL500_.jpg"
- },
- {
-  "asin": "B00NGV4506",
-  "category": "frullatori",
-  "title": "Ninja BL610 frullatore",
-  "brand": "Ninja",
-  "price": {
-   "value": 136.16,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08F2TGH2M",
+    "category": "frullatori",
+    "title": "KitchenAid KHBV53OB - Frullatore a mano a velocità variabile",
+    "brand": "KitchenAid",
+    "price": {
+      "value": 137.68,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3614,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/519ScZOzLHL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 55029,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08CRTKLX4",
+    "category": "frullatori",
+    "title": "Ninja Frullatore 2 in 1, Caraffa 2,1L e Bicchiere 700ml, 1200 W, Grigio",
+    "brand": "Ninja",
+    "price": {
+      "value": 109.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2125,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71m0uVGpbNL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Robustezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [
+        "Rumorosità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61DvtaqAWML._AC_SL500_.jpg"
- },
- {
-  "asin": "B08F2TGH2M",
-  "category": "frullatori",
-  "title": "KitchenAid KHBV53OB - Frullatore a mano a velocità variabile",
-  "brand": "KitchenAid",
-  "price": {
-   "value": 137.68,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B007KIVDLK",
+    "category": "frullatori",
+    "title": "Bosch MSM66120 Frullatore a immersione, 600 Watt 12 Velocità+Turbo",
+    "brand": "Bosch",
+    "price": {
+      "value": 29.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12162,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61gIeAhucIL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Praticità",
+        "Facile da pulire"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 3614,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CP9RWLJR",
+    "category": "frullatori",
+    "title": "Philips Frullatore elettrico 5000, ProBlend Plus, 800W, 0,7L,Nero",
+    "brand": "Philips",
+    "price": {
+      "value": 56.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 881,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51XNt-TOmpL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Velocità",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/519ScZOzLHL._AC_SL500_.jpg"
- },
- {
-  "asin": "B007KIVDLK",
-  "category": "frullatori",
-  "title": "Bosch MSM66120 Frullatore a immersione, 600 Watt 12 Velocità+Turbo",
-  "brand": "Bosch",
-  "price": {
-   "value": 29.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CPT7RDZV",
+    "category": "frullatori",
+    "title": "NUTRI-BLENDER MAX+ Frullatore ad Alte Prestazioni 2000 W",
+    "brand": "NUTRI-BLENDER",
+    "price": {
+      "value": 128.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 523,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/818AqNDL9bL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 12162,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B007KIVCIO",
+    "category": "frullatori",
+    "title": "Bosch MSM64110 Frullatore a Immersione, 450 Watt, 2 Velocità, Rosso",
+    "brand": "Bosch",
+    "price": {
+      "value": 25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2234,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51EdCghKP0L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Robustezza",
+        "Potenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61gIeAhucIL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Praticità",
-    "Facile da pulire"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B08HSFT6LB",
+    "category": "frullatori",
+    "title": "Ninja Mini Frullatore + 2 Bicchieri da 470ml, 700W, Nero",
+    "brand": "Ninja",
+    "price": {
+      "value": 74.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2061,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41wzq-8p7XL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Praticità",
+        "Dimensioni"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07SB18XRL",
+    "category": "frullatori",
+    "title": "H.Koenig Mini frullatore SMOO9 Smoothie Maker, 570mL, 300W",
+    "brand": "H.Koenig",
+    "price": {
+      "value": 29.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 14601,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61rbxWROlLL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Praticità",
+        "Facile da pulire"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B08CRTKLX4",
-  "category": "frullatori",
-  "title": "Ninja Frullatore 2 in 1, Caraffa 2,1L e Bicchiere 700ml, 1200 W, Grigio",
-  "brand": "Ninja",
-  "price": {
-   "value": 109.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2125,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71m0uVGpbNL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Robustezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [
-    "Rumorosità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CP9RWLJR",
-  "category": "frullatori",
-  "title": "Philips Frullatore elettrico 5000, ProBlend Plus, 800W, 0,7L,Nero",
-  "brand": "Philips",
-  "price": {
-   "value": 56.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 881,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51XNt-TOmpL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Velocità",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B007KIVCIO",
-  "category": "frullatori",
-  "title": "Bosch MSM64110 Frullatore a Immersione, 450 Watt, 2 Velocità, Rosso",
-  "brand": "Bosch",
-  "price": {
-   "value": 25.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2234,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51EdCghKP0L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Robustezza",
-    "Potenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CPT7RDZV",
-  "category": "frullatori",
-  "title": "NUTRI-BLENDER MAX+ Frullatore ad Alte Prestazioni 2000 W",
-  "brand": "NUTRI-BLENDER",
-  "price": {
-   "value": 128.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 523,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/818AqNDL9bL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08HSFT6LB",
-  "category": "frullatori",
-  "title": "Ninja Mini Frullatore + 2 Bicchieri da 470ml, 700W, Nero",
-  "brand": "Ninja",
-  "price": {
-   "value": 74.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2061,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41wzq-8p7XL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Praticità",
-    "Dimensioni"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07SB18XRL",
-  "category": "frullatori",
-  "title": "H.Koenig Mini frullatore SMOO9 Smoothie Maker, 570mL, 300W",
-  "brand": "H.Koenig",
-  "price": {
-   "value": 29.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 14601,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61rbxWROlLL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Praticità",
-    "Facile da pulire"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

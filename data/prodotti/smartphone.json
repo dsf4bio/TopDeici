@@ -1,300 +1,300 @@
 [
- {
-  "asin": "B0DRFPNJKY",
-  "category": "smartphone",
-  "title": "Xiaomi Poco X7 5G Smartphone 12GB RAM 512GB ROM",
-  "brand": "Xiaomi",
-  "price": {
-   "value": 397.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DRFPNJKY",
+    "category": "smartphone",
+    "title": "Xiaomi Poco X7 5G Smartphone 12GB RAM 512GB ROM",
+    "brand": "Xiaomi",
+    "price": {
+      "value": 397,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1140,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61XRQp4JzHL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 1140,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0D37SWBYQ",
+    "category": "smartphone",
+    "title": "Samsung Galaxy A55 5G, Smartphone Android 14",
+    "brand": "Samsung",
+    "price": {
+      "value": 399.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5294,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71HOp-2v7rL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Estetica",
+        "Durata batteria"
+      ],
+      "mixed": [],
+      "negative": [
+        "Mancanza cover"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61XRQp4JzHL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0D37SWBYQ",
-  "category": "smartphone",
-  "title": "Samsung Galaxy A55 5G, Smartphone Android 14",
-  "brand": "Samsung",
-  "price": {
-   "value": 399.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08VZGJSY7",
+    "category": "smartphone",
+    "title": "Samsung Galaxy A52 Smartphone, Display Infinity-O FHD+ da 6,5 pollici",
+    "brand": "Samsung",
+    "price": {
+      "value": 272.78,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3148,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71DmbXOcaSL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Durata batteria",
+        "Fotocamera"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 5294,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DSMWQTXH",
+    "category": "smartphone",
+    "title": "XIAOMI POCO X7 Pro - Smartphone de 12+512GB",
+    "brand": "XIAOMI",
+    "price": {
+      "value": 446.58,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2717,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61B3BBltQmL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Estetica"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Qualità fotografica"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71HOp-2v7rL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Estetica",
-    "Durata batteria"
-   ],
-   "mixed": [],
-   "negative": [
-    "Mancanza cover"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0F3F8YXF1",
+    "category": "smartphone",
+    "title": "Samsung A566 GALAXY A56 ENTERPRISE EDITION (6.7'' - 8/128GB) GRAPHITE",
+    "brand": "Samsung",
+    "price": {
+      "value": 319,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 646,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51j8XEkiazL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Affidabilità",
+        "Durata batteria",
+        "Prestazioni"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B088K8QMPB",
+    "category": "smartphone",
+    "title": "Xiaomi Redmi Note 11S Smartphone, 6GB RAM 128GB ROM",
+    "brand": "Xiaomi",
+    "price": {
+      "value": 172.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2132,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/512A4pEqXaL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Qualità fotocamera",
+        "Qualità dello schermo"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FQFJRZNZ",
+    "category": "smartphone",
+    "title": "Apple iPhone 17 256 GB: display 6,3\" con ProMotion, chip A19",
+    "brand": "Apple",
+    "price": {
+      "value": 949,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1514,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61X5FknDWuL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Prestazioni",
+        "Affidabilità"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GGCDV1Q1",
+    "category": "smartphone",
+    "title": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità",
+    "brand": "Google",
+    "price": {
+      "value": 399,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1265,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/610ZiBxq7bL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Qualità fotografica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GQVBFD3Z",
+    "category": "smartphone",
+    "title": "Apple iPhone 17e 256 GB: display Super Retina XDR da 6,1'', chip A19",
+    "brand": "Apple",
+    "price": {
+      "value": 799,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 319,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61SU6jHrv2L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Prestazioni",
+        "Affidabilità"
+      ],
+      "mixed": [
+        "Dimensioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GPDTSN41",
+    "category": "smartphone",
+    "title": "Samsung Galaxy S26 256GB Cobalt Violet",
+    "brand": "Samsung",
+    "price": {
+      "value": 681.7,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 314,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51xPhLO2MuL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B08VZGJSY7",
-  "category": "smartphone",
-  "title": "Samsung Galaxy A52 Smartphone, Display Infinity-O FHD+ da 6,5 pollici",
-  "brand": "Samsung",
-  "price": {
-   "value": 272.78,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3148,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71DmbXOcaSL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Durata batteria",
-    "Fotocamera"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F3F8YXF1",
-  "category": "smartphone",
-  "title": "Samsung A566 GALAXY A56 ENTERPRISE EDITION (6.7'' - 8/128GB) GRAPHITE",
-  "brand": "Samsung",
-  "price": {
-   "value": 319.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 646,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51j8XEkiazL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Affidabilità",
-    "Durata batteria",
-    "Prestazioni"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DSMWQTXH",
-  "category": "smartphone",
-  "title": "XIAOMI POCO X7 Pro - Smartphone de 12+512GB",
-  "brand": "XIAOMI",
-  "price": {
-   "value": 446.58,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2717,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61B3BBltQmL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Estetica"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Qualità fotografica"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GQVBFD3Z",
-  "category": "smartphone",
-  "title": "Apple iPhone 17e 256 GB: display Super Retina XDR da 6,1'', chip A19",
-  "brand": "Apple",
-  "price": {
-   "value": 799.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 319,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61SU6jHrv2L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Prestazioni",
-    "Affidabilità"
-   ],
-   "mixed": [
-    "Dimensioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B088K8QMPB",
-  "category": "smartphone",
-  "title": "Xiaomi Redmi Note 11S Smartphone, 6GB RAM 128GB ROM",
-  "brand": "Xiaomi",
-  "price": {
-   "value": 172.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2132,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/512A4pEqXaL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Qualità fotocamera",
-    "Qualità dello schermo"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FQFJRZNZ",
-  "category": "smartphone",
-  "title": "Apple iPhone 17 256 GB: display 6,3\" con ProMotion, chip A19",
-  "brand": "Apple",
-  "price": {
-   "value": 949.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1514,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61X5FknDWuL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Prestazioni",
-    "Affidabilità"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GGCDV1Q1",
-  "category": "smartphone",
-  "title": "Google Pixel 10a - 7 anni di nuovi aggiornamenti e funzionalità",
-  "brand": "Google",
-  "price": {
-   "value": 399.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1265,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/610ZiBxq7bL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Qualità fotografica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GPDTSN41",
-  "category": "smartphone",
-  "title": "Samsung Galaxy S26 256GB Cobalt Violet",
-  "brand": "Samsung",
-  "price": {
-   "value": 681.7,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 314,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51xPhLO2MuL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

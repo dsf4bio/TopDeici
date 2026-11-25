@@ -1,267 +1,267 @@
 [
- {
-  "asin": "B098P52S8V",
-  "category": "epilatori-luce-pulsata",
-  "title": "Philips Lumea serie 8000, dispositivo di depilazione IPL",
-  "brand": "Philips",
-  "price": {
-   "value": 492.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B098P52S8V",
+    "category": "epilatori-luce-pulsata",
+    "title": "Philips Lumea serie 8000, dispositivo di depilazione IPL",
+    "brand": "Philips",
+    "price": {
+      "value": 492,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2029,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71ktpG0kB6L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Comfort"
+      ],
+      "mixed": [
+        "Ricrescita dei peli"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 2029,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0G4CPCFT9",
+    "category": "epilatori-luce-pulsata",
+    "title": "Braun Silk·Expert Pro 5 Epilatore Luce Pulsata, Custodia, Pl5100 Oro",
+    "brand": "Braun",
+    "price": {
+      "value": 299.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3377,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81Z0LKSPKUL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Praticità"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Indolore"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71ktpG0kB6L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Comfort"
-   ],
-   "mixed": [
-    "Ricrescita dei peli"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0G4CRSH2H",
+    "category": "epilatori-luce-pulsata",
+    "title": "Braun Skin I·Expert Epilatore Luce Pulsata Smart, 4 Testine",
+    "brand": "Braun",
+    "price": {
+      "value": 459.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1802,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81G1DjfRsVL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rimozione peli",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Velocità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FQP3XHY5",
+    "category": "epilatori-luce-pulsata",
+    "title": "Deplite 21J Epilatore Luce Pulsata con Funzione di Raffreddamento",
+    "brand": "Deplite",
+    "price": {
+      "value": 76.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 559,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61vXPF0TyzL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Comfort",
+        "Facilità d'uso",
+        "Rimozione dei peli"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FQMX91ND",
+    "category": "epilatori-luce-pulsata",
+    "title": "Epilatore Luce Pulsata con Funzione di Raffreddamento a Ghiaccio, Sche",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/61PLgvo7q3L._AC_SL500_.jpg",
+    "price": {
+      "value": 77.16,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 990,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Raffreddamento"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B017BP58KS",
+    "category": "epilatori-luce-pulsata",
+    "title": "Philips Lumea 7000 Series,dispositivo di epilazione IPL, alternativa a",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/71E6v4rIiVL._AC_SL500_.jpg",
+    "price": {
+      "value": 359.17,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2622,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rimozione dei peli",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08RB6C5GP",
+    "category": "epilatori-luce-pulsata",
+    "title": "Philips Lumea 9000 Series, dispositivo di epilazione IPL",
+    "brand": "Philips",
+    "price": {
+      "value": 483.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1662,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71bR7iXykPL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D45QGV1H",
+    "category": "epilatori-luce-pulsata",
+    "title": "Philips Lumea Series 9900, dispositivo di epilazione IPL con tecnologi",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/713CQ-4uvqL._AC_SL500_.jpg",
+    "price": {
+      "value": 399.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 984,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GF1ZGPKZ",
+    "category": "epilatori-luce-pulsata",
+    "title": "Haarlosy Epilatore Luce Pulsata con 3 IN 1 HR/SC/RA Finestra di 5cm² I",
+    "brand": "Haarlosy",
+    "image": "https://m.media-amazon.com/images/I/61r-PPsttTL._AC_SL500_.jpg",
+    "price": {
+      "value": 76.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 180,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Comfort",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0G4CPCFT9",
-  "category": "epilatori-luce-pulsata",
-  "title": "Braun Silk·Expert Pro 5 Epilatore Luce Pulsata, Custodia, Pl5100 Oro",
-  "brand": "Braun",
-  "price": {
-   "value": 299.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3377,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81Z0LKSPKUL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Praticità"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Indolore"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0G4CRSH2H",
-  "category": "epilatori-luce-pulsata",
-  "title": "Braun Skin I·Expert Epilatore Luce Pulsata Smart, 4 Testine",
-  "brand": "Braun",
-  "price": {
-   "value": 459.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1802,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81G1DjfRsVL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rimozione peli",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Velocità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FQP3XHY5",
-  "category": "epilatori-luce-pulsata",
-  "title": "Deplite 21J Epilatore Luce Pulsata con Funzione di Raffreddamento",
-  "brand": "Deplite",
-  "price": {
-   "value": 76.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 559,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61vXPF0TyzL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Comfort",
-    "Facilità d'uso",
-    "Rimozione dei peli"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08RB6C5GP",
-  "category": "epilatori-luce-pulsata",
-  "title": "Philips Lumea 9000 Series, dispositivo di epilazione IPL",
-  "brand": "Philips",
-  "price": {
-   "value": 483.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1662,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71bR7iXykPL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B017BP58KS",
-  "category": "epilatori-luce-pulsata",
-  "title": "Philips Lumea 7000 Series,dispositivo di epilazione IPL, alternativa a",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/71E6v4rIiVL._AC_SL500_.jpg",
-  "price": {
-   "value": 359.17,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2622,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rimozione dei peli",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D45QGV1H",
-  "category": "epilatori-luce-pulsata",
-  "title": "Philips Lumea Series 9900, dispositivo di epilazione IPL con tecnologi",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/713CQ-4uvqL._AC_SL500_.jpg",
-  "price": {
-   "value": 399.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 984,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0GF1ZGPKZ",
-  "category": "epilatori-luce-pulsata",
-  "title": "Haarlosy Epilatore Luce Pulsata con 3 IN 1 HR/SC/RA Finestra di 5cm² I",
-  "brand": "Haarlosy",
-  "image": "https://m.media-amazon.com/images/I/61r-PPsttTL._AC_SL500_.jpg",
-  "price": {
-   "value": 76.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 180,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Comfort",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FQMX91ND",
-  "category": "epilatori-luce-pulsata",
-  "title": "Epilatore Luce Pulsata con Funzione di Raffreddamento a Ghiaccio, Sche",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/61PLgvo7q3L._AC_SL500_.jpg",
-  "price": {
-   "value": 77.16,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 990,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Raffreddamento"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,229 +1,229 @@
 [
- {
-  "asin": "B01N4ND1T2",
-  "category": "controller",
-  "title": "Nintendo Switch: Pro Controller, Nero",
-  "brand": "Nintendo",
-  "price": {
-   "value": 55.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01N4ND1T2",
+    "category": "controller",
+    "title": "Nintendo Switch: Pro Controller, Nero",
+    "brand": "Nintendo",
+    "price": {
+      "value": 55.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 53850,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61xhzvDIRKL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Funzionalità",
+        "Durata batteria",
+        "Praticità"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 53850,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0F3JR79YY",
+    "category": "controller",
+    "title": "Nintendo Switch 2 Pro Controller ​",
+    "brand": "Nintendo",
+    "price": {
+      "value": 74.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 3592,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Comfort",
+        "Sensibilità dei tasti"
+      ],
+      "mixed": [
+        "Costo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61xhzvDIRKL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Funzionalità",
-    "Durata batteria",
-    "Praticità"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0D736BCNM",
+    "category": "controller",
+    "title": "8Bitdo Ultimate 2C Wireless Controller for Windows PC and Android, wit",
+    "brand": "8BitDo",
+    "image": "https://m.media-amazon.com/images/I/514wvI38zaL._AC_SL500_.jpg",
+    "price": {
+      "value": 29.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 6569,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Connettività"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01MRUUSPR",
+    "category": "controller",
+    "title": "PlayStation 4 - Dualshock 4 Controller Wireless V2",
+    "brand": "PlayStation",
+    "price": {
+      "value": 129,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 100996,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51AcCuSqQoL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Originalità",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [
+        "Durata",
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08HKCM222",
+    "category": "controller",
+    "title": "Sony Official PlayStation 5 - DualSense Wireless Controller - White",
+    "brand": "Sony",
+    "price": {
+      "value": 90,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 69785,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61j9RyHsPCL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Colore",
+        "Funzionalità",
+        "Estetica",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata",
+        "Vibrazioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08ZNQN1FP",
+    "category": "controller",
+    "title": "Microsoft Wireless Controller for Xbox Series X, Xbox Series S",
+    "brand": "Microsoft",
+    "price": {
+      "value": 90.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 19229,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61QwyAYSHBL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0F3JM95S4",
+    "category": "controller",
+    "title": "Set da due Controller Joy-Con Rosso-Blu per Nintendo Switch 2",
+    "brand": "Nintendo",
+    "image": "https://m.media-amazon.com/images/I/61dtKIypP0L._AC_SL500_.jpg",
+    "price": {
+      "value": 69.97,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1449,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Originalità",
+        "Reattività"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FN77594S",
+    "category": "controller",
+    "title": "8BitDo Ultimate 2 Wireless Controller for Windows, Apple, Steam & Andr",
+    "brand": "8BitDo",
+    "image": "https://m.media-amazon.com/images/I/71x6upuMACL._AC_SL500_.jpg",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 765,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0F3JR79YY",
-  "category": "controller",
-  "title": "Nintendo Switch 2 Pro Controller ​",
-  "brand": "Nintendo",
-  "price": {
-   "value": 74.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 3592,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Comfort",
-    "Sensibilità dei tasti"
-   ],
-   "mixed": [
-    "Costo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01MRUUSPR",
-  "category": "controller",
-  "title": "PlayStation 4 - Dualshock 4 Controller Wireless V2",
-  "brand": "PlayStation",
-  "price": {
-   "value": 129.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 100996,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51AcCuSqQoL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Originalità",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [
-    "Durata",
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08HKCM222",
-  "category": "controller",
-  "title": "Sony Official PlayStation 5 - DualSense Wireless Controller - White",
-  "brand": "Sony",
-  "price": {
-   "value": 90.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 69785,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61j9RyHsPCL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Colore",
-    "Funzionalità",
-    "Estetica",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata",
-    "Vibrazioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08ZNQN1FP",
-  "category": "controller",
-  "title": "Microsoft Wireless Controller for Xbox Series X, Xbox Series S",
-  "brand": "Microsoft",
-  "price": {
-   "value": 90.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 19229,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61QwyAYSHBL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0D736BCNM",
-  "category": "controller",
-  "title": "8Bitdo Ultimate 2C Wireless Controller for Windows PC and Android, wit",
-  "brand": "8BitDo",
-  "image": "https://m.media-amazon.com/images/I/514wvI38zaL._AC_SL500_.jpg",
-  "price": {
-   "value": 29.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 6569,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Connettività"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FN77594S",
-  "category": "controller",
-  "title": "8BitDo Ultimate 2 Wireless Controller for Windows, Apple, Steam & Andr",
-  "brand": "8BitDo",
-  "image": "https://m.media-amazon.com/images/I/71x6upuMACL._AC_SL500_.jpg",
-  "price": {
-   "value": 69.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 765,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0F3JM95S4",
-  "category": "controller",
-  "title": "Set da due Controller Joy-Con Rosso-Blu per Nintendo Switch 2",
-  "brand": "Nintendo",
-  "image": "https://m.media-amazon.com/images/I/61dtKIypP0L._AC_SL500_.jpg",
-  "price": {
-   "value": 69.97,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1449,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Originalità",
-    "Reattività"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

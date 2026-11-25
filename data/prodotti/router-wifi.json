@@ -1,315 +1,315 @@
 [
- {
-  "asin": "B07KJ2TDMR",
-  "category": "router-wifi",
-  "title": "TP-Link Deco M4 Sistema Mesh Wi-Fi AC1200Mbps, Router/Access Point, 2pz",
-  "brand": "TP-Link",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07KJ2TDMR",
+    "category": "router-wifi",
+    "title": "TP-Link Deco M4 Sistema Mesh Wi-Fi AC1200Mbps, Router/Access Point, 2pz",
+    "brand": "TP-Link",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 15403,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/5123iFq9hdL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'installazione",
+        "Copertura",
+        "Connettività"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 15403,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BNYSG686",
+    "category": "router-wifi",
+    "title": "TP-Link Archer AX72 Pro Router Wi-Fi 6 AX5400Mbps, Dual-Band, USB 3.0",
+    "brand": "TP-Link",
+    "image": "https://m.media-amazon.com/images/I/61wFDNIaA9L._AC_SL500_.jpg",
+    "price": {
+      "value": 98.59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6112,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza del segnale",
+        "Facilità di configurazione",
+        "Copertura"
+      ],
+      "mixed": [
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/5123iFq9hdL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'installazione",
-    "Copertura",
-    "Connettività"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B08GDC3534",
+    "category": "router-wifi",
+    "title": "TP-Link Archer C6 Router Wi-Fi AC1200Mbps Dual-Band, 5 Porte Gigabit",
+    "brand": "TP-Link",
+    "price": {
+      "value": 38,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6111,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51kUGfTAm2L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza del segnale",
+        "Facilità di configurazione",
+        "Copertura"
+      ],
+      "mixed": [
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BPSGJN7T",
+    "category": "router-wifi",
+    "title": "GL.iNet GL-MT3000 Beryl AX Router Wi-Fi 6 Viaggio, WAN 2.5G, VPN",
+    "brand": "GL.iNet",
+    "price": {
+      "value": 101.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5494,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Affidabilità",
+        "Connettività",
+        "Dimensioni compatte",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HBQKLRWY",
+    "category": "router-wifi",
+    "title": "TP-Link Archer NX505 Router 5G Wi-Fi 6 AX3000Mbps Dual Band",
+    "brand": "TP-Link",
+    "price": {
+      "value": 219.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 44603,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61mvRg8xkRL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità",
+        "Rapporto qualità-prezzo",
+        "Facilità di configurazione"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DBVYKZT8",
+    "category": "router-wifi",
+    "title": "TP-Link Archer NX200 Router 5G con Sim WiFi 6 AX1800 Dual Band Gigabit",
+    "brand": "TP-Link",
+    "image": "https://m.media-amazon.com/images/I/51cxJ3I-msL._AC_SL500_.jpg",
+    "price": {
+      "value": 199.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 44602,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità",
+        "Rapporto qualità-prezzo",
+        "Facilità di configurazione"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09ZRY9YHB",
+    "category": "router-wifi",
+    "title": "TP-Link Deco XE75 Sistema Mesh Wi-Fi 6E AXE5400Mbps, Porte Gigabit, 3pz",
+    "brand": "TP-Link",
+    "price": {
+      "value": 299.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1678,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41LXdoogwxL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Copertura",
+        "Prestazioni",
+        "Facilità d'uso",
+        "Velocità"
+      ],
+      "mixed": [],
+      "negative": [
+        "Configurazione"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CL573PRH",
+    "category": "router-wifi",
+    "title": "TP-Link Deco X1500 Sistema Mesh Wi-Fi 6 AX1500Mbps, 2 Porte Gigabit, 3pz",
+    "brand": "TP-Link",
+    "price": {
+      "value": 114.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3084,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51GEwUewfGL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Connettività",
+        "Facilità d'installazione",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CFYMG5J2",
+    "category": "router-wifi",
+    "title": "TP-Link Archer AX58 Router Wi-Fi 6 AX3000Mbps Dual-Band, 4 Porte Gigabit",
+    "brand": "TP-Link",
+    "price": {
+      "value": 54.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 12452,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51h1eWrsN-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità di configurazione",
+        "Potenza del segnale",
+        "Copertura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CFYJSQ62",
+    "category": "router-wifi",
+    "title": "TP-Link Archer AX18 Router Wi-Fi 6 AX1500Mbps Dual-Band, 4 Porte Gigabit",
+    "brand": "TP-Link",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1745,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51VRxEy7A3L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Configurazione semplice",
+        "Rapporto qualità-prezzo",
+        "Velocità"
+      ],
+      "mixed": [
+        "Potenza del segnale",
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B09ZRY9YHB",
-  "category": "router-wifi",
-  "title": "TP-Link Deco XE75 Sistema Mesh Wi-Fi 6E AXE5400Mbps, Porte Gigabit, 3pz",
-  "brand": "TP-Link",
-  "price": {
-   "value": 299.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1678,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41LXdoogwxL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Copertura",
-    "Prestazioni",
-    "Facilità d'uso",
-    "Velocità"
-   ],
-   "mixed": [],
-   "negative": [
-    "Configurazione"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08GDC3534",
-  "category": "router-wifi",
-  "title": "TP-Link Archer C6 Router Wi-Fi AC1200Mbps Dual-Band, 5 Porte Gigabit",
-  "brand": "TP-Link",
-  "price": {
-   "value": 38.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6111,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51kUGfTAm2L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza del segnale",
-    "Facilità di configurazione",
-    "Copertura"
-   ],
-   "mixed": [
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BPSGJN7T",
-  "category": "router-wifi",
-  "title": "GL.iNet GL-MT3000 Beryl AX Router Wi-Fi 6 Viaggio, WAN 2.5G, VPN",
-  "brand": "GL.iNet",
-  "price": {
-   "value": 101.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5494,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Affidabilità",
-    "Connettività",
-    "Dimensioni compatte",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HBQKLRWY",
-  "category": "router-wifi",
-  "title": "TP-Link Archer NX505 Router 5G Wi-Fi 6 AX3000Mbps Dual Band",
-  "brand": "TP-Link",
-  "price": {
-   "value": 219.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 44603,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61mvRg8xkRL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità",
-    "Rapporto qualità-prezzo",
-    "Facilità di configurazione"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CL573PRH",
-  "category": "router-wifi",
-  "title": "TP-Link Deco X1500 Sistema Mesh Wi-Fi 6 AX1500Mbps, 2 Porte Gigabit, 3pz",
-  "brand": "TP-Link",
-  "price": {
-   "value": 114.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3084,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51GEwUewfGL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Connettività",
-    "Facilità d'installazione",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CFYJSQ62",
-  "category": "router-wifi",
-  "title": "TP-Link Archer AX18 Router Wi-Fi 6 AX1500Mbps Dual-Band, 4 Porte Gigabit",
-  "brand": "TP-Link",
-  "price": {
-   "value": 37.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1745,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51VRxEy7A3L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Configurazione semplice",
-    "Rapporto qualità-prezzo",
-    "Velocità"
-   ],
-   "mixed": [
-    "Potenza del segnale",
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CFYMG5J2",
-  "category": "router-wifi",
-  "title": "TP-Link Archer AX58 Router Wi-Fi 6 AX3000Mbps Dual-Band, 4 Porte Gigabit",
-  "brand": "TP-Link",
-  "price": {
-   "value": 54.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 12452,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51h1eWrsN-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità di configurazione",
-    "Potenza del segnale",
-    "Copertura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DBVYKZT8",
-  "category": "router-wifi",
-  "title": "TP-Link Archer NX200 Router 5G con Sim WiFi 6 AX1800 Dual Band Gigabit",
-  "brand": "TP-Link",
-  "image": "https://m.media-amazon.com/images/I/51cxJ3I-msL._AC_SL500_.jpg",
-  "price": {
-   "value": 199.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 44602,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità",
-    "Rapporto qualità-prezzo",
-    "Facilità di configurazione"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BNYSG686",
-  "category": "router-wifi",
-  "title": "TP-Link Archer AX72 Pro Router Wi-Fi 6 AX5400Mbps, Dual-Band, USB 3.0",
-  "brand": "TP-Link",
-  "image": "https://m.media-amazon.com/images/I/61wFDNIaA9L._AC_SL500_.jpg",
-  "price": {
-   "value": 98.59,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6112,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza del segnale",
-    "Facilità di configurazione",
-    "Copertura"
-   ],
-   "mixed": [
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

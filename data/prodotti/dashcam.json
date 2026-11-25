@@ -1,255 +1,255 @@
 [
- {
-  "asin": "B0CKXMKRCS",
-  "category": "dashcam",
-  "title": "Avylet Dash Cam 2K Wi-Fi, 1440P Mini Dashcam Auto IPS 1.5'', APP",
-  "brand": "Avylet",
-  "price": {
-   "value": 42.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CKXMKRCS",
+    "category": "dashcam",
+    "title": "Avylet Dash Cam 2K Wi-Fi, 1440P Mini Dashcam Auto IPS 1.5'', APP",
+    "brand": "Avylet",
+    "price": {
+      "value": 42.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3387,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71PTVruUxdL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Qualità video",
+        "Funzionalità",
+        "Dimensioni compatte"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.5,
-   "count": 3387,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0HDT83DQ3",
+    "category": "dashcam",
+    "title": "REDTIGER 4K STARVIS 2 Dashcam anteriore posteriore, 5GHz WiFi 20MB/s",
+    "brand": "REDTIGER",
+    "price": {
+      "value": 122.29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 121,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71e2AXCtjeL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/71PTVruUxdL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Qualità video",
-    "Funzionalità",
-    "Dimensioni compatte"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0HDNQMY7W",
+    "category": "dashcam",
+    "title": "REDTIGER F7NA Dashcam anteriore e posteriore 4K, 8MP STARVIS 2 IMX678",
+    "brand": "REDTIGER",
+    "price": {
+      "value": 199.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 115,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71yHsa5-QvL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0C5J4FXXH",
+    "category": "dashcam",
+    "title": "VIOFO A119 Mini 2 2K Dashcam Frontale, Wi-Fi 5G, GPS, Controllo Vocale",
+    "brand": "VIOFO",
+    "price": {
+      "value": 125.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 806,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71oeEA9d6jL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Affidabilità",
+        "Qualità video"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DB59W7FW",
+    "category": "dashcam",
+    "title": "VANTRUE N2X Dash Cam Auto 2 Canali 2,7K HDR Telecamera Anteriore Interna",
+    "brand": "VANTRUE",
+    "price": {
+      "value": 151.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 534,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71HtLJaxEUL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0H4TTZ3PD",
+    "category": "dashcam",
+    "title": "GKU Dashcam Auto Anteriore Posteriore 4K con STARVIS 2, Dash Cam Auto",
+    "brand": "GKU",
+    "price": {
+      "value": 179.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 176,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71eGANJSttL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CL682MRR",
+    "category": "dashcam",
+    "title": "VIOFO A229 Pro 4K+2K Dashcam Ant.+Post., STARVIS 2 HDR, Wi-Fi 5GHz, GPS",
+    "brand": "VIOFO",
+    "price": {
+      "value": 273.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 505,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71R-aVKDyjL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CL4DTV9S",
+    "category": "dashcam",
+    "title": "VIOFO A229 Plus 2K+2K Dashcam Ant.+Post., STARVIS 2 HDR, Wi-Fi 5GHz, GPS",
+    "brand": "VIOFO",
+    "price": {
+      "value": 193.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 433,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71rtcpbZU-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D49GGJ85",
+    "category": "dashcam",
+    "title": "GKU 4K Dash Cam Auto, 5GHz WiFi e GPS, Doppia Telecamera Auto",
+    "brand": "GKU",
+    "price": {
+      "value": 72.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 11382,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71GM+hGvmjL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'installazione"
+      ],
+      "mixed": [],
+      "negative": [
+        "Durata"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HFMQRG39",
+    "category": "dashcam",
+    "title": "REDTIGER F7N Touch 4K STARVIS 2",
+    "brand": "REDTIGER",
+    "price": {
+      "value": 113.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 7297,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71e2AXCtjeL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Facilità d'uso",
+        "Facilità d'installazione",
+        "Visione"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0HDT83DQ3",
-  "category": "dashcam",
-  "title": "REDTIGER 4K STARVIS 2 Dashcam anteriore posteriore, 5GHz WiFi 20MB/s",
-  "brand": "REDTIGER",
-  "price": {
-   "value": 122.29,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 121,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71e2AXCtjeL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0C5J4FXXH",
-  "category": "dashcam",
-  "title": "VIOFO A119 Mini 2 2K Dashcam Frontale, Wi-Fi 5G, GPS, Controllo Vocale",
-  "brand": "VIOFO",
-  "price": {
-   "value": 125.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 806,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71oeEA9d6jL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Affidabilità",
-    "Qualità video"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D49GGJ85",
-  "category": "dashcam",
-  "title": "GKU 4K Dash Cam Auto, 5GHz WiFi e GPS, Doppia Telecamera Auto",
-  "brand": "GKU",
-  "price": {
-   "value": 72.19,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 11382,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71GM+hGvmjL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'installazione"
-   ],
-   "mixed": [],
-   "negative": [
-    "Durata"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HDNQMY7W",
-  "category": "dashcam",
-  "title": "REDTIGER F7NA Dashcam anteriore e posteriore 4K, 8MP STARVIS 2 IMX678",
-  "brand": "REDTIGER",
-  "price": {
-   "value": 199.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 115,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71yHsa5-QvL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0HFMQRG39",
-  "category": "dashcam",
-  "title": "REDTIGER F7N Touch 4K STARVIS 2",
-  "brand": "REDTIGER",
-  "price": {
-   "value": 113.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 7297,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71e2AXCtjeL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Facilità d'uso",
-    "Facilità d'installazione",
-    "Visione"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DB59W7FW",
-  "category": "dashcam",
-  "title": "VANTRUE N2X Dash Cam Auto 2 Canali 2,7K HDR Telecamera Anteriore Interna",
-  "brand": "VANTRUE",
-  "price": {
-   "value": 151.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 534,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71HtLJaxEUL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CL682MRR",
-  "category": "dashcam",
-  "title": "VIOFO A229 Pro 4K+2K Dashcam Ant.+Post., STARVIS 2 HDR, Wi-Fi 5GHz, GPS",
-  "brand": "VIOFO",
-  "price": {
-   "value": 273.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 505,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71R-aVKDyjL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CL4DTV9S",
-  "category": "dashcam",
-  "title": "VIOFO A229 Plus 2K+2K Dashcam Ant.+Post., STARVIS 2 HDR, Wi-Fi 5GHz, GPS",
-  "brand": "VIOFO",
-  "price": {
-   "value": 193.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 433,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71rtcpbZU-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0H4TTZ3PD",
-  "category": "dashcam",
-  "title": "GKU Dashcam Auto Anteriore Posteriore 4K con STARVIS 2, Dash Cam Auto",
-  "brand": "GKU",
-  "price": {
-   "value": 179.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 176,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71eGANJSttL._AC_SL500_.jpg"
- }
 ]

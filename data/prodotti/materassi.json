@@ -1,219 +1,219 @@
 [
- {
-  "asin": "B09VFGGGXK",
-  "category": "materassi",
-  "title": "Flexinn Jolly - Materasso per Divano Letto 160x190 alto 12cm.",
-  "brand": "Flexinn",
-  "price": {
-   "value": 134.47,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B09VFGGGXK",
+    "category": "materassi",
+    "title": "Flexinn Jolly - Materasso per Divano Letto 160x190 alto 12cm.",
+    "brand": "Flexinn",
+    "price": {
+      "value": 134.47,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 750,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/714QtABgS4L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Adattabilità",
+        "Rigidità"
+      ],
+      "mixed": [
+        "Chiusura",
+        "Pieghevolezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 750,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0FZQ5MHLM",
+    "category": "materassi",
+    "title": "Twirest Materasso matrimoniale piccolo, 25 cm, in memory foam",
+    "brand": "Twirest",
+    "price": {
+      "value": 257.51,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 192,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81oVMRX1cLL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/714QtABgS4L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Adattabilità",
-    "Rigidità"
-   ],
-   "mixed": [
-    "Chiusura",
-    "Pieghevolezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0D6R5S2SV",
+    "category": "materassi",
+    "title": "wowttrelax Materasso in memory foam, materasso matrimoniale piccolo",
+    "brand": "wowttrelax",
+    "price": {
+      "value": 256.01,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 568,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71EP4RoGlML._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0G8D2JQQN",
+    "category": "materassi",
+    "title": "SEZMOONSI Materasso matrimoniale da 135 x 190 x 23 cm",
+    "brand": "SEZMOONSI",
+    "price": {
+      "value": 233.54,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 549,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81mlDpZJk4L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CP76TM3B",
+    "category": "materassi",
+    "title": "Inofia Materasso singolo, materasso a molle in memory foam da 30,5 cm",
+    "brand": "Inofia",
+    "price": {
+      "value": 284.63,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 538,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81CjxfufaJL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0F1ZWJN1L",
+    "category": "materassi",
+    "title": "Hiepunos Materasso matrimoniale piccolo da 10,2 cm, in memory foam",
+    "brand": "Hiepunos",
+    "price": {
+      "value": 264.01,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 496,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71UlnYDpmWL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DKFFHM7P",
+    "category": "materassi",
+    "title": "Twirest Materasso 140x190 cm, schiuma memory foam, durezza media",
+    "brand": "Twirest",
+    "price": {
+      "value": 135.87,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 488,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71js3jVVDYL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CKYZCVXK",
+    "category": "materassi",
+    "title": "Zinus Letto Materasso Convenzionale, Memory Foam, Bianco, Twin",
+    "brand": "Zinus",
+    "price": {
+      "value": 492.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1988,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81kK8zXltUL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0B56SP37Y",
+    "category": "materassi",
+    "title": "Vesgantti Materasso una Piazza e Mezza a Molle 120x190 Alto 25 cm",
+    "brand": "Vesgantti",
+    "price": {
+      "value": 145.34,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1796,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81bLm9XjCAL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Morbidezza",
+        "Stabilità"
+      ],
+      "mixed": [
+        "Leggerezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CKSXMV3K",
+    "category": "materassi",
+    "title": "Inofia Materasso matrimoniale piccolo in memory foam, 1,2 m, materasso",
+    "brand": "Inofia",
+    "price": {
+      "value": 325.05,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1606,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71idw9+59gL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B0D6R5S2SV",
-  "category": "materassi",
-  "title": "wowttrelax Materasso in memory foam, materasso matrimoniale piccolo",
-  "brand": "wowttrelax",
-  "price": {
-   "value": 256.01,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 568,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71EP4RoGlML._AC_SL500_.jpg"
- },
- {
-  "asin": "B0G8D2JQQN",
-  "category": "materassi",
-  "title": "SEZMOONSI Materasso matrimoniale da 135 x 190 x 23 cm",
-  "brand": "SEZMOONSI",
-  "price": {
-   "value": 233.54,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 549,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81mlDpZJk4L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CP76TM3B",
-  "category": "materassi",
-  "title": "Inofia Materasso singolo, materasso a molle in memory foam da 30,5 cm",
-  "brand": "Inofia",
-  "price": {
-   "value": 284.63,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 538,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81CjxfufaJL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0F1ZWJN1L",
-  "category": "materassi",
-  "title": "Hiepunos Materasso matrimoniale piccolo da 10,2 cm, in memory foam",
-  "brand": "Hiepunos",
-  "price": {
-   "value": 264.01,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 496,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71UlnYDpmWL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CKYZCVXK",
-  "category": "materassi",
-  "title": "Zinus Letto Materasso Convenzionale, Memory Foam, Bianco, Twin",
-  "brand": "Zinus",
-  "price": {
-   "value": 492.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1988,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81kK8zXltUL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DKFFHM7P",
-  "category": "materassi",
-  "title": "Twirest Materasso 140x190 cm, schiuma memory foam, durezza media",
-  "brand": "Twirest",
-  "price": {
-   "value": 135.87,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 488,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71js3jVVDYL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0FZQ5MHLM",
-  "category": "materassi",
-  "title": "Twirest Materasso matrimoniale piccolo, 25 cm, in memory foam",
-  "brand": "Twirest",
-  "price": {
-   "value": 257.51,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 192,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81oVMRX1cLL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0B56SP37Y",
-  "category": "materassi",
-  "title": "Vesgantti Materasso una Piazza e Mezza a Molle 120x190 Alto 25 cm",
-  "brand": "Vesgantti",
-  "price": {
-   "value": 145.34,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1796,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81bLm9XjCAL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Morbidezza",
-    "Stabilità"
-   ],
-   "mixed": [
-    "Leggerezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CKSXMV3K",
-  "category": "materassi",
-  "title": "Inofia Materasso matrimoniale piccolo in memory foam, 1,2 m, materasso",
-  "brand": "Inofia",
-  "price": {
-   "value": 325.05,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1606,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71idw9+59gL._AC_SL500_.jpg"
- }
 ]

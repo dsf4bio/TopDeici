@@ -1,283 +1,283 @@
 [
- {
-  "asin": "B098K41CVJ",
-  "category": "rasoi-elettrici",
-  "title": "Braun Serie 9 Pro + Rasoio Elettrico Barba, Powercase",
-  "brand": "Braun",
-  "price": {
-   "value": 370.17,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0842YHKL3",
+    "category": "rasoi-elettrici",
+    "title": "Philips Norelco 3500 S3212/82 Rasoio elettrico, grigio tempesta",
+    "brand": "Philips",
+    "price": {
+      "value": 215.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 13824,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61lEwQr2ayL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 1998,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B098K41CVJ",
+    "category": "rasoi-elettrici",
+    "title": "Braun Serie 9 Pro + Rasoio Elettrico Barba, Powercase",
+    "brand": "Braun",
+    "price": {
+      "value": 370.17,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1998,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81hcYMKVsCL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rasatura",
+        "Durata batteria",
+        "Idratazione",
+        "Pulizia"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/81hcYMKVsCL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rasatura",
-    "Durata batteria",
-    "Idratazione",
-    "Pulizia"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CHMPJB3Y",
+    "category": "rasoi-elettrici",
+    "title": "Philips rasoio elettrico serie 3000",
+    "brand": "Philips",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 6692,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71vaXZwTQIL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Praticità",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Idratazione",
+        "Comfort"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07FKHDH1Y",
+    "category": "rasoi-elettrici",
+    "title": "Philips Shaver Serie 9000 Prestige",
+    "brand": "Philips",
+    "price": {
+      "value": 568.66,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1909,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/712H+8nf+aL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07ZQH4VSD",
+    "category": "rasoi-elettrici",
+    "title": "Philips Series 3000 Wet or Dry",
+    "brand": "Philips",
+    "price": {
+      "value": 116.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 5313,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71f5lI0jdML._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0GBXH1BZ1",
+    "category": "rasoi-elettrici",
+    "title": "King C. Gillette Rasoio Elettrico Barba Pro con Accessori",
+    "brand": "King C. Gillette",
+    "price": {
+      "value": 36.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3197,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81emlZRC-3L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rasatura",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Durata batteria"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BWKBKD9S",
+    "category": "rasoi-elettrici",
+    "title": "Philips Shaver Series 7000 - Rasoio elettrico da uomo",
+    "brand": "Philips",
+    "price": {
+      "value": 98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3007,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81fWoYe6wAL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Scorrevolezza"
+      ],
+      "mixed": [
+        "Rasatura",
+        "Irritazione",
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0G38NB9RZ",
+    "category": "rasoi-elettrici",
+    "title": "kensen 7D Rasoio Testa Calva Uomo 100 Mini di Autonomia USB-C",
+    "brand": "kensen",
+    "price": {
+      "value": 33.92,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 859,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81UTPfpliBL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CHMN5BJS",
+    "category": "rasoi-elettrici",
+    "title": "Philips rasoio elettrico serie 3000x - Rasoio elettrico Wet & Dry per",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/71Oyo5-vLDL._AC_SL500_.jpg",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 6052,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Praticità"
+      ],
+      "mixed": [
+        "Rasatura",
+        "Durata batteria",
+        "Comfort"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08SJSPV4Q",
+    "category": "rasoi-elettrici",
+    "title": "Philips Pq206 18 Shaver One Size",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/41QAOhOnQ3L._AC_SL500_.jpg",
+    "price": {
+      "value": 30.73,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3092,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Praticità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B07FKHDH1Y",
-  "category": "rasoi-elettrici",
-  "title": "Philips Shaver Serie 9000 Prestige",
-  "brand": "Philips",
-  "price": {
-   "value": 568.66,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1909,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/712H+8nf+aL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0842YHKL3",
-  "category": "rasoi-elettrici",
-  "title": "Philips Norelco 3500 S3212/82 Rasoio elettrico, grigio tempesta",
-  "brand": "Philips",
-  "price": {
-   "value": 215.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 13824,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61lEwQr2ayL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CHMPJB3Y",
-  "category": "rasoi-elettrici",
-  "title": "Philips rasoio elettrico serie 3000",
-  "brand": "Philips",
-  "price": {
-   "value": 49.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 6692,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71vaXZwTQIL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Praticità",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Idratazione",
-    "Comfort"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07ZQH4VSD",
-  "category": "rasoi-elettrici",
-  "title": "Philips Series 3000 Wet or Dry",
-  "brand": "Philips",
-  "price": {
-   "value": 116.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 5313,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71f5lI0jdML._AC_SL500_.jpg"
- },
- {
-  "asin": "B0G38NB9RZ",
-  "category": "rasoi-elettrici",
-  "title": "kensen 7D Rasoio Testa Calva Uomo 100 Mini di Autonomia USB-C",
-  "brand": "kensen",
-  "price": {
-   "value": 33.92,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 859,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81UTPfpliBL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GBXH1BZ1",
-  "category": "rasoi-elettrici",
-  "title": "King C. Gillette Rasoio Elettrico Barba Pro con Accessori",
-  "brand": "King C. Gillette",
-  "price": {
-   "value": 36.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3197,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81emlZRC-3L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rasatura",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Durata batteria"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BWKBKD9S",
-  "category": "rasoi-elettrici",
-  "title": "Philips Shaver Series 7000 - Rasoio elettrico da uomo",
-  "brand": "Philips",
-  "price": {
-   "value": 98.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3007,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81fWoYe6wAL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Scorrevolezza"
-   ],
-   "mixed": [
-    "Rasatura",
-    "Irritazione",
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CHMN5BJS",
-  "category": "rasoi-elettrici",
-  "title": "Philips rasoio elettrico serie 3000x - Rasoio elettrico Wet & Dry per",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/71Oyo5-vLDL._AC_SL500_.jpg",
-  "price": {
-   "value": 69.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 6052,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Praticità"
-   ],
-   "mixed": [
-    "Rasatura",
-    "Durata batteria",
-    "Comfort"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08SJSPV4Q",
-  "category": "rasoi-elettrici",
-  "title": "Philips Pq206 18 Shaver One Size",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/41QAOhOnQ3L._AC_SL500_.jpg",
-  "price": {
-   "value": 30.73,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3092,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Praticità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

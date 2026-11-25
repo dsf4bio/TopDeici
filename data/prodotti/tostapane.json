@@ -1,228 +1,228 @@
 [
- {
-  "asin": "B01MQHN3CK",
-  "category": "tostapane",
-  "title": "Smeg, Tostapane 2x2 TSF01WHEU, 2 Scomparti da 36mm",
-  "brand": "Smeg",
-  "price": {
-   "value": 179.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01MQHN3CK",
+    "category": "tostapane",
+    "title": "Smeg, Tostapane 2x2 TSF01WHEU, 2 Scomparti da 36mm",
+    "brand": "Smeg",
+    "price": {
+      "value": 179,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3639,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61992K3zBDL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Funzionalità",
+        "Robustezza",
+        "Praticità"
+      ],
+      "mixed": [
+        "Costo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 3639,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01MYLF6DR",
+    "category": "tostapane",
+    "title": "Smeg, Tostapane 2x4 TSF02WHEU, 2 Scomparti per 4 fette",
+    "brand": "Smeg",
+    "price": {
+      "value": 199,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1102,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51nJ9vNajdL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Funzionalità",
+        "Capacità di preparazione"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61992K3zBDL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Funzionalità",
-    "Robustezza",
-    "Praticità"
-   ],
-   "mixed": [
-    "Costo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07GCQ39KR",
+    "category": "tostapane",
+    "title": "Tefal Express TT410D 2fetta/e 850W Nero, Acciaio inossidabile tostapane",
+    "brand": "Tefal",
+    "price": {
+      "value": 60.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1052,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61lserZ1NyL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CF2RV4MS",
+    "category": "tostapane",
+    "title": "Bosch TAT2M123 Tostapane Compatto, 800 Watt, Spegnimento Automatico",
+    "brand": "Bosch",
+    "price": {
+      "value": 45.6,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 713,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/616AaPoTGTL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B09PRNLKZ8",
+    "category": "tostapane",
+    "title": "Steinborg Tostapane a Fessura Lunga XXL 4 Fette",
+    "brand": "Steinborg",
+    "price": {
+      "value": 49.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 702,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71t7cnvxaSL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B01D0HZALI",
+    "category": "tostapane",
+    "title": "SEVERIN Tostapane Automatico, Griglia Scaldapanini Integrata",
+    "brand": "SEVERIN",
+    "price": {
+      "value": 47.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4795,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61H2zqwe36L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Estetica",
+        "Tostatura",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07GZBVXGQ",
+    "category": "tostapane",
+    "title": "Severin SEV AT 9541, Tostapane Automatico 2 fetta/e Grigio",
+    "brand": "Severin",
+    "price": {
+      "value": 62.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 633,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/616+baFdkmL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B084TG75G7",
+    "category": "tostapane",
+    "title": "WMF Lono - Tostapane in vetro con inserto per panini, per 2 fette",
+    "brand": "WMF",
+    "price": {
+      "value": 267.08,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 631,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71pjwaVDrZL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B00UIAK6D8",
+    "category": "tostapane",
+    "title": "WMF Bueno - Tostapane",
+    "brand": "WMF",
+    "price": {
+      "value": 64.12,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4140,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61wEbhKpajL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07L9RTBH8",
+    "category": "tostapane",
+    "title": "SEVERIN Tostapane Automatico Con Griglia Scaldapanini Integrata",
+    "brand": "SEVERIN",
+    "price": {
+      "value": 33.23,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2159,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51jETEEGovL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B01MYLF6DR",
-  "category": "tostapane",
-  "title": "Smeg, Tostapane 2x4 TSF02WHEU, 2 Scomparti per 4 fette",
-  "brand": "Smeg",
-  "price": {
-   "value": 199.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1102,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51nJ9vNajdL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Funzionalità",
-    "Capacità di preparazione"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07GCQ39KR",
-  "category": "tostapane",
-  "title": "Tefal Express TT410D 2fetta/e 850W Nero, Acciaio inossidabile tostapane",
-  "brand": "Tefal",
-  "price": {
-   "value": 60.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1052,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61lserZ1NyL._AC_SL500_.jpg"
- },
- {
-  "asin": "B01D0HZALI",
-  "category": "tostapane",
-  "title": "SEVERIN Tostapane Automatico, Griglia Scaldapanini Integrata",
-  "brand": "SEVERIN",
-  "price": {
-   "value": 47.84,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4795,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61H2zqwe36L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Estetica",
-    "Tostatura",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00UIAK6D8",
-  "category": "tostapane",
-  "title": "WMF Bueno - Tostapane",
-  "brand": "WMF",
-  "price": {
-   "value": 64.12,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4140,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61wEbhKpajL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CF2RV4MS",
-  "category": "tostapane",
-  "title": "Bosch TAT2M123 Tostapane Compatto, 800 Watt, Spegnimento Automatico",
-  "brand": "Bosch",
-  "price": {
-   "value": 45.6,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 713,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/616AaPoTGTL._AC_SL500_.jpg"
- },
- {
-  "asin": "B09PRNLKZ8",
-  "category": "tostapane",
-  "title": "Steinborg Tostapane a Fessura Lunga XXL 4 Fette",
-  "brand": "Steinborg",
-  "price": {
-   "value": 49.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 702,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71t7cnvxaSL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07GZBVXGQ",
-  "category": "tostapane",
-  "title": "Severin SEV AT 9541, Tostapane Automatico 2 fetta/e Grigio",
-  "brand": "Severin",
-  "price": {
-   "value": 62.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 633,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/616+baFdkmL._AC_SL500_.jpg"
- },
- {
-  "asin": "B084TG75G7",
-  "category": "tostapane",
-  "title": "WMF Lono - Tostapane in vetro con inserto per panini, per 2 fette",
-  "brand": "WMF",
-  "price": {
-   "value": 267.08,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 631,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71pjwaVDrZL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07L9RTBH8",
-  "category": "tostapane",
-  "title": "SEVERIN Tostapane Automatico Con Griglia Scaldapanini Integrata",
-  "brand": "SEVERIN",
-  "price": {
-   "value": 33.23,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2159,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51jETEEGovL._AC_SL500_.jpg"
- }
 ]

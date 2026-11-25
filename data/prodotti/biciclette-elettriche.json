@@ -1,274 +1,274 @@
 [
- {
-  "asin": "B0D11FD5RF",
-  "category": "biciclette-elettriche",
-  "title": "ENGWE Bicicletta Elettrica Pieghevole/ 768Wh 16AH Durata 110KM/",
-  "brand": "ENGWE",
-  "price": {
-   "value": 1399.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DKXXHK16",
+    "category": "biciclette-elettriche",
+    "title": "HillMiles Bici Elettrica Per Adulti Da 26\", 7 Velocità",
+    "brand": "HillMiles",
+    "price": {
+      "value": 699,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 423,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71JhA82pO6L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Facilità di montaggio",
+        "Comfort"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 112,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0D11FD5RF",
+    "category": "biciclette-elettriche",
+    "title": "ENGWE Bicicletta Elettrica Pieghevole/ 768Wh 16AH Durata 110KM/",
+    "brand": "ENGWE",
+    "price": {
+      "value": 1399,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 112,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61WvnExeRGL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Potenza",
+        "Comfort",
+        "Prestazioni"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61WvnExeRGL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Potenza",
-    "Comfort",
-    "Prestazioni"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0HJTX6KW4",
+    "category": "biciclette-elettriche",
+    "title": "URLIFE E26 Bici Elettrica uomo donna 26 pollici, 250W Motore e 40Nm",
+    "brand": "URLIFE",
+    "price": {
+      "value": 550.05,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 195,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/7147tjeWZ4L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Prestazioni",
+        "Facilità di montaggio",
+        "Estetica"
+      ],
+      "mixed": [
+        "Posizionamento"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GZFDC195",
+    "category": "biciclette-elettriche",
+    "title": "URLIFE Bici Elettrica Per Adulti, 20\" Fat Tire, Batteria Rimovibile",
+    "brand": "URLIFE",
+    "price": {
+      "value": 629.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 133,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71pyN-VJ3wL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Comfort",
+        "Funzionalità",
+        "Facilità di montaggio"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BVR81S6P",
+    "category": "biciclette-elettriche",
+    "title": "VARUN Bici Elettrica 27.5'' Uomo Donna con Batteria Rimovibile",
+    "brand": "VARUN",
+    "price": {
+      "value": 739,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 131,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81bd4kt3gTL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DWFJCJZ3",
+    "category": "biciclette-elettriche",
+    "title": "ENGWE Bicicletta Elettrica Adulto, 20'' ×4.0'' Fat Tire, L20 BOOST",
+    "brand": "ENGWE",
+    "price": {
+      "value": 1149,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 360,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71tcY6NqzAL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Affidabilità",
+        "Robustezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09J4RTCKJ",
+    "category": "biciclette-elettriche",
+    "title": "VARUN Bici Elettrica da 27.5'', 48V 624Wh Batteria, Autonomia di 100km",
+    "brand": "VARUN",
+    "price": {
+      "value": 719,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 345,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/710NPC1DRgL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CYGYVZXW",
+    "category": "biciclette-elettriche",
+    "title": "VARUN 28'' Bici Elettrica, 48V 499.2Wh, Autonomia di 100km",
+    "brand": "VARUN",
+    "price": {
+      "value": 819,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 211,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81eYaI0E+7L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CZLBRLH7",
+    "category": "biciclette-elettriche",
+    "title": "VARUN 20'' Bici Elettrica Pieghevole, 48V 624Wh Batteria, Autonomia 120km",
+    "brand": "VARUN",
+    "price": {
+      "value": 849,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 135,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71s0nEP1P4L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Facilità di montaggio",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D72YQ5G9",
+    "category": "biciclette-elettriche",
+    "title": "ENGWE ENGINE X Bici Elettrica Pieghevole 250W E-Bike Adulto /",
+    "brand": "ENGWE",
+    "price": {
+      "value": 1299,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 125,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71YfXvoMXrL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Robustezza",
+        "Affidabilità",
+        "Facilità di montaggio"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0DWFJCJZ3",
-  "category": "biciclette-elettriche",
-  "title": "ENGWE Bicicletta Elettrica Adulto, 20'' ×4.0'' Fat Tire, L20 BOOST",
-  "brand": "ENGWE",
-  "price": {
-   "value": 1149.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 360,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71tcY6NqzAL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Affidabilità",
-    "Robustezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CYGYVZXW",
-  "category": "biciclette-elettriche",
-  "title": "VARUN 28'' Bici Elettrica, 48V 499.2Wh, Autonomia di 100km",
-  "brand": "VARUN",
-  "price": {
-   "value": 819.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 211,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81eYaI0E+7L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0D72YQ5G9",
-  "category": "biciclette-elettriche",
-  "title": "ENGWE ENGINE X Bici Elettrica Pieghevole 250W E-Bike Adulto /",
-  "brand": "ENGWE",
-  "price": {
-   "value": 1299.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 125,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71YfXvoMXrL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Robustezza",
-    "Affidabilità",
-    "Facilità di montaggio"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DKXXHK16",
-  "category": "biciclette-elettriche",
-  "title": "HillMiles Bici Elettrica Per Adulti Da 26\", 7 Velocità",
-  "brand": "HillMiles",
-  "price": {
-   "value": 699.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 423,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71JhA82pO6L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Facilità di montaggio",
-    "Comfort"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09J4RTCKJ",
-  "category": "biciclette-elettriche",
-  "title": "VARUN Bici Elettrica da 27.5'', 48V 624Wh Batteria, Autonomia di 100km",
-  "brand": "VARUN",
-  "price": {
-   "value": 719.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 345,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/710NPC1DRgL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0HJTX6KW4",
-  "category": "biciclette-elettriche",
-  "title": "URLIFE E26 Bici Elettrica uomo donna 26 pollici, 250W Motore e 40Nm",
-  "brand": "URLIFE",
-  "price": {
-   "value": 550.05,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 195,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/7147tjeWZ4L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Prestazioni",
-    "Facilità di montaggio",
-    "Estetica"
-   ],
-   "mixed": [
-    "Posizionamento"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CZLBRLH7",
-  "category": "biciclette-elettriche",
-  "title": "VARUN 20'' Bici Elettrica Pieghevole, 48V 624Wh Batteria, Autonomia 120km",
-  "brand": "VARUN",
-  "price": {
-   "value": 849.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 135,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71s0nEP1P4L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Facilità di montaggio",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GZFDC195",
-  "category": "biciclette-elettriche",
-  "title": "URLIFE Bici Elettrica Per Adulti, 20\" Fat Tire, Batteria Rimovibile",
-  "brand": "URLIFE",
-  "price": {
-   "value": 629.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 133,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71pyN-VJ3wL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Comfort",
-    "Funzionalità",
-    "Facilità di montaggio"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BVR81S6P",
-  "category": "biciclette-elettriche",
-  "title": "VARUN Bici Elettrica 27.5'' Uomo Donna con Batteria Rimovibile",
-  "brand": "VARUN",
-  "price": {
-   "value": 739.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 131,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81bd4kt3gTL._AC_SL500_.jpg"
- }
 ]

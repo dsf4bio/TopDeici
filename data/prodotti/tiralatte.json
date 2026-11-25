@@ -1,225 +1,225 @@
 [
- {
-  "asin": "B0DWTFG3LJ",
-  "category": "tiralatte",
-  "title": "Philips Avent tiralatte elettrico singolo a mani libere, c",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/71fIkLDAbAL._AC_SL500_.jpg",
-  "price": {
-   "value": 77.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DWTCG66J",
+    "category": "tiralatte",
+    "title": "Philips Avent tiralatte elettrico doppio a mani libere, con motore di",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/710ZRI9Y1BL._AC_SL500_.jpg",
+    "price": {
+      "value": 150.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 22390,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Assorbenza",
+        "Comfort",
+        "Adesione",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 22390,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DWTFG3LJ",
+    "category": "tiralatte",
+    "title": "Philips Avent tiralatte elettrico singolo a mani libere, c",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/71fIkLDAbAL._AC_SL500_.jpg",
+    "price": {
+      "value": 77.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 22390,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Assorbenza",
+        "Comfort",
+        "Adesione",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Assorbenza",
-    "Comfort",
-    "Adesione",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B000P9XJ5E",
+    "category": "tiralatte",
+    "title": "Lansinoh SignaturePro Tiralatte elettrico doppio per allat",
+    "brand": "Lansinoh",
+    "image": "https://m.media-amazon.com/images/I/61ChA1wdCaL._AC_SL500_.jpg",
+    "price": {
+      "value": 127.87,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 7291,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H4YCSNY1",
+    "category": "tiralatte",
+    "title": "Paruu Tiralatte elettrico portatile P16-A, tiralatte elett",
+    "brand": "Paruu",
+    "image": "https://m.media-amazon.com/images/I/61Q-zC027FL._AC_SL500_.jpg",
+    "price": {
+      "value": 88.04,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 111,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GHG2W8WS",
+    "category": "tiralatte",
+    "title": "Momcozy M5 Smart Tiralatte Elettrico Indossabile con App M",
+    "brand": "Momcozy",
+    "image": "https://m.media-amazon.com/images/I/61qrHg1GLML._AC_SL500_.jpg",
+    "price": {
+      "value": 146.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1066,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GL37GDB1",
+    "category": "tiralatte",
+    "title": "Medela Freestyle Mini Classic Tiralatte elettrico doppio c",
+    "brand": "Medela",
+    "image": "https://m.media-amazon.com/images/I/51IkoTnrSWL._AC_SL500_.jpg",
+    "price": {
+      "value": 119,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 232,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0GXFKJX9Y",
+    "category": "tiralatte",
+    "title": "Momcozy M6 Tiralatte Elettrico Indossabile Mani Libere 24m",
+    "brand": "Momcozy",
+    "image": "https://m.media-amazon.com/images/I/61d0ceu33dL._AC_SL500_.jpg",
+    "price": {
+      "value": 181.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 210,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H4WFBC3D",
+    "category": "tiralatte",
+    "title": "Philips Avent Natural Care Tiralatte elettrico indossabile",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/71PNqvC0BJL._AC_SL500_.jpg",
+    "price": {
+      "value": 99.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 163,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0H4WJ9YCN",
+    "category": "tiralatte",
+    "title": "Philips Avent Natural Care Tiralatte elettrico doppio indossabile a ma",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/71AzfjkimoL._AC_SL500_.jpg",
+    "price": {
+      "value": 157.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 163,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0F83ZQYBT",
+    "category": "tiralatte",
+    "title": "KISSBOBO ABP-1508 Tiralatte Elettrico Indossabile, 193g Le",
+    "brand": "KISSBOBO",
+    "image": "https://m.media-amazon.com/images/I/61VVkyJGKjL._AC_SL500_.jpg",
+    "price": {
+      "value": 40.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 161,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Comfort"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B000P9XJ5E",
-  "category": "tiralatte",
-  "title": "Lansinoh SignaturePro Tiralatte elettrico doppio per allat",
-  "brand": "Lansinoh",
-  "image": "https://m.media-amazon.com/images/I/61ChA1wdCaL._AC_SL500_.jpg",
-  "price": {
-   "value": 127.87,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 7291,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0H4YCSNY1",
-  "category": "tiralatte",
-  "title": "Paruu Tiralatte elettrico portatile P16-A, tiralatte elett",
-  "brand": "Paruu",
-  "image": "https://m.media-amazon.com/images/I/61Q-zC027FL._AC_SL500_.jpg",
-  "price": {
-   "value": 88.04,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 111,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0GHG2W8WS",
-  "category": "tiralatte",
-  "title": "Momcozy M5 Smart Tiralatte Elettrico Indossabile con App M",
-  "brand": "Momcozy",
-  "image": "https://m.media-amazon.com/images/I/61qrHg1GLML._AC_SL500_.jpg",
-  "price": {
-   "value": 146.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1066,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0GL37GDB1",
-  "category": "tiralatte",
-  "title": "Medela Freestyle Mini Classic Tiralatte elettrico doppio c",
-  "brand": "Medela",
-  "image": "https://m.media-amazon.com/images/I/51IkoTnrSWL._AC_SL500_.jpg",
-  "price": {
-   "value": 119.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 232,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0GXFKJX9Y",
-  "category": "tiralatte",
-  "title": "Momcozy M6 Tiralatte Elettrico Indossabile Mani Libere 24m",
-  "brand": "Momcozy",
-  "image": "https://m.media-amazon.com/images/I/61d0ceu33dL._AC_SL500_.jpg",
-  "price": {
-   "value": 181.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 210,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0H4WFBC3D",
-  "category": "tiralatte",
-  "title": "Philips Avent Natural Care Tiralatte elettrico indossabile",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/71PNqvC0BJL._AC_SL500_.jpg",
-  "price": {
-   "value": 99.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 163,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0F83ZQYBT",
-  "category": "tiralatte",
-  "title": "KISSBOBO ABP-1508 Tiralatte Elettrico Indossabile, 193g Le",
-  "brand": "KISSBOBO",
-  "image": "https://m.media-amazon.com/images/I/61VVkyJGKjL._AC_SL500_.jpg",
-  "price": {
-   "value": 40.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 161,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Comfort"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DWTCG66J",
-  "category": "tiralatte",
-  "title": "Philips Avent tiralatte elettrico doppio a mani libere, con motore di",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/710ZRI9Y1BL._AC_SL500_.jpg",
-  "price": {
-   "value": 150.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 22390,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Assorbenza",
-    "Comfort",
-    "Adesione",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0H4WJ9YCN",
-  "category": "tiralatte",
-  "title": "Philips Avent Natural Care Tiralatte elettrico doppio indossabile a ma",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/71AzfjkimoL._AC_SL500_.jpg",
-  "price": {
-   "value": 157.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 163,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

@@ -1,303 +1,303 @@
 [
- {
-  "asin": "B00OP6SMCI",
-  "category": "trasportini-animali",
-  "title": "Amazon Basics Trasportino rigido Gatti per animali, 2 spor",
-  "brand": "Amazon",
-  "image": "https://m.media-amazon.com/images/I/71WgHnZShvL._AC_SL500_.jpg",
-  "price": {
-   "value": 32.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CZ74TSVR",
+    "category": "trasportini-animali",
+    "title": "Morpilot Trasportino per gatti grandi e cuccioli fino a 7",
+    "brand": "Morpilot",
+    "image": "https://m.media-amazon.com/images/I/81-gGkHnEML._AC_SL500_.jpg",
+    "price": {
+      "value": 36.82,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 6679,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Estetica",
+        "Praticità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 64159,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B00OP6SMCI",
+    "category": "trasportini-animali",
+    "title": "Amazon Basics Trasportino rigido Gatti per animali, 2 spor",
+    "brand": "Amazon",
+    "image": "https://m.media-amazon.com/images/I/71WgHnZShvL._AC_SL500_.jpg",
+    "price": {
+      "value": 32.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 64159,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Facilità di montaggio"
+      ],
+      "mixed": [
+        "Capienza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Facilità di montaggio"
-   ],
-   "mixed": [
-    "Capienza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B086TRPX7Y",
+    "category": "trasportini-animali",
+    "title": "Pecute Zaino per Cani Gatti Estensibile, Cuccia Portatile",
+    "brand": "Pecute",
+    "image": "https://m.media-amazon.com/images/I/81JG9pL8AsL._AC_SL500_.jpg",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3829,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Robustezza",
+        "Capienza",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C69Z6B26",
+    "category": "trasportini-animali",
+    "title": "Zaino per Cani Gatti Trasportino Espandibile,Grandi Pieghe",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/81bsYuCBn-L._AC_SL500_.jpg",
+    "price": {
+      "value": 60.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2687,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Capienza",
+        "Estetica",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09MVVSPDS",
+    "category": "trasportini-animali",
+    "title": "Lekesky Zaino per Cani Gatti Animali Estensibile Trasporti",
+    "brand": "Lekesky",
+    "image": "https://m.media-amazon.com/images/I/71uHk8M0WxL._AC_SL500_.jpg",
+    "price": {
+      "value": 36.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2508,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Capienza",
+        "Robustezza",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00TI06FJS",
+    "category": "trasportini-animali",
+    "title": "Feandrea Trasportino per Cani, Gabbia Pieghevole, Taglia L",
+    "brand": "Feandrea",
+    "image": "https://m.media-amazon.com/images/I/81NG-AXTpuL._AC_SL500_.jpg",
+    "price": {
+      "value": 41.02,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 14089,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Praticità",
+        "Capienza",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CHZ4Q47Z",
+    "category": "trasportini-animali",
+    "title": "TRESKO® Box pieghevole per cani con tappetino per perdite",
+    "brand": "TRESKO",
+    "image": "https://m.media-amazon.com/images/I/91upiedWI+L._AC_SL500_.jpg",
+    "price": {
+      "value": 38.79,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1804,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Estetica",
+        "Comfort",
+        "Praticità"
+      ],
+      "mixed": [
+        "Dimensioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DNMLDZWY",
+    "category": "trasportini-animali",
+    "title": "Morpilot Zaino per Cani e Gatti 7kg, Trasportino per Cani",
+    "brand": "Morpilot",
+    "image": "https://m.media-amazon.com/images/I/71y9Icdim9L._AC_SL500_.jpg",
+    "price": {
+      "value": 33.36,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 9972,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Robustezza",
+        "Capienza",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BJKXMSM5",
+    "category": "trasportini-animali",
+    "title": "CADOCA® Trasportino Cane & Gatto M 60x42x44cm Box Animali",
+    "brand": "CADOCA",
+    "image": "https://m.media-amazon.com/images/I/91jWLiUMVpL._AC_SL500_.jpg",
+    "price": {
+      "value": 42.45,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7292,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Comfort",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FDB5513G",
+    "category": "trasportini-animali",
+    "title": "MAMIZO Passeggino per Cani 4 in 1, fino a 25kg, 68*38*64cm",
+    "brand": "MAMIZO",
+    "image": "https://m.media-amazon.com/images/I/81iNdkatNfL._AC_SL500_.jpg",
+    "price": {
+      "value": 124.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 142,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0CZ74TSVR",
-  "category": "trasportini-animali",
-  "title": "Morpilot Trasportino per gatti grandi e cuccioli fino a 7",
-  "brand": "Morpilot",
-  "image": "https://m.media-amazon.com/images/I/81-gGkHnEML._AC_SL500_.jpg",
-  "price": {
-   "value": 36.82,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 6679,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Estetica",
-    "Praticità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B086TRPX7Y",
-  "category": "trasportini-animali",
-  "title": "Pecute Zaino per Cani Gatti Estensibile, Cuccia Portatile",
-  "brand": "Pecute",
-  "image": "https://m.media-amazon.com/images/I/81JG9pL8AsL._AC_SL500_.jpg",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 3829,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Robustezza",
-    "Capienza",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C69Z6B26",
-  "category": "trasportini-animali",
-  "title": "Zaino per Cani Gatti Trasportino Espandibile,Grandi Pieghe",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/81bsYuCBn-L._AC_SL500_.jpg",
-  "price": {
-   "value": 60.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2687,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Capienza",
-    "Estetica",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09MVVSPDS",
-  "category": "trasportini-animali",
-  "title": "Lekesky Zaino per Cani Gatti Animali Estensibile Trasporti",
-  "brand": "Lekesky",
-  "image": "https://m.media-amazon.com/images/I/71uHk8M0WxL._AC_SL500_.jpg",
-  "price": {
-   "value": 36.96,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2508,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Capienza",
-    "Robustezza",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00TI06FJS",
-  "category": "trasportini-animali",
-  "title": "Feandrea Trasportino per Cani, Gabbia Pieghevole, Taglia L",
-  "brand": "Feandrea",
-  "image": "https://m.media-amazon.com/images/I/81NG-AXTpuL._AC_SL500_.jpg",
-  "price": {
-   "value": 41.02,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 14089,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Praticità",
-    "Capienza",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CHZ4Q47Z",
-  "category": "trasportini-animali",
-  "title": "TRESKO® Box pieghevole per cani con tappetino per perdite",
-  "brand": "TRESKO",
-  "image": "https://m.media-amazon.com/images/I/91upiedWI+L._AC_SL500_.jpg",
-  "price": {
-   "value": 38.79,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1804,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Estetica",
-    "Comfort",
-    "Praticità"
-   ],
-   "mixed": [
-    "Dimensioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DNMLDZWY",
-  "category": "trasportini-animali",
-  "title": "Morpilot Zaino per Cani e Gatti 7kg, Trasportino per Cani",
-  "brand": "Morpilot",
-  "image": "https://m.media-amazon.com/images/I/71y9Icdim9L._AC_SL500_.jpg",
-  "price": {
-   "value": 33.36,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 9972,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Robustezza",
-    "Capienza",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BJKXMSM5",
-  "category": "trasportini-animali",
-  "title": "CADOCA® Trasportino Cane & Gatto M 60x42x44cm Box Animali",
-  "brand": "CADOCA",
-  "image": "https://m.media-amazon.com/images/I/91jWLiUMVpL._AC_SL500_.jpg",
-  "price": {
-   "value": 42.45,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 7292,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Comfort",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FDB5513G",
-  "category": "trasportini-animali",
-  "title": "MAMIZO Passeggino per Cani 4 in 1, fino a 25kg, 68*38*64cm",
-  "brand": "MAMIZO",
-  "image": "https://m.media-amazon.com/images/I/81iNdkatNfL._AC_SL500_.jpg",
-  "price": {
-   "value": 124.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 142,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,169 +1,169 @@
 [
- {
-  "asin": "B0DRW11XCJ",
-  "category": "robot-tagliaerba",
-  "title": "eufy E15 Robot Tagliaerba Senza Filo Perimetrale, Giardini fino a 800 m²",
-  "brand": "eufy",
-  "price": {
-   "value": 899.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DRW11XCJ",
+    "category": "robot-tagliaerba",
+    "title": "eufy E15 Robot Tagliaerba Senza Filo Perimetrale, Giardini fino a 800 m²",
+    "brand": "eufy",
+    "price": {
+      "value": 899,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 523,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Cveq93u+L._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 523,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GT8ZHTKV",
+    "category": "robot-tagliaerba",
+    "title": "TerraMow Robot Tagliaerba V1000, Tri-Cam IA Visione senza filo",
+    "brand": "TerraMow",
+    "price": {
+      "value": 1099,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 132,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/716wblHhwYL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61Cveq93u+L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GT95XNWM",
-  "category": "robot-tagliaerba",
-  "title": "TerraMow V600 Robot Tagliaerba",
-  "brand": "TerraMow",
-  "price": {
-   "value": 806.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GT95XNWM",
+    "category": "robot-tagliaerba",
+    "title": "TerraMow V600 Robot Tagliaerba",
+    "brand": "TerraMow",
+    "price": {
+      "value": 806,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 132,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51esWirbqpL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.8,
-   "count": 132,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GQ98WCTF",
+    "category": "robot-tagliaerba",
+    "title": "Segway Navimow i210 LiDAR Pro Robot Tagliaerba con Garage M, 1000 m²",
+    "brand": "Segway",
+    "price": {
+      "value": 1199,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 166,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71CESslYPzL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/51esWirbqpL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GDYQRV3Q",
-  "category": "robot-tagliaerba",
-  "title": "Segway Navimow i205 AWD Robot Tagliaerba Senza Filo Perimetrale, 500 m²",
-  "brand": "Segway",
-  "price": {
-   "value": 749.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GDYQRV3Q",
+    "category": "robot-tagliaerba",
+    "title": "Segway Navimow i205 AWD Robot Tagliaerba Senza Filo Perimetrale, 500 m²",
+    "brand": "Segway",
+    "price": {
+      "value": 749,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 257,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61fSguDI1UL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 257,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GJ5T8DRC",
+    "category": "robot-tagliaerba",
+    "title": "MAMMOTION LUBA mini 2 AWD 1000 Robot Tagliaerba con Mini Garage",
+    "brand": "MAMMOTION",
+    "price": {
+      "value": 1249,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 152,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61n-tp3twRL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61fSguDI1UL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CXDNFZLL",
-  "category": "robot-tagliaerba",
-  "title": "Segway Navimow i105E Robot Tagliaerba Senza Filo Perimetrale, 500㎡",
-  "brand": "Segway",
-  "price": {
-   "value": 599.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CXDNFZLL",
+    "category": "robot-tagliaerba",
+    "title": "Segway Navimow i105E Robot Tagliaerba Senza Filo Perimetrale, 500㎡",
+    "brand": "Segway",
+    "price": {
+      "value": 599,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2438,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61qDG0DCUWL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'installazione",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Precisione",
+        "Mobilità",
+        "Rilevamento ostacoli"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.4,
-   "count": 2438,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61qDG0DCUWL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'installazione",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Precisione",
-    "Mobilità",
-    "Rilevamento ostacoli"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0GJ519CND",
+    "category": "robot-tagliaerba",
+    "title": "MAMMOTION YUKA mini 2 800 LiDAR Robot Rasaerba senza Cavo Perimetrale",
+    "brand": "MAMMOTION",
+    "price": {
+      "value": 799,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 272,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71Mq-bDT7PL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B0GJ519CND",
-  "category": "robot-tagliaerba",
-  "title": "MAMMOTION YUKA mini 2 800 LiDAR Robot Rasaerba senza Cavo Perimetrale",
-  "brand": "MAMMOTION",
-  "price": {
-   "value": 799.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 272,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71Mq-bDT7PL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GQ98WCTF",
-  "category": "robot-tagliaerba",
-  "title": "Segway Navimow i210 LiDAR Pro Robot Tagliaerba con Garage M, 1000 m²",
-  "brand": "Segway",
-  "price": {
-   "value": 1199.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 166,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71CESslYPzL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GJ5T8DRC",
-  "category": "robot-tagliaerba",
-  "title": "MAMMOTION LUBA mini 2 AWD 1000 Robot Tagliaerba con Mini Garage",
-  "brand": "MAMMOTION",
-  "price": {
-   "value": 1249.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 152,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61n-tp3twRL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GT8ZHTKV",
-  "category": "robot-tagliaerba",
-  "title": "TerraMow Robot Tagliaerba V1000, Tri-Cam IA Visione senza filo",
-  "brand": "TerraMow",
-  "price": {
-   "value": 1099.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 132,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/716wblHhwYL._AC_SL500_.jpg"
- }
 ]

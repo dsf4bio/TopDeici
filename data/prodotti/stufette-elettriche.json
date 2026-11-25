@@ -1,305 +1,305 @@
 [
- {
-  "asin": "B0C9D4KL9D",
-  "category": "stufette-elettriche",
-  "title": "Dreo Termoventilatore a risparmio energetico, 34 dB, silen",
-  "brand": "Dreo",
-  "image": "https://m.media-amazon.com/images/I/71rcaf+x8sL._AC_SL500_.jpg",
-  "price": {
-   "value": 42.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C9D4KL9D",
+    "category": "stufette-elettriche",
+    "title": "Dreo Termoventilatore a risparmio energetico, 34 dB, silen",
+    "brand": "Dreo",
+    "image": "https://m.media-amazon.com/images/I/71rcaf+x8sL._AC_SL500_.jpg",
+    "price": {
+      "value": 42.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 11559,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Riscaldamento",
+        "Funzionalità",
+        "Silenziosità",
+        "Dimensioni"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 11559,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B09W9CGD3J",
+    "category": "stufette-elettriche",
+    "title": "Dreo Termoventilatore, Riscaldatore elettrico in ceramica",
+    "brand": "Dreo",
+    "image": "https://m.media-amazon.com/images/I/714cKLZMJCL._AC_SL500_.jpg",
+    "price": {
+      "value": 63.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4896,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Riscaldamento",
+        "Silenziosità",
+        "Riscaldamento rapido"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Riscaldamento",
-    "Funzionalità",
-    "Silenziosità",
-    "Dimensioni"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0DBQV5DG2",
+    "category": "stufette-elettriche",
+    "title": "Riscaldatori Dreo 40 cm per uso interno, portatili e a ris",
+    "brand": "Dreo",
+    "image": "https://m.media-amazon.com/images/I/81axxlxxEfL._AC_SL500_.jpg",
+    "price": {
+      "value": 72.24,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3761,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Calore",
+        "Funzionalità",
+        "Riscaldamento rapido",
+        "Silenziosità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FBRW761D",
+    "category": "stufette-elettriche",
+    "title": "Dreo Termoventilatore da Camera, Stufa Portatile con 3 Mod",
+    "brand": "Dreo",
+    "image": "https://m.media-amazon.com/images/I/81S6MYwWmBL._AC_SL500_.jpg",
+    "price": {
+      "value": 40.37,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2617,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Riscaldamento",
+        "Funzionalità",
+        "Regolabilità",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D73CM9S8",
+    "category": "stufette-elettriche",
+    "title": "Dreo Riscaldatore intelligente per spazio, Riscaldatore el",
+    "brand": "Dreo",
+    "image": "https://m.media-amazon.com/images/I/81NOQKFrRgL._AC_SL500_.jpg",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1153,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Dimensioni",
+        "Silenziosità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07D3F4PKP",
+    "category": "stufette-elettriche",
+    "title": "Amazon Basics Termoventilatore oscillante in ceramica da 1",
+    "brand": "Amazon",
+    "image": "https://m.media-amazon.com/images/I/81IFDOmGkyL._AC_SL500_.jpg",
+    "price": {
+      "value": 25.66,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1022,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Riscaldamento",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Dimensioni compatte"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00ZUUEBOQ",
+    "category": "stufette-elettriche",
+    "title": "De'Longhi TRRS0920 Radiatore Ad Olio Elettrico, 9 Elementi",
+    "brand": "De'Longhi",
+    "image": "https://m.media-amazon.com/images/I/51ss5zD6B4L._AC_SL500_.jpg",
+    "price": {
+      "value": 87.91,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 5105,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Calore",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Riscaldamento rapido"
+      ],
+      "mixed": [
+        "Odore",
+        "Consumi energetici"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DJDD4K99",
+    "category": "stufette-elettriche",
+    "title": "Rowenta My Nomad Heater, Potente Termoventilatore, Silenzi",
+    "brand": "Rowenta",
+    "image": "https://m.media-amazon.com/images/I/71isTncmWOL._AC_SL500_.jpg",
+    "price": {
+      "value": 46.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 926,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Riscaldamento rapido",
+        "Estetica",
+        "Funzionalità",
+        "Dimensioni"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01LZRFWVN",
+    "category": "stufette-elettriche",
+    "title": "De'Longhi Serie Nano TRNS0808M Radiatore ad Olio Elettrico",
+    "brand": "De'Longhi",
+    "image": "https://m.media-amazon.com/images/I/71QntxzjHBL._AC_SL500_.jpg",
+    "price": {
+      "value": 103.8,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3688,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Riscaldamento",
+        "Funzionalità",
+        "Dimensioni",
+        "Consumi energetici"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DJ9F782L",
+    "category": "stufette-elettriche",
+    "title": "Olimpia Splendid - 99228 Termoventilatore - Caldo Cubic, c",
+    "brand": "Olimpia Splendid",
+    "image": "https://m.media-amazon.com/images/I/71R-HYXk5KL._AC_SL500_.jpg",
+    "price": {
+      "value": 39.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 135,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Riscaldamento",
+        "Dimensioni compatte",
+        "Estetica",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B09W9CGD3J",
-  "category": "stufette-elettriche",
-  "title": "Dreo Termoventilatore, Riscaldatore elettrico in ceramica",
-  "brand": "Dreo",
-  "image": "https://m.media-amazon.com/images/I/714cKLZMJCL._AC_SL500_.jpg",
-  "price": {
-   "value": 63.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4896,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Riscaldamento",
-    "Silenziosità",
-    "Riscaldamento rapido"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DBQV5DG2",
-  "category": "stufette-elettriche",
-  "title": "Riscaldatori Dreo 40 cm per uso interno, portatili e a ris",
-  "brand": "Dreo",
-  "image": "https://m.media-amazon.com/images/I/81axxlxxEfL._AC_SL500_.jpg",
-  "price": {
-   "value": 72.24,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3761,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Calore",
-    "Funzionalità",
-    "Riscaldamento rapido",
-    "Silenziosità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FBRW761D",
-  "category": "stufette-elettriche",
-  "title": "Dreo Termoventilatore da Camera, Stufa Portatile con 3 Mod",
-  "brand": "Dreo",
-  "image": "https://m.media-amazon.com/images/I/81S6MYwWmBL._AC_SL500_.jpg",
-  "price": {
-   "value": 40.37,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2617,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Riscaldamento",
-    "Funzionalità",
-    "Regolabilità",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D73CM9S8",
-  "category": "stufette-elettriche",
-  "title": "Dreo Riscaldatore intelligente per spazio, Riscaldatore el",
-  "brand": "Dreo",
-  "image": "https://m.media-amazon.com/images/I/81NOQKFrRgL._AC_SL500_.jpg",
-  "price": {
-   "value": 69.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1153,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Dimensioni",
-    "Silenziosità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07D3F4PKP",
-  "category": "stufette-elettriche",
-  "title": "Amazon Basics Termoventilatore oscillante in ceramica da 1",
-  "brand": "Amazon",
-  "image": "https://m.media-amazon.com/images/I/81IFDOmGkyL._AC_SL500_.jpg",
-  "price": {
-   "value": 25.66,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1022,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Riscaldamento",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Dimensioni compatte"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DJDD4K99",
-  "category": "stufette-elettriche",
-  "title": "Rowenta My Nomad Heater, Potente Termoventilatore, Silenzi",
-  "brand": "Rowenta",
-  "image": "https://m.media-amazon.com/images/I/71isTncmWOL._AC_SL500_.jpg",
-  "price": {
-   "value": 46.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 926,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Riscaldamento rapido",
-    "Estetica",
-    "Funzionalità",
-    "Dimensioni"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DJ9F782L",
-  "category": "stufette-elettriche",
-  "title": "Olimpia Splendid - 99228 Termoventilatore - Caldo Cubic, c",
-  "brand": "Olimpia Splendid",
-  "image": "https://m.media-amazon.com/images/I/71R-HYXk5KL._AC_SL500_.jpg",
-  "price": {
-   "value": 39.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 135,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Riscaldamento",
-    "Dimensioni compatte",
-    "Estetica",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00ZUUEBOQ",
-  "category": "stufette-elettriche",
-  "title": "De'Longhi TRRS0920 Radiatore Ad Olio Elettrico, 9 Elementi",
-  "brand": "De'Longhi",
-  "image": "https://m.media-amazon.com/images/I/51ss5zD6B4L._AC_SL500_.jpg",
-  "price": {
-   "value": 87.91,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 5105,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Calore",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Riscaldamento rapido"
-   ],
-   "mixed": [
-    "Odore",
-    "Consumi energetici"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01LZRFWVN",
-  "category": "stufette-elettriche",
-  "title": "De'Longhi Serie Nano TRNS0808M Radiatore ad Olio Elettrico",
-  "brand": "De'Longhi",
-  "image": "https://m.media-amazon.com/images/I/71QntxzjHBL._AC_SL500_.jpg",
-  "price": {
-   "value": 103.8,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3688,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Riscaldamento",
-    "Funzionalità",
-    "Dimensioni",
-    "Consumi energetici"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

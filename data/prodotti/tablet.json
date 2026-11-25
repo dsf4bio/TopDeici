@@ -1,266 +1,266 @@
 [
- {
-  "asin": "B0DZ75RKZH",
-  "category": "tablet",
-  "title": "Apple iPad con chip A16: display Liquid Retina da 11'', 128 GB",
-  "brand": "Apple",
-  "price": {
-   "value": 449.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DZ75RKZH",
+    "category": "tablet",
+    "title": "Apple iPad con chip A16: display Liquid Retina da 11'', 128 GB",
+    "brand": "Apple",
+    "price": {
+      "value": 449,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 11681,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/616FFqht2sL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Versatilità",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 11681,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08DKP2H73",
+    "category": "tablet",
+    "title": "Samsung Galaxy Tab S7, tablet Android con penna, WiFi, 3 fotocamere",
+    "brand": "Samsung",
+    "price": {
+      "value": 479.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1820,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61YXNx6FVnL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/616FFqht2sL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Versatilità",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CSJ3HCP4",
+    "category": "tablet",
+    "title": "Samsung Galaxy Tab A9+ X210 11.0 WiFi 8 GB RAM 128 GB Tablet - Argento",
+    "brand": "Samsung",
+    "price": {
+      "value": 299,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 9219,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/31Ti3Uv5TGL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Velocità",
+        "Schermo"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GQVLW917",
+    "category": "tablet",
+    "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB",
+    "brand": "Apple",
+    "price": {
+      "value": 699,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 756,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71u9WvH1okL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Maneggevolezza",
+        "Versatilità"
+      ],
+      "mixed": [
+        "Schermo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09NP1FCKB",
+    "category": "tablet",
+    "title": "Samsung Galaxy Tab A8 Tablet Android 10.5 Pollici Wi-Fi RAM 4 GB 64 GB",
+    "brand": "Samsung",
+    "price": {
+      "value": 224.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4851,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71vScvyCWDL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Qualità dello schermo",
+        "Velocità"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F1FR57K5",
+    "category": "tablet",
+    "title": "XIAOMI Pad 7 Tablet, 11,2-Zoll, 8+256GB, 3,2K 144Hz Display",
+    "brand": "XIAOMI",
+    "price": {
+      "value": 384.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 257,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61j7hHAFeEL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CKVJF3Q6",
+    "category": "tablet",
+    "title": "Xiaomi Redmi Pad Se 8 GB/256 GB 11´´ Tablet One Size",
+    "brand": "Xiaomi",
+    "price": {
+      "value": 348.59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2275,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41RJzy2WZ3L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Durata batteria",
+        "Qualità dell'immagine"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FF9NVPQ7",
+    "category": "tablet",
+    "title": "XIAOMI Redmi Pad 2 Tablet 8GB+256GB, Display 11\" 2.5K 90Hz",
+    "brand": "XIAOMI",
+    "price": {
+      "value": 259.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 430,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51jXT20vYkL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07919MP9M",
+    "category": "tablet",
+    "title": "Samsung Galaxy Tab A SM-T580 tablet 32 GB Nero",
+    "brand": "Samsung",
+    "price": {
+      "value": 395,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1340,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61zA0aNFSGL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B09QLCB5H3",
+    "category": "tablet",
+    "title": "Samsung Galaxy Tab S8 11 Pollici Wi-Fi RAM 8/128 GB Tablet Android 12",
+    "brand": "Samsung",
+    "price": {
+      "value": 598.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 326,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81xbqDTuRWL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Durata batteria",
+        "Prestazioni",
+        "Qualità dello schermo"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B08DKP2H73",
-  "category": "tablet",
-  "title": "Samsung Galaxy Tab S7, tablet Android con penna, WiFi, 3 fotocamere",
-  "brand": "Samsung",
-  "price": {
-   "value": 479.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1820,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61YXNx6FVnL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0F1FR57K5",
-  "category": "tablet",
-  "title": "XIAOMI Pad 7 Tablet, 11,2-Zoll, 8+256GB, 3,2K 144Hz Display",
-  "brand": "XIAOMI",
-  "price": {
-   "value": 384.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.9,
-   "count": 257,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61j7hHAFeEL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CSJ3HCP4",
-  "category": "tablet",
-  "title": "Samsung Galaxy Tab A9+ X210 11.0 WiFi 8 GB RAM 128 GB Tablet - Argento",
-  "brand": "Samsung",
-  "price": {
-   "value": 299.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 9219,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/31Ti3Uv5TGL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Velocità",
-    "Schermo"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GQVLW917",
-  "category": "tablet",
-  "title": "Apple iPad Air 11'' (M4): display Liquid Retina, 128 GB",
-  "brand": "Apple",
-  "price": {
-   "value": 699.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 756,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71u9WvH1okL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Maneggevolezza",
-    "Versatilità"
-   ],
-   "mixed": [
-    "Schermo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09NP1FCKB",
-  "category": "tablet",
-  "title": "Samsung Galaxy Tab A8 Tablet Android 10.5 Pollici Wi-Fi RAM 4 GB 64 GB",
-  "brand": "Samsung",
-  "price": {
-   "value": 224.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4851,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71vScvyCWDL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Qualità dello schermo",
-    "Velocità"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CKVJF3Q6",
-  "category": "tablet",
-  "title": "Xiaomi Redmi Pad Se 8 GB/256 GB 11´´ Tablet One Size",
-  "brand": "Xiaomi",
-  "price": {
-   "value": 348.59,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2275,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41RJzy2WZ3L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Durata batteria",
-    "Qualità dell'immagine"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FF9NVPQ7",
-  "category": "tablet",
-  "title": "XIAOMI Redmi Pad 2 Tablet 8GB+256GB, Display 11\" 2.5K 90Hz",
-  "brand": "XIAOMI",
-  "price": {
-   "value": 259.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 430,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51jXT20vYkL._AC_SL500_.jpg"
- },
- {
-  "asin": "B09QLCB5H3",
-  "category": "tablet",
-  "title": "Samsung Galaxy Tab S8 11 Pollici Wi-Fi RAM 8/128 GB Tablet Android 12",
-  "brand": "Samsung",
-  "price": {
-   "value": 598.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 326,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81xbqDTuRWL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Durata batteria",
-    "Prestazioni",
-    "Qualità dello schermo"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07919MP9M",
-  "category": "tablet",
-  "title": "Samsung Galaxy Tab A SM-T580 tablet 32 GB Nero",
-  "brand": "Samsung",
-  "price": {
-   "value": 395.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1340,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61zA0aNFSGL._AC_SL500_.jpg"
- }
 ]

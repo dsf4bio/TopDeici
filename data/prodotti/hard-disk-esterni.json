@@ -1,291 +1,291 @@
 [
- {
-  "asin": "B00D0L5BH8",
-  "category": "hard-disk-esterni",
-  "title": "WD Elements Portable HDD Esterno 2000 GB, 3.5 Pollici, USB",
-  "brand": "WD",
-  "image": "https://m.media-amazon.com/images/I/91mlqrT75WL._AC_SL500_.jpg",
-  "price": {
-   "value": 152.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0744NCY4K",
+    "category": "hard-disk-esterni",
+    "title": "ADATA HD710 Pro HDD esterno Portatile 2TB, Unità Rugged, Resistente al",
+    "brand": "ADATA",
+    "image": "https://m.media-amazon.com/images/I/71DI8ShgwTL._AC_SL500_.jpg",
+    "price": {
+      "value": 155.26,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 25090,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 15019,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B00D0L5BH8",
+    "category": "hard-disk-esterni",
+    "title": "WD Elements Portable HDD Esterno 2000 GB, 3.5 Pollici, USB",
+    "brand": "WD",
+    "image": "https://m.media-amazon.com/images/I/91mlqrT75WL._AC_SL500_.jpg",
+    "price": {
+      "value": 152,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 15019,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità",
+        "Rapporto qualità-prezzo",
+        "Dimensioni compatte"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità",
-    "Rapporto qualità-prezzo",
-    "Dimensioni compatte"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B06XDKWLJH",
+    "category": "hard-disk-esterni",
+    "title": "WD 1.5TB Elements Portable, Hard Disk Esterno Portatile, U",
+    "brand": "WD",
+    "image": "https://m.media-amazon.com/images/I/61EunJBqIkL._AC_SL500_.jpg",
+    "price": {
+      "value": 147.38,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 25002,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Dimensioni",
+        "Velocità"
+      ],
+      "mixed": [
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F6VBC747",
+    "category": "hard-disk-esterni",
+    "title": "WD_BLACK P10 Game Drive 5TB, Hard Disk Esterno Portatile, 130 MB/s, Ca",
+    "brand": "WD_BLACK",
+    "image": "https://m.media-amazon.com/images/I/61sJF6lUOKL._AC_SL500_.jpg",
+    "price": {
+      "value": 220.88,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 24831,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Velocità",
+        "Capacità",
+        "Silenziosità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BQX6NNVC",
+    "category": "hard-disk-esterni",
+    "title": "TOSHIBA Canvio Basics HDTB520EK3AA - Hard disk esterno por",
+    "brand": "Toshiba",
+    "image": "https://m.media-amazon.com/images/I/91e-WNUpH0L._AC_SL500_.jpg",
+    "price": {
+      "value": 134.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 21737,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B081VGMS8X",
+    "category": "hard-disk-esterni",
+    "title": "Seagate Basic, 5TB, Hard Disk Esterno Portatile - USB 3.0",
+    "brand": "Seagate",
+    "image": "https://m.media-amazon.com/images/I/81YXud9x0TL._AC_SL500_.jpg",
+    "price": {
+      "value": 180.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 15864,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Capacità"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07CM9D3PL",
+    "category": "hard-disk-esterni",
+    "title": "ADATA HDD Ext HV300 2TB Black disco rigido esterno 2000 GB Nero",
+    "brand": "ADATA",
+    "image": "https://m.media-amazon.com/images/I/71zC3J3FrEL._AC_SL500_.jpg",
+    "price": {
+      "value": 157.64,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 3478,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B00GN5K2J0",
+    "category": "hard-disk-esterni",
+    "title": "Transcend TS2TSJ25H3P HDD Esterno, 2,50 Pollici, USB 3.0",
+    "brand": "Transcend",
+    "image": "https://m.media-amazon.com/images/I/61KU09qn5oL._AC_SL500_.jpg",
+    "price": {
+      "value": 160.35,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6540,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità",
+        "Robustezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07VTW2LPX",
+    "category": "hard-disk-esterni",
+    "title": "WD 4TB My Passport Hard Disk Esterno Portatile, USB 3.2 Ge",
+    "brand": "WD",
+    "image": "https://m.media-amazon.com/images/I/41Ti9OX8m0L._AC_SL500_.jpg",
+    "price": {
+      "value": 177.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 105308,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Capacità",
+        "Dimensioni"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B091FS79T8",
+    "category": "hard-disk-esterni",
+    "title": "UnionSine Hard Disk Esterno 2,5\" 500GB Ultra Slim Portatil",
+    "brand": "UnionSine",
+    "image": "https://m.media-amazon.com/images/I/61XbnUE8ipL._AC_SL500_.jpg",
+    "price": {
+      "value": 33.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 53918,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Velocità",
+        "Dimensioni"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B06XDKWLJH",
-  "category": "hard-disk-esterni",
-  "title": "WD 1.5TB Elements Portable, Hard Disk Esterno Portatile, U",
-  "brand": "WD",
-  "image": "https://m.media-amazon.com/images/I/61EunJBqIkL._AC_SL500_.jpg",
-  "price": {
-   "value": 147.38,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 25002,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Dimensioni",
-    "Velocità"
-   ],
-   "mixed": [
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BQX6NNVC",
-  "category": "hard-disk-esterni",
-  "title": "TOSHIBA Canvio Basics HDTB520EK3AA - Hard disk esterno por",
-  "brand": "Toshiba",
-  "image": "https://m.media-amazon.com/images/I/91e-WNUpH0L._AC_SL500_.jpg",
-  "price": {
-   "value": 134.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 21737,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B081VGMS8X",
-  "category": "hard-disk-esterni",
-  "title": "Seagate Basic, 5TB, Hard Disk Esterno Portatile - USB 3.0",
-  "brand": "Seagate",
-  "image": "https://m.media-amazon.com/images/I/81YXud9x0TL._AC_SL500_.jpg",
-  "price": {
-   "value": 180.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 15864,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Capacità"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07VTW2LPX",
-  "category": "hard-disk-esterni",
-  "title": "WD 4TB My Passport Hard Disk Esterno Portatile, USB 3.2 Ge",
-  "brand": "WD",
-  "image": "https://m.media-amazon.com/images/I/41Ti9OX8m0L._AC_SL500_.jpg",
-  "price": {
-   "value": 177.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 105308,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Capacità",
-    "Dimensioni"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B091FS79T8",
-  "category": "hard-disk-esterni",
-  "title": "UnionSine Hard Disk Esterno 2,5\" 500GB Ultra Slim Portatil",
-  "brand": "UnionSine",
-  "image": "https://m.media-amazon.com/images/I/61XbnUE8ipL._AC_SL500_.jpg",
-  "price": {
-   "value": 33.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 53918,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Velocità",
-    "Dimensioni"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00GN5K2J0",
-  "category": "hard-disk-esterni",
-  "title": "Transcend TS2TSJ25H3P HDD Esterno, 2,50 Pollici, USB 3.0",
-  "brand": "Transcend",
-  "image": "https://m.media-amazon.com/images/I/61KU09qn5oL._AC_SL500_.jpg",
-  "price": {
-   "value": 160.35,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6540,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità",
-    "Robustezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0744NCY4K",
-  "category": "hard-disk-esterni",
-  "title": "ADATA HD710 Pro HDD esterno Portatile 2TB, Unità Rugged, Resistente al",
-  "brand": "ADATA",
-  "image": "https://m.media-amazon.com/images/I/71DI8ShgwTL._AC_SL500_.jpg",
-  "price": {
-   "value": 155.26,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 25090,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B07CM9D3PL",
-  "category": "hard-disk-esterni",
-  "title": "ADATA HDD Ext HV300 2TB Black disco rigido esterno 2000 GB Nero",
-  "brand": "ADATA",
-  "image": "https://m.media-amazon.com/images/I/71zC3J3FrEL._AC_SL500_.jpg",
-  "price": {
-   "value": 157.64,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 3478,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0F6VBC747",
-  "category": "hard-disk-esterni",
-  "title": "WD_BLACK P10 Game Drive 5TB, Hard Disk Esterno Portatile, 130 MB/s, Ca",
-  "brand": "WD_BLACK",
-  "image": "https://m.media-amazon.com/images/I/61sJF6lUOKL._AC_SL500_.jpg",
-  "price": {
-   "value": 220.88,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 24831,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Velocità",
-    "Capacità",
-    "Silenziosità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

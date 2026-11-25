@@ -1,295 +1,295 @@
 [
- {
-  "asin": "B0D4QMTGST",
-  "category": "compressori-portatili",
-  "title": "AUTOWN 54 Pezzi Kit Riparazione Auto con Compressore Aria Portatile",
-  "brand": "AUTOWN",
-  "price": {
-   "value": 44.22,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0D4QMTGST",
+    "category": "compressori-portatili",
+    "title": "AUTOWN 54 Pezzi Kit Riparazione Auto con Compressore Aria Portatile",
+    "brand": "AUTOWN",
+    "price": {
+      "value": 44.22,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 5130,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71ITmO-3NrL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 5130,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B09JZWJ2QY",
+    "category": "compressori-portatili",
+    "title": "Xiaomi Portable Electric Air Compressor 1S",
+    "brand": "Xiaomi",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 18016,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61xbYphXP8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Facilità d'uso",
+        "Comfort"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71ITmO-3NrL._AC_SL500_.jpg"
- },
- {
-  "asin": "B09JZWJ2QY",
-  "category": "compressori-portatili",
-  "title": "Xiaomi Portable Electric Air Compressor 1S",
-  "brand": "Xiaomi",
-  "price": {
-   "value": 49.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CBBP8BQX",
+    "category": "compressori-portatili",
+    "title": "Xiaomi Portable Electric Air Compressor 2, Compressore ad Aria Portatile",
+    "brand": "Xiaomi",
+    "price": {
+      "value": 42.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 9973,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Vv7YKRjUL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Dimensioni",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 18016,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B09G2RMPSS",
+    "category": "compressori-portatili",
+    "title": "Einhell Compressore per auto a batteria CE-CC 18 Li-Solo",
+    "brand": "Einhell",
+    "price": {
+      "value": 50.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3869,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61HlC29Pt8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Comfort",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61xbYphXP8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Facilità d'uso",
-    "Comfort"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B083HCM96X",
+    "category": "compressori-portatili",
+    "title": "Bosch Home and Garden 0603947100 Bosch Compressore d'Aria Elettrico",
+    "brand": "Bosch",
+    "price": {
+      "value": 46.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2385,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71dJOtkyEhL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità",
+        "Potenza",
+        "Praticità"
+      ],
+      "mixed": [
+        "Rumorosità",
+        "Batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FDWQRBVB",
+    "category": "compressori-portatili",
+    "title": "Lamicall Pompa Elettrica per Bicicletta, Compressore Aria Portatile",
+    "brand": "Lamicall",
+    "price": {
+      "value": 42.86,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 887,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61HodKK0ijL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07QR4Q42L",
+    "category": "compressori-portatili",
+    "title": "AstroAI Compressore Aria Portatile Auto 12 Volt CC",
+    "brand": "AstroAI",
+    "price": {
+      "value": 32.48,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 96675,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71wzRtIbBLL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07F1X9F4P",
+    "category": "compressori-portatili",
+    "title": "DEWALT Gonfiatore sgonfiatore 18V XR con manometro digitale, DCC018N-XJ",
+    "brand": "DEWALT",
+    "price": {
+      "value": 146.22,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1824,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71X8rxMBBhL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità",
+        "Regolazione temperatura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D17RJP1T",
+    "category": "compressori-portatili",
+    "title": "ETENWOLF ZEPHYR S3-7800mAh Compressore Aria Portatile 11Bar/160PSI",
+    "brand": "ETENWOLF",
+    "price": {
+      "value": 65.54,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 792,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61SERB7ZHPL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Ricaricabile",
+        "Presa",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DLBGZG3N",
+    "category": "compressori-portatili",
+    "title": "Xiaomi Portable Electric Air Compressor 2Pro",
+    "brand": "Xiaomi",
+    "price": {
+      "value": 60,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1504,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41yJln8UUXL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Velocità",
+        "Dimensioni",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Portabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0CBBP8BQX",
-  "category": "compressori-portatili",
-  "title": "Xiaomi Portable Electric Air Compressor 2, Compressore ad Aria Portatile",
-  "brand": "Xiaomi",
-  "price": {
-   "value": 42.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 9973,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Vv7YKRjUL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Dimensioni",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07QR4Q42L",
-  "category": "compressori-portatili",
-  "title": "AstroAI Compressore Aria Portatile Auto 12 Volt CC",
-  "brand": "AstroAI",
-  "price": {
-   "value": 32.48,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 96675,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71wzRtIbBLL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09G2RMPSS",
-  "category": "compressori-portatili",
-  "title": "Einhell Compressore per auto a batteria CE-CC 18 Li-Solo",
-  "brand": "Einhell",
-  "price": {
-   "value": 50.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3869,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61HlC29Pt8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Comfort",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B083HCM96X",
-  "category": "compressori-portatili",
-  "title": "Bosch Home and Garden 0603947100 Bosch Compressore d'Aria Elettrico",
-  "brand": "Bosch",
-  "price": {
-   "value": 46.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2385,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71dJOtkyEhL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità",
-    "Potenza",
-    "Praticità"
-   ],
-   "mixed": [
-    "Rumorosità",
-    "Batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FDWQRBVB",
-  "category": "compressori-portatili",
-  "title": "Lamicall Pompa Elettrica per Bicicletta, Compressore Aria Portatile",
-  "brand": "Lamicall",
-  "price": {
-   "value": 42.86,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 887,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61HodKK0ijL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07F1X9F4P",
-  "category": "compressori-portatili",
-  "title": "DEWALT Gonfiatore sgonfiatore 18V XR con manometro digitale, DCC018N-XJ",
-  "brand": "DEWALT",
-  "price": {
-   "value": 146.22,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1824,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71X8rxMBBhL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità",
-    "Regolazione temperatura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D17RJP1T",
-  "category": "compressori-portatili",
-  "title": "ETENWOLF ZEPHYR S3-7800mAh Compressore Aria Portatile 11Bar/160PSI",
-  "brand": "ETENWOLF",
-  "price": {
-   "value": 65.54,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 792,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61SERB7ZHPL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Ricaricabile",
-    "Presa",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DLBGZG3N",
-  "category": "compressori-portatili",
-  "title": "Xiaomi Portable Electric Air Compressor 2Pro",
-  "brand": "Xiaomi",
-  "price": {
-   "value": 60.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1504,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/41yJln8UUXL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Velocità",
-    "Dimensioni",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Portabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

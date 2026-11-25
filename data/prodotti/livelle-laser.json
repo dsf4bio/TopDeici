@@ -1,227 +1,227 @@
 [
- {
-  "asin": "B0768PD5DR",
-  "category": "livelle-laser",
-  "title": "Bosch Professional Livella Laser GLL 3-80 (laser rosso, da interno",
-  "brand": "Bosch",
-  "price": {
-   "value": 253.15,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0768PD5DR",
+    "category": "livelle-laser",
+    "title": "Bosch Professional Livella Laser GLL 3-80 (laser rosso, da interno",
+    "brand": "Bosch",
+    "price": {
+      "value": 253.15,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1767,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71RmXPZew2L._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 1767,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01FLJ6DO6",
+    "category": "livelle-laser",
+    "title": "Bosch Professional Livella laser multifunzione GCL 2-15",
+    "brand": "Bosch",
+    "price": {
+      "value": 114.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 8016,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71J-Xxz9ycL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Facilità d'uso",
+        "Praticità"
+      ],
+      "mixed": [
+        "Visibilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71RmXPZew2L._AC_SL500_.jpg"
- },
- {
-  "asin": "B01FLJ6DO6",
-  "category": "livelle-laser",
-  "title": "Bosch Professional Livella laser multifunzione GCL 2-15",
-  "brand": "Bosch",
-  "price": {
-   "value": 114.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0752F314L",
+    "category": "livelle-laser",
+    "title": "Bosch Professional 12V System Livella Laser GLL 3-80 C",
+    "brand": "Bosch",
+    "price": {
+      "value": 687.13,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 734,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51K0n9lL+gL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 8016,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01LP4H21E",
+    "category": "livelle-laser",
+    "title": "Bosch Professional Livella laser multifunzione GCL 2-15 G (laser verde",
+    "brand": "Bosch",
+    "price": {
+      "value": 208.72,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2979,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71iNBTm3UNL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Visibilità",
+        "Facilità d'uso",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71J-Xxz9ycL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Facilità d'uso",
-    "Praticità"
-   ],
-   "mixed": [
-    "Visibilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B082DDJ3SJ",
+    "category": "livelle-laser",
+    "title": "Huepar B03CG 3x 360° Livella Laser 12 Linee Verde 45m",
+    "brand": "Huepar",
+    "price": {
+      "value": 104.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2033,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71E8cOKuMBL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Visibilità",
+        "Praticità",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B087XPZQX4",
+    "category": "livelle-laser",
+    "title": "Bosch Professional Livella Laser GCL 2-50 G",
+    "brand": "Bosch",
+    "price": {
+      "value": 305.25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 508,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81jo1u-Bq4L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07HL76LXX",
+    "category": "livelle-laser",
+    "title": "Bosch Professional Livella Laser Combinata, LR6, in Custodia Protettiva",
+    "brand": "Bosch",
+    "price": {
+      "value": 221.54,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 872,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61f6n2HGvZL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B087XR72CB",
+    "category": "livelle-laser",
+    "title": "Bosch Professional Livella Laser GLL 2-15 G,laser verde, da interno",
+    "brand": "Bosch",
+    "price": {
+      "value": 189.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 746,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/718XeqRAq-L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B087XPRPCD",
+    "category": "livelle-laser",
+    "title": "Bosch Professional Livella Laser GCL 2-50 G",
+    "brand": "Bosch",
+    "price": {
+      "value": 223.64,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 693,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81lUzf178jL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B08XN57WS8",
+    "category": "livelle-laser",
+    "title": "DEWALT DCLE34030G - Kit livella laser max 20V/12V, 3 x 360, verde",
+    "brand": "DEWALT",
+    "price": {
+      "value": 810.12,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 657,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61UDzAg4VdL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B01LP4H21E",
-  "category": "livelle-laser",
-  "title": "Bosch Professional Livella laser multifunzione GCL 2-15 G (laser verde",
-  "brand": "Bosch",
-  "price": {
-   "value": 208.72,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2979,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71iNBTm3UNL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Visibilità",
-    "Facilità d'uso",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B082DDJ3SJ",
-  "category": "livelle-laser",
-  "title": "Huepar B03CG 3x 360° Livella Laser 12 Linee Verde 45m",
-  "brand": "Huepar",
-  "price": {
-   "value": 104.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2033,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71E8cOKuMBL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Visibilità",
-    "Praticità",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0752F314L",
-  "category": "livelle-laser",
-  "title": "Bosch Professional 12V System Livella Laser GLL 3-80 C",
-  "brand": "Bosch",
-  "price": {
-   "value": 687.13,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 734,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51K0n9lL+gL._AC_SL500_.jpg"
- },
- {
-  "asin": "B087XPZQX4",
-  "category": "livelle-laser",
-  "title": "Bosch Professional Livella Laser GCL 2-50 G",
-  "brand": "Bosch",
-  "price": {
-   "value": 305.25,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 508,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81jo1u-Bq4L._AC_SL500_.jpg"
- },
- {
-  "asin": "B07HL76LXX",
-  "category": "livelle-laser",
-  "title": "Bosch Professional Livella Laser Combinata, LR6, in Custodia Protettiva",
-  "brand": "Bosch",
-  "price": {
-   "value": 221.54,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 872,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61f6n2HGvZL._AC_SL500_.jpg"
- },
- {
-  "asin": "B087XR72CB",
-  "category": "livelle-laser",
-  "title": "Bosch Professional Livella Laser GLL 2-15 G,laser verde, da interno",
-  "brand": "Bosch",
-  "price": {
-   "value": 189.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 746,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/718XeqRAq-L._AC_SL500_.jpg"
- },
- {
-  "asin": "B087XPRPCD",
-  "category": "livelle-laser",
-  "title": "Bosch Professional Livella Laser GCL 2-50 G",
-  "brand": "Bosch",
-  "price": {
-   "value": 223.64,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 693,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81lUzf178jL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08XN57WS8",
-  "category": "livelle-laser",
-  "title": "DEWALT DCLE34030G - Kit livella laser max 20V/12V, 3 x 360, verde",
-  "brand": "DEWALT",
-  "price": {
-   "value": 810.12,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 657,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61UDzAg4VdL._AC_SL500_.jpg"
- }
 ]

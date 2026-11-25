@@ -1,232 +1,232 @@
 [
- {
-  "asin": "B0848FJRZ6",
-  "category": "tende-campeggio",
-  "title": "Grand Canyon CARDOVA 1 – Tenda a tunnel per 1 – 2 persone",
-  "brand": "Grand Canyon",
-  "image": "https://m.media-amazon.com/images/I/51rdtif1rhL._AC_SL500_.jpg",
-  "price": {
-   "value": 42.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0848FJRZ6",
+    "category": "tende-campeggio",
+    "title": "Grand Canyon CARDOVA 1 – Tenda a tunnel per 1 – 2 persone",
+    "brand": "Grand Canyon",
+    "image": "https://m.media-amazon.com/images/I/51rdtif1rhL._AC_SL500_.jpg",
+    "price": {
+      "value": 42,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1705,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   },
-  "rating": {
-   "average": 4.5,
-   "count": 1705,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CQWXCYJY",
+    "category": "tende-campeggio",
+    "title": "UNP Tenda da cabina portatile per 4-8 persone, facile da m",
+    "brand": "UNP",
+    "image": "https://m.media-amazon.com/images/I/61mnvCNmsLL._AC_SL500_.jpg",
+    "price": {
+      "value": 95.93,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1299,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B003E6CNMU",
+    "category": "tende-campeggio",
+    "title": "CampFeuer Tenda a tunnel \"TunnelX\" Tenda familiare grand",
+    "brand": "CampFeuer",
+    "image": "https://m.media-amazon.com/images/I/61H8My2GQgL._AC_SL500_.jpg",
+    "price": {
+      "value": 279.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1055,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Spaziosità",
+        "Tenuta alla pioggia",
+        "Comfort",
+        "Apertura"
+      ],
+      "mixed": [
+        "Facilità di montaggio",
+        "Resistenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0F7XSFH5K",
+    "category": "tende-campeggio",
+    "title": "GEERTOP Tenda a cupola, da campeggio, per famiglia, da tre",
+    "brand": "GEERTOP",
+    "image": "https://m.media-amazon.com/images/I/61X0ySy9q9L._AC_SL500_.jpg",
+    "price": {
+      "value": 126.05,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 923,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07HTB2129",
+    "category": "tende-campeggio",
+    "title": "Naturehike Nuovo Cloud-up 2 Persona Tenda Campeggio Aggior",
+    "brand": "Naturehike",
+    "image": "https://m.media-amazon.com/images/I/51-oCHqYT8L._AC_SL500_.jpg",
+    "price": {
+      "value": 98.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 663,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità costruttiva",
+        "Facilità di montaggio",
+        "Leggerezza",
+        "Capienza"
+      ],
+      "mixed": [
+        "Dimensioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09T63DLJ2",
+    "category": "tende-campeggio",
+    "title": "Naturehike Star-River Tenda Ultraleggera 2 Persone 4 Stagi",
+    "brand": "Naturehike",
+    "image": "https://m.media-amazon.com/images/I/61NilY0D9IL._AC_SL500_.jpg",
+    "price": {
+      "value": 103.35,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 603,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Leggerezza",
+        "Facilità di montaggio",
+        "Impermeabilità",
+        "Spaziosità"
+      ],
+      "mixed": [
+        "Resistenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D3V9NS7K",
+    "category": "tende-campeggio",
+    "title": "UNP Tenda familiare per 5-6 persone, impermeabile, antiven",
+    "brand": "UNP",
+    "image": "https://m.media-amazon.com/images/I/61YSBraHr1L._AC_SL500_.jpg",
+    "price": {
+      "value": 111.71,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 4191,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B08G4R7SG5",
+    "category": "tende-campeggio",
+    "title": "CAMPROS CP Tenda da Campeggio Familiare 6-8 Persone, 2 Cam",
+    "brand": "CAMPROS",
+    "image": "https://m.media-amazon.com/images/I/51+6noviQ4L._AC_SL500_.jpg",
+    "price": {
+      "value": 220.84,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 4083,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B071ZF9SGT",
+    "category": "tende-campeggio",
+    "title": "Naturehike Mongar, tenda da campeggio per 2/3 persone, imp",
+    "brand": "Naturehike",
+    "image": "https://m.media-amazon.com/images/I/51yb6NmJwuL._AC_SL500_.jpg",
+    "price": {
+      "value": 120.11,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 204,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0DM1S13GJ",
+    "category": "tende-campeggio",
+    "title": "Tenda da campeggio gonfiabile con apertura del camino e lu",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/71xqK4-C5rL._AC_SL500_.jpg",
+    "price": {
+      "value": 220,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 160,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B071ZF9SGT",
-  "category": "tende-campeggio",
-  "title": "Naturehike Mongar, tenda da campeggio per 2/3 persone, imp",
-  "brand": "Naturehike",
-  "image": "https://m.media-amazon.com/images/I/51yb6NmJwuL._AC_SL500_.jpg",
-  "price": {
-   "value": 120.11,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 204,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CQWXCYJY",
-  "category": "tende-campeggio",
-  "title": "UNP Tenda da cabina portatile per 4-8 persone, facile da m",
-  "brand": "UNP",
-  "image": "https://m.media-amazon.com/images/I/61mnvCNmsLL._AC_SL500_.jpg",
-  "price": {
-   "value": 95.93,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1299,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0DM1S13GJ",
-  "category": "tende-campeggio",
-  "title": "Tenda da campeggio gonfiabile con apertura del camino e lu",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/71xqK4-C5rL._AC_SL500_.jpg",
-  "price": {
-   "value": 220.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 160,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B003E6CNMU",
-  "category": "tende-campeggio",
-  "title": "CampFeuer Tenda a tunnel \"TunnelX\" Tenda familiare grand",
-  "brand": "CampFeuer",
-  "image": "https://m.media-amazon.com/images/I/61H8My2GQgL._AC_SL500_.jpg",
-  "price": {
-   "value": 279.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1055,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Spaziosità",
-    "Tenuta alla pioggia",
-    "Comfort",
-    "Apertura"
-   ],
-   "mixed": [
-    "Facilità di montaggio",
-    "Resistenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F7XSFH5K",
-  "category": "tende-campeggio",
-  "title": "GEERTOP Tenda a cupola, da campeggio, per famiglia, da tre",
-  "brand": "GEERTOP",
-  "image": "https://m.media-amazon.com/images/I/61X0ySy9q9L._AC_SL500_.jpg",
-  "price": {
-   "value": 126.05,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 923,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B07HTB2129",
-  "category": "tende-campeggio",
-  "title": "Naturehike Nuovo Cloud-up 2 Persona Tenda Campeggio Aggior",
-  "brand": "Naturehike",
-  "image": "https://m.media-amazon.com/images/I/51-oCHqYT8L._AC_SL500_.jpg",
-  "price": {
-   "value": 98.84,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 663,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità costruttiva",
-    "Facilità di montaggio",
-    "Leggerezza",
-    "Capienza"
-   ],
-   "mixed": [
-    "Dimensioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D3V9NS7K",
-  "category": "tende-campeggio",
-  "title": "UNP Tenda familiare per 5-6 persone, impermeabile, antiven",
-  "brand": "UNP",
-  "image": "https://m.media-amazon.com/images/I/61YSBraHr1L._AC_SL500_.jpg",
-  "price": {
-   "value": 111.71,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 4191,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B09T63DLJ2",
-  "category": "tende-campeggio",
-  "title": "Naturehike Star-River Tenda Ultraleggera 2 Persone 4 Stagi",
-  "brand": "Naturehike",
-  "image": "https://m.media-amazon.com/images/I/61NilY0D9IL._AC_SL500_.jpg",
-  "price": {
-   "value": 103.35,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 603,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Leggerezza",
-    "Facilità di montaggio",
-    "Impermeabilità",
-    "Spaziosità"
-   ],
-   "mixed": [
-    "Resistenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08G4R7SG5",
-  "category": "tende-campeggio",
-  "title": "CAMPROS CP Tenda da Campeggio Familiare 6-8 Persone, 2 Cam",
-  "brand": "CAMPROS",
-  "image": "https://m.media-amazon.com/images/I/51+6noviQ4L._AC_SL500_.jpg",
-  "price": {
-   "value": 220.84,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 4083,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- }
 ]

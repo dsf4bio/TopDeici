@@ -1,297 +1,297 @@
 [
- {
-  "asin": "B0G6BT1C8Q",
-  "category": "soundbar",
-  "title": "ULTIMEA Soundbar 2.1 canali per TV, subwoofer integrato",
-  "brand": "ULTIMEA",
-  "price": {
-   "value": 56.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0G6BT1C8Q",
+    "category": "soundbar",
+    "title": "ULTIMEA Soundbar 2.1 canali per TV, subwoofer integrato",
+    "brand": "ULTIMEA",
+    "price": {
+      "value": 56.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 753,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61ziNIbuo8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Prestazioni",
+        "Dimensioni"
+      ],
+      "mixed": [
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 753,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B083VFWY49",
+    "category": "soundbar",
+    "title": "Samsung Soundbar HW-T420/ZF da 150W, 2.1 Canali, Nero",
+    "brand": "Samsung",
+    "price": {
+      "value": 99.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2118,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/31xg5x451nL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Facilità d'installazione"
+      ],
+      "mixed": [
+        "Connettività bluetooth"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61ziNIbuo8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Prestazioni",
-    "Dimensioni"
-   ],
-   "mixed": [
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B07HN2HMYB",
+    "category": "soundbar",
+    "title": "DENON DHT-S316 Soundbar 2.1 con Subwoofer Wireless, Nero",
+    "brand": "DENON",
+    "price": {
+      "value": 260,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1544,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61PVDYC6iuL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Connettività",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09B13XFGY",
+    "category": "soundbar",
+    "title": "Sonos Soundbar compatta Beam (Gen 2)",
+    "brand": "Sonos",
+    "price": {
+      "value": 349,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1375,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/31WzgZBfiGL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Estetica",
+        "Facilità d'uso",
+        "Dimensioni compatte"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CD2PJSRH",
+    "category": "soundbar",
+    "title": "Bose Smart Ultra Soundbar con Dolby Atmos e controllo vocale Alexa",
+    "brand": "Bose",
+    "price": {
+      "value": 529,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1122,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51JCG1vuunL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Estetica",
+        "Facilità d'installazione",
+        "Potenza"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Connettività"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D22SVP73",
+    "category": "soundbar",
+    "title": "Hisense HS3100 Soundbar 3.1, Potenza 480W, Subwoofer Esterno wireless",
+    "brand": "Hisense",
+    "price": {
+      "value": 116.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1093,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51CGqxFR5oL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Facilità d'installazione",
+        "Connettività"
+      ],
+      "mixed": [
+        "Qualità del suono",
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DDZ6P92X",
+    "category": "soundbar",
+    "title": "Sonos Soundbar Arc Ultra con Dolby Atmos e controllo vocale",
+    "brand": "Sonos",
+    "price": {
+      "value": 849,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 428,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61vmK8b-hxL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0F6NK5773",
+    "category": "soundbar",
+    "title": "ULTIMEA 5.1ch Soundbar TV con Dolby Atmos, 340W, Impianto Audio Surround",
+    "brand": "ULTIMEA",
+    "price": {
+      "value": 135.36,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 943,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61oxYJ3FBgL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Facilità di montaggio",
+        "Estetica"
+      ],
+      "mixed": [
+        "Effetto audio"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00BD1I8P4",
+    "category": "soundbar",
+    "title": "Sonos PLAYBAR - Soundbar e altoparlante wireless",
+    "brand": "Sonos",
+    "price": {
+      "value": 1390,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 361,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61M3qESeimL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B093BV9CK1",
+    "category": "soundbar",
+    "title": "LG SP8YA Soundbar TV 440W 3.1.2 Canali Meridian con Subwoofer Wireless",
+    "brand": "LG",
+    "price": {
+      "value": 580.46,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 336,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/318a7BIbn-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Connettività",
+        "Potenza"
+      ],
+      "mixed": [
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B083VFWY49",
-  "category": "soundbar",
-  "title": "Samsung Soundbar HW-T420/ZF da 150W, 2.1 Canali, Nero",
-  "brand": "Samsung",
-  "price": {
-   "value": 99.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2118,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/31xg5x451nL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Facilità d'installazione"
-   ],
-   "mixed": [
-    "Connettività bluetooth"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DDZ6P92X",
-  "category": "soundbar",
-  "title": "Sonos Soundbar Arc Ultra con Dolby Atmos e controllo vocale",
-  "brand": "Sonos",
-  "price": {
-   "value": 849.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 428,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61vmK8b-hxL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07HN2HMYB",
-  "category": "soundbar",
-  "title": "DENON DHT-S316 Soundbar 2.1 con Subwoofer Wireless, Nero",
-  "brand": "DENON",
-  "price": {
-   "value": 260.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1544,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61PVDYC6iuL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Connettività",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09B13XFGY",
-  "category": "soundbar",
-  "title": "Sonos Soundbar compatta Beam (Gen 2)",
-  "brand": "Sonos",
-  "price": {
-   "value": 349.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1375,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/31WzgZBfiGL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Estetica",
-    "Facilità d'uso",
-    "Dimensioni compatte"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00BD1I8P4",
-  "category": "soundbar",
-  "title": "Sonos PLAYBAR - Soundbar e altoparlante wireless",
-  "brand": "Sonos",
-  "price": {
-   "value": 1390.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 361,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61M3qESeimL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CD2PJSRH",
-  "category": "soundbar",
-  "title": "Bose Smart Ultra Soundbar con Dolby Atmos e controllo vocale Alexa",
-  "brand": "Bose",
-  "price": {
-   "value": 529.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1122,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51JCG1vuunL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Estetica",
-    "Facilità d'installazione",
-    "Potenza"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Connettività"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D22SVP73",
-  "category": "soundbar",
-  "title": "Hisense HS3100 Soundbar 3.1, Potenza 480W, Subwoofer Esterno wireless",
-  "brand": "Hisense",
-  "price": {
-   "value": 116.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1093,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51CGqxFR5oL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Facilità d'installazione",
-    "Connettività"
-   ],
-   "mixed": [
-    "Qualità del suono",
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B093BV9CK1",
-  "category": "soundbar",
-  "title": "LG SP8YA Soundbar TV 440W 3.1.2 Canali Meridian con Subwoofer Wireless",
-  "brand": "LG",
-  "price": {
-   "value": 580.46,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 336,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/318a7BIbn-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Connettività",
-    "Potenza"
-   ],
-   "mixed": [
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0F6NK5773",
-  "category": "soundbar",
-  "title": "ULTIMEA 5.1ch Soundbar TV con Dolby Atmos, 340W, Impianto Audio Surround",
-  "brand": "ULTIMEA",
-  "price": {
-   "value": 135.36,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 943,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61oxYJ3FBgL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Facilità di montaggio",
-    "Estetica"
-   ],
-   "mixed": [
-    "Effetto audio"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

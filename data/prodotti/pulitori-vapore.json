@@ -1,249 +1,249 @@
 [
- {
-  "asin": "B0D6Z2C5VH",
-  "category": "pulitori-vapore",
-  "title": "Shark Scopa automatica a vapore con blaster e 6 cuscinetti",
-  "brand": "Shark",
-  "image": "https://m.media-amazon.com/images/I/61VpOt4X1UL._AC_SL500_.jpg",
-  "price": {
-   "value": 178.85,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0D4ZJZ8QV",
+    "category": "pulitori-vapore",
+    "title": "Vileda Steam PLUS Scopa lavapavimenti a vapore, elimina fi",
+    "brand": "Vileda",
+    "image": "https://m.media-amazon.com/images/I/61tQWpc7f+L._AC_SL500_.jpg",
+    "price": {
+      "value": 74.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1807,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Praticità",
+        "Leggerezza"
+      ],
+      "mixed": [],
+      "negative": [
+        "Lunghezza del filo"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 704,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CGMCFD8C",
+    "category": "pulitori-vapore",
+    "title": "KÄRCHER Pulitore a Vapore SC 2 EasyFix, Pronto in 6.5 min",
+    "brand": "Kärcher",
+    "image": "https://m.media-amazon.com/images/I/61VPf2e7+CL._AC_SL500_.jpg",
+    "price": {
+      "value": 130.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1642,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D6Z2C5VH",
+    "category": "pulitori-vapore",
+    "title": "Shark Scopa automatica a vapore con blaster e 6 cuscinetti",
+    "brand": "Shark",
+    "image": "https://m.media-amazon.com/images/I/61VpOt4X1UL._AC_SL500_.jpg",
+    "price": {
+      "value": 178.85,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 704,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B07RZ22TS1",
+    "category": "pulitori-vapore",
+    "title": "Shark Scopa a vapore leggera per pavimenti duri, con 2 pan",
+    "brand": "Shark",
+    "image": "https://m.media-amazon.com/images/I/51lgpDWd1kL._AC_SL500_.jpg",
+    "price": {
+      "value": 72.22,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 6382,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09G39CGZR",
+    "category": "pulitori-vapore",
+    "title": "Vileda Steam PLUS XXL con Power Pad, lavapavimenti a vapor",
+    "brand": "Vileda",
+    "image": "https://m.media-amazon.com/images/I/71nYdHpjaRL._AC_SL500_.jpg",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 5785,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Facilità d'uso",
+        "Leggerezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09HL69NY8",
+    "category": "pulitori-vapore",
+    "title": "Vileda Steam PLUS: scopa a vapore per pavimenti e tappeti.",
+    "brand": "Vileda",
+    "image": "https://m.media-amazon.com/images/I/61z2XnTknQL._AC_SL500_.jpg",
+    "price": {
+      "value": 67.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 4285,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Leggerezza",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07NPYNQV2",
+    "category": "pulitori-vapore",
+    "title": "Dupray Neat pulitore a vapore con kit 17 accessori per cas",
+    "brand": "Dupray",
+    "image": "https://m.media-amazon.com/images/I/71G3TMspkdL._AC_SL500_.jpg",
+    "price": {
+      "value": 179.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2626,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Potenza del vapore",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HHJ8F3ZC",
+    "category": "pulitori-vapore",
+    "title": "Pulitore a vapore con touchscreen intelligente, riscaldame",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/71gWwhrX+UL._AC_SL500_.jpg",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 655,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B0HJZ33LR5",
+    "category": "pulitori-vapore",
+    "title": "Pulitore a Vapore Portatile 105°C con Serbatoio Rimovibile",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/71VTIeGnT-L._AC_SL500_.jpg",
+    "price": {
+      "value": 56.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 245,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
+  },
+  {
+    "asin": "B09HMGMMH1",
+    "category": "pulitori-vapore",
+    "title": "Vileda Steam Plus Pulitore a vapore con PowerPad e rivesti",
+    "brand": "Vileda",
+    "image": "https://m.media-amazon.com/images/I/61cPdMhc3JL._AC_SL500_.jpg",
+    "price": {
+      "value": 78.6,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 591,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0D4ZJZ8QV",
-  "category": "pulitori-vapore",
-  "title": "Vileda Steam PLUS Scopa lavapavimenti a vapore, elimina fi",
-  "brand": "Vileda",
-  "image": "https://m.media-amazon.com/images/I/61tQWpc7f+L._AC_SL500_.jpg",
-  "price": {
-   "value": 74.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1807,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Praticità",
-    "Leggerezza"
-   ],
-   "mixed": [],
-   "negative": [
-    "Lunghezza del filo"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HJZ33LR5",
-  "category": "pulitori-vapore",
-  "title": "Pulitore a Vapore Portatile 105°C con Serbatoio Rimovibile",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/71VTIeGnT-L._AC_SL500_.jpg",
-  "price": {
-   "value": 56.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 245,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B0CGMCFD8C",
-  "category": "pulitori-vapore",
-  "title": "KÄRCHER Pulitore a Vapore SC 2 EasyFix, Pronto in 6.5 min",
-  "brand": "Kärcher",
-  "image": "https://m.media-amazon.com/images/I/61VPf2e7+CL._AC_SL500_.jpg",
-  "price": {
-   "value": 130.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1642,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07RZ22TS1",
-  "category": "pulitori-vapore",
-  "title": "Shark Scopa a vapore leggera per pavimenti duri, con 2 pan",
-  "brand": "Shark",
-  "image": "https://m.media-amazon.com/images/I/51lgpDWd1kL._AC_SL500_.jpg",
-  "price": {
-   "value": 72.22,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 6382,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B09G39CGZR",
-  "category": "pulitori-vapore",
-  "title": "Vileda Steam PLUS XXL con Power Pad, lavapavimenti a vapor",
-  "brand": "Vileda",
-  "image": "https://m.media-amazon.com/images/I/71nYdHpjaRL._AC_SL500_.jpg",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 5785,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Facilità d'uso",
-    "Leggerezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HHJ8F3ZC",
-  "category": "pulitori-vapore",
-  "title": "Pulitore a vapore con touchscreen intelligente, riscaldame",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/71gWwhrX+UL._AC_SL500_.jpg",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 655,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B09HL69NY8",
-  "category": "pulitori-vapore",
-  "title": "Vileda Steam PLUS: scopa a vapore per pavimenti e tappeti.",
-  "brand": "Vileda",
-  "image": "https://m.media-amazon.com/images/I/61z2XnTknQL._AC_SL500_.jpg",
-  "price": {
-   "value": 67.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 4285,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Leggerezza",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07NPYNQV2",
-  "category": "pulitori-vapore",
-  "title": "Dupray Neat pulitore a vapore con kit 17 accessori per cas",
-  "brand": "Dupray",
-  "image": "https://m.media-amazon.com/images/I/71G3TMspkdL._AC_SL500_.jpg",
-  "price": {
-   "value": 179.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2626,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Potenza del vapore",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09HMGMMH1",
-  "category": "pulitori-vapore",
-  "title": "Vileda Steam Plus Pulitore a vapore con PowerPad e rivesti",
-  "brand": "Vileda",
-  "image": "https://m.media-amazon.com/images/I/61cPdMhc3JL._AC_SL500_.jpg",
-  "price": {
-   "value": 78.6,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 591,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  }
- }
 ]

@@ -1,281 +1,281 @@
 [
- {
-  "asin": "B074V6QSNH",
-  "category": "smerigliatrici",
-  "title": "Dewalt DCG405N-XJ Smerigliatrice Angolare, Multicolore (Nero/Giallo)",
-  "brand": "Dewalt",
-  "price": {
-   "value": 155.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B074V6QSNH",
+    "category": "smerigliatrici",
+    "title": "Dewalt DCG405N-XJ Smerigliatrice Angolare, Multicolore (Nero/Giallo)",
+    "brand": "Dewalt",
+    "price": {
+      "value": 155,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 4211,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71U4CquFDcL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Comfort",
+        "Affidabilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 4211,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B075T59BF2",
+    "category": "smerigliatrici",
+    "title": "DEWALT Smerigliatrice testa piatta 125 mm brushless 18V XR, DCG405FN-XJ",
+    "brand": "DEWALT",
+    "price": {
+      "value": 206.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1428,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61VU4iWgLVL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Maneggevolezza",
+        "Funzionalità",
+        "Potenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71U4CquFDcL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Comfort",
-    "Affidabilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B075T9ZY4W",
+    "category": "smerigliatrici",
+    "title": "DEWALT Smerigliatrice 125 mm brushless 18V XR, DCG406NT-XJ",
+    "brand": "DEWALT",
+    "price": {
+      "value": 172.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1339,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/712wsvdpKxL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Affidabilità",
+        "Maneggevolezza",
+        "Potenza",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01G5BM0KU",
+    "category": "smerigliatrici",
+    "title": "Makita 9558NBRZ smerigliatrice angolare",
+    "brand": "Makita",
+    "price": {
+      "value": 108.07,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4680,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/511ET5hH+QL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Affidabilità",
+        "Rapporto qualità-prezzo",
+        "Robustezza",
+        "Potenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B018YPET7C",
+    "category": "smerigliatrici",
+    "title": "Bosch Professional 0 601 9F2 003 Smerigliatrice Angolare GWS 12V-76",
+    "brand": "Bosch",
+    "price": {
+      "value": 119.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4176,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71I9oH2LRzL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Funzionalità",
+        "Potenza",
+        "Comfort"
+      ],
+      "mixed": [
+        "Batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B079GWTMC2",
+    "category": "smerigliatrici",
+    "title": "Makita DGA513Z Smerigliatrice Angolare Batteria 18V Solo Corpo",
+    "brand": "Makita",
+    "price": {
+      "value": 163,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2701,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/6107h2TpcfL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Potenza",
+        "Ingombro",
+        "Regolabilità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B072RCDV3S",
+    "category": "smerigliatrici",
+    "title": "DEWALT 1500W 125mm Smerigliatrice Angolare a Velocità Variabile",
+    "brand": "DEWALT",
+    "price": {
+      "value": 236.22,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 719,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71HPI9+Y8eL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Rapporto qualità-prezzo",
+        "Aspirazione polvere",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B006WXB6F2",
+    "category": "smerigliatrici",
+    "title": "DEWALT Smerigliatrice angolare 125mm (solo corpo in TSTAK), DCG412N-XJ",
+    "brand": "DEWALT",
+    "price": {
+      "value": 196.59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1555,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71OnQFPp55L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B01LW2MQGG",
+    "category": "smerigliatrici",
+    "title": "Makita DGA463Z - Smerigliatrice angolare brushless 115 mm",
+    "brand": "Makita",
+    "price": {
+      "value": 224.68,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 558,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/516fgjVJvML._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B005R3CZCG",
+    "category": "smerigliatrici",
+    "title": "Makita GA4530R 720 W 240 V Smerigliatrice angolare, 115 mm/S",
+    "brand": "Makita",
+    "price": {
+      "value": 57.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1462,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51GmJSqlw1L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Leggerezza",
+        "Maneggevolezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B075T59BF2",
-  "category": "smerigliatrici",
-  "title": "DEWALT Smerigliatrice testa piatta 125 mm brushless 18V XR, DCG405FN-XJ",
-  "brand": "DEWALT",
-  "price": {
-   "value": 206.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1428,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61VU4iWgLVL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Maneggevolezza",
-    "Funzionalità",
-    "Potenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B075T9ZY4W",
-  "category": "smerigliatrici",
-  "title": "DEWALT Smerigliatrice 125 mm brushless 18V XR, DCG406NT-XJ",
-  "brand": "DEWALT",
-  "price": {
-   "value": 172.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1339,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/712wsvdpKxL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Affidabilità",
-    "Maneggevolezza",
-    "Potenza",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01G5BM0KU",
-  "category": "smerigliatrici",
-  "title": "Makita 9558NBRZ smerigliatrice angolare",
-  "brand": "Makita",
-  "price": {
-   "value": 108.07,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 4680,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/511ET5hH+QL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Affidabilità",
-    "Rapporto qualità-prezzo",
-    "Robustezza",
-    "Potenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B018YPET7C",
-  "category": "smerigliatrici",
-  "title": "Bosch Professional 0 601 9F2 003 Smerigliatrice Angolare GWS 12V-76",
-  "brand": "Bosch",
-  "price": {
-   "value": 119.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 4176,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71I9oH2LRzL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Funzionalità",
-    "Potenza",
-    "Comfort"
-   ],
-   "mixed": [
-    "Batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B079GWTMC2",
-  "category": "smerigliatrici",
-  "title": "Makita DGA513Z Smerigliatrice Angolare Batteria 18V Solo Corpo",
-  "brand": "Makita",
-  "price": {
-   "value": 163.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2701,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/6107h2TpcfL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Potenza",
-    "Ingombro",
-    "Regolabilità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B072RCDV3S",
-  "category": "smerigliatrici",
-  "title": "DEWALT 1500W 125mm Smerigliatrice Angolare a Velocità Variabile",
-  "brand": "DEWALT",
-  "price": {
-   "value": 236.22,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 719,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71HPI9+Y8eL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Rapporto qualità-prezzo",
-    "Aspirazione polvere",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B006WXB6F2",
-  "category": "smerigliatrici",
-  "title": "DEWALT Smerigliatrice angolare 125mm (solo corpo in TSTAK), DCG412N-XJ",
-  "brand": "DEWALT",
-  "price": {
-   "value": 196.59,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1555,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71OnQFPp55L._AC_SL500_.jpg"
- },
- {
-  "asin": "B01LW2MQGG",
-  "category": "smerigliatrici",
-  "title": "Makita DGA463Z - Smerigliatrice angolare brushless 115 mm",
-  "brand": "Makita",
-  "price": {
-   "value": 224.68,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 558,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/516fgjVJvML._AC_SL500_.jpg"
- },
- {
-  "asin": "B005R3CZCG",
-  "category": "smerigliatrici",
-  "title": "Makita GA4530R 720 W 240 V Smerigliatrice angolare, 115 mm/S",
-  "brand": "Makita",
-  "price": {
-   "value": 57.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1462,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51GmJSqlw1L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Leggerezza",
-    "Maneggevolezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

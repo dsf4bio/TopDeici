@@ -1,214 +1,214 @@
 [
- {
-  "asin": "B00I8N1ABY",
-  "category": "tagliasiepi",
-  "title": "Makita TAGLIASIEPI 18V 52CM (Large)",
-  "brand": "Makita",
-  "price": {
-   "value": 167.96,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00I8N1ABY",
+    "category": "tagliasiepi",
+    "title": "Makita TAGLIASIEPI 18V 52CM (Large)",
+    "brand": "Makita",
+    "price": {
+      "value": 167.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 11122,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/41tJoNlBfFL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Leggerezza",
+        "Maneggevolezza",
+        "Durata batteria"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 11122,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00GLI10C2",
+    "category": "tagliasiepi",
+    "title": "BLACK+DECKER Tagliasiepi elettrico, 43,2 cm, con cavo, 3,2 Amp",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 169.97,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 14858,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51NK-BlfByL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/41tJoNlBfFL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Leggerezza",
-    "Maneggevolezza",
-    "Durata batteria"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0799QY4TW",
+    "category": "tagliasiepi",
+    "title": "EGO Power+ HT2411 - Tagliasiepi con motore senza spazzole e senza filo",
+    "brand": "EGO",
+    "price": {
+      "value": 369,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1305,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51ALTyKxdHL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07P8DHJG7",
+    "category": "tagliasiepi",
+    "title": "Makita TAGLIASIEPI 18V 60CM BL, Nero",
+    "brand": "Makita",
+    "price": {
+      "value": 337.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 672,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51QX7KVdWOL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0949SJHQ2",
+    "category": "tagliasiepi",
+    "title": "CRAFTSMAN CMCHT810B V20* Tagliasiepi senza fili, 50,8 cm (solo utensile)",
+    "brand": "CRAFTSMAN",
+    "price": {
+      "value": 100.35,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1128,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61KoyIsyvfS._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B083M7N23C",
+    "category": "tagliasiepi",
+    "title": "RYOBI ONE+ - Tagliasiepi a batteria senza fili agli ioni di litio da 22",
+    "brand": "RYOBI",
+    "price": {
+      "value": 468.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1049,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51aZFNDbneL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07MVLYF7L",
+    "category": "tagliasiepi",
+    "title": "WORX Tagliasiepi senza fili, 20 V, 55,9 cm, WG261",
+    "brand": "WORX",
+    "price": {
+      "value": 340.8,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6386,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61JyN-hSeZL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B00HEF4XX4",
+    "category": "tagliasiepi",
+    "title": "Einhell Tagliasiepi a batteria GC-CH 1846 Li-Solo / PXC / 18 V",
+    "brand": "Einhell",
+    "price": {
+      "value": 68.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5797,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61hTDASPc8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Leggerezza",
+        "Funzionalità",
+        "Taglio",
+        "Durata batteria"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0866BSKN2",
+    "category": "tagliasiepi",
+    "title": "Makita DUN500WZ Tagliasiepi Batteria 18V LXT 500mm 23,5mm Solo Corpo",
+    "brand": "Makita",
+    "price": {
+      "value": 329.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 692,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/4103s82a-OL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B08T6DRR3R",
+    "category": "tagliasiepi",
+    "title": "Craftsman V20 CMCSS800C1 - Tagliaerba portatile senza fili e mini",
+    "brand": "Craftsman",
+    "price": {
+      "value": 142.29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2356,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61DyX4WreGL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B00GLI10C2",
-  "category": "tagliasiepi",
-  "title": "BLACK+DECKER Tagliasiepi elettrico, 43,2 cm, con cavo, 3,2 Amp",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 169.97,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 14858,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51NK-BlfByL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07P8DHJG7",
-  "category": "tagliasiepi",
-  "title": "Makita TAGLIASIEPI 18V 60CM BL, Nero",
-  "brand": "Makita",
-  "price": {
-   "value": 337.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 672,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51QX7KVdWOL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0799QY4TW",
-  "category": "tagliasiepi",
-  "title": "EGO Power+ HT2411 - Tagliasiepi con motore senza spazzole e senza filo",
-  "brand": "EGO",
-  "price": {
-   "value": 369.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1305,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51ALTyKxdHL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07MVLYF7L",
-  "category": "tagliasiepi",
-  "title": "WORX Tagliasiepi senza fili, 20 V, 55,9 cm, WG261",
-  "brand": "WORX",
-  "price": {
-   "value": 340.8,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6386,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61JyN-hSeZL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0949SJHQ2",
-  "category": "tagliasiepi",
-  "title": "CRAFTSMAN CMCHT810B V20* Tagliasiepi senza fili, 50,8 cm (solo utensile)",
-  "brand": "CRAFTSMAN",
-  "price": {
-   "value": 100.35,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1128,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61KoyIsyvfS._AC_SL500_.jpg"
- },
- {
-  "asin": "B00HEF4XX4",
-  "category": "tagliasiepi",
-  "title": "Einhell Tagliasiepi a batteria GC-CH 1846 Li-Solo / PXC / 18 V",
-  "brand": "Einhell",
-  "price": {
-   "value": 68.19,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5797,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61hTDASPc8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Leggerezza",
-    "Funzionalità",
-    "Taglio",
-    "Durata batteria"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B083M7N23C",
-  "category": "tagliasiepi",
-  "title": "RYOBI ONE+ - Tagliasiepi a batteria senza fili agli ioni di litio da 22",
-  "brand": "RYOBI",
-  "price": {
-   "value": 468.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1049,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51aZFNDbneL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0866BSKN2",
-  "category": "tagliasiepi",
-  "title": "Makita DUN500WZ Tagliasiepi Batteria 18V LXT 500mm 23,5mm Solo Corpo",
-  "brand": "Makita",
-  "price": {
-   "value": 329.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 692,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/4103s82a-OL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08T6DRR3R",
-  "category": "tagliasiepi",
-  "title": "Craftsman V20 CMCSS800C1 - Tagliaerba portatile senza fili e mini",
-  "brand": "Craftsman",
-  "price": {
-   "value": 142.29,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2356,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61DyX4WreGL._AC_SL500_.jpg"
- }
 ]

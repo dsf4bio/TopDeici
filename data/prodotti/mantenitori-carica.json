@@ -1,287 +1,287 @@
 [
- {
-  "asin": "B00DEID79G",
-  "category": "mantenitori-carica",
-  "title": "CTEK MXS 5.0 Caricabatterie 12V 5A, per Auto e Moto",
-  "brand": "CTEK",
-  "price": {
-   "value": 69.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00DEID79G",
+    "category": "mantenitori-carica",
+    "title": "CTEK MXS 5.0 Caricabatterie 12V 5A, per Auto e Moto",
+    "brand": "CTEK",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 37724,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81aqUf5Ns3L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Mantenimento batteria",
+        "Ricarica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 37724,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00FGX3CT2",
+    "category": "mantenitori-carica",
+    "title": "CTEK MXS 3.8 Caricabatterie 12V 3,8A, per Auto e Moto",
+    "brand": "CTEK",
+    "price": {
+      "value": 57.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2516,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61MzYjieJDL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Praticità",
+        "Ricarica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/81aqUf5Ns3L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Mantenimento batteria",
-    "Ricarica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B00441M10I",
+    "category": "mantenitori-carica",
+    "title": "CTEK XS 0.8 Caricabatterie 12V 0.8A, per Moto & Piccoli Veicoli",
+    "brand": "CTEK",
+    "price": {
+      "value": 53.12,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4535,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61kps5-Q7TL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Efficacia",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07PSVG5KR",
+    "category": "mantenitori-carica",
+    "title": "CTEK CT5 Powersport Caricabatterie Automatico 12V 2.3A, Piombo",
+    "brand": "CTEK",
+    "price": {
+      "value": 77.04,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1244,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61hCjR86YXL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Ricarica veloce"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07NGVMH9J",
+    "category": "mantenitori-carica",
+    "title": "Optimate 1 Duo - Caricabatteria automatico per moto",
+    "brand": "Optimate",
+    "price": {
+      "value": 55.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 898,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61hOuioPA0L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CGJ3DYY5",
+    "category": "mantenitori-carica",
+    "title": "Bosch C80-Li Caricabatterie per auto, 12 V / 15 A",
+    "brand": "Bosch",
+    "price": {
+      "value": 113.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 886,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71wpqwy6mrL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Velocità di ricarica",
+        "Display"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0828KQKBM",
+    "category": "mantenitori-carica",
+    "title": "NOCO GENIUS5 Caricabatterie Intelligente 5A 6/12V e Mantenitore di",
+    "brand": "NOCO",
+    "price": {
+      "value": 73.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6614,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81UVh1o+ayL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Dimensioni"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07KSFBMXF",
+    "category": "mantenitori-carica",
+    "title": "Dino KRAFTPAKET Caricabatterie Intelligente e Automatico da 4 A",
+    "brand": "Dino",
+    "price": {
+      "value": 32.92,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4976,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61GPx5uQi1L._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B08F37P7H3",
+    "category": "mantenitori-carica",
+    "title": "NOCO GENIUS2X2 Caricabatterie 4A 6/12V a 2 Canali e Mantenitore di",
+    "brand": "NOCO",
+    "price": {
+      "value": 121,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4594,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81osTTIblLL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Facilità d'uso",
+        "Adattabilità",
+        "Carica batterie"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0828K688S",
+    "category": "mantenitori-carica",
+    "title": "NOCO GENIUS2 Caricabatterie Intelligente 2A 6/12V e Mantenitore di",
+    "brand": "NOCO",
+    "price": {
+      "value": 49.82,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2795,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81dOFbll55L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Dimensioni compatte"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B00FGX3CT2",
-  "category": "mantenitori-carica",
-  "title": "CTEK MXS 3.8 Caricabatterie 12V 3,8A, per Auto e Moto",
-  "brand": "CTEK",
-  "price": {
-   "value": 57.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 2516,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61MzYjieJDL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Praticità",
-    "Ricarica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00441M10I",
-  "category": "mantenitori-carica",
-  "title": "CTEK XS 0.8 Caricabatterie 12V 0.8A, per Moto & Piccoli Veicoli",
-  "brand": "CTEK",
-  "price": {
-   "value": 53.12,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 4535,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61kps5-Q7TL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Efficacia",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07PSVG5KR",
-  "category": "mantenitori-carica",
-  "title": "CTEK CT5 Powersport Caricabatterie Automatico 12V 2.3A, Piombo",
-  "brand": "CTEK",
-  "price": {
-   "value": 77.04,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1244,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61hCjR86YXL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Ricarica veloce"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07NGVMH9J",
-  "category": "mantenitori-carica",
-  "title": "Optimate 1 Duo - Caricabatteria automatico per moto",
-  "brand": "Optimate",
-  "price": {
-   "value": 55.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 898,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61hOuioPA0L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CGJ3DYY5",
-  "category": "mantenitori-carica",
-  "title": "Bosch C80-Li Caricabatterie per auto, 12 V / 15 A",
-  "brand": "Bosch",
-  "price": {
-   "value": 113.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 886,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71wpqwy6mrL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Velocità di ricarica",
-    "Display"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0828KQKBM",
-  "category": "mantenitori-carica",
-  "title": "NOCO GENIUS5 Caricabatterie Intelligente 5A 6/12V e Mantenitore di",
-  "brand": "NOCO",
-  "price": {
-   "value": 73.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6614,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81UVh1o+ayL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Dimensioni"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07KSFBMXF",
-  "category": "mantenitori-carica",
-  "title": "Dino KRAFTPAKET Caricabatterie Intelligente e Automatico da 4 A",
-  "brand": "Dino",
-  "price": {
-   "value": 32.92,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4976,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61GPx5uQi1L._AC_SL500_.jpg"
- },
- {
-  "asin": "B08F37P7H3",
-  "category": "mantenitori-carica",
-  "title": "NOCO GENIUS2X2 Caricabatterie 4A 6/12V a 2 Canali e Mantenitore di",
-  "brand": "NOCO",
-  "price": {
-   "value": 121.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4594,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81osTTIblLL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Facilità d'uso",
-    "Adattabilità",
-    "Carica batterie"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0828K688S",
-  "category": "mantenitori-carica",
-  "title": "NOCO GENIUS2 Caricabatterie Intelligente 2A 6/12V e Mantenitore di",
-  "brand": "NOCO",
-  "price": {
-   "value": 49.82,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2795,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81dOFbll55L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Dimensioni compatte"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

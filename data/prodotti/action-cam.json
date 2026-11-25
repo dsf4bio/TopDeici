@@ -1,273 +1,273 @@
 [
- {
-  "asin": "B0C783YNW7",
-  "category": "action-cam",
-  "title": "DJI Osmo Action 4 Combo Standard, action cam 4K/120fps",
-  "brand": "DJI",
-  "price": {
-   "value": 179.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0C783YNW7",
+    "category": "action-cam",
+    "title": "DJI Osmo Action 4 Combo Standard, action cam 4K/120fps",
+    "brand": "DJI",
+    "price": {
+      "value": 179,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10781,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61l2P9RV24L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Rapporto qualità-prezzo",
+        "Stabilizzazione",
+        "Durata batteria"
+      ],
+      "mixed": [
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 10781,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DZCBYCNY",
+    "category": "action-cam",
+    "title": "Insta360 X5 - Videocamera 8K 360, sensori da 1/1.28\"",
+    "brand": "Insta360",
+    "image": "https://m.media-amazon.com/images/I/61m2oUob8NL._AC_SL500_.jpg",
+    "price": {
+      "value": 439,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2568,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Funzionalità",
+        "Durata batteria",
+        "Estetica"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61l2P9RV24L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Rapporto qualità-prezzo",
-    "Stabilizzazione",
-    "Durata batteria"
-   ],
-   "mixed": [
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0D1YH4B2R",
+    "category": "action-cam",
+    "title": "DJI Osmo Action 5 Pro Combo Standard, action cam 4K per uso quotidiano",
+    "brand": "DJI",
+    "price": {
+      "value": 299,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2096,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71c8pngTtTL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Facilità d'uso",
+        "Durata batteria",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Prestazioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CKML3W6R",
+    "category": "action-cam",
+    "title": "Insta360 Ace Pro - Action Camera impermeabile, obiettivo Leica, 4K120fps",
+    "brand": "Insta360",
+    "price": {
+      "value": 199,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1654,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Urtezh3AL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Prestazioni",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DHD6SFJB",
+    "category": "action-cam",
+    "title": "Insta360 Ace Pro 2 Nero Notte - Action cam 8K coprogettata con Leica",
+    "brand": "Insta360",
+    "price": {
+      "value": 299,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 935,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61+3zaSUKNL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Funzionalità",
+        "Controllo manuale",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CF3VVTLG",
+    "category": "action-cam",
+    "title": "GoPro HERO12 Black - Action camera impermeabile",
+    "brand": "GoPro",
+    "price": {
+      "value": 282,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3740,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61dUta09HGL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Stabilizzazione",
+        "Funzionalità",
+        "Estetica"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Affidabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FNMP8LZX",
+    "category": "action-cam",
+    "title": "DJI Osmo Action 6 Combo Essenziale, action cam 8K per iniziare subito",
+    "brand": "DJI",
+    "price": {
+      "value": 429,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2494,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71DbE2888ZL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0D3WLV9Q1",
+    "category": "action-cam",
+    "title": "Insta360 GO 3S Nero Notte 128GB - Cam 4K per vlog, action cam magnetica",
+    "brand": "Insta360",
+    "price": {
+      "value": 259,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2260,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71LY8Or+yuL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Dimensioni compatte",
+        "Qualità video"
+      ],
+      "mixed": [
+        "Prestazioni",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0B9D6FD9R",
+    "category": "action-cam",
+    "title": "GoPro HERO11 Action Cam Impermeabile, Con Video Ultra HD 5.3K60",
+    "brand": "GoPro",
+    "price": {
+      "value": 295,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1772,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/617sGSjmC1L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità video",
+        "Facilità d'uso",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Affidabilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0D1YH4B2R",
-  "category": "action-cam",
-  "title": "DJI Osmo Action 5 Pro Combo Standard, action cam 4K per uso quotidiano",
-  "brand": "DJI",
-  "price": {
-   "value": 299.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2096,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71c8pngTtTL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Facilità d'uso",
-    "Durata batteria",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Prestazioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CKML3W6R",
-  "category": "action-cam",
-  "title": "Insta360 Ace Pro - Action Camera impermeabile, obiettivo Leica, 4K120fps",
-  "brand": "Insta360",
-  "price": {
-   "value": 199.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1654,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Urtezh3AL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Prestazioni",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CF3VVTLG",
-  "category": "action-cam",
-  "title": "GoPro HERO12 Black - Action camera impermeabile",
-  "brand": "GoPro",
-  "price": {
-   "value": 282.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3740,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61dUta09HGL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Stabilizzazione",
-    "Funzionalità",
-    "Estetica"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Affidabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DHD6SFJB",
-  "category": "action-cam",
-  "title": "Insta360 Ace Pro 2 Nero Notte - Action cam 8K coprogettata con Leica",
-  "brand": "Insta360",
-  "price": {
-   "value": 299.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 935,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61+3zaSUKNL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Funzionalità",
-    "Controllo manuale",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FNMP8LZX",
-  "category": "action-cam",
-  "title": "DJI Osmo Action 6 Combo Essenziale, action cam 8K per iniziare subito",
-  "brand": "DJI",
-  "price": {
-   "value": 429.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2494,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71DbE2888ZL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0D3WLV9Q1",
-  "category": "action-cam",
-  "title": "Insta360 GO 3S Nero Notte 128GB - Cam 4K per vlog, action cam magnetica",
-  "brand": "Insta360",
-  "price": {
-   "value": 259.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2260,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71LY8Or+yuL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Dimensioni compatte",
-    "Qualità video"
-   ],
-   "mixed": [
-    "Prestazioni",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0B9D6FD9R",
-  "category": "action-cam",
-  "title": "GoPro HERO11 Action Cam Impermeabile, Con Video Ultra HD 5.3K60",
-  "brand": "GoPro",
-  "price": {
-   "value": 295.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1772,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/617sGSjmC1L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Facilità d'uso",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Affidabilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DZCBYCNY",
-  "category": "action-cam",
-  "title": "Insta360 X5 - Videocamera 8K 360, sensori da 1/1.28\"",
-  "brand": "Insta360",
-  "image": "https://m.media-amazon.com/images/I/61m2oUob8NL._AC_SL500_.jpg",
-  "price": {
-   "value": 439.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2568,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità video",
-    "Funzionalità",
-    "Durata batteria",
-    "Estetica"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

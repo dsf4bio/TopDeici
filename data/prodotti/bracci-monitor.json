@@ -1,295 +1,295 @@
 [
- {
-  "asin": "B01MR397OH",
-  "category": "bracci-monitor",
-  "title": "BONTEC Supporto Doppio Monitor per Schermo LED LCD da 13 a 27 Pollici",
-  "brand": "BONTEC",
-  "price": {
-   "value": 27.54,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B01MR397OH",
+    "category": "bracci-monitor",
+    "title": "BONTEC Supporto Doppio Monitor per Schermo LED LCD da 13 a 27 Pollici",
+    "brand": "BONTEC",
+    "price": {
+      "value": 27.54,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 38670,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61cA+ne40xL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 38670,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08B8X4KBV",
+    "category": "bracci-monitor",
+    "title": "Invision Supporto Braccio Monitor per Schermi 24-40 pollici Morsetto",
+    "brand": "Invision",
+    "price": {
+      "value": 56.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 7799,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71jv-B1gVJL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Stabilità",
+        "Mobilità"
+      ],
+      "mixed": [
+        "Regolabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61cA+ne40xL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CKPC6YM3",
+    "category": "bracci-monitor",
+    "title": "BONTEC Supporto Monitor Schermi da 13\" a 32\"",
+    "brand": "BONTEC",
+    "price": {
+      "value": 25.64,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 4091,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61gjjZxKbeL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'installazione",
+        "Robustezza",
+        "Stabilità",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Flessibilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B091ZK3DPV",
+    "category": "bracci-monitor",
+    "title": "Invision Braccio Monitor Doppio per 24-35\" pollic schermi",
+    "brand": "Invision",
+    "price": {
+      "value": 75.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2839,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71FYY4noshL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Regolabilità",
+        "Stabilità"
+      ],
+      "mixed": [
+        "Capacità di carico"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07ZNGT8K4",
+    "category": "bracci-monitor",
+    "title": "HUANUO Supporto Monitor Scrivania Doppio, Braccio Monitor Scrivania pe",
+    "brand": "HUANUO",
+    "image": "https://m.media-amazon.com/images/I/615XhbwYneL._AC_SL500_.jpg",
+    "price": {
+      "value": 49.63,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 12167,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Regolabilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GMX3QTML",
+    "category": "bracci-monitor",
+    "title": "Ergosolid F160-G Supporto Doppio Monitor Scrivania 17-32 pollici, Brac",
+    "brand": "Ergosolid",
+    "image": "https://m.media-amazon.com/images/I/51li+EApCAL._AC_SL500_.jpg",
+    "price": {
+      "value": 44.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2152,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Stabilità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0828R6K22",
+    "category": "bracci-monitor",
+    "title": "Hemudu Supporto Monitor Scrivania Doppio, Supporto TV Da Tavolo per Sc",
+    "brand": "Hemudu",
+    "image": "https://m.media-amazon.com/images/I/51hylR5zINL._AC_SL500_.jpg",
+    "price": {
+      "value": 52.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2135,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Estetica",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09CQCYH75",
+    "category": "bracci-monitor",
+    "title": "Invision Braccio Monitor Supporto Schermi 19-32 pollici, VESA 75/100mm",
+    "brand": "Invision",
+    "image": "https://m.media-amazon.com/images/I/81i-ZDh0ycL._AC_SL500_.jpg",
+    "price": {
+      "value": 34.28,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6925,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Robustezza",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D6YTW81B",
+    "category": "bracci-monitor",
+    "title": "Supporto da tavolo con molla a gas per schermi LCD da 17-30 pollici co",
+    "brand": "Generico",
+    "image": "https://m.media-amazon.com/images/I/716WDIfC17L._AC_SL500_.jpg",
+    "price": {
+      "value": 36.92,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 4191,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità di montaggio",
+        "Regolabilità",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B083G6P7WH",
+    "category": "bracci-monitor",
+    "title": "VIVO Supporto Doppio Monitor da Scrivania, Supporto in Acciaio Resiste",
+    "brand": "VIVO",
+    "image": "https://m.media-amazon.com/images/I/61ymF3aBg6L._AC_SL500_.jpg",
+    "price": {
+      "value": 44.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 58519,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B08B8X4KBV",
-  "category": "bracci-monitor",
-  "title": "Invision Supporto Braccio Monitor per Schermi 24-40 pollici Morsetto",
-  "brand": "Invision",
-  "price": {
-   "value": 56.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 7799,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71jv-B1gVJL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Stabilità",
-    "Mobilità"
-   ],
-   "mixed": [
-    "Regolabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CKPC6YM3",
-  "category": "bracci-monitor",
-  "title": "BONTEC Supporto Monitor Schermi da 13\" a 32\"",
-  "brand": "BONTEC",
-  "price": {
-   "value": 25.64,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 4091,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61gjjZxKbeL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'installazione",
-    "Robustezza",
-    "Stabilità",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Flessibilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B091ZK3DPV",
-  "category": "bracci-monitor",
-  "title": "Invision Braccio Monitor Doppio per 24-35\" pollic schermi",
-  "brand": "Invision",
-  "price": {
-   "value": 75.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2839,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71FYY4noshL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Regolabilità",
-    "Stabilità"
-   ],
-   "mixed": [
-    "Capacità di carico"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0GMX3QTML",
-  "category": "bracci-monitor",
-  "title": "Ergosolid F160-G Supporto Doppio Monitor Scrivania 17-32 pollici, Brac",
-  "brand": "Ergosolid",
-  "image": "https://m.media-amazon.com/images/I/51li+EApCAL._AC_SL500_.jpg",
-  "price": {
-   "value": 44.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2152,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Stabilità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0828R6K22",
-  "category": "bracci-monitor",
-  "title": "Hemudu Supporto Monitor Scrivania Doppio, Supporto TV Da Tavolo per Sc",
-  "brand": "Hemudu",
-  "image": "https://m.media-amazon.com/images/I/51hylR5zINL._AC_SL500_.jpg",
-  "price": {
-   "value": 52.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 2135,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Estetica",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07ZNGT8K4",
-  "category": "bracci-monitor",
-  "title": "HUANUO Supporto Monitor Scrivania Doppio, Braccio Monitor Scrivania pe",
-  "brand": "HUANUO",
-  "image": "https://m.media-amazon.com/images/I/615XhbwYneL._AC_SL500_.jpg",
-  "price": {
-   "value": 49.63,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 12167,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Regolabilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B083G6P7WH",
-  "category": "bracci-monitor",
-  "title": "VIVO Supporto Doppio Monitor da Scrivania, Supporto in Acciaio Resiste",
-  "brand": "VIVO",
-  "image": "https://m.media-amazon.com/images/I/61ymF3aBg6L._AC_SL500_.jpg",
-  "price": {
-   "value": 44.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 58519,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- },
- {
-  "asin": "B09CQCYH75",
-  "category": "bracci-monitor",
-  "title": "Invision Braccio Monitor Supporto Schermi 19-32 pollici, VESA 75/100mm",
-  "brand": "Invision",
-  "image": "https://m.media-amazon.com/images/I/81i-ZDh0ycL._AC_SL500_.jpg",
-  "price": {
-   "value": 34.28,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6925,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Robustezza",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D6YTW81B",
-  "category": "bracci-monitor",
-  "title": "Supporto da tavolo con molla a gas per schermi LCD da 17-30 pollici co",
-  "brand": "Generico",
-  "image": "https://m.media-amazon.com/images/I/716WDIfC17L._AC_SL500_.jpg",
-  "price": {
-   "value": 36.92,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 4191,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità di montaggio",
-    "Regolabilità",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,303 +1,303 @@
 [
- {
-  "asin": "B0GBXY2YKK",
-  "category": "friggitrici-ad-aria",
-  "title": "Cosori Twinfry Compact Friggitrice ad Aria 8,6 Litri, Air Fryer Ceramico",
-  "brand": "Cosori",
-  "price": {
-   "value": 149.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0GBXY2YKK",
+    "category": "friggitrici-ad-aria",
+    "title": "Cosori Twinfry Compact Friggitrice ad Aria 8,6 Litri, Air Fryer Ceramico",
+    "brand": "Cosori",
+    "price": {
+      "value": 149.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 18660,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61T4FZ9QpFL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Facile da pulire"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 18660,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0832WLDLC",
+    "category": "friggitrici-ad-aria",
+    "title": "Cosori Friggitrice ad Aria 5,7 L, 13 Funzioni, 97% Meno Olio",
+    "brand": "Cosori",
+    "price": {
+      "value": 84.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 67053,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81kDHJmOYDL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Cottura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61T4FZ9QpFL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Facile da pulire"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0DX1GQK9J",
+    "category": "friggitrici-ad-aria",
+    "title": "Cosori Friggitrice ad Aria Turbo Blaze 6 Litri, DC Motore",
+    "brand": "Cosori",
+    "price": {
+      "value": 104.48,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 3941,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/715X7enSqNL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Cottura",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FGNLGWTF",
+    "category": "friggitrici-ad-aria",
+    "title": "Cosori Friggitrice ad Aria 6,4 Litri, Doppia Resistenza, WIFI",
+    "brand": "Cosori",
+    "price": {
+      "value": 118.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 10891,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71IqK762oZL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Cottura",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0FGPTS6B6",
+    "category": "friggitrici-ad-aria",
+    "title": "Cosori Friggitrice ad Aria Dual Blaze 6,4 Litri, Wifi, 11 Funzioni",
+    "brand": "Cosori",
+    "price": {
+      "value": 139.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 9759,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71XLc4ad0rL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Cottura",
+        "Resistenza",
+        "Capienza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DSWMQS7P",
+    "category": "friggitrici-ad-aria",
+    "title": "Ninja Griglia e Friggitrice ad Aria, 5 Funzioni, Nero/Argento",
+    "brand": "Ninja",
+    "price": {
+      "value": 169.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 6550,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71w7yULejrL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facile da pulire",
+        "Velocità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CWP7M17B",
+    "category": "friggitrici-ad-aria",
+    "title": "Philips Airfryer 2000 - Friggitrice ad aria 6.2L, Finestrella",
+    "brand": "Philips",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 5781,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51EASto3heL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Capienza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CJVNGMFL",
+    "category": "friggitrici-ad-aria",
+    "title": "Ninja FlexDrawer, Friggitrice ad Aria XL, Doppia Zona, 10,4L, Nero/Rame",
+    "brand": "Ninja",
+    "price": {
+      "value": 179.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 5719,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71qem+rNjjL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Capienza",
+        "Estetica",
+        "Funzionalità di cottura"
+      ],
+      "mixed": [
+        "Robustezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CPFT191B",
+    "category": "friggitrici-ad-aria",
+    "title": "Ninja MAX, Friggitrice ad Aria Formato Famiglia, 5 Funzioni, 6,2 L, Nero",
+    "brand": "Ninja",
+    "price": {
+      "value": 85.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1540,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71c19mJAJwL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Praticità",
+        "Capienza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DJFDTRYZ",
+    "category": "friggitrici-ad-aria",
+    "title": "Cosori Friggitrice ad Aria 6,2 Litri, Finestra, Shake, 11 Funzioni",
+    "brand": "Cosori",
+    "price": {
+      "value": 87.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 37968,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71tFJrjf2eL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Cottura"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B0832WLDLC",
-  "category": "friggitrici-ad-aria",
-  "title": "Cosori Friggitrice ad Aria 5,7 L, 13 Funzioni, 97% Meno Olio",
-  "brand": "Cosori",
-  "price": {
-   "value": 84.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 67053,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81kDHJmOYDL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Cottura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DX1GQK9J",
-  "category": "friggitrici-ad-aria",
-  "title": "Cosori Friggitrice ad Aria Turbo Blaze 6 Litri, DC Motore",
-  "brand": "Cosori",
-  "price": {
-   "value": 104.48,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 3941,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/715X7enSqNL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Cottura",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FGNLGWTF",
-  "category": "friggitrici-ad-aria",
-  "title": "Cosori Friggitrice ad Aria 6,4 Litri, Doppia Resistenza, WIFI",
-  "brand": "Cosori",
-  "price": {
-   "value": 118.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 10891,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71IqK762oZL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Cottura",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FGPTS6B6",
-  "category": "friggitrici-ad-aria",
-  "title": "Cosori Friggitrice ad Aria Dual Blaze 6,4 Litri, Wifi, 11 Funzioni",
-  "brand": "Cosori",
-  "price": {
-   "value": 139.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 9759,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71XLc4ad0rL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Cottura",
-    "Resistenza",
-    "Capienza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DSWMQS7P",
-  "category": "friggitrici-ad-aria",
-  "title": "Ninja Griglia e Friggitrice ad Aria, 5 Funzioni, Nero/Argento",
-  "brand": "Ninja",
-  "price": {
-   "value": 169.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 6550,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71w7yULejrL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facile da pulire",
-    "Velocità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CWP7M17B",
-  "category": "friggitrici-ad-aria",
-  "title": "Philips Airfryer 2000 - Friggitrice ad aria 6.2L, Finestrella",
-  "brand": "Philips",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 5781,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51EASto3heL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Capienza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CJVNGMFL",
-  "category": "friggitrici-ad-aria",
-  "title": "Ninja FlexDrawer, Friggitrice ad Aria XL, Doppia Zona, 10,4L, Nero/Rame",
-  "brand": "Ninja",
-  "price": {
-   "value": 179.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 5719,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71qem+rNjjL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Capienza",
-    "Estetica",
-    "Funzionalità di cottura"
-   ],
-   "mixed": [
-    "Robustezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CPFT191B",
-  "category": "friggitrici-ad-aria",
-  "title": "Ninja MAX, Friggitrice ad Aria Formato Famiglia, 5 Funzioni, 6,2 L, Nero",
-  "brand": "Ninja",
-  "price": {
-   "value": 85.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1540,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71c19mJAJwL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Praticità",
-    "Capienza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DJFDTRYZ",
-  "category": "friggitrici-ad-aria",
-  "title": "Cosori Friggitrice ad Aria 6,2 Litri, Finestra, Shake, 11 Funzioni",
-  "brand": "Cosori",
-  "price": {
-   "value": 87.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 37968,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71tFJrjf2eL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Cottura"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,119 +1,119 @@
 [
- {
-  "asin": "B0DWNW19Y5",
-  "category": "monopattini-elettrici",
-  "title": "Segway-Ninebot F3 D, Monopattino elettrico per adulti",
-  "brand": "Segway-Ninebot",
-  "price": {
-   "value": 822.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DWNW19Y5",
+    "category": "monopattini-elettrici",
+    "title": "Segway-Ninebot F3 D, Monopattino elettrico per adulti",
+    "brand": "Segway-Ninebot",
+    "price": {
+      "value": 822.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 304,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/610drTPW04L._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.5,
-   "count": 304,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0B2RB65FS",
+    "category": "monopattini-elettrici",
+    "title": "Monopattino Elettrico 500W, autonomia 50-90 km, 48/60V",
+    "brand": "Generico",
+    "price": {
+      "value": 474.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 267,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71m7uHE58wL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Velocità",
+        "Funzionalità",
+        "Stabilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/610drTPW04L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0B3RZDXLT",
-  "category": "monopattini-elettrici",
-  "title": "Segway-Ninebot, Monopattino Elettrico",
-  "brand": "Segway-Ninebot",
-  "price": {
-   "value": 274.8,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0B3RZDXLT",
+    "category": "monopattini-elettrici",
+    "title": "Segway-Ninebot, Monopattino Elettrico",
+    "brand": "Segway-Ninebot",
+    "price": {
+      "value": 274.8,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 216,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61RWA1td5cL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.5,
-   "count": 216,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CNW6449P",
+    "category": "monopattini-elettrici",
+    "title": "HITWAY Monopattino Elettrico per Adulti 10 Pollici, Batteria 15,6-27AH",
+    "brand": "HITWAY",
+    "price": {
+      "value": 399.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 462,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61q2p39V+lL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Guidabilità",
+        "Comfort",
+        "Stabilità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61RWA1td5cL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DTPYSHBR",
-  "category": "monopattini-elettrici",
-  "title": "NAVEE GT3 Monopattino Elettrico Pieghevole per Adulti, Autonomia 50km",
-  "brand": "NAVEE",
-  "price": {
-   "value": 331.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 115,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61WWxFr5-sL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CNW6449P",
-  "category": "monopattini-elettrici",
-  "title": "HITWAY Monopattino Elettrico per Adulti 10 Pollici, Batteria 15,6-27AH",
-  "brand": "HITWAY",
-  "price": {
-   "value": 399.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 462,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61q2p39V+lL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Guidabilità",
-    "Comfort",
-    "Stabilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0DTPYSHBR",
+    "category": "monopattini-elettrici",
+    "title": "NAVEE GT3 Monopattino Elettrico Pieghevole per Adulti, Autonomia 50km",
+    "brand": "NAVEE",
+    "price": {
+      "value": 331,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 115,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61WWxFr5-sL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B0B2RB65FS",
-  "category": "monopattini-elettrici",
-  "title": "Monopattino Elettrico 500W, autonomia 50-90 km, 48/60V",
-  "brand": "Generico",
-  "price": {
-   "value": 474.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 267,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71m7uHE58wL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Velocità",
-    "Funzionalità",
-    "Stabilità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

@@ -1,251 +1,251 @@
 [
- {
-  "asin": "B0961BP3F1",
-  "category": "giradischi",
-  "title": "Fluance RT81 Elite, giradischi in vinile ad alta fedeltà",
-  "brand": "Fluance",
-  "price": {
-   "value": 256.96,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0961BP3F1",
+    "category": "giradischi",
+    "title": "Fluance RT81 Elite, giradischi in vinile ad alta fedeltà",
+    "brand": "Fluance",
+    "price": {
+      "value": 256.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3383,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71DFePXeKXS._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 3383,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07MVPRSHZ",
+    "category": "giradischi",
+    "title": "Audio-Technica AT-LP60XBT - Giradischi completamente automatico",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 153.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3170,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51vjNLnU9JL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Connettività bluetooth",
+        "Rapporto qualità-prezzo",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71DFePXeKXS._AC_SL500_.jpg"
- },
- {
-  "asin": "B07MVPRSHZ",
-  "category": "giradischi",
-  "title": "Audio-Technica AT-LP60XBT - Giradischi completamente automatico",
-  "brand": "Audio-Technica",
-  "price": {
-   "value": 153.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0996S6F6Z",
+    "category": "giradischi",
+    "title": "Fluance RT85 Reference - Giradischi in vinile ad alta fedeltà",
+    "brand": "Fluance",
+    "price": {
+      "value": 667.44,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1836,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61BRVLHA0QL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 3170,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08CRRSYB8",
+    "category": "giradischi",
+    "title": "Audio-Technica LP120xBTUSB Giradischi a Trazione Diretta (Bluetooth &",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 299,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1107,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71gmZaVG5LL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Qualità del suono",
+        "Estetica",
+        "Connettività bluetooth"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/51vjNLnU9JL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Connettività bluetooth",
-    "Rapporto qualità-prezzo",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B09J1B8DDS",
+    "category": "giradischi",
+    "title": "Audio-Technica AT-LP60XBK Giradischi",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 143.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1069,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Hhv4rAIYL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Estetica",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Qualità del suono"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07MVY92KZ",
+    "category": "giradischi",
+    "title": "Audio-Technica AT-LP120X Piatto Audio Giradischi a Trasmissione",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 294.6,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 729,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51n89Vf4iOL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Qualità del suono",
+        "Estetica",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08G8BFRRN",
+    "category": "giradischi",
+    "title": "Pro-Ject Debut Carbon EVO giradischi con 2M Red, nero satinato",
+    "brand": "Pro-Ject",
+    "price": {
+      "value": 599,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 431,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51DCsU4cLOL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DBMH42H8",
+    "category": "giradischi",
+    "title": "Audio-Technica AT-LP70XBT Giradischi wireless completamente automatico",
+    "brand": "Audio-Technica",
+    "price": {
+      "value": 243.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 405,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/7148nT5si-L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Estetica",
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Qualità del suono"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DLLLBPJM",
+    "category": "giradischi",
+    "title": "Victrola Journey+ Signature - Giradischi Bluetooth",
+    "brand": "Victrola",
+    "price": {
+      "value": 228.65,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 55821,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81+hiVXKUfL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B00NQL8Z16",
+    "category": "giradischi",
+    "title": "Victrola Nostalgic Classic Wood - Giradischi Bluetooth 6 in 1",
+    "brand": "Victrola",
+    "price": {
+      "value": 378.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 15465,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61AkWuMt9KL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B0996S6F6Z",
-  "category": "giradischi",
-  "title": "Fluance RT85 Reference - Giradischi in vinile ad alta fedeltà",
-  "brand": "Fluance",
-  "price": {
-   "value": 667.44,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1836,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61BRVLHA0QL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08CRRSYB8",
-  "category": "giradischi",
-  "title": "Audio-Technica LP120xBTUSB Giradischi a Trazione Diretta (Bluetooth &",
-  "brand": "Audio-Technica",
-  "price": {
-   "value": 299.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1107,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71gmZaVG5LL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Qualità del suono",
-    "Estetica",
-    "Connettività bluetooth"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09J1B8DDS",
-  "category": "giradischi",
-  "title": "Audio-Technica AT-LP60XBK Giradischi",
-  "brand": "Audio-Technica",
-  "price": {
-   "value": 143.19,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1069,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Hhv4rAIYL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Estetica",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Qualità del suono"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07MVY92KZ",
-  "category": "giradischi",
-  "title": "Audio-Technica AT-LP120X Piatto Audio Giradischi a Trasmissione",
-  "brand": "Audio-Technica",
-  "price": {
-   "value": 294.6,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 729,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51n89Vf4iOL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Qualità del suono",
-    "Estetica",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DLLLBPJM",
-  "category": "giradischi",
-  "title": "Victrola Journey+ Signature - Giradischi Bluetooth",
-  "brand": "Victrola",
-  "price": {
-   "value": 228.65,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 55821,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81+hiVXKUfL._AC_SL500_.jpg"
- },
- {
-  "asin": "B08G8BFRRN",
-  "category": "giradischi",
-  "title": "Pro-Ject Debut Carbon EVO giradischi con 2M Red, nero satinato",
-  "brand": "Pro-Ject",
-  "price": {
-   "value": 599.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 431,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51DCsU4cLOL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DBMH42H8",
-  "category": "giradischi",
-  "title": "Audio-Technica AT-LP70XBT Giradischi wireless completamente automatico",
-  "brand": "Audio-Technica",
-  "price": {
-   "value": 243.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 405,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/7148nT5si-L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Estetica",
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Qualità del suono"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00NQL8Z16",
-  "category": "giradischi",
-  "title": "Victrola Nostalgic Classic Wood - Giradischi Bluetooth 6 in 1",
-  "brand": "Victrola",
-  "price": {
-   "value": 378.94,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 15465,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61AkWuMt9KL._AC_SL500_.jpg"
- }
 ]

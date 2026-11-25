@@ -1,278 +1,278 @@
 [
- {
-  "asin": "B07D5NVYDN",
-  "category": "impastatrici-planetarie",
-  "title": "KitchenAid Artisan Planetaria 4,7L con Ciotola 3L Nero onice",
-  "brand": "KitchenAid",
-  "price": {
-   "value": 479.2,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07D5NVYDN",
+    "category": "impastatrici-planetarie",
+    "title": "KitchenAid Artisan Planetaria 4,7L con Ciotola 3L Nero onice",
+    "brand": "KitchenAid",
+    "price": {
+      "value": 479.2,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2059,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/6124P0lor4L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Estetica",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 2059,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00NEK6OJO",
+    "category": "impastatrici-planetarie",
+    "title": "Bosch MUM5 Impastatrice Planetaria Robot Da Cucina Multifunzione",
+    "brand": "Bosch",
+    "price": {
+      "value": 299.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4186,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61uquwLLaoL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/6124P0lor4L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Estetica",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B089KTWM77",
+    "category": "impastatrici-planetarie",
+    "title": "Girmi IM46 Impastatrice Planetaria 8 Litri, 1800 W Max, Grigio Antracite",
+    "brand": "Girmi",
+    "price": {
+      "value": 109.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3304,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51scIj3dILL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Capienza",
+        "Estetica"
+      ],
+      "mixed": [
+        "Rumorosità",
+        "Impastatura"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07HCHWK88",
+    "category": "impastatrici-planetarie",
+    "title": "VIVOHOME Impastatrice Planetaria Professionale 1500W 5,7L",
+    "brand": "VIVOHOME",
+    "price": {
+      "value": 184.43,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3114,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71XTPZF1hWL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B01B7HVRC4",
+    "category": "impastatrici-planetarie",
+    "title": "Bosch MUM58720 Impastatrice, 1000 Watt, Ciotola 3.9 L, Rosso Argento",
+    "brand": "Bosch",
+    "price": {
+      "value": 339.88,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2885,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/716oGnItz1L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Accessori",
+        "Rapporto qualità-prezzo",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09JC8HMTQ",
+    "category": "impastatrici-planetarie",
+    "title": "Arebos Impastatrice planetaria 1500 W / 2 ciotole 4,5+5,5 L / rossa",
+    "brand": "Arebos",
+    "price": {
+      "value": 93.96,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1400,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/719-BXisxzL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07GSC793L",
+    "category": "impastatrici-planetarie",
+    "title": "Masterchef Gourmet d Moulinex, Capacità 4,6 L, Kit pasticceria",
+    "brand": "Masterchef",
+    "price": {
+      "value": 199.26,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61wFZTBSYlL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07RK35S26",
+    "category": "impastatrici-planetarie",
+    "title": "Cheflee Impastatrice Planetaria 8 L,2000 W Max,6 Velocità",
+    "brand": "Cheflee",
+    "price": {
+      "value": 149.98,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2904,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71Bzrq42uaL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Silenziosità",
+        "Estetica"
+      ],
+      "mixed": [
+        "Robustezza",
+        "Prestazioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01HKZZ4XU",
+    "category": "impastatrici-planetarie",
+    "title": "KitchenAid Artisan Planetaria Impastatrice 4,7L Rosso imperiale",
+    "brand": "KitchenAid",
+    "price": {
+      "value": 348,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2072,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61E98k5oGTL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Estetica",
+        "Robustezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B094J6BFPB",
+    "category": "impastatrici-planetarie",
+    "title": "Kenwood Titanium Chef Baker XL KVL85.424SI Planetaria",
+    "brand": "Kenwood",
+    "price": {
+      "value": 539.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 465,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81ySiBh0EjL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Accessori",
+        "Estetica"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B00NEK6OJO",
-  "category": "impastatrici-planetarie",
-  "title": "Bosch MUM5 Impastatrice Planetaria Robot Da Cucina Multifunzione",
-  "brand": "Bosch",
-  "price": {
-   "value": 299.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4186,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61uquwLLaoL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B089KTWM77",
-  "category": "impastatrici-planetarie",
-  "title": "Girmi IM46 Impastatrice Planetaria 8 Litri, 1800 W Max, Grigio Antracite",
-  "brand": "Girmi",
-  "price": {
-   "value": 109.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3304,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51scIj3dILL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Capienza",
-    "Estetica"
-   ],
-   "mixed": [
-    "Rumorosità",
-    "Impastatura"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07HCHWK88",
-  "category": "impastatrici-planetarie",
-  "title": "VIVOHOME Impastatrice Planetaria Professionale 1500W 5,7L",
-  "brand": "VIVOHOME",
-  "price": {
-   "value": 184.43,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3114,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71XTPZF1hWL._AC_SL500_.jpg"
- },
- {
-  "asin": "B01B7HVRC4",
-  "category": "impastatrici-planetarie",
-  "title": "Bosch MUM58720 Impastatrice, 1000 Watt, Ciotola 3.9 L, Rosso Argento",
-  "brand": "Bosch",
-  "price": {
-   "value": 339.88,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2885,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/716oGnItz1L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Accessori",
-    "Rapporto qualità-prezzo",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09JC8HMTQ",
-  "category": "impastatrici-planetarie",
-  "title": "Arebos Impastatrice planetaria 1500 W / 2 ciotole 4,5+5,5 L / rossa",
-  "brand": "Arebos",
-  "price": {
-   "value": 93.96,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1400,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/719-BXisxzL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07GSC793L",
-  "category": "impastatrici-planetarie",
-  "title": "Masterchef Gourmet d Moulinex, Capacità 4,6 L, Kit pasticceria",
-  "brand": "Masterchef",
-  "price": {
-   "value": 199.26,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 781,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61wFZTBSYlL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07RK35S26",
-  "category": "impastatrici-planetarie",
-  "title": "Cheflee Impastatrice Planetaria 8 L,2000 W Max,6 Velocità",
-  "brand": "Cheflee",
-  "price": {
-   "value": 149.98,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2904,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71Bzrq42uaL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Silenziosità",
-    "Estetica"
-   ],
-   "mixed": [
-    "Robustezza",
-    "Prestazioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B094J6BFPB",
-  "category": "impastatrici-planetarie",
-  "title": "Kenwood Titanium Chef Baker XL KVL85.424SI Planetaria",
-  "brand": "Kenwood",
-  "price": {
-   "value": 539.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 465,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81ySiBh0EjL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Accessori",
-    "Estetica"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01HKZZ4XU",
-  "category": "impastatrici-planetarie",
-  "title": "KitchenAid Artisan Planetaria Impastatrice 4,7L Rosso imperiale",
-  "brand": "KitchenAid",
-  "price": {
-   "value": 348.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2072,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61E98k5oGTL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Estetica",
-    "Robustezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

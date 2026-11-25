@@ -1,318 +1,318 @@
 [
- {
-  "asin": "B0009U5OSO",
-  "category": "macchine-pasta-fresca",
-  "title": "Marcato Macchina per la Pasta, Atlas 150, Pasta Maker, Sfo",
-  "brand": "Marcato",
-  "image": "https://m.media-amazon.com/images/I/61Dk7TxeC1L._AC_SL500_.jpg",
-  "price": {
-   "value": 48.49,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B0009U5OSO",
+    "category": "macchine-pasta-fresca",
+    "title": "Marcato Macchina per la Pasta, Atlas 150, Pasta Maker, Sfo",
+    "brand": "Marcato",
+    "image": "https://m.media-amazon.com/images/I/61Dk7TxeC1L._AC_SL500_.jpg",
+    "price": {
+      "value": 48.49,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 27332,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Robustezza",
+        "Facilità d'uso",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 27332,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
+  {
+    "asin": "B000679FZ8",
+    "category": "macchine-pasta-fresca",
+    "title": "Marcato Atlasmotor Macchina Pasta con Motore, 100 W, Allum",
+    "brand": "Marcato",
+    "image": "https://m.media-amazon.com/images/I/61dcp7AFLwL._AC_SL500_.jpg",
+    "price": {
+      "value": 117.15,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5462,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Robustezza",
-    "Facilità d'uso",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B004BDKI68",
+    "category": "macchine-pasta-fresca",
+    "title": "Marcato AT-180-CLS Macchina per Pasta Manuale Atlas 180 Cl",
+    "brand": "Marcato",
+    "image": "https://m.media-amazon.com/images/I/613kzkPCBDL._AC_SL500_.jpg",
+    "price": {
+      "value": 66.06,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1869,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00008WWGR",
+    "category": "macchine-pasta-fresca",
+    "title": "Marcato Ampia 150 AM-150-CLS Macchina per Pasta Manuale co",
+    "brand": "Marcato",
+    "image": "https://m.media-amazon.com/images/I/61G1QRa26LL._AC_SL500_.jpg",
+    "price": {
+      "value": 52.25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1569,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Facilità d'uso",
+        "Funzionalità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0001IXA0I",
+    "category": "macchine-pasta-fresca",
+    "title": "Imperia Ipasta Classica Macchina per la Pasta, Pasta Fresc",
+    "brand": "Imperia",
+    "image": "https://m.media-amazon.com/images/I/81S71eKO0bL._AC_SL500_.jpg",
+    "price": {
+      "value": 67.07,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 6887,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0B8DV6CK5",
+    "category": "macchine-pasta-fresca",
+    "title": "Philips Macchina per la Pasta 7000, tecnologia ProExtrude",
+    "brand": "Philips",
+    "image": "https://m.media-amazon.com/images/I/51ydHmnuwtL._AC_SL500_.jpg",
+    "price": {
+      "value": 169.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 4088,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Velocità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B077QGRZ1Z",
+    "category": "macchine-pasta-fresca",
+    "title": "Ariete Pastamatic 1593, Macchina per la Pasta Elettrica, 2",
+    "brand": "Ariete",
+    "image": "https://m.media-amazon.com/images/I/71tTt43GmcL._AC_SL500_.jpg",
+    "price": {
+      "value": 70.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1820,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Facilità d'uso",
+        "Rapporto qualità-prezzo",
+        "Praticità"
+      ],
+      "mixed": [
+        "Stabilità"
+      ],
+      "negative": [
+        "Rumorosità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08NC63YDD",
+    "category": "macchine-pasta-fresca",
+    "title": "Girmi IM90 Macchina Per La Pasta, Corpo INOX, 9 Regolazion",
+    "brand": "Girmi",
+    "image": "https://m.media-amazon.com/images/I/81JpQwYOxrL._AC_SL500_.jpg",
+    "price": {
+      "value": 27.55,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1751,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Praticità"
+      ],
+      "mixed": [
+        "Leggerezza",
+        "Regolabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09G35RKRM",
+    "category": "macchine-pasta-fresca",
+    "title": "G3 Ferrari G20124 Sfoglia easy Macchina per la Pasta, Acci",
+    "brand": "G3",
+    "image": "https://m.media-amazon.com/images/I/71x7NtzhACL._AC_SL500_.jpg",
+    "price": {
+      "value": 31.78,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 509,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Praticità",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Robustezza",
+        "Estetica"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B000ZDMWCG",
+    "category": "macchine-pasta-fresca",
+    "title": "Imperia Pastapresto macchina per la pasta elettrica 100% M",
+    "brand": "Imperia",
+    "image": "https://m.media-amazon.com/images/I/61skT02nqTL._AC_SL500_.jpg",
+    "price": {
+      "value": 244,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1408,
+      "checkedAt": "2026-11-24T15:57:38+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità d'uso",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Rumorosità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B000679FZ8",
-  "category": "macchine-pasta-fresca",
-  "title": "Marcato Atlasmotor Macchina Pasta con Motore, 100 W, Allum",
-  "brand": "Marcato",
-  "image": "https://m.media-amazon.com/images/I/61dcp7AFLwL._AC_SL500_.jpg",
-  "price": {
-   "value": 117.15,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5462,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B004BDKI68",
-  "category": "macchine-pasta-fresca",
-  "title": "Marcato AT-180-CLS Macchina per Pasta Manuale Atlas 180 Cl",
-  "brand": "Marcato",
-  "image": "https://m.media-amazon.com/images/I/613kzkPCBDL._AC_SL500_.jpg",
-  "price": {
-   "value": 66.06,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1869,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00008WWGR",
-  "category": "macchine-pasta-fresca",
-  "title": "Marcato Ampia 150 AM-150-CLS Macchina per Pasta Manuale co",
-  "brand": "Marcato",
-  "image": "https://m.media-amazon.com/images/I/61G1QRa26LL._AC_SL500_.jpg",
-  "price": {
-   "value": 52.25,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1569,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Facilità d'uso",
-    "Funzionalità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0001IXA0I",
-  "category": "macchine-pasta-fresca",
-  "title": "Imperia Ipasta Classica Macchina per la Pasta, Pasta Fresc",
-  "brand": "Imperia",
-  "image": "https://m.media-amazon.com/images/I/81S71eKO0bL._AC_SL500_.jpg",
-  "price": {
-   "value": 67.07,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 6887,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0B8DV6CK5",
-  "category": "macchine-pasta-fresca",
-  "title": "Philips Macchina per la Pasta 7000, tecnologia ProExtrude",
-  "brand": "Philips",
-  "image": "https://m.media-amazon.com/images/I/51ydHmnuwtL._AC_SL500_.jpg",
-  "price": {
-   "value": 169.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 4088,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Velocità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09G35RKRM",
-  "category": "macchine-pasta-fresca",
-  "title": "G3 Ferrari G20124 Sfoglia easy Macchina per la Pasta, Acci",
-  "brand": "G3",
-  "image": "https://m.media-amazon.com/images/I/71x7NtzhACL._AC_SL500_.jpg",
-  "price": {
-   "value": 31.78,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 509,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Praticità",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Robustezza",
-    "Estetica"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B077QGRZ1Z",
-  "category": "macchine-pasta-fresca",
-  "title": "Ariete Pastamatic 1593, Macchina per la Pasta Elettrica, 2",
-  "brand": "Ariete",
-  "image": "https://m.media-amazon.com/images/I/71tTt43GmcL._AC_SL500_.jpg",
-  "price": {
-   "value": 70.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1820,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Facilità d'uso",
-    "Rapporto qualità-prezzo",
-    "Praticità"
-   ],
-   "mixed": [
-    "Stabilità"
-   ],
-   "negative": [
-    "Rumorosità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08NC63YDD",
-  "category": "macchine-pasta-fresca",
-  "title": "Girmi IM90 Macchina Per La Pasta, Corpo INOX, 9 Regolazion",
-  "brand": "Girmi",
-  "image": "https://m.media-amazon.com/images/I/81JpQwYOxrL._AC_SL500_.jpg",
-  "price": {
-   "value": 27.55,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1751,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Praticità"
-   ],
-   "mixed": [
-    "Leggerezza",
-    "Regolabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B000ZDMWCG",
-  "category": "macchine-pasta-fresca",
-  "title": "Imperia Pastapresto macchina per la pasta elettrica 100% M",
-  "brand": "Imperia",
-  "image": "https://m.media-amazon.com/images/I/61skT02nqTL._AC_SL500_.jpg",
-  "price": {
-   "value": 244.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1408,
-   "checkedAt": "2026-11-24T15:57:38+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità d'uso",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Rumorosità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

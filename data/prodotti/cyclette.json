@@ -1,294 +1,294 @@
 [
- {
-  "asin": "B01MTCI9K0",
-  "category": "cyclette",
-  "title": "Sunny Health & Fitness Cyclette Orizzontale Magnetica Smart per Casa",
-  "brand": "Sunny Health & Fitness",
-  "price": {
-   "value": 188.09,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0FX9KKHR7",
+    "category": "cyclette",
+    "title": "2026 Toputure Cyclette da Casa Pieghevole con APP, Cyclette Pieghevole",
+    "brand": "Toputure",
+    "image": "https://m.media-amazon.com/images/I/71w2Na6Js+L._AC_SL500_.jpg",
+    "price": {
+      "value": 187.76,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 363,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Robustezza",
+        "Rapporto qualità-prezzo",
+        "Silenziosità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.5,
-   "count": 8059,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DZ1SKZGJ",
+    "category": "cyclette",
+    "title": "MERACH Cyclette da Casa con Resistenza Regolabile",
+    "brand": "MERACH",
+    "price": {
+      "value": 219.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 935,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71VRruyj5xL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Facilità di montaggio",
+        "Robustezza",
+        "Silenziosità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/81u3HSaZW0L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso"
-   ],
-   "mixed": [
-    "Facilità di montaggio",
-    "Robustezza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B01MTCI9K0",
+    "category": "cyclette",
+    "title": "Sunny Health & Fitness Cyclette Orizzontale Magnetica Smart per Casa",
+    "brand": "Sunny Health & Fitness",
+    "price": {
+      "value": 188.09,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 8059,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81u3HSaZW0L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso"
+      ],
+      "mixed": [
+        "Facilità di montaggio",
+        "Robustezza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07Q2697YN",
+    "category": "cyclette",
+    "title": "JOROTO X2 Cyclette Professionale & JOROTO X2PRO Bluetooth Indoor",
+    "brand": "JOROTO",
+    "price": {
+      "value": 341.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 6665,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/716ehULWBjL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Silenziosità",
+        "Robustezza",
+        "Facilità di montaggio"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C282SFNH",
+    "category": "cyclette",
+    "title": "MERACH Cyclette da Seduta Magnetica",
+    "brand": "MERACH",
+    "price": {
+      "value": 224.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 508,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71b2iBx+OSL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Comfort",
+        "Robustezza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CGHRS9DZ",
+    "category": "cyclette",
+    "title": "KeppiFitness Cyclette reclinata",
+    "brand": "KeppiFitness",
+    "price": {
+      "value": 796,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 421,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61tMNrL9QSL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B07GRVPBSQ",
+    "category": "cyclette",
+    "title": "ISE Cyclette da Seduta Magnetica con Schienale",
+    "brand": "ISE",
+    "price": {
+      "value": 146.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2317,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Jv1foXenL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Seduta",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DQTMGSHS",
+    "category": "cyclette",
+    "title": "Toputure Cyclette da Casa con App",
+    "brand": "Toputure",
+    "price": {
+      "value": 217.54,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 223,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81IDwMZhNbL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Silenziosità",
+        "Robustezza",
+        "Facilità di montaggio",
+        "Funzionalità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0GWQFRTHC",
+    "category": "cyclette",
+    "title": "Dskeuzeew Cyclette da Casa con App",
+    "brand": "Dskeuzeew",
+    "price": {
+      "value": 149.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 615,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71bOi2DmUDL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Silenziosità",
+        "Facilità di montaggio",
+        "Robustezza"
+      ],
+      "mixed": [
+        "Stabilità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0171W9B22",
+    "category": "cyclette",
+    "title": "Capital Sports Azura 2 X Bike - Cyclette da Camera, Ergometrica",
+    "brand": "Capital Sports",
+    "price": {
+      "value": 255.89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 507,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Dwwt72d5L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Facilità di montaggio",
+        "Rapporto qualità-prezzo",
+        "Robustezza",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B07Q2697YN",
-  "category": "cyclette",
-  "title": "JOROTO X2 Cyclette Professionale & JOROTO X2PRO Bluetooth Indoor",
-  "brand": "JOROTO",
-  "price": {
-   "value": 341.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 6665,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/716ehULWBjL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Silenziosità",
-    "Robustezza",
-    "Facilità di montaggio"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DZ1SKZGJ",
-  "category": "cyclette",
-  "title": "MERACH Cyclette da Casa con Resistenza Regolabile",
-  "brand": "MERACH",
-  "price": {
-   "value": 219.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 935,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71VRruyj5xL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Facilità di montaggio",
-    "Robustezza",
-    "Silenziosità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07GRVPBSQ",
-  "category": "cyclette",
-  "title": "ISE Cyclette da Seduta Magnetica con Schienale",
-  "brand": "ISE",
-  "price": {
-   "value": 146.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2317,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Jv1foXenL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Seduta",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C282SFNH",
-  "category": "cyclette",
-  "title": "MERACH Cyclette da Seduta Magnetica",
-  "brand": "MERACH",
-  "price": {
-   "value": 224.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 508,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71b2iBx+OSL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Comfort",
-    "Robustezza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CGHRS9DZ",
-  "category": "cyclette",
-  "title": "KeppiFitness Cyclette reclinata",
-  "brand": "KeppiFitness",
-  "price": {
-   "value": 796.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 421,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61tMNrL9QSL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0GWQFRTHC",
-  "category": "cyclette",
-  "title": "Dskeuzeew Cyclette da Casa con App",
-  "brand": "Dskeuzeew",
-  "price": {
-   "value": 149.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 615,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71bOi2DmUDL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Silenziosità",
-    "Facilità di montaggio",
-    "Robustezza"
-   ],
-   "mixed": [
-    "Stabilità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DQTMGSHS",
-  "category": "cyclette",
-  "title": "Toputure Cyclette da Casa con App",
-  "brand": "Toputure",
-  "price": {
-   "value": 217.54,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 223,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81IDwMZhNbL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Silenziosità",
-    "Robustezza",
-    "Facilità di montaggio",
-    "Funzionalità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0171W9B22",
-  "category": "cyclette",
-  "title": "Capital Sports Azura 2 X Bike - Cyclette da Camera, Ergometrica",
-  "brand": "Capital Sports",
-  "price": {
-   "value": 255.89,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 507,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Dwwt72d5L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Rapporto qualità-prezzo",
-    "Robustezza",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0FX9KKHR7",
-  "category": "cyclette",
-  "title": "2026 Toputure Cyclette da Casa Pieghevole con APP, Cyclette Pieghevole",
-  "brand": "Toputure",
-  "image": "https://m.media-amazon.com/images/I/71w2Na6Js+L._AC_SL500_.jpg",
-  "price": {
-   "value": 187.76,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 363,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Facilità di montaggio",
-    "Robustezza",
-    "Rapporto qualità-prezzo",
-    "Silenziosità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

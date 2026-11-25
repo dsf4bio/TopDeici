@@ -1,276 +1,276 @@
 [
- {
-  "asin": "B07JZ2H5KN",
-  "category": "valigette-utensili",
-  "title": "Prostormer Home Tool Kit di Riparazione",
-  "brand": "Prostormer",
-  "price": {
-   "value": 66.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07JZ2H5KN",
+    "category": "valigette-utensili",
+    "title": "Prostormer Home Tool Kit di Riparazione",
+    "brand": "Prostormer",
+    "price": {
+      "value": 66.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3776,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81C7BVzDesL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 3776,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B096VDVGCN",
+    "category": "valigette-utensili",
+    "title": "Makita E-10883 Set utensili manuali e inserti 221 pz",
+    "brand": "Makita",
+    "price": {
+      "value": 123.25,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1338,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/816pm+REObL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/81C7BVzDesL._AC_SL500_.jpg"
- },
- {
-  "asin": "B096VDVGCN",
-  "category": "valigette-utensili",
-  "title": "Makita E-10883 Set utensili manuali e inserti 221 pz",
-  "brand": "Makita",
-  "price": {
-   "value": 123.25,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B000K2PF4Y",
+    "category": "valigette-utensili",
+    "title": "Mannesmann M98430 - Custodia con chiavi a bussola e altri strumenti",
+    "brand": "Mannesmann",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10848,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/819O2H+s44L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Completezza",
+        "Praticità",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 1338,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DGGCSHNP",
+    "category": "valigette-utensili",
+    "title": "Bosch Set di utensili manuali avanzati da 64 pezzi (kit versatile, mat",
+    "brand": "Bosch",
+    "image": "https://m.media-amazon.com/images/I/61FWEURuSlL._AC_SL500_.jpg",
+    "price": {
+      "value": 103.07,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1198,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/816pm+REObL._AC_SL500_.jpg"
- },
- {
-  "asin": "B000K2PF4Y",
-  "category": "valigette-utensili",
-  "title": "Mannesmann M98430 - Custodia con chiavi a bussola e altri strumenti",
-  "brand": "Mannesmann",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00DEGW6D6",
+    "category": "valigette-utensili",
+    "title": "KS Tools 917.0779 Serie di Chiavi a Bussola, 179 Pezzi",
+    "brand": "KS Tools",
+    "price": {
+      "value": 77.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 9877,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/7124HFVBRUL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Robustezza",
+        "Rapporto qualità-prezzo",
+        "Varietà di accessori",
+        "Completezza"
+      ],
+      "mixed": [
+        "Facilità d'uso",
+        "Funzionalità"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 10848,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0051E16LW",
+    "category": "valigette-utensili",
+    "title": "Mannesmann M29085 – Assortimento di attrezzi universali in valigetta",
+    "brand": "Mannesmann",
+    "price": {
+      "value": 54.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7536,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/719CZ7WNJIL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Praticità",
+        "Rapporto qualità-prezzo",
+        "Robustezza",
+        "Completezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/819O2H+s44L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Completezza",
-    "Praticità",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B01M8G4JVD",
+    "category": "valigette-utensili",
+    "title": "Brüder Mannesmann M29084 - Cassetta degli attrezzi con 87 pezzi",
+    "brand": "Brüder Mannesmann",
+    "price": {
+      "value": 44.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6549,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81JdHjnV9eL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Completezza",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [
+        "Stabilità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08D69T1BP",
+    "category": "valigette-utensili",
+    "title": "Högert Technik - Cassetta Attrezzi, Set Attrezzi, Valigetta Attrezzi",
+    "brand": "Högert",
+    "price": {
+      "value": 26.04,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3057,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/81JsWu1lIeL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Dimensioni compatte",
+        "Funzionalità",
+        "Completezza",
+        "Praticità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0BQB4MKD5",
+    "category": "valigette-utensili",
+    "title": "DEKO Cassetta Attrezzi Completa con Trapano Avvitatore Batteria 8V",
+    "brand": "DEKO",
+    "price": {
+      "value": 49.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2644,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/815tusRKskL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Completezza",
+        "Praticità",
+        "Dimensioni"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Resistenza"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B01KG2EP8Y",
+    "category": "valigette-utensili",
+    "title": "Wiesmann 1893 80126 - Cassetta degli attrezzi, 110 pezzi",
+    "brand": "Wiesmann",
+    "price": {
+      "value": 79.95,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1463,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/91XQpq8WfXL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Rapporto qualità-prezzo",
+        "Robustezza",
+        "Funzionalità",
+        "Qualità di costruzione"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B00DEGW6D6",
-  "category": "valigette-utensili",
-  "title": "KS Tools 917.0779 Serie di Chiavi a Bussola, 179 Pezzi",
-  "brand": "KS Tools",
-  "price": {
-   "value": 77.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 9877,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/7124HFVBRUL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Robustezza",
-    "Rapporto qualità-prezzo",
-    "Varietà di accessori",
-    "Completezza"
-   ],
-   "mixed": [
-    "Facilità d'uso",
-    "Funzionalità"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0051E16LW",
-  "category": "valigette-utensili",
-  "title": "Mannesmann M29085 – Assortimento di attrezzi universali in valigetta",
-  "brand": "Mannesmann",
-  "price": {
-   "value": 54.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 7536,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/719CZ7WNJIL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Praticità",
-    "Rapporto qualità-prezzo",
-    "Robustezza",
-    "Completezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01M8G4JVD",
-  "category": "valigette-utensili",
-  "title": "Brüder Mannesmann M29084 - Cassetta degli attrezzi con 87 pezzi",
-  "brand": "Brüder Mannesmann",
-  "price": {
-   "value": 44.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6549,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81JdHjnV9eL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Completezza",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [
-    "Stabilità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08D69T1BP",
-  "category": "valigette-utensili",
-  "title": "Högert Technik - Cassetta Attrezzi, Set Attrezzi, Valigetta Attrezzi",
-  "brand": "Högert",
-  "price": {
-   "value": 26.04,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3057,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/81JsWu1lIeL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Dimensioni compatte",
-    "Funzionalità",
-    "Completezza",
-    "Praticità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BQB4MKD5",
-  "category": "valigette-utensili",
-  "title": "DEKO Cassetta Attrezzi Completa con Trapano Avvitatore Batteria 8V",
-  "brand": "DEKO",
-  "price": {
-   "value": 49.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2644,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/815tusRKskL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Completezza",
-    "Praticità",
-    "Dimensioni"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Resistenza"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B01KG2EP8Y",
-  "category": "valigette-utensili",
-  "title": "Wiesmann 1893 80126 - Cassetta degli attrezzi, 110 pezzi",
-  "brand": "Wiesmann",
-  "price": {
-   "value": 79.95,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1463,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/91XQpq8WfXL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Rapporto qualità-prezzo",
-    "Robustezza",
-    "Funzionalità",
-    "Qualità di costruzione"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DGGCSHNP",
-  "category": "valigette-utensili",
-  "title": "Bosch Set di utensili manuali avanzati da 64 pezzi (kit versatile, mat",
-  "brand": "Bosch",
-  "image": "https://m.media-amazon.com/images/I/61FWEURuSlL._AC_SL500_.jpg",
-  "price": {
-   "value": 103.07,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 1198,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]

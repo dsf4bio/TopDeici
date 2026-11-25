@@ -1,238 +1,238 @@
 [
- {
-  "asin": "B0DHSDHGWR",
-  "category": "ventilatori",
-  "title": "DREO Ventilatore da stanza, ventilatore oscillante 120°+120°",
-  "brand": "DREO",
-  "price": {
-   "value": 138.57,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0DHSDHGWR",
+    "category": "ventilatori",
+    "title": "DREO Ventilatore da stanza, ventilatore oscillante 120°+120°",
+    "brand": "DREO",
+    "price": {
+      "value": 138.57,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 8455,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Qez1IfDXL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 8455,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B001R1Q2C6",
+    "category": "ventilatori",
+    "title": "Honeywell Kaz HT-904 ventilatore da tavolo, 3 velocità",
+    "brand": "Honeywell",
+    "price": {
+      "value": 50.94,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 28201,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51VCffO9b-L._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/61Qez1IfDXL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BR3HFJZB",
-  "category": "ventilatori",
-  "title": "SWEETFULL Mini ventilatore portatile ricaricabile, 3 velocità",
-  "brand": "SWEETFULL",
-  "price": {
-   "value": 28.82,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BR3HFJZB",
+    "category": "ventilatori",
+    "title": "SWEETFULL Mini ventilatore portatile ricaricabile, 3 velocità",
+    "brand": "SWEETFULL",
+    "price": {
+      "value": 28.82,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 3778,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/617rza2akhL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 3778,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0CSG46SSN",
+    "category": "ventilatori",
+    "title": "DREO 23dB Ventilatore a Piantana silenzioso",
+    "brand": "DREO",
+    "price": {
+      "value": 169.4,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 10062,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61gmn6Y1B5L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Silenziosità",
+        "Funzionalità",
+        "Estetica",
+        "Potenza"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/617rza2akhL._AC_SL500_.jpg"
- },
- {
-  "asin": "B001R1Q2C6",
-  "category": "ventilatori",
-  "title": "Honeywell Kaz HT-904 ventilatore da tavolo, 3 velocità",
-  "brand": "Honeywell",
-  "price": {
-   "value": 50.94,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0F2J2P4GV",
+    "category": "ventilatori",
+    "title": "SWEETFULL Mini ventilatore da tavolo USB, 3 velocità, regolabile a 360°",
+    "brand": "SWEETFULL",
+    "price": {
+      "value": 30.68,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7783,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71NdJM2TXDL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.6,
-   "count": 28201,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B087PHKDLW",
+    "category": "ventilatori",
+    "title": "OCOOPA Ventilatore da Tavolo USB con Batteria di 4000mAh Ricaricabile",
+    "brand": "OCOOPA",
+    "price": {
+      "value": 25.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6996,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71H+Z2Vs4lL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Durata batteria",
+        "Silenziosità",
+        "Funzionalità",
+        "Potenza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/51VCffO9b-L._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CSG46SSN",
-  "category": "ventilatori",
-  "title": "DREO 23dB Ventilatore a Piantana silenzioso",
-  "brand": "DREO",
-  "price": {
-   "value": 169.4,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B09M8PMW26",
+    "category": "ventilatori",
+    "title": "Dreo 25dB Ventilatore a Torre con Telecomando",
+    "brand": "Dreo",
+    "price": {
+      "value": 159.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 6012,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71laENfO+YL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Silenziosità",
+        "Efficacia",
+        "Flusso d'aria",
+        "Estetica"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.6,
-   "count": 10062,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0BTY58CS4",
+    "category": "ventilatori",
+    "title": "DREO Ventilatore a Torre Smart Silenzioso, Potente 7.6 m/s",
+    "brand": "DREO",
+    "price": {
+      "value": 116.19,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5922,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71Nr3rT+LML._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Silenziosità",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Rinfrescante"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61gmn6Y1B5L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Silenziosità",
-    "Funzionalità",
-    "Estetica",
-    "Potenza"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0C5HW6JPJ",
+    "category": "ventilatori",
+    "title": "Gaiatop Ventilatore da scrivania USB, 3 velocità, forte flusso d'aria",
+    "brand": "Gaiatop",
+    "price": {
+      "value": 29.52,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1082,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71fgS8V7LIL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0BCHBRPZR",
+    "category": "ventilatori",
+    "title": "Craftsman V20 Ventilatore personale senza fili, compatto e pieghevole",
+    "brand": "Craftsman",
+    "price": {
+      "value": 57.69,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 616,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61b-hQuVS0L._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B0F2J2P4GV",
-  "category": "ventilatori",
-  "title": "SWEETFULL Mini ventilatore da tavolo USB, 3 velocità, regolabile a 360°",
-  "brand": "SWEETFULL",
-  "price": {
-   "value": 30.68,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 7783,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71NdJM2TXDL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BCHBRPZR",
-  "category": "ventilatori",
-  "title": "Craftsman V20 Ventilatore personale senza fili, compatto e pieghevole",
-  "brand": "Craftsman",
-  "price": {
-   "value": 57.69,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 616,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61b-hQuVS0L._AC_SL500_.jpg"
- },
- {
-  "asin": "B087PHKDLW",
-  "category": "ventilatori",
-  "title": "OCOOPA Ventilatore da Tavolo USB con Batteria di 4000mAh Ricaricabile",
-  "brand": "OCOOPA",
-  "price": {
-   "value": 25.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6996,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71H+Z2Vs4lL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Durata batteria",
-    "Silenziosità",
-    "Funzionalità",
-    "Potenza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09M8PMW26",
-  "category": "ventilatori",
-  "title": "Dreo 25dB Ventilatore a Torre con Telecomando",
-  "brand": "Dreo",
-  "price": {
-   "value": 159.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 6012,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71laENfO+YL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Silenziosità",
-    "Efficacia",
-    "Flusso d'aria",
-    "Estetica"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BTY58CS4",
-  "category": "ventilatori",
-  "title": "DREO Ventilatore a Torre Smart Silenzioso, Potente 7.6 m/s",
-  "brand": "DREO",
-  "price": {
-   "value": 116.19,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5922,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71Nr3rT+LML._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Silenziosità",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Rinfrescante"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C5HW6JPJ",
-  "category": "ventilatori",
-  "title": "Gaiatop Ventilatore da scrivania USB, 3 velocità, forte flusso d'aria",
-  "brand": "Gaiatop",
-  "price": {
-   "value": 29.52,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 1082,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71fgS8V7LIL._AC_SL500_.jpg"
- }
 ]

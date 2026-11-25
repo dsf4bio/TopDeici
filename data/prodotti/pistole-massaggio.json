@@ -1,291 +1,291 @@
 [
- {
-  "asin": "B08M8YSFC7",
-  "category": "pistole-massaggio",
-  "title": "BOB AND BRAD Q2 Mini Pistola Massaggio Muscolare, Silenziosa",
-  "brand": "Bob and Brad",
-  "price": {
-   "value": 69.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08M8YSFC7",
+    "category": "pistole-massaggio",
+    "title": "BOB AND BRAD Q2 Mini Pistola Massaggio Muscolare, Silenziosa",
+    "brand": "Bob and Brad",
+    "price": {
+      "value": 69.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 11776,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71rl7e88AJL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Dimensioni",
+        "Rapporto qualità-prezzo",
+        "Maneggevolezza"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.7,
-   "count": 11776,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07TWFK7JW",
+    "category": "pistole-massaggio",
+    "title": "OPOVE Pistola per Massaggio Massaggiatore Muscoli a Percussione di",
+    "brand": "OPOVE",
+    "price": {
+      "value": 88.04,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 7454,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61iTEOI3JUL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Potenza"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Comfort"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71rl7e88AJL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Dimensioni",
-    "Rapporto qualità-prezzo",
-    "Maneggevolezza"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B09MTQQHLB",
+    "category": "pistole-massaggio",
+    "title": "arboleaf Pistola Massaggio Muscolare Mini, Metallo Anodizzato, Grigio",
+    "brand": "arboleaf",
+    "price": {
+      "value": 42.74,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5399,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/717sHFmSNHL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Praticità",
+        "Durata batteria",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B09BB51M19",
+    "category": "pistole-massaggio",
+    "title": "Bob and Brad T2 Pistola Massaggio Muscolare",
+    "brand": "Bob and Brad",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3053,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71ZaySh4GZL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Maneggevolezza",
+        "Qualità costruttiva",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B089SKJ6PM",
+    "category": "pistole-massaggio",
+    "title": "Mebak 5 Pistola Massaggio Muscolare Professionale Massage Gun",
+    "brand": "Mebak",
+    "price": {
+      "value": 99.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2627,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61nUwANPzAL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Comfort",
+        "Potenza",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DSG2R2K2",
+    "category": "pistole-massaggio",
+    "title": "Mebak 7 Pistola Massaggio Muscolare, Pistola massaggiatore",
+    "brand": "Mebak",
+    "price": {
+      "value": 52.52,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 2474,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/514r9Q8mm0L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Dimensioni",
+        "Durata batteria",
+        "Accessori"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B086XCB1QP",
+    "category": "pistole-massaggio",
+    "title": "Mebak 3 Pistola Massaggio Muscolare Professionale Pistola Massaggiante",
+    "brand": "Mebak",
+    "price": {
+      "value": 87.7,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 18201,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61qr8QzhoHL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Facilità d'uso",
+        "Efficacia"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DJNZ3Y1H",
+    "category": "pistole-massaggio",
+    "title": "arboleaf CM20F Pistola Massaggio Muscolare Mini",
+    "brand": "arboleaf",
+    "price": {
+      "value": 37.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 851,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61W4nhqe0NL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0BG56G526",
+    "category": "pistole-massaggio",
+    "title": "BOB AND BRAD D6 Pro Pistola Massaggio Muscolare",
+    "brand": "Bob and Brad",
+    "price": {
+      "value": 199.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1336,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71RqZA-FSXL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Rapporto qualità-prezzo",
+        "Potenza"
+      ],
+      "mixed": [
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HB3BWNCY",
+    "category": "pistole-massaggio",
+    "title": "IVJ Pistola Massaggio Muscolare Profonda con Manico Allungabile",
+    "brand": "IVJ",
+    "price": {
+      "value": 64.59,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 137,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61WZWRcZ0lL._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B07TWFK7JW",
-  "category": "pistole-massaggio",
-  "title": "OPOVE Pistola per Massaggio Massaggiatore Muscoli a Percussione di",
-  "brand": "OPOVE",
-  "price": {
-   "value": 88.04,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 7454,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61iTEOI3JUL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Potenza"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Comfort"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09MTQQHLB",
-  "category": "pistole-massaggio",
-  "title": "arboleaf Pistola Massaggio Muscolare Mini, Metallo Anodizzato, Grigio",
-  "brand": "arboleaf",
-  "price": {
-   "value": 42.74,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5399,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/717sHFmSNHL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Praticità",
-    "Durata batteria",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B09BB51M19",
-  "category": "pistole-massaggio",
-  "title": "Bob and Brad T2 Pistola Massaggio Muscolare",
-  "brand": "Bob and Brad",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3053,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71ZaySh4GZL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Maneggevolezza",
-    "Qualità costruttiva",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B089SKJ6PM",
-  "category": "pistole-massaggio",
-  "title": "Mebak 5 Pistola Massaggio Muscolare Professionale Massage Gun",
-  "brand": "Mebak",
-  "price": {
-   "value": 99.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2627,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61nUwANPzAL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Comfort",
-    "Potenza",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DSG2R2K2",
-  "category": "pistole-massaggio",
-  "title": "Mebak 7 Pistola Massaggio Muscolare, Pistola massaggiatore",
-  "brand": "Mebak",
-  "price": {
-   "value": 52.52,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 2474,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/514r9Q8mm0L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Dimensioni",
-    "Durata batteria",
-    "Accessori"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B086XCB1QP",
-  "category": "pistole-massaggio",
-  "title": "Mebak 3 Pistola Massaggio Muscolare Professionale Pistola Massaggiante",
-  "brand": "Mebak",
-  "price": {
-   "value": 87.7,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 18201,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61qr8QzhoHL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Facilità d'uso",
-    "Efficacia"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DJNZ3Y1H",
-  "category": "pistole-massaggio",
-  "title": "arboleaf CM20F Pistola Massaggio Muscolare Mini",
-  "brand": "arboleaf",
-  "price": {
-   "value": 37.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 851,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61W4nhqe0NL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0HB3BWNCY",
-  "category": "pistole-massaggio",
-  "title": "IVJ Pistola Massaggio Muscolare Profonda con Manico Allungabile",
-  "brand": "IVJ",
-  "price": {
-   "value": 64.59,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.8,
-   "count": 137,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61WZWRcZ0lL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0BG56G526",
-  "category": "pistole-massaggio",
-  "title": "BOB AND BRAD D6 Pro Pistola Massaggio Muscolare",
-  "brand": "Bob and Brad",
-  "price": {
-   "value": 199.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1336,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71RqZA-FSXL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Rapporto qualità-prezzo",
-    "Potenza"
-   ],
-   "mixed": [
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

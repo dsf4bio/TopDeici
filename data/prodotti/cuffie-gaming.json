@@ -1,296 +1,296 @@
 [
- {
-  "asin": "B07Y2G7VX5",
-  "category": "cuffie-gaming",
-  "title": "havit Cuffie da gaming stereo metallizzate",
-  "brand": "havit",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07Y2G7VX5",
+    "category": "cuffie-gaming",
+    "title": "havit Cuffie da gaming stereo metallizzate",
+    "brand": "havit",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 26582,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71yVhRlcJdL._AC_SL500_.jpg"
   },
-  "rating": {
-   "average": 4.7,
-   "count": 26582,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B00SAYCVTQ",
+    "category": "cuffie-gaming",
+    "title": "HyperX Cloud II, Cuffie da Gaming, Connessione Cablata a 3,5 mm",
+    "brand": "HyperX",
+    "price": {
+      "value": 101.55,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 97768,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61PzYfuwOML._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Comfort",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Microfono",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/71yVhRlcJdL._AC_SL500_.jpg"
- },
- {
-  "asin": "B00SAYCVTQ",
-  "category": "cuffie-gaming",
-  "title": "HyperX Cloud II, Cuffie da Gaming, Connessione Cablata a 3,5 mm",
-  "brand": "HyperX",
-  "price": {
-   "value": 101.55,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07MTXLFXV",
+    "category": "cuffie-gaming",
+    "title": "Logitech G G432 Cuffie Gaming Cablate",
+    "brand": "Logitech",
+    "price": {
+      "value": 34.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 29412,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61us2rqFJOS._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Adatto per gaming",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Comfort",
+        "Durata",
+        "Microfono"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.5,
-   "count": 97768,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B086PKMZ21",
+    "category": "cuffie-gaming",
+    "title": "Razer BlackShark V2 X - Cuffie da Gioco Esports Cablate",
+    "brand": "Razer",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 23488,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71-mnhc4Q8L._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Isolamento acustico"
+      ],
+      "mixed": [
+        "Microfono",
+        "Prestazioni"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/61PzYfuwOML._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Comfort",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Microfono",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B0CSFRYL7C",
+    "category": "cuffie-gaming",
+    "title": "Ozeino Cuffie Gaming Wireless per PC/Ps5/Ps4",
+    "brand": "Ozeino",
+    "price": {
+      "value": 32.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 3256,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71MtuoeFemL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Funzionalità",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0CWS5Q6YJ",
+    "category": "cuffie-gaming",
+    "title": "Turtle Beach Recon 70 Cuffie multipiattaforma con cavo per XBOX, PC",
+    "brand": "Turtle Beach",
+    "price": {
+      "value": 34.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 2157,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/713H2Ht5kkL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Comfort"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DGQWNTJT",
+    "category": "cuffie-gaming",
+    "title": "Xbox Cuffie Wireless – Xbox Series X/S, Xbox One e dispositivi Windows",
+    "brand": "Xbox",
+    "price": {
+      "value": 100.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1234,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/719lM34ythL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Funzionalità",
+        "Rapporto qualità-prezzo",
+        "Connettività"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0D412FWZH",
+    "category": "cuffie-gaming",
+    "title": "Turtle Beach Recon 70 - Cuffie da gioco multipiattaforma per PC, PS5",
+    "brand": "Turtle Beach",
+    "price": {
+      "value": 34.36,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 77948,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61DJU+529XL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Rapporto qualità-prezzo",
+        "Comfort",
+        "Funzionalità"
+      ],
+      "mixed": [
+        "Microfono",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0DQQT2ZS3",
+    "category": "cuffie-gaming",
+    "title": "HyperX Cloud III, Cuffie Gaming Con Cavo, Microfono",
+    "brand": "HyperX",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 801,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51m2ndTWCZL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0CJ3D6Q6C",
+    "category": "cuffie-gaming",
+    "title": "Sony INZONE H5 - Cuffie gaming wireless, Suono spaziale a 360 gradi pe",
+    "brand": "Sony",
+    "image": "https://m.media-amazon.com/images/I/61AQ0crNdOL._AC_SL500_.jpg",
+    "price": {
+      "value": 89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 619,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Qualità del suono",
+        "Comfort",
+        "Rapporto qualità-prezzo",
+        "Adatto per gaming"
+      ],
+      "mixed": [
+        "Microfono"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   }
- },
- {
-  "asin": "B07MTXLFXV",
-  "category": "cuffie-gaming",
-  "title": "Logitech G G432 Cuffie Gaming Cablate",
-  "brand": "Logitech",
-  "price": {
-   "value": 34.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 29412,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61us2rqFJOS._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Adatto per gaming",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Comfort",
-    "Durata",
-    "Microfono"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B086PKMZ21",
-  "category": "cuffie-gaming",
-  "title": "Razer BlackShark V2 X - Cuffie da Gioco Esports Cablate",
-  "brand": "Razer",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 23488,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71-mnhc4Q8L._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Isolamento acustico"
-   ],
-   "mixed": [
-    "Microfono",
-    "Prestazioni"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DGQWNTJT",
-  "category": "cuffie-gaming",
-  "title": "Xbox Cuffie Wireless – Xbox Series X/S, Xbox One e dispositivi Windows",
-  "brand": "Xbox",
-  "price": {
-   "value": 100.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 1234,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/719lM34ythL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Funzionalità",
-    "Rapporto qualità-prezzo",
-    "Connettività"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0D412FWZH",
-  "category": "cuffie-gaming",
-  "title": "Turtle Beach Recon 70 - Cuffie da gioco multipiattaforma per PC, PS5",
-  "brand": "Turtle Beach",
-  "price": {
-   "value": 34.36,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 77948,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61DJU+529XL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Comfort",
-    "Funzionalità"
-   ],
-   "mixed": [
-    "Microfono",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CSFRYL7C",
-  "category": "cuffie-gaming",
-  "title": "Ozeino Cuffie Gaming Wireless per PC/Ps5/Ps4",
-  "brand": "Ozeino",
-  "price": {
-   "value": 32.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 3256,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71MtuoeFemL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo",
-    "Funzionalità",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0DQQT2ZS3",
-  "category": "cuffie-gaming",
-  "title": "HyperX Cloud III, Cuffie Gaming Con Cavo, Microfono",
-  "brand": "HyperX",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 801,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51m2ndTWCZL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0CWS5Q6YJ",
-  "category": "cuffie-gaming",
-  "title": "Turtle Beach Recon 70 Cuffie multipiattaforma con cavo per XBOX, PC",
-  "brand": "Turtle Beach",
-  "price": {
-   "value": 34.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 2157,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/713H2Ht5kkL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Comfort"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0CJ3D6Q6C",
-  "category": "cuffie-gaming",
-  "title": "Sony INZONE H5 - Cuffie gaming wireless, Suono spaziale a 360 gradi pe",
-  "brand": "Sony",
-  "image": "https://m.media-amazon.com/images/I/61AQ0crNdOL._AC_SL500_.jpg",
-  "price": {
-   "value": 89.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 619,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Qualità del suono",
-    "Comfort",
-    "Rapporto qualità-prezzo",
-    "Adatto per gaming"
-   ],
-   "mixed": [
-    "Microfono"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- }
 ]

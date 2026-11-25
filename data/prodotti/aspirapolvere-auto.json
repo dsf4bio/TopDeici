@@ -1,280 +1,280 @@
 [
- {
-  "asin": "B0HGL74444",
-  "category": "aspirapolvere-auto",
-  "title": "TT&C Aspirabriciole Senza Fili",
-  "brand": "TT&C",
-  "price": {
-   "value": 29.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07R5ZZF3G",
+    "category": "aspirapolvere-auto",
+    "title": "BLACK+DECKER dustbuster 18V 2.0Ah Aspirapolvere Portatile Senza Fili",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 88.72,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1986,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/612f5fD+gaL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Praticità",
+        "Comfort"
+      ],
+      "mixed": [
+        "Rapporto qualità-prezzo",
+        "Durata batteria",
+        "Durata"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 474,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0HGL74444",
+    "category": "aspirapolvere-auto",
+    "title": "TT&C Aspirabriciole Senza Fili",
+    "brand": "TT&C",
+    "price": {
+      "value": 29.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 474,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/718WVq4qCZL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/718WVq4qCZL._AC_SL500_.jpg"
- },
- {
-  "asin": "B07R5ZZF3G",
-  "category": "aspirapolvere-auto",
-  "title": "BLACK+DECKER dustbuster 18V 2.0Ah Aspirapolvere Portatile Senza Fili",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 88.72,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0957QNC6T",
+    "category": "aspirapolvere-auto",
+    "title": "Bissell Pet Hair Eraser Aspirapolvere Portatile Senza Fili 14,4V 2278N",
+    "brand": "Bissell",
+    "price": {
+      "value": 79.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 1379,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71UCJBskcNS._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Potenza",
+        "Praticità",
+        "Leggerezza"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.5,
-   "count": 1986,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B07KFYF8GQ",
+    "category": "aspirapolvere-auto",
+    "title": "BLACK+DECKER DUSTBUSTER Hand Vacuum HNVC220BCZ01, aspirapolvere a Mano",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 107.39,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 9044,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61kh+mJqYjL._AC_SL500_.jpg"
   },
-  "image": "https://m.media-amazon.com/images/I/612f5fD+gaL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Praticità",
-    "Comfort"
-   ],
-   "mixed": [
-    "Rapporto qualità-prezzo",
-    "Durata batteria",
-    "Durata"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B00JZLBNU6",
+    "category": "aspirapolvere-auto",
+    "title": "BLACK+DECKER Pivot Aspirapolvere portatile senza fili da 18 V",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 55.79,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 3996,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61bmbqL78uL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Estetica",
+        "Facile da pulire"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [
+        "Rumorosità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07P7PLVK3",
+    "category": "aspirapolvere-auto",
+    "title": "BLACK+DECKER Aspirapolvere portatile Dustbuster Gen 11, 18 V",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 89,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2509,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71I3RweIzEL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Efficacia",
+        "Potenza",
+        "Comfort",
+        "Praticità"
+      ],
+      "mixed": [
+        "Funzionalità",
+        "Durata batteria",
+        "Rapporto qualità-prezzo"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B07NLR6DSH",
+    "category": "aspirapolvere-auto",
+    "title": "BLACK+DECKER Aspirapolvere portatile (solidi/liquidi da 7,2 V)",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 41.91,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 2508,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/51ntrio5TmL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Funzionalità",
+        "Praticità",
+        "Rapporto qualità-prezzo"
+      ],
+      "mixed": [
+        "Durata batteria",
+        "Raccoglie polvere"
+      ],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B00IRV1ZG2",
+    "category": "aspirapolvere-auto",
+    "title": "BLACK+DECKER dustbuster Flexi Aspirapolvere Portatile 18V, PD1820L-QW",
+    "brand": "Black+Decker",
+    "price": {
+      "value": 89.9,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1549,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Sl-QiCnzL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Potenza",
+        "Efficacia",
+        "Prestazioni",
+        "Comfort"
+      ],
+      "mixed": [
+        "Durata batteria"
+      ],
+      "negative": [
+        "Rumorosità"
+      ],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0HNNXH8ZB",
+    "category": "aspirapolvere-auto",
+    "title": "SEALIGHT Aspirapolvere Senza fili per Auto, 38000Pa Mini Aspirapolvere",
+    "brand": "SEALIGHT",
+    "price": {
+      "value": 31.29,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1406,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71KFG6SIFiL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0DXVJ5Y39",
+    "category": "aspirapolvere-auto",
+    "title": "Fanttik Slim V10 APEX Aspirapolvere per Auto Senza Fili, 19.000 Pa",
+    "brand": "Fanttik",
+    "price": {
+      "value": 89.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1391,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61cREEcg+8L._AC_SL500_.jpg"
   }
- },
- {
-  "asin": "B0957QNC6T",
-  "category": "aspirapolvere-auto",
-  "title": "Bissell Pet Hair Eraser Aspirapolvere Portatile Senza Fili 14,4V 2278N",
-  "brand": "Bissell",
-  "price": {
-   "value": 79.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.5,
-   "count": 1379,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71UCJBskcNS._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Potenza",
-    "Praticità",
-    "Leggerezza"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07KFYF8GQ",
-  "category": "aspirapolvere-auto",
-  "title": "BLACK+DECKER DUSTBUSTER Hand Vacuum HNVC220BCZ01, aspirapolvere a Mano",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 107.39,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 9044,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61kh+mJqYjL._AC_SL500_.jpg"
- },
- {
-  "asin": "B00JZLBNU6",
-  "category": "aspirapolvere-auto",
-  "title": "BLACK+DECKER Pivot Aspirapolvere portatile senza fili da 18 V",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 55.79,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 3996,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61bmbqL78uL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Estetica",
-    "Facile da pulire"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [
-    "Rumorosità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07P7PLVK3",
-  "category": "aspirapolvere-auto",
-  "title": "BLACK+DECKER Aspirapolvere portatile Dustbuster Gen 11, 18 V",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 89.0,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2509,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71I3RweIzEL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Efficacia",
-    "Potenza",
-    "Comfort",
-    "Praticità"
-   ],
-   "mixed": [
-    "Funzionalità",
-    "Durata batteria",
-    "Rapporto qualità-prezzo"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B07NLR6DSH",
-  "category": "aspirapolvere-auto",
-  "title": "BLACK+DECKER Aspirapolvere portatile (solidi/liquidi da 7,2 V)",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 41.91,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 2508,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/51ntrio5TmL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Funzionalità",
-    "Praticità",
-    "Rapporto qualità-prezzo"
-   ],
-   "mixed": [
-    "Durata batteria",
-    "Raccoglie polvere"
-   ],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B00IRV1ZG2",
-  "category": "aspirapolvere-auto",
-  "title": "BLACK+DECKER dustbuster Flexi Aspirapolvere Portatile 18V, PD1820L-QW",
-  "brand": "Black+Decker",
-  "price": {
-   "value": 89.9,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1549,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Sl-QiCnzL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Potenza",
-    "Efficacia",
-    "Prestazioni",
-    "Comfort"
-   ],
-   "mixed": [
-    "Durata batteria"
-   ],
-   "negative": [
-    "Rumorosità"
-   ],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0HNNXH8ZB",
-  "category": "aspirapolvere-auto",
-  "title": "SEALIGHT Aspirapolvere Senza fili per Auto, 38000Pa Mini Aspirapolvere",
-  "brand": "SEALIGHT",
-  "price": {
-   "value": 31.29,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1406,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71KFG6SIFiL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0DXVJ5Y39",
-  "category": "aspirapolvere-auto",
-  "title": "Fanttik Slim V10 APEX Aspirapolvere per Auto Senza Fili, 19.000 Pa",
-  "brand": "Fanttik",
-  "price": {
-   "value": 89.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.4,
-   "count": 1391,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61cREEcg+8L._AC_SL500_.jpg"
- }
 ]

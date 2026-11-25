@@ -1,220 +1,220 @@
 [
- {
-  "asin": "B08LNZX1XY",
-  "category": "zaini-trekking",
-  "title": "Osprey Tempest 20 Zaino da Hiking per Donna, Stealth Black - Wm/L",
-  "brand": "Osprey",
-  "price": {
-   "value": 142.7,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B08LNZX1XY",
+    "category": "zaini-trekking",
+    "title": "Osprey Tempest 20 Zaino da Hiking per Donna, Stealth Black - Wm/L",
+    "brand": "Osprey",
+    "price": {
+      "value": 142.7,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 729,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/710MtWiYjAL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Leggerezza",
+        "Comfort",
+        "Capacità"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "rating": {
-   "average": 4.8,
-   "count": 729,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
+  {
+    "asin": "B0D4QYQTFH",
+    "category": "zaini-trekking",
+    "title": "Osprey Sportlite Unisex Zaino",
+    "brand": "Osprey",
+    "price": {
+      "value": 62.81,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 874,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71boQgxhFxL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Prestazioni",
+        "Leggerezza",
+        "Capienza",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
   },
-  "image": "https://m.media-amazon.com/images/I/710MtWiYjAL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Leggerezza",
-    "Comfort",
-    "Capacità"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
+  {
+    "asin": "B08LP16M75",
+    "category": "zaini-trekking",
+    "title": "Osprey Aether Zaino da trekking uomo, 65L Large/X-Large, Black",
+    "brand": "Osprey",
+    "price": {
+      "value": 197.05,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 782,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/61Pk1wOAwAL._AC_SL500_.jpg"
+  },
+  {
+    "asin": "B0BKQ1NBFT",
+    "category": "zaini-trekking",
+    "title": "SKYSPER Zaino da Hiking 20L",
+    "brand": "SKYSPER",
+    "price": {
+      "value": 39.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 5658,
+      "checkedAt": "2026-11-24T14:28:45+00:00",
+      "source": "manual"
+    },
+    "image": "https://m.media-amazon.com/images/I/71uStKsIazL._AC_SL500_.jpg",
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Spaziosità",
+        "Versatilità",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C7L61JPS",
+    "category": "zaini-trekking",
+    "title": "Deuter Futura 32 - Zaino",
+    "brand": "Deuter",
+    "image": "https://m.media-amazon.com/images/I/91VH4FgQ+fL._AC_SL500_.jpg",
+    "price": {
+      "value": 123.69,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 601,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Capienza",
+        "Comfort",
+        "Spaziosità",
+        "Robustezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C5M18121",
+    "category": "zaini-trekking",
+    "title": "Salomon Trailblazer 20 Zaino per Escursioni Unisex, Versatilità, Facil",
+    "brand": "Salomon",
+    "image": "https://m.media-amazon.com/images/I/81YoNL3pfcL._AC_SL500_.jpg",
+    "price": {
+      "value": 59.99,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 3687,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Leggerezza",
+        "Praticità",
+        "Capienza",
+        "Comfort"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B08JQYGMGX",
+    "category": "zaini-trekking",
+    "title": "Deuter Futura Pro 36 - Zaino da escursionismo",
+    "brand": "Deuter",
+    "image": "https://m.media-amazon.com/images/I/91bciV9e-4L._AC_SL500_.jpg",
+    "price": {
+      "value": 155.09,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 367,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "opinions": {
+      "positive": [
+        "Spaziosità",
+        "Capienza",
+        "Comfort",
+        "Leggerezza"
+      ],
+      "mixed": [],
+      "negative": [],
+      "checkedAt": "2026-11-25T08:56:51+00:00"
+    }
+  },
+  {
+    "asin": "B0C7L3RCFP",
+    "category": "zaini-trekking",
+    "title": "Deuter Speed Lite 13 - Zaino da escursionismo leggero",
+    "brand": "Deuter",
+    "image": "https://m.media-amazon.com/images/I/81MQsPmZuDL._AC_SL500_.jpg",
+    "price": {
+      "value": 45.87,
+      "currency": "EUR",
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 302,
+      "checkedAt": "2026-11-24T18:22:14+00:00",
+      "source": "manual"
+    }
   }
- },
- {
-  "asin": "B0D4QYQTFH",
-  "category": "zaini-trekking",
-  "title": "Osprey Sportlite Unisex Zaino",
-  "brand": "Osprey",
-  "price": {
-   "value": 62.81,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 874,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71boQgxhFxL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Prestazioni",
-    "Leggerezza",
-    "Capienza",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0BKQ1NBFT",
-  "category": "zaini-trekking",
-  "title": "SKYSPER Zaino da Hiking 20L",
-  "brand": "SKYSPER",
-  "price": {
-   "value": 39.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 5658,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/71uStKsIazL._AC_SL500_.jpg",
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Spaziosità",
-    "Versatilità",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08LP16M75",
-  "category": "zaini-trekking",
-  "title": "Osprey Aether Zaino da trekking uomo, 65L Large/X-Large, Black",
-  "brand": "Osprey",
-  "price": {
-   "value": 197.05,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 782,
-   "checkedAt": "2026-11-24T14:28:45+00:00",
-   "source": "manual"
-  },
-  "image": "https://m.media-amazon.com/images/I/61Pk1wOAwAL._AC_SL500_.jpg"
- },
- {
-  "asin": "B0C7L61JPS",
-  "category": "zaini-trekking",
-  "title": "Deuter Futura 32 - Zaino",
-  "brand": "Deuter",
-  "image": "https://m.media-amazon.com/images/I/91VH4FgQ+fL._AC_SL500_.jpg",
-  "price": {
-   "value": 123.69,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 601,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Capienza",
-    "Comfort",
-    "Spaziosità",
-    "Robustezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C5M18121",
-  "category": "zaini-trekking",
-  "title": "Salomon Trailblazer 20 Zaino per Escursioni Unisex, Versatilità, Facil",
-  "brand": "Salomon",
-  "image": "https://m.media-amazon.com/images/I/81YoNL3pfcL._AC_SL500_.jpg",
-  "price": {
-   "value": 59.99,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.6,
-   "count": 3687,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Leggerezza",
-    "Praticità",
-    "Capienza",
-    "Comfort"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B08JQYGMGX",
-  "category": "zaini-trekking",
-  "title": "Deuter Futura Pro 36 - Zaino da escursionismo",
-  "brand": "Deuter",
-  "image": "https://m.media-amazon.com/images/I/91bciV9e-4L._AC_SL500_.jpg",
-  "price": {
-   "value": 155.09,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 367,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "opinions": {
-   "positive": [
-    "Spaziosità",
-    "Capienza",
-    "Comfort",
-    "Leggerezza"
-   ],
-   "mixed": [],
-   "negative": [],
-   "checkedAt": "2026-11-25T08:56:51+00:00"
-  }
- },
- {
-  "asin": "B0C7L3RCFP",
-  "category": "zaini-trekking",
-  "title": "Deuter Speed Lite 13 - Zaino da escursionismo leggero",
-  "brand": "Deuter",
-  "image": "https://m.media-amazon.com/images/I/81MQsPmZuDL._AC_SL500_.jpg",
-  "price": {
-   "value": 45.87,
-   "currency": "EUR",
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  },
-  "rating": {
-   "average": 4.7,
-   "count": 302,
-   "checkedAt": "2026-11-24T18:22:14+00:00",
-   "source": "manual"
-  }
- }
 ]
