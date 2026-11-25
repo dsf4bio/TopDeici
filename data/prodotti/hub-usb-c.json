@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61T2Ie1fVOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61T2Ie1fVOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Versatilità",
+    "Rapporto qualità-prezzo",
+    "Estetica"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08GY3GKRC",
@@ -35,7 +48,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61vrAnwbsUL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61vrAnwbsUL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Versatilità",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DY1BD3T2",
@@ -54,7 +76,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71kRRJy15cL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71kRRJy15cL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Qualità costruttiva",
+    "Rapporto qualità-prezzo",
+    "Velocità di trasferimento"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B087QZVQJX",
@@ -73,7 +106,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71zuiK5poRL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71zuiK5poRL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Connettività",
+    "Rapporto qualità-prezzo",
+    "Velocità di trasmissione"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Surriscaldamento",
+    "Affidabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B093FKT9BF",
@@ -92,7 +139,22 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71oaJLsifAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71oaJLsifAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Costruzione",
+    "Comfort"
+   ],
+   "mixed": [
+    "Surriscaldamento",
+    "Risoluzione",
+    "Potenza di ricarica"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0F6MWNJ6J",
@@ -111,7 +173,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71dNQHw9p-L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71dNQHw9p-L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Versatilità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08HZ1GGH9",
@@ -168,7 +243,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51uvxEMqFgL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51uvxEMqFgL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Connettività",
+    "Estetica",
+    "Varietà di porte"
+   ],
+   "mixed": [
+    "Stabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CLXV83J6",
@@ -187,6 +275,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71-vGSzugrL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71-vGSzugrL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Connettività",
+    "Rapporto qualità-prezzo",
+    "Estetica"
+   ],
+   "mixed": [
+    "Dissipazione calore"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

@@ -92,6 +92,20 @@
    "count": 1055,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Spaziosità",
+    "Tenuta alla pioggia",
+    "Comfort",
+    "Apertura"
+   ],
+   "mixed": [
+    "Facilità di montaggio",
+    "Resistenza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +144,19 @@
    "count": 663,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità costruttiva",
+    "Facilità di montaggio",
+    "Leggerezza",
+    "Capienza"
+   ],
+   "mixed": [
+    "Dimensioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +195,19 @@
    "count": 603,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Leggerezza",
+    "Facilità di montaggio",
+    "Impermeabilità",
+    "Spaziosità"
+   ],
+   "mixed": [
+    "Resistenza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {

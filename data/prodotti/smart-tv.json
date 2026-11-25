@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61hEH794X+L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61hEH794X+L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità video",
+    "Funzionalità",
+    "Qualità del suono"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08WQ7STJF",
@@ -35,7 +46,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81ynXiyEJHL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81ynXiyEJHL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità dell'immagine",
+    "Rapporto qualità-prezzo",
+    "Qualità dei neri",
+    "Estetica"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B087KB7WQL",
@@ -54,7 +78,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/918BRXuHAxL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/918BRXuHAxL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità dell'immagine",
+    "Estetica",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Connettività",
+    "Colori"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07QKDJVNG",
@@ -73,7 +111,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/91lJt4zBDCL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/91lJt4zBDCL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità video",
+    "Funzionalità",
+    "Estetica"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FXZ21F3X",
@@ -111,7 +160,22 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61+gt2JuIwL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61+gt2JuIwL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità dell'immagine",
+    "Estetica",
+    "Qualità dei colori"
+   ],
+   "mixed": [
+    "Affidabilità",
+    "Telecomando",
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0F9WRKNS3",
@@ -130,7 +194,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81RtgVsGozL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81RtgVsGozL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità dell'immagine",
+    "Rapporto qualità-prezzo",
+    "Qualità del suono"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07R9XDTJJ",
@@ -149,7 +223,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71k1OQrzKAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71k1OQrzKAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità video",
+    "Funzionalità",
+    "Estetica"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B094KXD65K",
@@ -187,6 +272,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71polnCq65L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71polnCq65L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità dell'immagine",
+    "Estetica",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Qualità del suono"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

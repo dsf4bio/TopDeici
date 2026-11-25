@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51EReSs0vpL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51EReSs0vpL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Pulizia",
+    "Morbidezza",
+    "Funzionalità",
+    "Luminosità"
+   ],
+   "mixed": [
+    "Costo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07QC61JFR",
@@ -35,7 +48,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/719QOzpJC9L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/719QOzpJC9L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Pulizia",
+    "Morbidezza",
+    "Effetto anti-age",
+    "Funzione massaggi"
+   ],
+   "mixed": [
+    "Costo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0C746D5H1",
@@ -187,6 +213,15 @@
    "count": 365,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Delicatezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

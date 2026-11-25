@@ -16,6 +16,19 @@
    "count": 984,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Leggerezza",
+    "Potenza",
+    "Durata"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +48,16 @@
    "count": 2597,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Potenza"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -54,6 +77,15 @@
    "count": 505,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Potenza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +105,20 @@
    "count": 2910,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Maneggevolezza",
+    "Leggerezza",
+    "Dimensioni"
+   ],
+   "mixed": [
+    "Durata batteria",
+    "Robustezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +138,20 @@
    "count": 2446,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Leggerezza",
+    "Praticità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Durata batteria",
+    "Affidabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +171,19 @@
    "count": 5362,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Durata batteria",
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Maneggevolezza"
+   ],
+   "mixed": [],
+   "negative": [
+    "Fragilità"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +203,19 @@
    "count": 4637,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Durata batteria",
+    "Efficacia",
+    "Leggerezza",
+    "Praticità"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {

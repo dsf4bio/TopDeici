@@ -16,6 +16,17 @@
    "count": 11559,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Riscaldamento",
+    "Funzionalità",
+    "Silenziosità",
+    "Dimensioni"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +46,17 @@
    "count": 4896,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Riscaldamento",
+    "Silenziosità",
+    "Riscaldamento rapido"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -54,6 +76,17 @@
    "count": 3761,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Funzionalità",
+    "Riscaldamento rapido",
+    "Silenziosità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +106,17 @@
    "count": 2617,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Riscaldamento",
+    "Funzionalità",
+    "Regolabilità",
+    "Estetica"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +136,17 @@
    "count": 1153,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Potenza",
+    "Funzionalità",
+    "Dimensioni",
+    "Silenziosità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +166,17 @@
    "count": 1022,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Riscaldamento",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Dimensioni compatte"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +196,17 @@
    "count": 926,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Riscaldamento rapido",
+    "Estetica",
+    "Funzionalità",
+    "Dimensioni"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +226,17 @@
    "count": 135,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Riscaldamento",
+    "Dimensioni compatte",
+    "Estetica",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +256,20 @@
    "count": 5105,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Riscaldamento rapido"
+   ],
+   "mixed": [
+    "Odore",
+    "Consumi energetici"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +289,17 @@
    "count": 3688,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Riscaldamento",
+    "Funzionalità",
+    "Dimensioni",
+    "Consumi energetici"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

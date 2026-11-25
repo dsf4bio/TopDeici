@@ -16,6 +16,17 @@
    "count": 3435,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Silenziosità",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Velocità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +46,19 @@
    "count": 10716,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Dimensioni compatte",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -54,6 +78,19 @@
    "count": 7698,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Dimensioni"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +110,19 @@
    "count": 4151,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Praticità"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +142,19 @@
    "count": 568,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Silenziosità",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Dimensioni",
+    "Robustezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +174,20 @@
    "count": 3339,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Dimensioni compatte"
+   ],
+   "mixed": [
+    "Rumorosità",
+    "Nebulizzazione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +207,17 @@
    "count": 1627,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Silenziosità",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Nebulizzazione"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +237,19 @@
    "count": 1541,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Silenziosità",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Dimensioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +269,20 @@
    "count": 7113,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Praticità"
+   ],
+   "mixed": [
+    "Rumorosità",
+    "Nebulizzazione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +302,19 @@
    "count": 994,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Facilità d'uso",
+    "Velocità"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

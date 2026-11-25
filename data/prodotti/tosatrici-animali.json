@@ -16,6 +16,17 @@
    "count": 15906,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Praticità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +46,19 @@
    "count": 83238,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Prestazioni",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Durata batteria"
+   ],
+   "mixed": [
+    "Facilità d'uso"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +97,17 @@
    "count": 7220,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +127,17 @@
    "count": 7220,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +176,17 @@
    "count": 25341,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Taglio",
+    "Rapporto qualità-prezzo",
+    "Silenziosità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +206,17 @@
    "count": 18659,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Silenziosità",
+    "Praticità",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +255,17 @@
    "count": 5872,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Silenziosità",
+    "Comfort",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

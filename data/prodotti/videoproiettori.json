@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71A2589eiEL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71A2589eiEL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità video",
+    "Funzionalità",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00A2T6X0K",
@@ -73,7 +84,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51y8H81m2AL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51y8H81m2AL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità video",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FGJC449H",
@@ -92,7 +112,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/616z0u73iOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/616z0u73iOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità dell'immagine",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Luminosità",
+    "Funzionalità",
+    "Qualità del suono"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GXZFVQ46",
@@ -130,7 +164,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51ohyPQpfRL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51ohyPQpfRL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità video",
+    "Portabilità",
+    "Luminosità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FT27BQYQ",
@@ -149,7 +196,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71r5cNHXAZL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71r5cNHXAZL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità video",
+    "Rapporto qualità-prezzo",
+    "Silenziosità",
+    "Connettività"
+   ],
+   "mixed": [
+    "Luminosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B071WPR7XK",

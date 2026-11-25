@@ -35,6 +35,15 @@
    "count": 1647,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Visione notturna",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -54,6 +63,15 @@
    "count": 137,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità dell'immagine",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +91,19 @@
    "count": 3741,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità video",
+    "Rapporto qualità-prezzo",
+    "Facilità d'installazione",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +123,17 @@
    "count": 1702,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità d'installazione",
+    "Qualità video",
+    "Rapporto qualità-prezzo",
+    "Prestazioni"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +153,17 @@
    "count": 1702,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità d'installazione",
+    "Qualità video",
+    "Rapporto qualità-prezzo",
+    "Prestazioni"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +202,19 @@
    "count": 1093,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Qualità video",
+    "Adatto per animali"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {

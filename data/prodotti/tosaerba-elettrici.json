@@ -16,7 +16,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71XDUeLpuIL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71XDUeLpuIL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Leggerezza",
+    "Maneggevolezza"
+   ],
+   "mixed": [
+    "Batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09RKP8617",
@@ -35,7 +47,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51Ww9hIBf0L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51Ww9hIBf0L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Potenza di trattamento",
+    "Leggerezza",
+    "Maneggevolezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DPN4SJCY",
@@ -111,7 +133,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71aprt6kSrL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71aprt6kSrL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Durata batteria",
+    "Funzionalità",
+    "Praticità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0G4RJBFDP",
@@ -187,6 +220,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51dfGGhfwFL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51dfGGhfwFL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Taglio",
+    "Rapporto qualità-prezzo",
+    "Maneggevolezza",
+    "Robustezza"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

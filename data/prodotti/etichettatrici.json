@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71+RVOyO99L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71+RVOyO99L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Praticità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BRZ9RTMX",
@@ -35,7 +46,22 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Funzionalità",
+    "Praticità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Batterie"
+   ],
+   "negative": [
+    "Resistenza"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01N5ID8FR",
@@ -54,7 +80,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/715gorPNmgL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/715gorPNmgL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Qualità di scrittura"
+   ],
+   "mixed": [
+    "Alimentazione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0056140MM",
@@ -73,7 +112,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81nimNwZHaL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81nimNwZHaL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GCJT1CVP",
@@ -92,7 +141,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71Q2fNBFyuL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71Q2fNBFyuL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Praticità",
+    "Funzionalità",
+    "Costo ricarica"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B073J1GX7Y",
@@ -149,7 +209,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51Ip2GaqR8L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51Ip2GaqR8L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Praticità",
+    "Personalizzazione",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Qualità di stampa",
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BLGSKKVR",
@@ -168,7 +242,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71rR+ZuGdnL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71rR+ZuGdnL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Funzionalità",
+    "Versatilità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Qualità di scrittura"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0B7NV87X7",
@@ -187,6 +274,21 @@
    "count": 2392,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità di scrittura",
+    "Praticità",
+    "Facilità d'uso",
+    "Connettività bluetooth"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "App",
+    "Scelta di font"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

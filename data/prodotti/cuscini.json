@@ -35,7 +35,22 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71D8KFIqCnL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71D8KFIqCnL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Adattabilità"
+   ],
+   "mixed": [
+    "Morbidezza",
+    "Spessore",
+    "Altezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GSGCJ4ZT",
@@ -54,7 +69,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71eQcF0690L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71eQcF0690L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Supporto"
+   ],
+   "mixed": [
+    "Morbidezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BG8Z9FXF",
@@ -73,7 +99,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71+HNrkwmOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71+HNrkwmOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Morbidezza",
+    "Posizionamento",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GYP18ZWL",
@@ -92,7 +129,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61LInyRWiWL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61LInyRWiWL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Morbidezza",
+    "Forma"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07NQLWQ51",
@@ -111,7 +159,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71wvEVkLN7L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71wvEVkLN7L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Morbidezza",
+    "Altezza",
+    "Sicurezza"
+   ],
+   "mixed": [
+    "Odore"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DKTG6RHB",
@@ -130,7 +191,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81PSs6SYEaL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81PSs6SYEaL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Qualità del sonno"
+   ],
+   "mixed": [
+    "Rigidità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GZH1CDTG",
@@ -149,7 +222,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/816O-8SClAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/816O-8SClAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Morbidezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07NQPXLPZ",
@@ -168,7 +250,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/716HAnvMq+L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/716HAnvMq+L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Morbidezza",
+    "Altezza",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00DBVIWV4",
@@ -187,6 +280,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71v3-OJGfCL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71v3-OJGfCL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Adattabilità",
+    "Indeformabilità"
+   ],
+   "mixed": [
+    "Morbidezza",
+    "Altezza",
+    "Assorbimento odori"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

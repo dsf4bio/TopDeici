@@ -16,7 +16,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/714QtABgS4L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/714QtABgS4L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Adattabilità",
+    "Rigidità"
+   ],
+   "mixed": [
+    "Chiusura",
+    "Pieghevolezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0D6R5S2SV",
@@ -168,7 +182,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81bLm9XjCAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81bLm9XjCAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Morbidezza",
+    "Stabilità"
+   ],
+   "mixed": [
+    "Leggerezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CKSXMV3K",

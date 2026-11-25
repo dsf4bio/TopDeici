@@ -73,7 +73,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61gIeAhucIL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61gIeAhucIL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Praticità",
+    "Facile da pulire"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08CRTKLX4",
@@ -92,7 +103,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71m0uVGpbNL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71m0uVGpbNL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Potenza",
+    "Robustezza",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [
+    "Rumorosità"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CP9RWLJR",
@@ -111,7 +135,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51XNt-TOmpL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51XNt-TOmpL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Potenza",
+    "Velocità",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B007KIVCIO",
@@ -130,7 +164,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51EdCghKP0L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51EdCghKP0L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Robustezza",
+    "Potenza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CPT7RDZV",
@@ -168,7 +213,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/41wzq-8p7XL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/41wzq-8p7XL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Potenza",
+    "Praticità",
+    "Dimensioni"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07SB18XRL",
@@ -187,6 +243,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61rbxWROlLL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61rbxWROlLL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'uso",
+    "Praticità",
+    "Facile da pulire"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

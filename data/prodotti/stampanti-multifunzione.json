@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/612-0FeuEHL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/612-0FeuEHL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'installazione",
+    "Connessione wifi"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CK2PVJSR",
@@ -35,7 +46,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61ki4lrzAQL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61ki4lrzAQL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Velocità di scrittura",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Affidabilità",
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07H8JJH9Y",
@@ -54,7 +79,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61IgwK18O8L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61IgwK18O8L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Qualità di stampa",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09B26T8QP",
@@ -73,7 +109,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61WPQqaXrUL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61WPQqaXrUL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità di stampa",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CK2P3HR7",
@@ -92,7 +139,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61RV6F-uznL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61RV6F-uznL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'installazione",
+    "Funzionalità",
+    "Connettività",
+    "Velocità di scrittura"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CRVPRYKK",
@@ -111,7 +169,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61BkYtDjAOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61BkYtDjAOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facile da configurare",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Connettività wifi",
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CJFYJBT6",
@@ -130,7 +202,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61T-wWVvVbL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61T-wWVvVbL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Connettività",
+    "Funzione fronte-retro"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0B5Q2LCY7",
@@ -149,7 +232,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61EGQ7z4lFL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61EGQ7z4lFL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'installazione",
+    "Velocità di scrittura"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09B281464",
@@ -168,7 +262,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61jROgwc39L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61jROgwc39L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Qualità di scrittura"
+   ],
+   "mixed": [
+    "Connessione wifi"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08XNJ23VY",
@@ -187,6 +294,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61G0ctMvKdL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61G0ctMvKdL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'installazione",
+    "Qualità di scrittura",
+    "Velocità"
+   ],
+   "mixed": [
+    "Connettività",
+    "Connessione wifi"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

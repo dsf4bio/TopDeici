@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/715mueh-21L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/715mueh-21L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Facilità d'uso",
+    "Riscaldamento"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo",
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00MCSW8X0",
@@ -35,7 +48,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61Smx1StfQL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61Smx1StfQL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Durata"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09GKY436P",
@@ -73,7 +96,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71dUK7TVIeL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71dUK7TVIeL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Riscaldamento rapido"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07YMTHRV3",
@@ -111,7 +146,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71upSpImWLL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71upSpImWLL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Estetica"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09RN8Q4CW",
@@ -130,7 +175,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81J7a3v6A7L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81J7a3v6A7L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Morbidezza",
+    "Riscaldamento rapido"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09RN9SZ71",
@@ -149,7 +205,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61WsN1xdu7L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61WsN1xdu7L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Non strappa",
+    "Temperatura"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01KLXFBFE",
@@ -168,7 +235,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61f0j+uTsXL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61f0j+uTsXL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Riscaldamento rapido",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Adattabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CCYPKJHL",
@@ -187,6 +266,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61XFX1YwRVL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61XFX1YwRVL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Morbidezza",
+    "Facilità d'uso",
+    "Riscaldamento rapido"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo",
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

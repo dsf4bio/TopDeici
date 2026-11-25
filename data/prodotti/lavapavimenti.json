@@ -16,6 +16,17 @@
    "count": 185,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Pulizia",
+    "Potenza",
+    "Stabilità",
+    "Durata batteria"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +46,17 @@
    "count": 161,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Maneggevolezza",
+    "Leggerezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +95,19 @@
    "count": 4472,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Pulizia",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +127,21 @@
    "count": 3569,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Praticità"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Durata batteria",
+    "Assenza di aloni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +161,21 @@
    "count": 3415,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Pulizia",
+    "Efficacia",
+    "Facilità d'uso",
+    "Praticità"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [
+    "Affidabilità"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +195,19 @@
    "count": 188,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Durata batteria",
+    "Potenza di aspirazione",
+    "Durata"
+   ],
+   "mixed": [
+    "Leggerezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +227,20 @@
    "count": 617,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Praticità",
+    "Estetica"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +279,16 @@
    "count": 112,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

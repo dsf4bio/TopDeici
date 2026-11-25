@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61xhzvDIRKL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61xhzvDIRKL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Funzionalità",
+    "Durata batteria",
+    "Praticità"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0F3JR79YY",
@@ -35,7 +48,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Comfort",
+    "Sensibilità dei tasti"
+   ],
+   "mixed": [
+    "Costo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01MRUUSPR",
@@ -54,7 +79,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51AcCuSqQoL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51AcCuSqQoL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Originalità",
+    "Rapporto qualità-prezzo",
+    "Estetica"
+   ],
+   "mixed": [
+    "Durata",
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08HKCM222",
@@ -73,7 +112,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61j9RyHsPCL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61j9RyHsPCL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Colore",
+    "Funzionalità",
+    "Estetica",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Durata",
+    "Vibrazioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08ZNQN1FP",
@@ -111,6 +164,16 @@
    "count": 6569,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Connettività"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +212,18 @@
    "count": 1449,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Originalità",
+    "Reattività"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

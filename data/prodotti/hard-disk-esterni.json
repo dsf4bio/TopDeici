@@ -16,6 +16,17 @@
    "count": 15019,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Velocità",
+    "Rapporto qualità-prezzo",
+    "Dimensioni compatte"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +46,19 @@
    "count": 25002,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Dimensioni",
+    "Velocità"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -54,6 +78,19 @@
    "count": 21737,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Velocità",
+    "Rapporto qualità-prezzo",
+    "Praticità"
+   ],
+   "mixed": [
+    "Affidabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +110,19 @@
    "count": 15864,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Velocità",
+    "Capacità"
+   ],
+   "mixed": [
+    "Affidabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +142,20 @@
    "count": 105308,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Velocità",
+    "Capacità",
+    "Dimensioni"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +175,17 @@
    "count": 53918,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Velocità",
+    "Dimensioni"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +205,17 @@
    "count": 6540,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Velocità",
+    "Robustezza",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +273,19 @@
    "count": 24831,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Velocità",
+    "Capacità",
+    "Silenziosità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Affidabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

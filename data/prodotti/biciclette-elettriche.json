@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61WvnExeRGL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61WvnExeRGL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Potenza",
+    "Comfort",
+    "Prestazioni"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DWFJCJZ3",
@@ -35,7 +46,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71tcY6NqzAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71tcY6NqzAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Affidabilità",
+    "Robustezza",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CYGYVZXW",
@@ -73,7 +94,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71YfXvoMXrL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71YfXvoMXrL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Robustezza",
+    "Affidabilità",
+    "Facilità di montaggio"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DKXXHK16",
@@ -92,7 +124,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71JhA82pO6L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71JhA82pO6L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Facilità di montaggio",
+    "Comfort"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09J4RTCKJ",
@@ -130,7 +175,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/7147tjeWZ4L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/7147tjeWZ4L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Prestazioni",
+    "Facilità di montaggio",
+    "Estetica"
+   ],
+   "mixed": [
+    "Posizionamento"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CZLBRLH7",
@@ -149,7 +207,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71s0nEP1P4L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71s0nEP1P4L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Facilità di montaggio",
+    "Durata batteria"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GZFDC195",
@@ -168,7 +239,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71pyN-VJ3wL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71pyN-VJ3wL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Funzionalità",
+    "Facilità di montaggio"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BVR81S6P",

@@ -73,6 +73,19 @@
    "count": 12086,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Morbidezza",
+    "Qualità del sonno",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Calore"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +105,19 @@
    "count": 1353,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Dimensioni",
+    "Praticità"
+   ],
+   "mixed": [
+    "Rigidità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +137,17 @@
    "count": 5708,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Qualità del sonno",
+    "Morbidezza",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +186,20 @@
    "count": 1707,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Qualità del sonno",
+    "Adattabilità"
+   ],
+   "mixed": [
+    "Morbidezza",
+    "Stabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

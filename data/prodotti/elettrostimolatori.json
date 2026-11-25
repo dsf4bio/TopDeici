@@ -35,6 +35,20 @@
    "count": 31153,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Efficacia"
+   ],
+   "mixed": [
+    "Durata",
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +87,17 @@
    "count": 1751,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Efficacia"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +117,20 @@
    "count": 1427,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Varietà di funzionalità"
+   ],
+   "mixed": [
+    "Ricaricabile",
+    "Aderenza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +188,19 @@
    "count": 4213,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +220,19 @@
    "count": 539,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {

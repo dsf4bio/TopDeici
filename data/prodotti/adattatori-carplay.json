@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71TesJ3w0FL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71TesJ3w0FL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Connettività",
+    "Facilità d'installazione",
+    "Carplay"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0HK38W3N1",
@@ -54,7 +67,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61B-e+6yFgL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61B-e+6yFgL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Connettività",
+    "Facilità d'uso",
+    "Funzionalità",
+    "Velocità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0H3JXVSWK",

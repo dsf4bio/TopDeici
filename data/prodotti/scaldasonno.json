@@ -16,6 +16,17 @@
    "count": 2072,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +46,19 @@
    "count": 2205,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Morbidezza",
+    "Estetica",
+    "Comfort"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -54,6 +78,19 @@
    "count": 2205,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Morbidezza",
+    "Estetica",
+    "Comfort"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +110,17 @@
    "count": 1539,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Morbidezza",
+    "Rapporto qualità-prezzo",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +140,20 @@
    "count": 3293,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Morbidezza"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Resistenza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +173,19 @@
    "count": 2963,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Morbidezza",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Regolazione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +205,19 @@
    "count": 2963,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Calore",
+    "Morbidezza",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Regolazione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +237,20 @@
    "count": 374,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Regolabilità"
+   ],
+   "mixed": [
+    "Riscaldamento",
+    "Dimensioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +270,19 @@
    "count": 2112,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Temperatura",
+    "Rapporto qualità-prezzo",
+    "Riscaldamento",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +302,17 @@
    "count": 161,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Riscaldamento",
+    "Funzionalità",
+    "Regolabilità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

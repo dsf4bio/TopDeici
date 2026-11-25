@@ -54,7 +54,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61CDsLezAoL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61CDsLezAoL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Rapporto qualità-prezzo",
+    "Stabilità"
+   ],
+   "mixed": [
+    "Qualità dell'immagine",
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BT4Y1FY4",
@@ -73,7 +86,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71SahTHP2vL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71SahTHP2vL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità video",
+    "Estetica",
+    "Per gaming"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BS9TDY31",
@@ -130,7 +154,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61Y4ccIFSzL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61Y4ccIFSzL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità dell'immagine",
+    "Colori",
+    "Regolabilità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Luminosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CT5P2DS9",
@@ -149,7 +186,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61bE1zJcj6L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61bE1zJcj6L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Colori",
+    "Qualità dell'immagine"
+   ],
+   "mixed": [
+    "Luminosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BY9NPLP4",

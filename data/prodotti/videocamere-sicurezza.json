@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51eMyydOjqL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51eMyydOjqL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'installazione",
+    "Rapporto qualità-prezzo",
+    "Qualità video"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CDCL6FLC",
@@ -35,7 +48,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51AhQ3FYIhL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51AhQ3FYIhL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Qualità video",
+    "Facilità d'installazione"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CDHJNMZZ",
@@ -54,7 +78,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61ZAETf5riL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61ZAETf5riL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Facilità d'installazione",
+    "Qualità video"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0B5QXM2BY",
@@ -73,7 +110,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71zElGjq+TL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71zElGjq+TL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'installazione",
+    "Visione notturna"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BQJVKVQR",
@@ -92,7 +140,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71aGwFhPQGL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71aGwFhPQGL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'installazione",
+    "Qualità video"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DY94MCLN",
@@ -111,7 +172,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71hB8g8DcnL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71hB8g8DcnL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Qualità video",
+    "Visione notturna"
+   ],
+   "mixed": [
+    "Connessione wifi"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BZMLKXL4",
@@ -130,7 +204,22 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/715TctCEBHL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/715TctCEBHL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'installazione",
+    "Qualità video"
+   ],
+   "mixed": [
+    "Connessione wifi"
+   ],
+   "negative": [
+    "Affidabilità"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BN4BQ1DM",
@@ -149,7 +238,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/515v8dLhCcL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/515v8dLhCcL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Qualità video",
+    "Facilità d'installazione"
+   ],
+   "mixed": [
+    "Connessione wifi"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BWCVYFLC",
@@ -168,7 +270,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51y4bTE2MQL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51y4bTE2MQL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'installazione",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Connettività wifi"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08F6M24HK",
@@ -187,6 +302,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51iM8h5s1uL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51iM8h5s1uL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità video",
+    "Rapporto qualità-prezzo",
+    "Facilità d'installazione",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

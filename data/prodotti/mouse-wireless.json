@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/515etiVwEIL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/515etiVwEIL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Silenziosità",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Comfort"
+   ],
+   "mixed": [
+    "Dimensioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07FNHV4MW",
@@ -35,7 +48,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61iiZ-gDYEL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61iiZ-gDYEL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Funzionalità",
+    "Ergonomia"
+   ],
+   "mixed": [
+    "Costo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07W5JHLCB",
@@ -54,7 +79,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61rFUJfTUTL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61rFUJfTUTL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Durata batteria",
+    "Comfort",
+    "Funzionalità",
+    "Precisione"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo",
+    "Dimensioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07W4DHQJ9",
@@ -73,7 +112,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51i16z-6UYL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51i16z-6UYL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Comfort",
+    "Precisione"
+   ],
+   "mixed": [
+    "Velocità di movimento"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B074W227RK",
@@ -92,7 +143,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51Meo9vl+KL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51Meo9vl+KL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Comfort",
+    "Ergonomia",
+    "Presa"
+   ],
+   "mixed": [
+    "Costo",
+    "Movimentazione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01KZVQB42",
@@ -111,7 +176,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51oEzJI0lKL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51oEzJI0lKL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Comfort",
+    "Personalizzazione",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0D12PGGKK",
@@ -130,7 +206,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/511qcVCPKbL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/511qcVCPKbL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09KWZ8MD8",
@@ -168,7 +254,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/618smTRI8AL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/618smTRI8AL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Connettività",
+    "Estetica",
+    "Comfort"
+   ],
+   "mixed": [
+    "Costo",
+    "Batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07W4DGFSM",
@@ -187,6 +287,21 @@
    "count": 2571,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Ergonomia",
+    "Comfort",
+    "Precisione",
+    "Silenziosità"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Reattività",
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

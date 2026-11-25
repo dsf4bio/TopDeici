@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/618+hj+9goL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/618+hj+9goL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Durata batteria",
+    "Potenza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FLHSBVQG",
@@ -35,7 +46,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71ZdCRwgiFL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71ZdCRwgiFL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Maneggevolezza",
+    "Durata batteria"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GPWHRFX6",
@@ -54,7 +76,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71mebsjYFpL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71mebsjYFpL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Prestazioni",
+    "Rapporto qualità-prezzo",
+    "Durata batteria",
+    "Praticità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0H723N9L8",
@@ -130,7 +163,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71qTkvytOsL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71qTkvytOsL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Prestazioni",
+    "Facilità d'uso",
+    "Durata batteria",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B079V2CCKX",
@@ -149,7 +193,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51EBk7uJFOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51EBk7uJFOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Pulizia",
+    "Aspirazione",
+    "Praticità"
+   ],
+   "mixed": [
+    "Costo",
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0716Y5JF2",
@@ -187,6 +245,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71epYT-rIQL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71epYT-rIQL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Pulizia",
+    "Potenza",
+    "Stabilità",
+    "Durata batteria"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61T4FZ9QpFL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61T4FZ9QpFL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Facile da pulire"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0832WLDLC",
@@ -35,7 +46,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81kDHJmOYDL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81kDHJmOYDL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Cottura"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DX1GQK9J",
@@ -54,7 +76,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/715X7enSqNL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/715X7enSqNL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Cottura",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FGNLGWTF",
@@ -73,7 +106,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71IqK762oZL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71IqK762oZL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Cottura",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FGPTS6B6",
@@ -92,7 +136,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71XLc4ad0rL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71XLc4ad0rL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Cottura",
+    "Resistenza",
+    "Capienza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DSWMQS7P",
@@ -111,7 +166,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71w7yULejrL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71w7yULejrL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facile da pulire",
+    "Velocità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CWP7M17B",
@@ -130,7 +195,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51EASto3heL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51EASto3heL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Capienza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CJVNGMFL",
@@ -149,7 +225,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71qem+rNjjL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71qem+rNjjL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Capienza",
+    "Estetica",
+    "Funzionalità di cottura"
+   ],
+   "mixed": [
+    "Robustezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CPFT191B",
@@ -168,7 +257,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71c19mJAJwL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71c19mJAJwL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Praticità",
+    "Capienza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DJFDTRYZ",
@@ -187,6 +287,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71tFJrjf2eL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71tFJrjf2eL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Cottura"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

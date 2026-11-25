@@ -16,6 +16,22 @@
    "count": 68203,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Dimensioni"
+   ],
+   "mixed": [
+    "Facile da pulire",
+    "Rumorosità"
+   ],
+   "negative": [
+    "Durata"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +108,17 @@
    "count": 983,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Macinatura",
+    "Regolabilità",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +176,19 @@
    "count": 2897,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Macinatura",
+    "Dimensioni",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +208,19 @@
    "count": 410,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Regolabilità",
+    "Estetica",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Qualità del latte"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +240,22 @@
    "count": 1730,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Silenziosità",
+    "Praticità"
+   ],
+   "mixed": [
+    "Durata",
+    "Facile da pulire"
+   ],
+   "negative": [
+    "Coperchio"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

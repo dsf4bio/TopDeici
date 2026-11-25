@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71rMKJorvkL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71rMKJorvkL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Estetica",
+    "Facilità di montaggio",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BRKBR39M",
@@ -35,7 +46,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71C6DQxeTKL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71C6DQxeTKL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Facilità di montaggio",
+    "Rapporto qualità-prezzo",
+    "Estetica"
+   ],
+   "mixed": [
+    "Stabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CSPN4VWY",
@@ -73,7 +97,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71zY4g2OOaL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71zY4g2OOaL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Estetica",
+    "Facilità di montaggio",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Stabilità",
+    "Altezza regolabile"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0G7D7TX9S",
@@ -111,7 +149,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61Aw4yC3nlL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61Aw4yC3nlL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Regolabilità",
+    "Ergonomia"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07GNDDNMW",
@@ -130,6 +179,19 @@
    "count": 15580,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Facilità di montaggio",
+    "Supporto lombare"
+   ],
+   "mixed": [
+    "Reclinabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +211,17 @@
    "count": 8882,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Facilità di montaggio",
+    "Regolabilità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +241,19 @@
    "count": 6195,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Facilità di montaggio",
+    "Regolabilità",
+    "Robustezza"
+   ],
+   "mixed": [
+    "Schienale"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +273,17 @@
    "count": 1005,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Facilità di montaggio",
+    "Estetica",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

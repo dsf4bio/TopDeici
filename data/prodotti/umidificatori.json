@@ -54,6 +54,17 @@
    "count": 29504,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Estetica",
+    "Rapporto qualità-prezzo",
+    "App"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +84,19 @@
    "count": 18801,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Efficacia",
+    "Illuminazione"
+   ],
+   "mixed": [
+    "Intensità del vapore"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +135,19 @@
    "count": 7680,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Rapporto qualità-prezzo",
+    "Umidificazione"
+   ],
+   "mixed": [
+    "Rilevamento dell'umidità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +167,19 @@
    "count": 7680,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Rapporto qualità-prezzo",
+    "Umidificazione"
+   ],
+   "mixed": [
+    "Rilevamento dell'umidità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +199,19 @@
    "count": 6526,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Durata",
+    "Facile da pulire"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {

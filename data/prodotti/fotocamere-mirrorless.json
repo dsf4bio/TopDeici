@@ -54,7 +54,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81y2PZrXEPL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81y2PZrXEPL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità dell'immagine",
+    "Funzionalità",
+    "Adatto per principianti"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07MWDP1VD",
@@ -73,7 +84,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61s8hZkonoL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61s8hZkonoL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità fotografica",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Autofocus"
+   ],
+   "mixed": [
+    "Stabilizzazione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07B4L1PQ8",
@@ -92,7 +116,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81hhMLhGdSL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81hhMLhGdSL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità dell'immagine",
+    "Affidabilità",
+    "Autofocus",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07X69YCZQ",
@@ -111,7 +146,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/719uMazCbJL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/719uMazCbJL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità dell'immagine",
+    "Funzionalità",
+    "Estetica",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BDKL1TVX",
@@ -168,6 +214,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81MtTmppPqL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81MtTmppPqL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità dell'immagine",
+    "Autofocus",
+    "Rapporto qualità-prezzo",
+    "Colori"
+   ],
+   "mixed": [
+    "Prestazioni"
+   ],
+   "negative": [
+    "Surriscaldamento"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

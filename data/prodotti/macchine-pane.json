@@ -16,6 +16,19 @@
    "count": 7351,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Lievitazione"
+   ],
+   "mixed": [],
+   "negative": [
+    "Ricettario"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +48,19 @@
    "count": 4314,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Impastatura"
+   ],
+   "mixed": [
+    "Ricettario"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +99,20 @@
    "count": 1025,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Impasto"
+   ],
+   "mixed": [
+    "Ricettario",
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +132,21 @@
    "count": 2552,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Facilità d'uso",
+    "Impastatura"
+   ],
+   "mixed": [
+    "Affidabilità"
+   ],
+   "negative": [
+    "Ricettario"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +223,20 @@
    "count": 241,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Versatilità",
+    "Estetica"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Istruzioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +256,15 @@
    "count": 225,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del pane",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

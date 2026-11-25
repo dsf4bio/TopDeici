@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71AgUTW3ltL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71AgUTW3ltL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Taglio",
+    "Rapporto qualità-prezzo",
+    "Durata",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Estetica"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00N9HWFLS",
@@ -73,7 +86,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61grPWy5PML._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61grPWy5PML._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Taglio",
+    "Colore",
+    "Estetica",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B071VPQZNN",
@@ -92,7 +116,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51TVMd8wViL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51TVMd8wViL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Taglio",
+    "Rapporto qualità-prezzo",
+    "Durata",
+    "Affilatura"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B076X5DNF1",
@@ -168,7 +203,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81Si6MCFPQL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81Si6MCFPQL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Affilatura",
+    "Estetica",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00GIBKC3K",

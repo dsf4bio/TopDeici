@@ -16,7 +16,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61cA+ne40xL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61cA+ne40xL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Robustezza",
+    "Facilità di montaggio",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08B8X4KBV",
@@ -35,7 +45,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71jv-B1gVJL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71jv-B1gVJL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Robustezza",
+    "Facilità di montaggio",
+    "Stabilità",
+    "Mobilità"
+   ],
+   "mixed": [
+    "Regolabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CKPC6YM3",
@@ -54,7 +77,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61gjjZxKbeL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61gjjZxKbeL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'installazione",
+    "Robustezza",
+    "Stabilità",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Flessibilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B091ZK3DPV",
@@ -73,7 +109,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71FYY4noshL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71FYY4noshL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Robustezza",
+    "Facilità di montaggio",
+    "Regolabilità",
+    "Stabilità"
+   ],
+   "mixed": [
+    "Capacità di carico"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GMX3QTML",
@@ -92,6 +141,17 @@
    "count": 2152,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Robustezza",
+    "Facilità di montaggio",
+    "Rapporto qualità-prezzo",
+    "Stabilità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +171,17 @@
    "count": 2135,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Robustezza",
+    "Facilità di montaggio",
+    "Estetica",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +201,17 @@
    "count": 12167,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Robustezza",
+    "Facilità di montaggio",
+    "Regolabilità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +250,16 @@
    "count": 6925,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità di montaggio",
+    "Robustezza",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +279,17 @@
    "count": 4191,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Robustezza",
+    "Facilità di montaggio",
+    "Regolabilità",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

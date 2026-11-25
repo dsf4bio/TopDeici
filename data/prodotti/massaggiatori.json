@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71P43DjZDAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71P43DjZDAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Comfort"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00BOYA2M2",
@@ -54,7 +67,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71363+1xcPL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71363+1xcPL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rilassante",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08CY2T1YC",
@@ -73,7 +97,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71INn0AhzTL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71INn0AhzTL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Sollievo",
+    "Funzionalità",
+    "Praticità",
+    "Riscaldamento"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08CY3JB9L",
@@ -92,7 +127,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/617gPl2m0GL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/617gPl2m0GL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rilassante",
+    "Funzionalità",
+    "Facilità d'uso",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DW7ZVQM3",
@@ -149,7 +195,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/91VBYerXuML._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/91VBYerXuML._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Rilassamento"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0G42RZVYY",
@@ -187,6 +244,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71QGl-+E9cL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71QGl-+E9cL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Comfort"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71ktpG0kB6L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71ktpG0kB6L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Comfort"
+   ],
+   "mixed": [
+    "Ricrescita dei peli"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0G4CPCFT9",
@@ -35,7 +48,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81Z0LKSPKUL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81Z0LKSPKUL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Praticità"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Indolore"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0G4CRSH2H",
@@ -54,7 +80,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81G1DjfRsVL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81G1DjfRsVL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rimozione peli",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Velocità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FQP3XHY5",
@@ -73,7 +112,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61vXPF0TyzL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61vXPF0TyzL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Comfort",
+    "Facilità d'uso",
+    "Rimozione dei peli"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08RB6C5GP",
@@ -92,7 +142,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71bR7iXykPL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71bR7iXykPL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B017BP58KS",
@@ -111,6 +171,18 @@
    "count": 2622,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rimozione dei peli",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +221,17 @@
    "count": 180,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Comfort",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +251,17 @@
    "count": 990,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Raffreddamento"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

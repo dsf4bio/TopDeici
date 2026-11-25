@@ -16,6 +16,17 @@
    "count": 5819,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità della pizza",
+    "Velocità",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -35,6 +46,19 @@
    "count": 2530,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Cottura",
+    "Tempo di cottura",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Riscaldamento"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -54,6 +78,19 @@
    "count": 2293,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Cottura",
+    "Rapporto qualità-prezzo",
+    "Dimensioni"
+   ],
+   "mixed": [
+    "Riscaldamento"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +110,19 @@
    "count": 1787,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Cottura",
+    "Rapporto qualità-prezzo",
+    "Capienza"
+   ],
+   "mixed": [
+    "Temperatura"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +142,20 @@
    "count": 3734,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Cottura",
+    "Capienza"
+   ],
+   "mixed": [
+    "Riscaldamento",
+    "Velocità di cottura"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +175,19 @@
    "count": 463,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Funzionalità",
+    "Praticità",
+    "Riscaldamento"
+   ],
+   "mixed": [
+    "Dimensioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +207,19 @@
    "count": 1236,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Dimensioni",
+    "Rapporto qualità-prezzo",
+    "Praticità"
+   ],
+   "mixed": [
+    "Riscaldamento"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {

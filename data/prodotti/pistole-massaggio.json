@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71rl7e88AJL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71rl7e88AJL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Dimensioni",
+    "Rapporto qualità-prezzo",
+    "Maneggevolezza"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07TWFK7JW",
@@ -35,7 +48,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61iTEOI3JUL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61iTEOI3JUL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Durata batteria",
+    "Potenza"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Comfort"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09MTQQHLB",
@@ -54,7 +81,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/717sHFmSNHL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/717sHFmSNHL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Praticità",
+    "Durata batteria",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09BB51M19",
@@ -73,7 +111,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71ZaySh4GZL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71ZaySh4GZL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Maneggevolezza",
+    "Qualità costruttiva",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B089SKJ6PM",
@@ -92,7 +141,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61nUwANPzAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61nUwANPzAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Comfort",
+    "Potenza",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DSG2R2K2",
@@ -111,7 +173,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/514r9Q8mm0L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/514r9Q8mm0L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Dimensioni",
+    "Durata batteria",
+    "Accessori"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B086XCB1QP",
@@ -130,7 +203,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61qr8QzhoHL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61qr8QzhoHL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Efficacia"
+   ],
+   "mixed": [
+    "Durata batteria",
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DJNZ3Y1H",
@@ -187,6 +274,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71RqZA-FSXL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71RqZA-FSXL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Potenza"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

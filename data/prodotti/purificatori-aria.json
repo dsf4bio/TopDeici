@@ -35,7 +35,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71N09VLKa2L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71N09VLKa2L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Assorbimento odori",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Durata del filtraggio"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08YZF8LJS",
@@ -54,7 +67,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81W0igDvSpL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81W0igDvSpL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Silenziosità",
+    "Estetica",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Assorbimento odori",
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FRRS6VRR",
@@ -73,7 +100,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/714xewcCNcL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/714xewcCNcL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Qualità dell'aria",
+    "Silenziosità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0D3VCVFCR",
@@ -130,7 +168,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71X3uXFRoxL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71X3uXFRoxL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Qualità dell'aria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FFMJD3VX",
@@ -187,6 +238,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71J7D66Ki4L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71J7D66Ki4L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Qualità dell'aria",
+    "Silenziosità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

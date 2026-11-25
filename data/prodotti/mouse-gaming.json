@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61drBproFZL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61drBproFZL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Leggerezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B082PZB7J6",
@@ -54,7 +65,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61ykKLbddNL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61ykKLbddNL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Leggerezza",
+    "Prestazioni",
+    "Durata batteria",
+    "Precisione"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07F816PH9",
@@ -111,7 +135,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71VTp9-SYQL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71VTp9-SYQL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Leggerezza",
+    "Presa",
+    "Rapporto qualità-prezzo",
+    "Comfort"
+   ],
+   "mixed": [
+    "Stabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B011HMDZ0Q",
@@ -149,7 +186,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51s9vHQv7eL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51s9vHQv7eL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Leggerezza",
+    "Precisione"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00LFBEOUA",
@@ -168,7 +216,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71jRUA8nxzL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71jRUA8nxzL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Funzionalità",
+    "Presa"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B082XQHPCL",
@@ -187,6 +246,17 @@
    "count": 10716,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Presa",
+    "Affidabilità",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

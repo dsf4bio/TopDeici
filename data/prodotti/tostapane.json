@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61992K3zBDL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61992K3zBDL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Funzionalità",
+    "Robustezza",
+    "Praticità"
+   ],
+   "mixed": [
+    "Costo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01MYLF6DR",
@@ -35,7 +48,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51nJ9vNajdL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51nJ9vNajdL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Funzionalità",
+    "Capacità di preparazione"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07GCQ39KR",
@@ -73,7 +98,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61H2zqwe36L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61H2zqwe36L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Estetica",
+    "Tostatura",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00UIAK6D8",

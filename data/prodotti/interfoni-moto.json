@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/41AiGCHnWQL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/41AiGCHnWQL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Connettività",
+    "Facilità d'uso",
+    "Affidabilità"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00RB6UM0Y",
@@ -54,7 +67,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/41z+uHdkpCL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/41z+uHdkpCL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Connettività"
+   ],
+   "mixed": [
+    "Durata di chiamata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09NF1N197",
@@ -73,7 +99,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61rPrZ7uHqL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61rPrZ7uHqL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Funzionalità",
+    "Facilità d'installazione",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Connettività",
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DP1QRFZ7",
@@ -149,7 +189,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71tXOqwalOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71tXOqwalOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Facilità d'uso",
+    "Durata batteria",
+    "Connettività"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09W6FDNQ2",
@@ -168,6 +221,17 @@
    "count": 1308,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Interfono"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {

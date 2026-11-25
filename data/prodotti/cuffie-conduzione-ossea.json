@@ -54,6 +54,17 @@
    "count": 109,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Praticità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +84,20 @@
    "count": 41280,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Funzionalità",
+    "Praticità"
+   ],
+   "mixed": [
+    "Qualità del suono",
+    "Durata batteria",
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +117,17 @@
    "count": 645,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Isolamento acustico",
+    "Rapporto qualità-prezzo",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +147,20 @@
    "count": 24699,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Comfort",
+    "Praticità",
+    "Durata batteria"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +180,20 @@
    "count": 20523,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Stabilità"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +213,22 @@
    "count": 9056,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Comfort",
+    "Stabilità",
+    "Durata batteria"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità"
+   ],
+   "negative": [
+    "Volume"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +267,20 @@
    "count": 1265,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Qualità del suono",
+    "Stabilità",
+    "Durata batteria"
+   ],
+   "mixed": [
+    "Rapporto qualità-prezzo",
+    "Cancellazione del rumore"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

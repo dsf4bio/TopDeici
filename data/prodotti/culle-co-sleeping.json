@@ -16,6 +16,19 @@
    "count": 1125,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Praticità",
+    "Leggerezza",
+    "Facilità di montaggio",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Comfort"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -54,6 +67,17 @@
    "count": 18052,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità di montaggio",
+    "Rapporto qualità-prezzo",
+    "Trasportabilità",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -73,6 +97,15 @@
    "count": 1795,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Facilità di montaggio"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -92,6 +125,20 @@
    "count": 4454,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Robustezza",
+    "Comfort",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Facilità di montaggio",
+    "Praticità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +158,17 @@
    "count": 4279,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Estetica",
+    "Rapporto qualità-prezzo",
+    "Praticità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +188,17 @@
    "count": 417,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Trasportabilità",
+    "Comfort",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -149,6 +218,17 @@
    "count": 2264,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Robustezza",
+    "Comfort",
+    "Facilità di montaggio"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -168,6 +248,17 @@
    "count": 1733,
    "checkedAt": "2026-11-24T15:57:38+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Facilità di montaggio",
+    "Robustezza",
+    "Rapporto qualità-prezzo",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +278,19 @@
    "count": 249,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Comfort",
+    "Estetica",
+    "Rapporto qualità-prezzo",
+    "Facilità di montaggio"
+   ],
+   "mixed": [
+    "Mobilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

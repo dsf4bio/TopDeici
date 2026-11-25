@@ -35,7 +35,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61PzYfuwOML._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61PzYfuwOML._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Comfort",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Microfono",
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07MTXLFXV",
@@ -54,7 +67,22 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61us2rqFJOS._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61us2rqFJOS._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Adatto per gaming",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Comfort",
+    "Durata",
+    "Microfono"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B086PKMZ21",
@@ -73,7 +101,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71-mnhc4Q8L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71-mnhc4Q8L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Isolamento acustico"
+   ],
+   "mixed": [
+    "Microfono",
+    "Prestazioni"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DGQWNTJT",
@@ -92,7 +134,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/719lM34ythL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/719lM34ythL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Connettività"
+   ],
+   "mixed": [
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0D412FWZH",
@@ -111,7 +166,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61DJU+529XL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61DJU+529XL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Microfono",
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CSFRYL7C",
@@ -130,7 +199,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71MtuoeFemL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71MtuoeFemL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DQQT2ZS3",
@@ -168,7 +248,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/713H2Ht5kkL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/713H2Ht5kkL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Comfort"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CJ3D6Q6C",
@@ -187,6 +278,19 @@
    "count": 619,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Comfort",
+    "Rapporto qualità-prezzo",
+    "Adatto per gaming"
+   ],
+   "mixed": [
+    "Microfono"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

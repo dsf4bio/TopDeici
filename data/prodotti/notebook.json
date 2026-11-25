@@ -35,7 +35,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61MxIxzYvUL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61MxIxzYvUL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Prestazioni",
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Velocità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DZZWMB2L",
@@ -73,7 +84,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81o6QUBK5cL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81o6QUBK5cL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Velocità",
+    "Versatilità",
+    "Leggerezza"
+   ],
+   "mixed": [
+    "Prestazioni",
+    "Qualità dello schermo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B089DBLZGG",
@@ -92,7 +117,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71PbpgP2-ZL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71PbpgP2-ZL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Velocità",
+    "Leggerezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DFQGDPJD",
@@ -111,7 +147,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81FIn+WRVuL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81FIn+WRVuL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Affidabilità",
+    "Velocità"
+   ],
+   "mixed": [
+    "Qualità dello schermo"
+   ],
+   "negative": [
+    "Durata batteria"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BWSJ3CB5",
@@ -149,7 +199,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71KuGiu4QaL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71KuGiu4QaL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Prestazioni",
+    "Velocità",
+    "Praticità"
+   ],
+   "mixed": [
+    "Qualità dello schermo"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CSDKHRZQ",
@@ -168,7 +231,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81PP+WKL3aL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81PP+WKL3aL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Prestazioni",
+    "Velocità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B091Z4SW53",
@@ -187,6 +261,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61dpNzN4ddL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61dpNzN4ddL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Velocità"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

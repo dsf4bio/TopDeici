@@ -16,7 +16,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61dLYx1-qcL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61dLYx1-qcL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Velocità",
+    "Scansione"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08KKMYRBN",
@@ -54,7 +63,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61Q2WEJvKyL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61Q2WEJvKyL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Velocità",
+    "Presa",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07G1S1FKW",
@@ -73,7 +93,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/712jgOD-MTL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/712jgOD-MTL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Velocità",
+    "Facilità d'installazione"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Risoluzione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01DDLYK8K",
@@ -111,7 +145,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61Hkm00IajL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61Hkm00IajL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Velocità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09H2SS5K9",
@@ -130,7 +173,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71jiO3JZMpL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71jiO3JZMpL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Velocità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07KF78D57",
@@ -149,7 +201,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/611zluh2+dL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/611zluh2+dL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Portabilità",
+    "Praticità",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B083MLP8W3",
@@ -168,7 +231,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51X132J10yL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51X132J10yL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Praticità",
+    "Velocità",
+    "Facilità d'uso",
+    "Scansione fronte-retro"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0928LV2XZ",
@@ -187,6 +263,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51qiIOqsU-L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51qiIOqsU-L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo",
+    "Velocità",
+    "Versatilità"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Qualità dell'immagine"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

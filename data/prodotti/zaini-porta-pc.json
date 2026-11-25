@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/713I1P2q5WL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/713I1P2q5WL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Capienza",
+    "Comfort",
+    "Estetica",
+    "Praticità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08KSHWYL2",
@@ -73,7 +84,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/91y4D1LeCLL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/91y4D1LeCLL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Capienza",
+    "Estetica",
+    "Comfort",
+    "Robustezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DLVWB25N",
@@ -111,7 +133,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81JYnJWCTuS._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81JYnJWCTuS._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Capienza",
+    "Robustezza",
+    "Estetica"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0H7W1BND1",
@@ -168,7 +200,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71cIhCc89pL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71cIhCc89pL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Capienza",
+    "Comfort",
+    "Estetica",
+    "Versatilità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B003OSUDOS",
@@ -187,6 +230,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71yJUkogNjL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71yJUkogNjL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Capienza",
+    "Robustezza",
+    "Estetica",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

@@ -16,7 +16,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51o1O6UT3DL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51o1O6UT3DL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Deumidificazione",
+    "Rapporto qualità-prezzo",
+    "Monitoraggio dell'umidità"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CXML5P2M",
@@ -54,7 +67,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51bmgJ+ZBHL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51bmgJ+ZBHL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Asciugatura",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B06Y5PTJFN",
@@ -73,7 +99,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61A68GMjm+L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61A68GMjm+L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Efficacia",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BHZTJNL1",
@@ -92,7 +131,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61VUyDOIlOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61VUyDOIlOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Deumidificazione",
+    "Silenziosità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [
+    "Istruzioni"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B079FQVVGQ",
@@ -111,7 +163,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/41Crk-S6roL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/41Crk-S6roL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CJJ7T676",
@@ -130,7 +192,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/518dcg5nuAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/518dcg5nuAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Funzionalità",
+    "Silenziosità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Dimensioni",
+    "Assorbimento d'acqua"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B089B736GX",
@@ -168,7 +244,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71bB3SaZ6KL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71bB3SaZ6KL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Silenziosità",
+    "Rimozione dell'umidità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08PZ98R8H",

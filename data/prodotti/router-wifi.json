@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/5123iFq9hdL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/5123iFq9hdL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità d'installazione",
+    "Copertura",
+    "Connettività"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09ZRY9YHB",
@@ -35,7 +46,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/41LXdoogwxL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/41LXdoogwxL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Copertura",
+    "Prestazioni",
+    "Facilità d'uso",
+    "Velocità"
+   ],
+   "mixed": [],
+   "negative": [
+    "Configurazione"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08GDC3534",
@@ -54,7 +78,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51kUGfTAm2L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51kUGfTAm2L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Potenza del segnale",
+    "Facilità di configurazione",
+    "Copertura"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BPSGJN7T",
@@ -73,7 +110,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/41IiLQJghoL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Affidabilità",
+    "Connettività",
+    "Dimensioni compatte",
+    "Facilità d'uso"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0HBQKLRWY",
@@ -92,7 +140,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61mvRg8xkRL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61mvRg8xkRL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Velocità",
+    "Rapporto qualità-prezzo",
+    "Facilità di configurazione"
+   ],
+   "mixed": [
+    "Affidabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CL573PRH",
@@ -111,7 +172,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51GEwUewfGL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51GEwUewfGL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Connettività",
+    "Facilità d'installazione",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CFYJSQ62",
@@ -130,7 +202,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51VRxEy7A3L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51VRxEy7A3L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Configurazione semplice",
+    "Rapporto qualità-prezzo",
+    "Velocità"
+   ],
+   "mixed": [
+    "Potenza del segnale",
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CFYMG5J2",
@@ -149,7 +235,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51h1eWrsN-L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51h1eWrsN-L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Facilità di configurazione",
+    "Potenza del segnale",
+    "Copertura"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DBVYKZT8",
@@ -168,6 +265,19 @@
    "count": 44602,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Velocità",
+    "Rapporto qualità-prezzo",
+    "Facilità di configurazione"
+   ],
+   "mixed": [
+    "Affidabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +297,19 @@
    "count": 6112,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Potenza del segnale",
+    "Facilità di configurazione",
+    "Copertura"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

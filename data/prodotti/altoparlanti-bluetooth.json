@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61qMO3TS2RL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61qMO3TS2RL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Durata batteria",
+    "Rapporto qualità-prezzo",
+    "Garanzia"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08FB2H6Y4",
@@ -35,7 +46,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61dqzNpSZXL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61dqzNpSZXL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Dimensioni",
+    "Durata batteria"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0748N1BZD",
@@ -54,7 +76,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51PpXH+7qiL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51PpXH+7qiL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Dimensioni",
+    "Rapporto qualità-prezzo",
+    "Potenza"
+   ],
+   "mixed": [
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CTNWBT1Z",
@@ -92,7 +127,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61PGM62bkYL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61PGM62bkYL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Durata batteria"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CQ53RVTW",
@@ -111,7 +157,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81CV6Hf1x1L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81CV6Hf1x1L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Potenza",
+    "Volume"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CX97B418",
@@ -130,7 +187,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61GiTqm4lLL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61GiTqm4lLL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Potenza",
+    "Portabilità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01MTB55WH",
@@ -149,7 +217,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/615ZUWxm9pL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/615ZUWxm9pL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Durata batteria",
+    "Dimensioni"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DXKNBQS6",
@@ -168,7 +247,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71OAC2L15TL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71OAC2L15TL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Potenza",
+    "Rapporto qualità-prezzo",
+    "Durata batteria"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09V7WS4PP",
@@ -187,6 +277,17 @@
    "count": 30218,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Durata batteria",
+    "Potenza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71U4CquFDcL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71U4CquFDcL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Potenza",
+    "Comfort",
+    "Affidabilità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B075T59BF2",
@@ -35,7 +46,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61VU4iWgLVL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61VU4iWgLVL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Maneggevolezza",
+    "Funzionalità",
+    "Potenza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B075T9ZY4W",
@@ -54,7 +75,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/712wsvdpKxL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/712wsvdpKxL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Affidabilità",
+    "Maneggevolezza",
+    "Potenza",
+    "Robustezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01G5BM0KU",
@@ -73,7 +105,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/511ET5hH+QL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/511ET5hH+QL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Affidabilità",
+    "Rapporto qualità-prezzo",
+    "Robustezza",
+    "Potenza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B018YPET7C",
@@ -92,7 +135,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71I9oH2LRzL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71I9oH2LRzL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Praticità",
+    "Funzionalità",
+    "Potenza",
+    "Comfort"
+   ],
+   "mixed": [
+    "Batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B079GWTMC2",
@@ -111,7 +167,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/6107h2TpcfL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/6107h2TpcfL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Potenza",
+    "Ingombro",
+    "Regolabilità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B072RCDV3S",
@@ -130,7 +197,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71HPI9+Y8eL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71HPI9+Y8eL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Prestazioni",
+    "Rapporto qualità-prezzo",
+    "Aspirazione polvere",
+    "Robustezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B006WXB6F2",
@@ -187,6 +265,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51GmJSqlw1L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51GmJSqlw1L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Leggerezza",
+    "Maneggevolezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

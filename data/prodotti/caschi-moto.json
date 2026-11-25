@@ -16,7 +16,22 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81LW11CsweL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81LW11CsweL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Comfort",
+    "Leggerezza"
+   ],
+   "mixed": [
+    "Vestibilità",
+    "Visibilità",
+    "Resistenza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09165RFQP",
@@ -35,7 +50,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/817ymtdtjVL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/817ymtdtjVL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Qualità dei materiali",
+    "Comfort",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0G916JG3J",
@@ -73,7 +99,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51AUNOWkg7L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51AUNOWkg7L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Comfort",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Vestibilità",
+    "Chiusura",
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0C7VX2L7Y",
@@ -92,7 +132,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71H0m4iFJLL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71H0m4iFJLL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Estetica",
+    "Funzionalità"
+   ],
+   "mixed": [
+    "Vestibilità",
+    "Ingombro"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00TY68Y5E",
@@ -111,7 +165,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81AscpLZKGL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81AscpLZKGL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Leggerezza",
+    "Vestibilità"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09PDFVK56",
@@ -149,7 +216,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61fwWAO-IrS._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61fwWAO-IrS._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Leggerezza",
+    "Estetica",
+    "Comfort"
+   ],
+   "mixed": [
+    "Vestibilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01HB9QWOK",
@@ -168,6 +248,19 @@
    "count": 6024,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Leggerezza",
+    "Estetica"
+   ],
+   "mixed": [
+    "Resistenza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -187,6 +280,19 @@
    "count": 193,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Comfort"
+   ],
+   "mixed": [
+    "Vestibilità",
+    "Rumorosità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

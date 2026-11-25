@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61+2Wr079NL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61+2Wr079NL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Cancellazione del rumore",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0CLC9L67G",
@@ -73,7 +84,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71LLWom9GOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71LLWom9GOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità del suono",
+    "Comfort",
+    "Connettività"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0D1Q649TG",
@@ -92,7 +116,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/712Xh+170fL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/712Xh+170fL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Durata batteria",
+    "Comfort"
+   ],
+   "mixed": [
+    "Durata"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07KY8G9NM",
@@ -111,7 +148,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71gavVn1RVL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71gavVn1RVL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Durata batteria"
+   ],
+   "mixed": [
+    "Cancellazione del rumore",
+    "Connettività",
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FPD1P24J",
@@ -149,7 +200,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/6144+3nBNhL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/6144+3nBNhL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Comfort"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08HDBZNZ9",
@@ -168,7 +229,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61KQKnlrTVL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61KQKnlrTVL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Durata batteria"
+   ],
+   "mixed": [
+    "Isolamento acustico"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B005HWEZGG",
@@ -187,6 +261,17 @@
    "count": 14594,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Comfort",
+    "Leggerezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

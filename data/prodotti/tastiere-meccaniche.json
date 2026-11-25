@@ -54,7 +54,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/713HboKyvoL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/713HboKyvoL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità dei materiali",
+    "Finitura"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FLX873X1",
@@ -73,7 +82,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/718Z7jp9OuL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/718Z7jp9OuL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Qualità del suono"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DPWX3WTL",
@@ -92,7 +110,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61yPM8dmZKL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61yPM8dmZKL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Robustezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08FQTGFT5",
@@ -187,6 +216,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/614U66QoZQL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/614U66QoZQL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Personalizzazione"
+   ],
+   "mixed": [
+    "Funzionalità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

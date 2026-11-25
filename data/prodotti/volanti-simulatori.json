@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61wBV8pnsFL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61wBV8pnsFL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Qualità del volante",
+    "Robustezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B011N78DMA",
@@ -35,7 +46,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61OUQwoq+bL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61OUQwoq+bL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Force feedback",
+    "Qualità dei materiali"
+   ],
+   "mixed": [],
+   "negative": [
+    "Freno"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07W6JB7N7",
@@ -54,7 +78,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61ixZED7ZlL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61ixZED7ZlL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Estetica",
+    "Connettività"
+   ],
+   "mixed": [],
+   "negative": [
+    "Pedale del freno"
+   ],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01HRYFODO",
@@ -73,7 +109,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71vf7FTHtAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71vf7FTHtAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Force feedback",
+    "Estetica"
+   ],
+   "mixed": [
+    "Affidabilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07W4DG81W",
@@ -92,7 +140,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/614pKhKDstL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/614pKhKDstL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità costruttiva",
+    "Qualità del volante",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Compatibilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08K9VCZ5G",
@@ -130,7 +191,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81qJLljsYyL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81qJLljsYyL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Prestazioni",
+    "Estetica"
+   ],
+   "mixed": [
+    "Affidabilità",
+    "Connettività"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0B3RJNZXG",
@@ -149,7 +223,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/81US+8C0u8L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81US+8C0u8L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Sensibilità",
+    "Force feedback"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DVGNKTLS",
@@ -187,6 +272,15 @@
    "count": 604,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  }
 ]

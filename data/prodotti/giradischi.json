@@ -35,7 +35,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51vjNLnU9JL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51vjNLnU9JL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del suono",
+    "Connettività bluetooth",
+    "Rapporto qualità-prezzo",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0996S6F6Z",
@@ -73,7 +84,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71gmZaVG5LL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71gmZaVG5LL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità del suono",
+    "Estetica",
+    "Connettività bluetooth"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B09J1B8DDS",
@@ -92,7 +114,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61Hhv4rAIYL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61Hhv4rAIYL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Estetica",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Qualità del suono"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07MVY92KZ",
@@ -111,7 +146,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/51n89Vf4iOL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/51n89Vf4iOL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Qualità del suono",
+    "Estetica",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0DLLLBPJM",
@@ -168,7 +214,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/7148nT5si-L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/7148nT5si-L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Estetica",
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Qualità del suono"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B00NQL8Z16",

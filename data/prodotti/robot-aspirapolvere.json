@@ -16,7 +16,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61eb9ZHo-CL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61eb9ZHo-CL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Riconoscimento ostacoli"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GZZ96X7N",
@@ -35,7 +47,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61W7w9yMinL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61W7w9yMinL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Efficacia",
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0HLF3GXRD",
@@ -73,7 +96,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/716vSVzRMML._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/716vSVzRMML._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Efficacia",
+    "Mappatura",
+    "Praticità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B008LX6JWG",
@@ -111,7 +145,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61e9rTmP1DL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61e9rTmP1DL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Pulizia",
+    "Funzionalità",
+    "Facilità d'uso",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [
+    "Robustezza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0FVXWPDD2",
@@ -130,7 +177,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71XS0VXxY-L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71XS0VXxY-L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Efficacia",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0F53MJY8T",
@@ -149,7 +206,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61Oewwp7QtL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61Oewwp7QtL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Pulizia",
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GNZNSV4P",
@@ -187,6 +254,19 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71Vn3bPx0SL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71Vn3bPx0SL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Pulizia",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso"
+   ],
+   "mixed": [
+    "Discrezione"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

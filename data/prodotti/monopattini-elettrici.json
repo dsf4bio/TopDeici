@@ -73,7 +73,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61q2p39V+lL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61q2p39V+lL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Guidabilità",
+    "Comfort",
+    "Stabilità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0B2RB65FS",
@@ -92,6 +103,17 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71m7uHE58wL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71m7uHE58wL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Velocità",
+    "Funzionalità",
+    "Stabilità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

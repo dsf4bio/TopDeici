@@ -35,7 +35,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71J-Xxz9ycL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71J-Xxz9ycL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Funzionalità",
+    "Facilità d'uso",
+    "Praticità"
+   ],
+   "mixed": [
+    "Visibilità"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B01LP4H21E",
@@ -54,7 +67,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71iNBTm3UNL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71iNBTm3UNL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Visibilità",
+    "Facilità d'uso",
+    "Estetica"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B082DDJ3SJ",
@@ -73,7 +97,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71E8cOKuMBL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71E8cOKuMBL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Visibilità",
+    "Praticità",
+    "Funzionalità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0752F314L",

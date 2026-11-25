@@ -54,7 +54,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71ne0LuZ9aL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71ne0LuZ9aL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del latte",
+    "Funzionalità",
+    "Qualità dei materiali",
+    "Regolabilità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07VPHD8L8",
@@ -92,7 +103,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61FtR6iDEHL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61FtR6iDEHL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Facilità d'uso",
+    "Qualità del latte"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07G1CW1LG",
@@ -130,7 +150,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61bIOIkztUL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61bIOIkztUL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del caffè",
+    "Portabilità",
+    "Praticità"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo",
+    "Durata batteria"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GWM1X68C",

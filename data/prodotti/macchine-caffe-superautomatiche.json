@@ -16,7 +16,21 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61EhV8co22L._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61EhV8co22L._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Qualità del caffè",
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Facile da pulire"
+   ],
+   "mixed": [
+    "Funzionalità",
+    "Capienza"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0GNMS31J4",
@@ -73,7 +87,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71L+3vGowpL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71L+3vGowpL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Qualità del latte",
+    "Rapporto qualità-prezzo",
+    "Estetica"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B07PLXPCX3",
@@ -92,7 +117,16 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/61cofRHEFqL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/61cofRHEFqL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Funzionalità",
+    "Rapporto qualità-prezzo"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0H94ZSVN8",
@@ -130,6 +164,20 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71aJpKA7OmL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71aJpKA7OmL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Rapporto qualità-prezzo",
+    "Facilità d'uso",
+    "Regolazioni"
+   ],
+   "mixed": [
+    "Temperatura",
+    "Affidabilità",
+    "Qualità del latte"
+   ],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  }
 ]

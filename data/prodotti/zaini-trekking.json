@@ -16,7 +16,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/710MtWiYjAL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/710MtWiYjAL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Capienza",
+    "Leggerezza",
+    "Comfort",
+    "Capacità"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0D4QYQTFH",
@@ -35,7 +46,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71boQgxhFxL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71boQgxhFxL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Prestazioni",
+    "Leggerezza",
+    "Capienza",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B0BKQ1NBFT",
@@ -54,7 +76,18 @@
    "checkedAt": "2026-11-24T14:28:45+00:00",
    "source": "manual"
   },
-  "image": "https://m.media-amazon.com/images/I/71uStKsIazL._AC_SL500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/71uStKsIazL._AC_SL500_.jpg",
+  "opinions": {
+   "positive": [
+    "Capienza",
+    "Spaziosità",
+    "Versatilità",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
+  }
  },
  {
   "asin": "B08LP16M75",
@@ -92,6 +125,17 @@
    "count": 601,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Capienza",
+    "Comfort",
+    "Spaziosità",
+    "Robustezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -111,6 +155,17 @@
    "count": 3687,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Leggerezza",
+    "Praticità",
+    "Capienza",
+    "Comfort"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
@@ -130,6 +185,17 @@
    "count": 367,
    "checkedAt": "2026-11-24T18:22:14+00:00",
    "source": "manual"
+  },
+  "opinions": {
+   "positive": [
+    "Spaziosità",
+    "Capienza",
+    "Comfort",
+    "Leggerezza"
+   ],
+   "mixed": [],
+   "negative": [],
+   "checkedAt": "2026-11-25T08:56:51+00:00"
   }
  },
  {
