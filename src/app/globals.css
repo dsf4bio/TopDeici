@@ -487,7 +487,8 @@
   .site-footer a:hover { color: var(--signal); }
   .site-footer .logo { color: var(--paper); }
   .site-footer .logo-mark { background: var(--paper); color: var(--ink); }
-  .affiliate-box { border: 1px solid rgb(255 255 255 / 0.2); padding: var(--s-4); color: #cfcdc5; max-width: 70ch; }
+  .affiliate-box { border: 1px solid rgb(255 255 255 / 0.12); padding: var(--s-2) var(--s-3); color: #a9a79f; font-size: var(--fs-xs); line-height: 1.5; max-width: 70ch; }
+  .affiliate-box a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
   .legal-line { border-top: 1px solid rgb(255 255 255 / 0.14); padding-top: var(--s-4); display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--s-3); font-family: var(--ff-mono); font-size: var(--fs-xs); }
 
   /* ---------- Pagine di testo ---------- */

@@ -42,9 +42,8 @@ export function Footer() {
           </nav>
         </div>
         <p className="affiliate-box">
-          In qualità di Affiliato Amazon, {SITE.name} riceve un guadagno dagli acquisti idonei. I link verso Amazon sono link
-          affiliati: per te il prezzo non cambia. Prezzi e disponibilità possono variare; fa fede quanto indicato su Amazon.it al
-          momento dell&apos;acquisto.
+          In qualità di Affiliato Amazon, {SITE.name} riceve un guadagno dagli acquisti idonei; per te il prezzo non cambia.{" "}
+          <Link href="/affiliazione">Dettagli</Link>
         </p>
         <div className="legal-line">
           <span>© {year} {SITE.domain}</span>
