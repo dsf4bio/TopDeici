@@ -8,9 +8,9 @@ export const SITE = {
   locale: "it_IT",
   description:
     "I 10 migliori prodotti Amazon per ogni categoria: oltre 150 classifiche aggiornate con regolarità.",
-  contactEmail: "redazione@topdieci.click",
-  /** Titolare del sito, da completare prima della pubblicazione (necessario per privacy e termini). */
-  owner: "[Nome e cognome o ragione sociale del titolare]",
+  contactEmail: "info@dsfabio.com",
+  /** Titolare del sito (persona fisica, senza partita IVA). */
+  owner: "Fabio Dos Santos",
 };
 
 export const RANKING = {

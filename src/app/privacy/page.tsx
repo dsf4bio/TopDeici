@@ -1,4 +1,4 @@
-import { DocPage, Fill } from "@/components/DocPage";
+import { DocPage } from "@/components/DocPage";
 import { SITE } from "@/lib/config";
 import { pageMetadata } from "@/lib/seo";
 
@@ -11,10 +11,10 @@ export const metadata = pageMetadata({
 // Modello da far verificare a un consulente prima della pubblicazione: le parti evidenziate vanno completate.
 export default function PrivacyPage() {
   return (
-    <DocPage title="Privacy policy" path="/privacy" eyebrow="Informativa ai sensi degli artt. 13–14 del Regolamento UE 2016/679" updated="24 novembre 2026">
+    <DocPage title="Privacy policy" path="/privacy" eyebrow="Informativa ai sensi degli artt. 13–14 del Regolamento UE 2016/679" updated="26 novembre 2026">
       <h2>Titolare del trattamento</h2>
       <p>
-        <Fill>{SITE.owner}</Fill>, <Fill>[indirizzo]</Fill>, email <Fill>{SITE.contactEmail}</Fill>.
+        {SITE.owner}, email <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.
       </p>
       <h2>Quali dati trattiamo</h2>
       <ul>
@@ -45,7 +45,7 @@ export default function PrivacyPage() {
         Uniti avviene sulla base del EU-U.S. Data Privacy Framework o delle clausole contrattuali standard.
       </p>
       <h2>Conservazione</h2>
-      <p>I log tecnici sono conservati per <Fill>[periodo, es. 30 giorni]</Fill>; le email per il tempo necessario a gestire la richiesta.</p>
+      <p>I log tecnici sono conservati per al massimo 30 giorni, secondo le impostazioni del fornitore di hosting; le email per il tempo necessario a gestire la richiesta.</p>
       <h2>I tuoi diritti</h2>
       <p>
         Puoi chiedere accesso, rettifica, cancellazione, limitazione e opposizione al trattamento scrivendo al titolare. Hai inoltre

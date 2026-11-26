@@ -1,4 +1,4 @@
-import { DocPage, Fill } from "@/components/DocPage";
+import { DocPage } from "@/components/DocPage";
 import { SITE } from "@/lib/config";
 import { pageMetadata } from "@/lib/seo";
 
@@ -10,9 +10,9 @@ export const metadata = pageMetadata({
 
 export default function TermsPage() {
   return (
-    <DocPage title="Condizioni d'uso" path="/termini" eyebrow="Note legali" updated="24 novembre 2026">
+    <DocPage title="Condizioni d'uso" path="/termini" eyebrow="Note legali" updated="26 novembre 2026">
       <h2>Chi gestisce il sito</h2>
-      <p>{SITE.domain} è gestito da <Fill>{SITE.owner}</Fill>, <Fill>[sede]</Fill>, <Fill>[P. IVA, se presente]</Fill>.</p>
+      <p>{SITE.name} ({SITE.domain}) è gestito da {SITE.owner}, persona fisica. Contatti: <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.</p>
       <h2>Natura dei contenuti</h2>
       <p>
         Classifiche, analisi e guide hanno scopo informativo e riflettono i criteri descritti nella pagina Metodologia. Non

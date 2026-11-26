@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { DocPage, Fill } from "@/components/DocPage";
+import { DocPage } from "@/components/DocPage";
 import { SITE } from "@/lib/config";
 import { pageMetadata } from "@/lib/seo";
 
@@ -24,9 +24,13 @@ export default function AboutPage() {
         <li>I dati hanno sempre una data di verifica. Se sono vecchi, il prodotto esce dalla classifica finché non li ricontrolliamo.</li>
       </ul>
       <h2>La redazione</h2>
-      <p><Fill>[Presenta qui chi scrive e cura le classifiche: nomi, competenze, contatti. È un elemento importante per la credibilità e per Google.]</Fill></p>
+      <p>
+        {SITE.name} è un progetto di {SITE.owner}, che seleziona le categorie, controlla i dati dei prodotti e scrive le guide
+        all&apos;acquisto. Ogni classifica segue le stesse regole pubbliche: se un prodotto non le rispetta, non entra, chiunque
+        sia il produttore.
+      </p>
       <h2>Contatti</h2>
-      <p>Segnalazioni, correzioni e proposte: <Fill>{SITE.contactEmail}</Fill>.</p>
+      <p>Segnalazioni, correzioni e proposte: <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>. Rispondiamo di solito entro pochi giorni.</p>
     </DocPage>
   );
 }
