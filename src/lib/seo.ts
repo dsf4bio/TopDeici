@@ -4,6 +4,9 @@ import { productUrl } from "./affiliate";
 import { displayablePrice } from "./format";
 import type { Category, CategoryGuide, MacroCategory, RankedProduct } from "./types";
 
+// Immagine di anteprima per WhatsApp, Facebook, X e gli altri social (1200×630, in public/).
+const OG_IMAGE = { url: "/og-image.png", width: 1200, height: 630, alt: `${SITE.name}: i 10 migliori prodotti Amazon per ogni categoria` };
+
 export const absolute = (pathname: string) => (pathname === "/" ? SITE.url : `${SITE.url}${pathname}`);
 
 export function pageMetadata(opts: { title: string; description: string; path: string; noindex?: boolean }): Metadata {
@@ -13,8 +16,8 @@ export function pageMetadata(opts: { title: string; description: string; path: s
     description: opts.description,
     alternates: { canonical: url },
     robots: opts.noindex ? { index: false, follow: true } : { index: true, follow: true },
-    openGraph: { title: opts.title, description: opts.description, url, siteName: SITE.name, locale: SITE.locale, type: "website" },
-    twitter: { card: "summary_large_image", title: opts.title, description: opts.description },
+    openGraph: { title: opts.title, description: opts.description, url, siteName: SITE.name, locale: SITE.locale, type: "website", images: [OG_IMAGE] },
+    twitter: { card: "summary_large_image", title: opts.title, description: opts.description, images: [OG_IMAGE.url] },
   };
 }
 
@@ -32,7 +35,7 @@ export function websiteJsonLd() {
   return {
     "@context": "https://schema.org",
     "@graph": [
-      { "@type": "Organization", "@id": `${SITE.url}/#org`, name: SITE.name, url: SITE.url },
+      { "@type": "Organization", "@id": `${SITE.url}/#org`, name: SITE.name, url: SITE.url, logo: `${SITE.url}/icon-512.png` },
       {
         "@type": "WebSite",
         "@id": `${SITE.url}/#website`,
@@ -40,11 +43,7 @@ export function websiteJsonLd() {
         name: SITE.name,
         inLanguage: "it-IT",
         publisher: { "@id": `${SITE.url}/#org` },
-        potentialAction: {
-          "@type": "SearchAction",
-          target: { "@type": "EntryPoint", urlTemplate: `${SITE.url}/cerca?q={q}` },
-          "query-input": "required name=q",
-        },
+        // Niente SearchAction: Google ha ritirato la casella di ricerca nei risultati (novembre 2024).
       },
     ],
   };

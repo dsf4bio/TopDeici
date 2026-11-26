@@ -6,7 +6,8 @@ export default function robots(): MetadataRoute.Robots {
   const isProduction = process.env.VERCEL_ENV ? process.env.VERCEL_ENV === "production" : true;
   if (!isProduction) return { rules: { userAgent: "*", disallow: "/" } };
   return {
-    rules: { userAgent: "*", allow: "/", disallow: ["/api/", "/cerca", "/anteprima"] },
+    // /cerca resta raggiungibile: ha già il noindex, e Google lo vede solo se può aprire la pagina.
+    rules: { userAgent: "*", allow: "/", disallow: ["/api/", "/anteprima"] },
     sitemap: `${SITE.url}/sitemap.xml`,
     host: SITE.url,
   };
