@@ -17,7 +17,16 @@ export const metadata: Metadata = {
   description: SITE.description,
   applicationName: SITE.name,
   formatDetection: { telephone: false },
-  icons: { icon: "/icon.svg" },
+  // favicon.ico (48 px) per Google e i browser vecchi, SVG nitido a ogni misura, PNG per Android e iOS.
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "16x16 32x32 48x48" },
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/icon-192.png", type: "image/png", sizes: "192x192" },
+    ],
+    apple: { url: "/apple-touch-icon.png", sizes: "180x180" },
+  },
+  manifest: "/manifest.webmanifest",
 };
 
 export const viewport: Viewport = {
