@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { SITE } from "./config";
 import { productUrl } from "./affiliate";
+import { displayablePrice } from "./format";
 import type { Category, CategoryGuide, MacroCategory, RankedProduct } from "./types";
 
 export const absolute = (pathname: string) => (pathname === "/" ? SITE.url : `${SITE.url}${pathname}`);
@@ -50,10 +51,10 @@ export function websiteJsonLd() {
 }
 
 /**
- * Classifica come ItemList di prodotti. Non usiamo AggregateRating: Google lo vieta
+ * Classifica come ItemList. Non usiamo AggregateRating: Google lo vieta
  * per valutazioni raccolte da siti terzi, e le stelle qui vengono da Amazon.
  */
-export function rankingJsonLd(category: Category, macro: MacroCategory, ranked: RankedProduct[], guide?: CategoryGuide) {
+export function rankingJsonLd(category: Category, macro: MacroCategory, ranked: RankedProduct[], guide?: CategoryGuide, now = new Date()) {
   const url = absolute(`/${macro.slug}/${category.slug}`);
   const graph: object[] = [
     {
@@ -62,20 +63,44 @@ export function rankingJsonLd(category: Category, macro: MacroCategory, ranked: 
       name: `I ${ranked.length} migliori ${category.name.toLowerCase()}`,
       numberOfItems: ranked.length,
       itemListOrder: "https://schema.org/ItemListOrderDescending",
-      itemListElement: ranked.map((p) => ({
-        "@type": "ListItem",
-        position: p.position,
-        url: `${url}#p-${p.asin}`,
-        item: {
-          "@type": "Product",
-          name: p.title,
-          brand: { "@type": "Brand", name: p.brand },
-          ...(p.model ? { model: p.model } : {}),
-          ...(p.image ? { image: p.image } : {}),
-          sku: p.asin,
-          url: productUrl(p, macro.slug),
-        },
-      })),
+      itemListElement: ranked.map((p) => {
+        const price = displayablePrice(p, now);
+        // Google accetta un "Product" solo con offers, review o aggregateRating. Le stelle sono
+        // di Amazon (vietato riusarle) e i prezzi si possono mostrare solo se arrivano dalle API
+        // e sono freschi: fino ad allora ogni voce è un semplice elemento di elenco.
+        if (!price) {
+          return {
+            "@type": "ListItem",
+            position: p.position,
+            name: p.title,
+            url: `${url}#p-${p.asin}`,
+            ...(p.image ? { image: p.image } : {}),
+          };
+        }
+        return {
+          "@type": "ListItem",
+          position: p.position,
+          url: `${url}#p-${p.asin}`,
+          item: {
+            "@type": "Product",
+            name: p.title,
+            brand: { "@type": "Brand", name: p.brand },
+            ...(p.model ? { model: p.model } : {}),
+            ...(p.image ? { image: p.image } : {}),
+            sku: p.asin,
+            url: productUrl(p, macro.slug),
+            offers: {
+              "@type": "Offer",
+              price: p.price!.value.toFixed(2),
+              priceCurrency: "EUR",
+              priceValidUntil: new Date(now.getTime() + 86_400_000).toISOString().slice(0, 10),
+              availability: "https://schema.org/InStock",
+              url: productUrl(p, macro.slug),
+              seller: { "@type": "Organization", name: "Amazon.it" },
+            },
+          },
+        };
+      }),
     },
   ];
   if (guide?.faq.length) {
