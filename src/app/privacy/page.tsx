@@ -39,6 +39,11 @@ export default function PrivacyPage() {
         Cliccando su un link verso Amazon.it lasci il nostro sito. Da quel momento i tuoi dati sono trattati da Amazon secondo la
         propria informativa privacy, che ti invitiamo a consultare su Amazon.it.
       </p>
+      <p>
+        Le foto dei prodotti sono caricate dai server di immagini di Amazon (m.media-amazon.com). Per mostrarle, il tuo browser
+        comunica a quei server il proprio indirizzo IP, come per qualsiasi immagine su internet; non inviamo l&apos;indirizzo della
+        pagina che stai visitando e su quelle immagini non vengono impostati cookie.
+      </p>
       <h2>Destinatari e trasferimenti</h2>
       <p>
         I dati tecnici sono trattati da Vercel Inc. in qualità di responsabile del trattamento. Il trasferimento verso gli Stati

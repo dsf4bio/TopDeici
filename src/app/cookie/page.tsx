@@ -9,7 +9,7 @@ export const metadata = pageMetadata({
 
 export default function CookiePage() {
   return (
-    <DocPage title="Cookie policy" path="/cookie" eyebrow="Cookie e tecnologie simili" updated="24 novembre 2026">
+    <DocPage title="Cookie policy" path="/cookie" eyebrow="Cookie e tecnologie simili" updated="26 novembre 2026">
       <p>
         TopDieci non installa cookie di profilazione, pubblicitari o di statistica e non carica strumenti di terze parti che li
         utilizzano. Per questo non ti chiediamo un consenso all&apos;ingresso.
@@ -27,6 +27,10 @@ export default function CookiePage() {
       <p>
         Quando apri un link verso Amazon.it, Amazon può impostare propri cookie, anche per attribuirci l&apos;eventuale acquisto. Questi
         cookie sono gestiti da Amazon sul proprio sito e sono regolati dalla sua informativa.
+      </p>
+      <p>
+        Le foto dei prodotti arrivano dai server di immagini di Amazon: sono semplici immagini, senza cookie né sistemi di
+        tracciamento.
       </p>
       <h2>Se in futuro aggiungeremo altri strumenti</h2>
       <p>Prima di usare cookie non tecnici aggiorneremo questa pagina e ti chiederemo il consenso, come previsto dalle Linee guida del Garante del 10 giugno 2021.</p>
